@@ -187,16 +187,7 @@
 	new /obj/item/stack/sheet/metal(src)
 
 /turf/simulated/wall/ex_act(severity)
-	switch(severity)
-		if(EXPLODE_DEVASTATE)
-			ChangeTurf(basetype)
-		if(EXPLODE_HEAVY)
-			if(prob(75))
-				take_damage(rand(150, 250))
-			else
-				dismantle_wall(1,1)
-		if(EXPLODE_LIGHT)
-			take_damage(rand(0, 55))
+	return
 
 /turf/simulated/wall/blob_act()
 	take_damage(rand(75, 125))
