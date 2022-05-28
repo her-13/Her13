@@ -18,8 +18,10 @@
 	temperature = T20C
 	thermal_conductivity = OPEN_HEAT_TRANSFER_COEFFICIENT
 
-	light_color = COLOR_BLUE
-
+	light_color = "#9bd2ff"
+	light_power = 2
+	light_range = 2
+	
 	var/static/datum/dirt_cover/basedatum = /datum/dirt_cover/snow
 	var/static/image/snow_fall_overlay
 
