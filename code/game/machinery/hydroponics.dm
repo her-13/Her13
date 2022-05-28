@@ -969,6 +969,7 @@
 	name = "Compost Pit"
 	icon = 'icons/obj/hydroponics/compost_pit.dmi'
 	icon_state = "compost_pit"
+	desc = "Wooden building with rotting food that turns into fertilizer compost"
 	density = TRUE
 	anchored = TRUE
 	unwrenchable = TRUE

@@ -1448,6 +1448,13 @@
 	var/obj/effect/decal/cleanable/poop = new /obj/effect/decal/cleanable/vomit(loc)
 	poop.color = "#210c02"
 
+	var/datum/dirt_cover/dirt/dirt = new /datum/dirt_cover/dirt
+
+	if(istype(hit_atom, /mob/living/carbon/human))
+		var/mob/living/carbon/human/H = hit_atom
+		H.crawl_in_blood(dirt)
+	else
+		hit_atom.add_dirt_cover(dirt)
+
 	visible_message("<span class='rose'>\The [src.name] has been squashed.</span>", "<span class='rose'>You hear a squelch.</span>")
 	qdel(src)
-	
