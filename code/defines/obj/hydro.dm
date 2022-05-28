@@ -1435,3 +1435,26 @@
 	icon_state = "bottle15"
 	mutmod = 0
 	yieldmod = 2
+
+/obj/item/nutrient/compost
+	name = "compost"
+	icon = 'icons/obj/food.dmi'
+	icon_state = "badrecipe"
+	mutmod = 1
+	yieldmod = 1
+
+/obj/item/nutrient/compost/throw_impact(atom/hit_atom, datum/thrownthing/throwingdatum)
+
+	var/obj/effect/decal/cleanable/poop = new /obj/effect/decal/cleanable/vomit(loc)
+	poop.color = "#210c02"
+
+	var/datum/dirt_cover/dirt/dirt = new /datum/dirt_cover/dirt
+
+	if(istype(hit_atom, /mob/living/carbon/human))
+		var/mob/living/carbon/human/H = hit_atom
+		H.crawl_in_blood(dirt)
+	else
+		hit_atom.add_dirt_cover(dirt)
+
+	visible_message("<span class='rose'>\The [src.name] has been squashed.</span>", "<span class='rose'>You hear a squelch.</span>")
+	qdel(src)
