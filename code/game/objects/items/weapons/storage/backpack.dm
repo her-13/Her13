@@ -74,8 +74,8 @@
 	return
 
 /obj/item/weapon/storage/backpack/santabag
-	name = "Santa's Gift Bag"
-	desc = "Space Santa uses this to deliver toys to all the nice children in space in Christmas! Wow, it's pretty big!"
+	name = "Кожанный мешок"
+	desc = "Такой большой и темный!"
 	icon_state = "giftbag0"
 	item_state = "giftbag"
 	w_class = SIZE_NORMAL
