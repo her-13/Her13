@@ -103,13 +103,13 @@
 /obj/item/stack/money/gold/fake
 	name = "Золотой Эрафубль?"
 
-/obj/item/stack/money/gold/fake/atom_init()
+/obj/item/stack/money/gold/fake/atom_init_late()
 	..()
 	denomination = rand(-100 , 100)
 
 /obj/item/stack/money/silver/fake
 	name = "Серебряный Эрафубль?"
 
-/obj/item/stack/money/silver/fake/atom_init()
+/obj/item/stack/money/silver/fake/atom_init_late()
 	..()
 	denomination = rand(-10 , 10)
