@@ -261,7 +261,7 @@
 		H.AddSpell(new /obj/effect/proc_holder/spell/no_target/mime_speak)
 		H.miming = TRUE
 
-datum/job/hub
+/datum/job/hub
 	title = "Hub"
 	flag = HUB
 	department_flag = CIVILIAN
