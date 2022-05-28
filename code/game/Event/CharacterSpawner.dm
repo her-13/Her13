@@ -126,3 +126,21 @@
 	cameranet.cameras += user
 	cameranet.addCamera(user)
 	cameranet.updateVisibility(user, 0)
+
+
+
+/obj/structure/character_spawner/tree_of_greed
+
+/obj/structure/character_spawner/tree_of_greed/attack_hand(mob/living/carbon/human/user)
+	if(!selecting_job)
+		selecting_job = TRUE
+		ready = tgui_alert(user, "Готовы войти в игру? Убедитесь что прочитали все подсказки и закончили выбор своей внешности.",, list("Да","Нет"))
+	else
+		return
+	if(ready == "Нет")
+		selecting_job = FALSE
+		return
+	for(var/obj/structure/tree_of_greed_startingpoint/TR in trees_of_greed_overmind_list)
+		var/client/newTree = user.client
+		TR.create_overmind(newTree)
+		selecting_job = FALSE
