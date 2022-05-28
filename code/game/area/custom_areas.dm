@@ -210,11 +210,14 @@
 /area/custom/start_homm/lepr
 	name = "LepreconStart"
 
+// Я незнаю куда это еще пихнуть
+
 /area/custom/valhalla
 	name = "Valhalla"
 	icon_state = "valhalla"
-
-// Я незнаю куда это еще пихнуть
+	ambience = list(
+		'sound/ambience/valhala.ogg',)
+	is_force_ambience = TRUE
 
 /area/custom/lepr_exit
 	name = "Выход на повехность."
