@@ -34,7 +34,7 @@
 	icon_dead = "lying"
 	melee_damage = 15
 
-mob/living/simple_animal/hostile/beholder
+/mob/living/simple_animal/hostile/beholder
 	name = "Злобоглаз"
 	desc = "Он сглазит тебя"
 	icon_state = "beholder"
