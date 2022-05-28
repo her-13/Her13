@@ -14,6 +14,7 @@
 	icon_state = "bluespace_wormhole_enter"
 	failchance = 0
 
-/obj/effect/portal/lepr/atom_init()
+/obj/effect/portal/hub/job_room/Bumped(mob/M)
 	possible_tile = get_area_turfs(get_area_by_type(A))
 	target = pick(possible_tile)
+	..()
