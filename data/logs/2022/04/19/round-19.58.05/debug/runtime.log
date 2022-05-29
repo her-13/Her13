@@ -1,0 +1,31 @@
+[19:58:05] Base SHA: a34f4e7d104f62b64b106412fc78cff780518897
+
+[20:15:50] bad index in modifyvariables.dm:99 :
+proc name: mod list add (/client/proc/mod_list_add)
+  source file: modifyvariables.dm,99
+  usr: Unknown (/mob/living/carbon/human)
+  src: FatFat (/client)
+  usr.loc: the floor (228,204,1) (/turf/unsimulated/floor)
+  call stack:
+FatFat (/client): mod list add(/list (/list))
+FatFat (/client): mod list(/list (/list))
+FatFat (/client): modify variables(the space-bike (/obj/vehicle/space/spacebike), "overlays", 1)
+FatFat (/client): view var Topic("_src_=vars;datumedit=\[0x20028...", /list (/list), null)
+FatFat (/client): Topic("_src_=vars;datumedit=\[0x20028...", /list (/list), null)
+
+[20:31:08] Division by zero in vehicle.dm:273 :
+proc name: check move delay (/obj/vehicle/proc/check_move_delay)
+  source file: vehicle.dm,273
+  usr: NIGERS (/mob/living/carbon/human)
+  src: the vehicle (/obj/vehicle/space)
+  usr.loc: the floor (238,211,1) (/turf/unsimulated/floor)
+  src.loc: the floor (238,210,1) (/turf/unsimulated/floor)
+  call stack:
+the vehicle (/obj/vehicle/space): check move delay()
+the vehicle (/obj/vehicle/space): healthcheck()
+the vehicle (/obj/vehicle/space): attackby(Sledgehammer (Wielded) (/obj/item/weapon/sledgehammer), NIGERS (/mob/living/carbon/human), "icon-x=15;icon-y=9;left=1;scre...")
+NIGERS (/mob/living/carbon/human): ClickOn(the vehicle (/obj/vehicle/space), "icon-x=15;icon-y=9;left=1;scre...")
+NIGERS (/mob/living/carbon/human): ClickOn(the vehicle (/obj/vehicle/space), "icon-x=15;icon-y=9;left=1;scre...")
+the vehicle (/obj/vehicle/space): Click(the floor (238,210,1) (/turf/unsimulated/floor), "mapwindow.map", "icon-x=15;icon-y=9;left=1;scre...")
+FatFat (/client): Click(the vehicle (/obj/vehicle/space), the floor (238,210,1) (/turf/unsimulated/floor), "mapwindow.map", "icon-x=15;icon-y=9;left=1;scre...")
+

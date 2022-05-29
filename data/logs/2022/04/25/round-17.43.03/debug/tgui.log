@@ -1,0 +1,314 @@
+[17:44:13]TGUI: fatfat in browseroutput/initialize
+[17:44:42]TGUI: fatfat (as FatFat at (8,174,1))
+Using: /datum/tgui_modal [0x21013e19]
+new AlertModal fancy 1
+[17:44:42]TGUI: fatfat in tgui-window-1/initialize
+Using: /datum/tgui_modal [0x21013e19]
+[17:44:44]TGUI: fatfat (as FatFat at (8,174,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x21013e19]
+Action: choose {"choice":"Yes"}
+[17:44:44]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:44:59]TGUI: fatfat (as Edgar Griffiths at (159,150,2))
+Using: /datum/tgui_modal [0x21006633]
+new AlertModal fancy 1
+[17:45:00]TGUI: fatfat (as Edgar Griffiths at (159,150,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x21006633]
+Action: choose {"choice":"Yes"}
+[17:45:00]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:46:50]TGUI: fatfat (as ФатФатов at (159,153,2))
+Using: /obj/machinery/portable_atmospherics/powered/scrubber [0x20072dc]
+new PortableScrubber fancy 1
+[17:46:52]TGUI: fatfat (as ФатФатов at (159,153,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/scrubber [0x20072dc]
+Action: power {}
+[17:46:54]TGUI: fatfat (as ФатФатов at (159,153,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/scrubber [0x20072dc]
+Action: power {}
+[17:46:55]TGUI: fatfat (as ФатФатов at (159,153,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/scrubber [0x20072dc]
+Action: eject {}
+[17:46:56]TGUI: fatfat (as ФатФатов at (159,153,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20071d4]
+new PortablePump fancy 1
+[17:46:56]TGUI: fatfat in tgui-window-2/initialize
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20071d4]
+[17:46:58]TGUI: fatfat (as ФатФатов at (159,153,2)) in tgui-window-2
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20071d4]
+Action: power {}
+[17:47:00]TGUI: fatfat (as ФатФатов at (159,153,2)) in tgui-window-2
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20071d4]
+Action: power {}
+[17:47:00]TGUI: fatfat (as ФатФатов at (159,153,2)) in tgui-window-2
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20071d4]
+Action: eject {}
+[17:47:04]TGUI: fatfat (as ФатФатов at (159,153,2)) in tgui-window-2
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20071d4]
+Action: power {}
+[17:47:05]TGUI: fatfat (as ФатФатов at (159,153,2)) in tgui-window-2
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20071d4]
+Action: power {}
+[17:47:06]TGUI: fatfat (as ФатФатов at (159,153,2)) in tgui-window-2
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20071d4]
+Action: eject {}
+[17:47:14]TGUI: fatfat (as ФатФатов at (159,153,2)) in tgui-window-2
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20071d4]
+Action: power {}
+[17:47:16]TGUI: fatfat (as ФатФатов at (159,153,2)) in tgui-window-2
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20071d4]
+Action: power {}
+[17:47:17]TGUI: fatfat (as ФатФатов at (159,153,2)) in tgui-window-2
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20071d4]
+Action: eject {}
+[17:47:26]TGUI: fatfat (as ФатФатов at (159,153,2)) in tgui-window-2
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20071d4]
+Action: power {}
+[17:47:29]TGUI: fatfat (as ФатФатов at (159,153,2)) in tgui-window-2
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20071d4]
+Action: power {}
+[17:47:30]TGUI: fatfat (as ФатФатов at (159,153,2)) in tgui-window-2
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20071d4]
+Action: eject {}
+[17:47:32]TGUI: fatfat (as ФатФатов at (159,153,2))
+Using: /obj/machinery/power/apc [0x20071d5]
+new Apc fancy 1
+[17:47:32]TGUI: fatfat in tgui-window-3/initialize
+Using: /obj/machinery/power/apc [0x20071d5]
+[17:47:33]TGUI: fatfat in tgui-window-3/close (suspending)
+[17:47:33]TGUI: fatfat in tgui-window-3/close (suspending)
+[17:47:34]TGUI: fatfat in tgui-window-2/close (suspending)
+[17:47:34]TGUI: fatfat in tgui-window-2/close (suspending)
+[17:47:35]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:47:35]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:51:01]TGUI: heavenlyblue in browseroutput/initialize
+[17:51:19]TGUI: fatfat (as ФатФатов at (160,145,2))
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006e27]
+new Canister fancy 1
+[17:51:20]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:51:20]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:52:19]TGUI: heavenlyblue (as Persh Fiddler at (158,147,2))
+Using: /obj/machinery/portable_atmospherics/canister/oxygen [0x2006ca0]
+new Canister fancy 1
+[17:52:19]TGUI: heavenlyblue in tgui-window-1/initialize
+Using: /obj/machinery/portable_atmospherics/canister/oxygen [0x2006ca0]
+[17:52:21]TGUI: fatfat (as ФатФатов at (161,145,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+new PortablePump fancy 1
+[17:52:22]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[17:52:22]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[17:52:24]TGUI: heavenlyblue (as Persh Fiddler at (161,144,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+new PortablePump fancy 1
+[17:52:30]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[17:52:30]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[17:52:49]TGUI: fatfat (as ФатФатов at (161,144,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: power {}
+[17:52:50]TGUI: fatfat (as ФатФатов at (161,144,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: power {}
+[17:52:52]TGUI: fatfat (as ФатФатов at (161,144,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: eject {}
+[17:52:55]TGUI: fatfat (as ФатФатов at (161,144,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: power {}
+[17:52:56]TGUI: heavenlyblue (as Persh Fiddler at (158,148,2))
+Using: /obj/item/weapon/storage/secure/briefcase [0x202d65c]
+new SecureSafe fancy 1
+[17:52:58]TGUI: fatfat (as ФатФатов at (161,144,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: direction {}
+[17:52:58]TGUI: heavenlyblue (as Persh Fiddler at (158,148,2)) in tgui-window-1
+Using: /obj/item/weapon/storage/secure/briefcase [0x202d65c]
+Action: type {"digit":"9"}
+[17:52:58]TGUI: heavenlyblue (as Persh Fiddler at (158,148,2)) in tgui-window-1
+Using: /obj/item/weapon/storage/secure/briefcase [0x202d65c]
+Action: type {"digit":"8"}
+[17:52:59]TGUI: heavenlyblue (as Persh Fiddler at (158,148,2)) in tgui-window-1
+Using: /obj/item/weapon/storage/secure/briefcase [0x202d65c]
+Action: type {"digit":"7"}
+[17:52:59]TGUI: heavenlyblue (as Persh Fiddler at (158,148,2)) in tgui-window-1
+Using: /obj/item/weapon/storage/secure/briefcase [0x202d65c]
+Action: type {"digit":"6"}
+[17:52:59]TGUI: heavenlyblue (as Persh Fiddler at (158,148,2)) in tgui-window-1
+Using: /obj/item/weapon/storage/secure/briefcase [0x202d65c]
+Action: type {"digit":"4"}
+[17:53:00]TGUI: heavenlyblue (as Persh Fiddler at (158,148,2)) in tgui-window-1
+Using: /obj/item/weapon/storage/secure/briefcase [0x202d65c]
+Action: type {"digit":"E"}
+[17:53:00]TGUI: heavenlyblue (as Persh Fiddler at (158,148,2)) in tgui-window-1
+Using: /obj/item/weapon/storage/secure/briefcase [0x202d65c]
+Action: type {"digit":"E"}
+[17:53:01]TGUI: fatfat (as ФатФатов at (161,144,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: power {}
+[17:53:02]TGUI: fatfat (as ФатФатов at (161,144,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: eject {}
+[17:53:03]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[17:53:03]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[17:53:15]TGUI: heavenlyblue (as Persh Fiddler at (161,144,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+new PortablePump fancy 1
+[17:53:17]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[17:53:17]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[17:53:18]TGUI: heavenlyblue (as Persh Fiddler at (160,144,2))
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006f08]
+new Canister fancy 1
+[17:53:20]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[17:53:20]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[17:53:33]TGUI: fatfat (as ФатФатов at (161,147,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: pressure {"pressure":800}
+[17:53:35]TGUI: fatfat (as ФатФатов at (161,147,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: direction {}
+[17:53:35]TGUI: fatfat (as ФатФатов at (161,147,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: power {}
+[17:53:39]TGUI: fatfat (as ФатФатов at (161,147,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: direction {}
+[17:53:41]TGUI: fatfat (as ФатФатов at (161,147,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: power {}
+[17:53:42]TGUI: fatfat (as ФатФатов at (161,147,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: eject {}
+[17:53:44]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:53:44]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:53:47]TGUI: fatfat (as ФатФатов at (155,154,2))
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006f07]
+new Canister fancy 1
+[17:53:48]TGUI: fatfat (as ФатФатов at (155,154,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006f07]
+Action: valve {}
+[17:53:50]TGUI: fatfat (as ФатФатов at (155,154,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006f07]
+Action: pressure {"pressure":1013}
+[17:53:53]TGUI: fatfat (as ФатФатов at (155,154,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006f07]
+Action: valve {}
+[17:53:53]TGUI: fatfat (as ФатФатов at (155,154,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006f07]
+Action: eject {}
+[17:53:55]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:53:55]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:54:09]TGUI: fatfat (as ФатФатов at (161,146,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+new PortablePump fancy 1
+[17:54:15]TGUI: fatfat (as ФатФатов at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: power {}
+[17:54:17]TGUI: fatfat (as ФатФатов at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: power {}
+[17:54:21]TGUI: fatfat (as ФатФатов at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: pressure {"pressure":1013}
+[17:54:23]TGUI: fatfat (as ФатФатов at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: power {}
+[17:54:24]TGUI: fatfat (as ФатФатов at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: power {}
+[17:54:25]TGUI: fatfat (as ФатФатов at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: eject {}
+[17:54:26]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:54:26]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:55:18]TGUI: fatfat (as ФатФатов at (158,160,2))
+Using: /obj/machinery/disposal [0x20070f0]
+new DisposalUnit fancy 1
+[17:55:19]TGUI: fatfat (as ФатФатов at (158,160,2)) in tgui-window-1
+Using: /obj/machinery/disposal [0x20070f0]
+Action: handle-1 {}
+[17:55:20]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:55:20]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:55:49]TGUI: fatfat (as ФатФатов at (159,162,2))
+Using: /obj/machinery/computer/security/telescreen [0x20072c4]
+new CameraConsole fancy 1
+[17:55:51]TGUI: fatfat (as ФатФатов at (159,162,2)) in tgui-window-1
+Using: /obj/machinery/computer/security/telescreen [0x20072c4]
+Action: switch_camera {"name":"Toxins Test Chamber"}
+[17:55:54]TGUI: fatfat (as ФатФатов at (159,162,2)) in tgui-window-1
+Using: /obj/machinery/computer/security/telescreen [0x20072c4]
+Action: switch_camera {"name":"Toxins Test Chamber"}
+[17:55:56]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:55:56]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:56:01]TGUI: heavenlyblue (as Persh Fiddler at (158,162,2))
+Using: /obj/machinery/computer/security/telescreen [0x20071c9]
+new CameraConsole fancy 1
+[17:56:03]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[17:56:03]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[17:56:04]TGUI: heavenlyblue (as Persh Fiddler at (158,162,2))
+Using: /obj/machinery/computer/security/telescreen [0x20072c4]
+new CameraConsole fancy 1
+[17:56:05]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[17:56:05]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[17:57:13]TGUI: fatfat (as ФатФатов at (159,144,2))
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006e26]
+new Canister fancy 1
+[17:57:17]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:57:17]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:57:59]TGUI: fatfat (as ФатФатов at (161,145,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+new PortablePump fancy 1
+[17:58:01]TGUI: fatfat (as ФатФатов at (161,144,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: pressure {"pressure":"reset"}
+[17:58:02]TGUI: fatfat (as ФатФатов at (161,144,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: pressure {"pressure":"max"}
+[17:58:04]TGUI: fatfat (as ФатФатов at (161,144,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: power {}
+[17:58:06]TGUI: fatfat (as ФатФатов at (161,144,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: power {}
+[17:58:06]TGUI: fatfat (as ФатФатов at (161,144,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: eject {}
+[17:58:08]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:58:08]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:58:17]TGUI: fatfat (as ФатФатов at (161,147,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+new PortablePump fancy 1
+[17:58:20]TGUI: fatfat (as ФатФатов at (161,147,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: pressure {"pressure":800}
+[17:58:22]TGUI: fatfat (as ФатФатов at (161,147,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: power {}
+[17:58:24]TGUI: fatfat (as ФатФатов at (161,147,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: power {}
+[17:58:26]TGUI: fatfat (as ФатФатов at (161,147,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007586]
+Action: eject {}
+[17:58:27]TGUI: fatfat (as ФатФатов at (160,146,2))
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006e26]
+new Canister fancy 1
+[17:58:29]TGUI: fatfat (as ФатФатов at (160,146,2)) in tgui-window-2
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006e26]
+Action: valve {}
+[17:58:29]TGUI: fatfat (as ФатФатов at (160,146,2)) in tgui-window-2
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006e26]
+Action: pressure {"pressure":1013}
+[17:58:31]TGUI: fatfat (as ФатФатов at (160,146,2)) in tgui-window-2
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006e26]
+Action: valve {}
+[17:58:32]TGUI: fatfat (as ФатФатов at (160,146,2)) in tgui-window-2
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006e26]
+Action: eject {}
+[17:58:33]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:58:33]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:58:33]TGUI: fatfat in tgui-window-2/close (suspending)
+[17:58:33]TGUI: fatfat in tgui-window-2/close (suspending)
+[17:59:01]TGUI: fatfat (as ФатФатов at (160,150,2))
+Using: /datum/tgui_modal [0x21024bca]
+new AlertModal fancy 1
+[17:59:02]TGUI: fatfat (as ФатФатов at (160,150,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x21024bca]
+Action: choose {"choice":"Yes"}
+[17:59:02]TGUI: fatfat in tgui-window-1/close (suspending)

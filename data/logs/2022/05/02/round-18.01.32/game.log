@@ -1,0 +1,27 @@
+[18:01:32] Server '' starting up on 26.166.93.76:54110
+[18:01:35]GAME: NASA satellite loaded at (124,168,4)
+[18:01:35]GAME: DJ Station loaded at (20,116,3)
+[18:01:35]GAME: syndicate_fighter loaded at (185,117,3)
+[18:01:35]GAME: listening_post loaded at (85,30,3)
+[18:01:35]GAME: Tree Asteroid loaded at (203,185,4)
+[18:01:35]GAME: Space Toilet loaded at (82,83,4)
+[18:01:36]GAME: Derelict Station loaded at (143,142,3)
+[18:02:06]ADMIN: fatfat/(FatFat) has started the game.
+[18:02:08]MODE: Current master mode is extended
+[18:02:08]DEBUG: Next event of severity RoundStart in 0 minutes.
+[18:02:08]GAME: RoundStart Event: Selected areas is nothing
+[18:02:08]DEBUG: Starting event 'Break Light' of severity RoundStart.
+[18:02:08]DEBUG: Next event of severity RoundStart in 0 minutes.
+[18:02:08]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[18:02:08]DEBUG: Next event of severity RoundStart in 0 minutes.
+[18:02:08]GAME: RoundStart Event: Selected areas is nothing
+[18:02:08]DEBUG: Starting event 'Broken Airlocks' of severity RoundStart.
+[18:02:08]GAME: ANTAG LIST:
+no antagonists this moment
+[18:02:09]DEBUG: Event 'Break Light' has completed at 12:00.
+[18:02:09]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[18:02:09]DEBUG: Event 'Broken Airlocks' has completed at 12:00.
+[18:02:09]DEBUG: Next event of severity Mundane in 12.55 minutes.
+[18:02:09]DEBUG: Next event of severity Moderate in 39.782 minutes.
+[18:02:09]DEBUG: Next event of severity Major in 66.57 minutes.
+[18:02:12] Graceful shutdown

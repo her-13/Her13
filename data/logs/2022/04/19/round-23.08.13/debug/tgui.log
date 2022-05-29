@@ -1,0 +1,58 @@
+[23:08:24]TGUI: fatfat in browseroutput/initialize
+[23:09:19]TGUI: fatfat (as FatFat at (8,174,1))
+Using: /datum/tgui_modal [0x21022aa0]
+new AlertModal fancy 1
+[23:09:19]TGUI: fatfat in tgui-window-1/initialize
+Using: /datum/tgui_modal [0x21022aa0]
+[23:09:19]TGUI: fatfat (as FatFat at (8,174,1))
+Using: /datum/tgui_modal [0x2100090e]
+new AlertModal fancy 1
+[23:09:19]TGUI: fatfat in tgui-window-2/initialize
+Using: /datum/tgui_modal [0x2100090e]
+[23:09:21]TGUI: fatfat (as FatFat at (8,174,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x21022aa0]
+Action: choose {"choice":"Yes"}
+[23:09:21]TGUI: fatfat in tgui-window-1/close (suspending)
+[23:09:21]TGUI: fatfat in tgui-window-2/close (suspending)
+[23:14:29]TGUI: fatfat (as Fabian Judge at (56,141,2))
+Using: /datum/tgui_modal [0x21024a56]
+new AlertModal fancy 1
+[23:14:30]TGUI: fatfat (as Fabian Judge at (56,141,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x21024a56]
+Action: choose {"choice":"Yes"}
+[23:14:30]TGUI: fatfat in tgui-window-1/close (suspending)
+[23:17:23]TGUI: fatfat (as the unknown at (55,141,2))
+Using: /datum/tgui_modal [0x21024ce8]
+new AlertModal fancy 1
+[23:17:25]TGUI: fatfat (as the unknown at (55,141,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x21024ce8]
+Action: choose {"choice":"Yes"}
+[23:17:25]TGUI: fatfat in tgui-window-1/close (suspending)
+[23:17:52]TGUI: fatfat (as the unknown at (55,141,2))
+Using: /datum/tgui_modal [0x21024b08]
+new AlertModal fancy 1
+[23:17:53]TGUI: fatfat (as the unknown at (55,141,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x21024b08]
+Action: choose {"choice":"Yes"}
+[23:17:53]TGUI: fatfat in tgui-window-1/close (suspending)
+[23:18:44]TGUI: fatfat (as the unknown at (56,141,2))
+Using: /datum/tgui_modal [0x21024e23]
+new AlertModal fancy 1
+[23:18:46]TGUI: fatfat (as the unknown at (56,141,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x21024e23]
+Action: choose {"choice":"Yes"}
+[23:18:46]TGUI: fatfat in tgui-window-1/close (suspending)
+[23:18:57]TGUI: fatfat (as the unknown at (56,141,2))
+Using: /datum/tgui_modal [0x21024e49]
+new AlertModal fancy 1
+[23:18:58]TGUI: fatfat (as the unknown at (56,141,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x21024e49]
+Action: choose {"choice":"No"}
+[23:18:58]TGUI: fatfat in tgui-window-1/close (suspending)
+[23:19:03]TGUI: fatfat (as the unknown at (56,141,2))
+Using: /datum/tgui_modal [0x21024ab3]
+new AlertModal fancy 1
+[23:19:04]TGUI: fatfat (as the unknown at (56,141,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x21024ab3]
+Action: choose {"choice":"Yes"}
+[23:19:04]TGUI: fatfat in tgui-window-1/close (suspending)

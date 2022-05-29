@@ -1,0 +1,208 @@
+[14:11:45] Base SHA: 380a51e6eab1ff2a6d4b7c2835a3b290a96d4e6b
+
+[14:11:47] Unmanaged z-level 8! maxz = 11, z_list.len = 7 in unsorted.dm:1510 :
+proc name: stack trace (/proc/stack_trace)
+  source file: unsorted.dm,1510
+  usr: (src)
+  src: null
+  call stack:
+stack trace("Unmanaged z-level 8! maxz = 11...")
+Mapping (/datum/controller/subsystem/mapping): level trait(8, "Station")
+process teleport locs()
+Mapping (/datum/controller/subsystem/mapping): Initialize(259069)
+Master (/datum/controller/master): Initialize(null, null)
+
+[14:11:47] Unmanaged z-level 10! maxz = 11, z_list.len = 7 in unsorted.dm:1510 :
+proc name: stack trace (/proc/stack_trace)
+  source file: unsorted.dm,1510
+  usr: (src)
+  src: null
+  call stack:
+stack trace("Unmanaged z-level 10! maxz = 1...")
+Mapping (/datum/controller/subsystem/mapping): level trait(10, "Station")
+process teleport locs()
+Mapping (/datum/controller/subsystem/mapping): Initialize(259069)
+Master (/datum/controller/master): Initialize(null, null)
+
+[14:11:47] Unmanaged z-level 10! maxz = 11, z_list.len = 7 in unsorted.dm:1510 :
+proc name: stack trace (/proc/stack_trace)
+  source file: unsorted.dm,1510
+  usr: (src)
+  src: null
+  call stack:
+stack trace("Unmanaged z-level 10! maxz = 1...")
+Mapping (/datum/controller/subsystem/mapping): level trait(10, "Station")
+process teleport locs()
+Mapping (/datum/controller/subsystem/mapping): Initialize(259069)
+Master (/datum/controller/master): Initialize(null, null)
+
+[14:11:47] Unmanaged z-level 10! maxz = 11, z_list.len = 7 in unsorted.dm:1510 :
+proc name: stack trace (/proc/stack_trace)
+  source file: unsorted.dm,1510
+  usr: (src)
+  src: null
+  call stack:
+stack trace("Unmanaged z-level 10! maxz = 1...")
+Mapping (/datum/controller/subsystem/mapping): level trait(10, "Station")
+process teleport locs()
+Mapping (/datum/controller/subsystem/mapping): Initialize(259069)
+Master (/datum/controller/master): Initialize(null, null)
+
+[14:11:47] Unmanaged z-level 10! maxz = 11, z_list.len = 7 in unsorted.dm:1510 :
+proc name: stack trace (/proc/stack_trace)
+  source file: unsorted.dm,1510
+  usr: (src)
+  src: null
+  call stack:
+stack trace("Unmanaged z-level 10! maxz = 1...")
+Mapping (/datum/controller/subsystem/mapping): level trait(10, "Station")
+process teleport locs()
+Mapping (/datum/controller/subsystem/mapping): Initialize(259069)
+Master (/datum/controller/master): Initialize(null, null)
+
+[14:11:47] Unmanaged z-level 10! maxz = 11, z_list.len = 7 in unsorted.dm:1510 :
+proc name: stack trace (/proc/stack_trace)
+  source file: unsorted.dm,1510
+  usr: (src)
+  src: null
+  call stack:
+stack trace("Unmanaged z-level 10! maxz = 1...")
+Mapping (/datum/controller/subsystem/mapping): level trait(10, "Station")
+process teleport locs()
+Mapping (/datum/controller/subsystem/mapping): Initialize(259069)
+Master (/datum/controller/master): Initialize(null, null)
+
+[14:11:48] Unmanaged z-level 10! maxz = 11, z_list.len = 7 in unsorted.dm:1510 :
+proc name: stack trace (/proc/stack_trace)
+  source file: unsorted.dm,1510
+  usr: (src)
+  src: null
+  call stack:
+stack trace("Unmanaged z-level 10! maxz = 1...")
+Mapping (/datum/controller/subsystem/mapping): level trait(10, "Station")
+process ghost teleport locs()
+Mapping (/datum/controller/subsystem/mapping): Initialize(259069)
+Master (/datum/controller/master): Initialize(null, null)
+
+[14:11:48] Unmanaged z-level 10! maxz = 11, z_list.len = 7 in unsorted.dm:1510 :
+proc name: stack trace (/proc/stack_trace)
+  source file: unsorted.dm,1510
+  usr: (src)
+  src: null
+  call stack:
+stack trace("Unmanaged z-level 10! maxz = 1...")
+Mapping (/datum/controller/subsystem/mapping): level trait(10, "Station")
+process ghost teleport locs()
+Mapping (/datum/controller/subsystem/mapping): Initialize(259069)
+Master (/datum/controller/master): Initialize(null, null)
+
+[14:11:48] Unmanaged z-level 10! maxz = 11, z_list.len = 7 in unsorted.dm:1510 :
+proc name: stack trace (/proc/stack_trace)
+  source file: unsorted.dm,1510
+  usr: (src)
+  src: null
+  call stack:
+stack trace("Unmanaged z-level 10! maxz = 1...")
+Mapping (/datum/controller/subsystem/mapping): level trait(10, "Station")
+process ghost teleport locs()
+Mapping (/datum/controller/subsystem/mapping): Initialize(259069)
+Master (/datum/controller/master): Initialize(null, null)
+
+[14:11:48] Unmanaged z-level 10! maxz = 11, z_list.len = 7 in unsorted.dm:1510 :
+proc name: stack trace (/proc/stack_trace)
+  source file: unsorted.dm,1510
+  usr: (src)
+  src: null
+  call stack:
+stack trace("Unmanaged z-level 10! maxz = 1...")
+Mapping (/datum/controller/subsystem/mapping): level trait(10, "Station")
+process ghost teleport locs()
+Mapping (/datum/controller/subsystem/mapping): Initialize(259069)
+Master (/datum/controller/master): Initialize(null, null)
+
+[14:11:48] Unmanaged z-level 10! maxz = 11, z_list.len = 7 in unsorted.dm:1510 :
+proc name: stack trace (/proc/stack_trace)
+  source file: unsorted.dm,1510
+  usr: (src)
+  src: null
+  call stack:
+stack trace("Unmanaged z-level 10! maxz = 1...")
+Mapping (/datum/controller/subsystem/mapping): level trait(10, "Station")
+process ghost teleport locs()
+Mapping (/datum/controller/subsystem/mapping): Initialize(259069)
+Master (/datum/controller/master): Initialize(null, null)
+
+[14:12:14] Unmanaged z-level 10! maxz = 11, z_list.len = 7 in unsorted.dm:1510 :
+proc name: stack trace (/proc/stack_trace)
+  source file: unsorted.dm,1510
+  usr: (src)
+  src: null
+  call stack:
+stack trace("Unmanaged z-level 10! maxz = 1...")
+Mapping (/datum/controller/subsystem/mapping): level trait(10, "Station")
+/datum/station_state (/datum/station_state): count(1)
+Extended (/datum/game_mode/extended): PostSetup()
+Ticker (/datum/controller/subsystem/ticker): setup()
+
+[14:12:14] Unmanaged z-level 10! maxz = 11, z_list.len = 7 in unsorted.dm:1510 :
+proc name: stack trace (/proc/stack_trace)
+  source file: unsorted.dm,1510
+  usr: (src)
+  src: null
+  call stack:
+stack trace("Unmanaged z-level 10! maxz = 1...")
+Mapping (/datum/controller/subsystem/mapping): level trait(10, "Station")
+/datum/station_state (/datum/station_state): count(1)
+Extended (/datum/game_mode/extended): PostSetup()
+Ticker (/datum/controller/subsystem/ticker): setup()
+
+[14:12:14] Unmanaged z-level 10! maxz = 11, z_list.len = 7 in unsorted.dm:1510 :
+proc name: stack trace (/proc/stack_trace)
+  source file: unsorted.dm,1510
+  usr: (src)
+  src: null
+  call stack:
+stack trace("Unmanaged z-level 10! maxz = 1...")
+Mapping (/datum/controller/subsystem/mapping): level trait(10, "Station")
+/datum/station_state (/datum/station_state): count(1)
+Extended (/datum/game_mode/extended): PostSetup()
+Ticker (/datum/controller/subsystem/ticker): setup()
+
+[14:12:14] Unmanaged z-level 10! maxz = 11, z_list.len = 7 in unsorted.dm:1510 :
+proc name: stack trace (/proc/stack_trace)
+  source file: unsorted.dm,1510
+  usr: (src)
+  src: null
+  call stack:
+stack trace("Unmanaged z-level 10! maxz = 1...")
+Mapping (/datum/controller/subsystem/mapping): level trait(10, "Station")
+/datum/station_state (/datum/station_state): count(1)
+Extended (/datum/game_mode/extended): PostSetup()
+Ticker (/datum/controller/subsystem/ticker): setup()
+
+[14:12:14] Unmanaged z-level 10! maxz = 11, z_list.len = 7 in unsorted.dm:1510 :
+proc name: stack trace (/proc/stack_trace)
+  source file: unsorted.dm,1510
+  usr: (src)
+  src: null
+  call stack:
+stack trace("Unmanaged z-level 10! maxz = 1...")
+Mapping (/datum/controller/subsystem/mapping): level trait(10, "Station")
+/datum/station_state (/datum/station_state): count(1)
+Extended (/datum/game_mode/extended): PostSetup()
+Ticker (/datum/controller/subsystem/ticker): setup()
+
+[14:12:16] Unmanaged z-level 10! maxz = 11, z_list.len = 7 in unsorted.dm:1510 :
+proc name: stack trace (/proc/stack_trace)
+  source file: unsorted.dm,1510
+  usr: FatFat (/mob/dead/new_player)
+  src: null
+  usr.loc: Grass patch (1,1,1) (/turf/simulated/floor/grass)
+  call stack:
+stack trace("Unmanaged z-level 10! maxz = 1...")
+Mapping (/datum/controller/subsystem/mapping): level trait(10, "Station")
+show location blurb(FatFat (/client))
+FatFat (/mob/dead/new_player): AttemptLateSpawn("Hub")
+FatFat (/mob/dead/new_player): Topic("src=\[0x300000f];SelectedJob=H...", /list (/list))
+FatFat (/client): Topic("src=\[0x300000f];SelectedJob=H...", /list (/list), FatFat (/mob/dead/new_player))
+

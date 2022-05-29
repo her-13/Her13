@@ -1,0 +1,464 @@
+[20:58:50] cannot open savefile buffer [0xc0004c4]#neutralcorner for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+  usr: Marion Sheets (/mob/dead/observer)
+  src: null
+  usr.loc: the floor (54,141,2) (/turf/simulated/floor)
+  call stack:
+icon2base64(/icon (/icon), "\[0xc0004c4]#neutralcorner")
+bicon raw(the floor (58,142,2) (/turf/simulated/floor), -1)
+bicon(the floor (58,142,2) (/turf/simulated/floor), "class=\'icon\'", -1)
+the floor (58,142,2) (/turf/simulated/floor): get examine string(Marion Sheets (/mob/dead/observer), 1, null)
+the floor (58,142,2) (/turf/simulated/floor): examine(Marion Sheets (/mob/dead/observer), -1)
+Marion Sheets (/mob/dead/observer): Examine(the floor (58,142,2) (/turf/simulated/floor))
+the floor (58,142,2) (/turf/simulated/floor): attack ghost(Marion Sheets (/mob/dead/observer))
+Marion Sheets (/mob/dead/observer): ClickOn(the floor (58,142,2) (/turf/simulated/floor), "icon-x=30;icon-y=19;left=1;scr...")
+the floor (58,142,2) (/turf/simulated/floor): Click(the floor (58,142,2) (/turf/simulated/floor), "mapwindow.map", "icon-x=30;icon-y=19;left=1;scr...")
+FatFat (/client): Click(the floor (58,142,2) (/turf/simulated/floor), the floor (58,142,2) (/turf/simulated/floor), "mapwindow.map", "icon-x=30;icon-y=19;left=1;scr...")
+
+[20:59:09] cannot open savefile buffer [0xc000203]#console for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+  usr: Marion Sheets (/mob/dead/observer)
+  src: null
+  usr.loc: the reinforced wall (96,112,6) (/turf/simulated/wall/r_wall)
+  call stack:
+icon2base64(/icon (/icon), "\[0xc000203]#console")
+bicon raw(the stacking machine console (/obj/machinery/mineral/stacking_unit_console), -1)
+bicon(the stacking machine console (/obj/machinery/mineral/stacking_unit_console), "class=\'icon\'", -1)
+the stacking machine console (/obj/machinery/mineral/stacking_unit_console): get examine string(Marion Sheets (/mob/dead/observer), 1, null)
+the stacking machine console (/obj/machinery/mineral/stacking_unit_console): examine(Marion Sheets (/mob/dead/observer), -1)
+Marion Sheets (/mob/dead/observer): Examine(the stacking machine console (/obj/machinery/mineral/stacking_unit_console))
+the stacking machine console (/obj/machinery/mineral/stacking_unit_console): attack ghost(Marion Sheets (/mob/dead/observer))
+the stacking machine console (/obj/machinery/mineral/stacking_unit_console): attack ghost(Marion Sheets (/mob/dead/observer))
+Marion Sheets (/mob/dead/observer): ClickOn(the stacking machine console (/obj/machinery/mineral/stacking_unit_console), "icon-x=24;icon-y=23;left=1;scr...")
+the stacking machine console (/obj/machinery/mineral/stacking_unit_console): Click(the reinforced wall (99,112,6) (/turf/simulated/wall/r_wall), "mapwindow.map", "icon-x=24;icon-y=23;left=1;scr...")
+FatFat (/client): Click(the stacking machine console (/obj/machinery/mineral/stacking_unit_console), the reinforced wall (99,112,6) (/turf/simulated/wall/r_wall), "mapwindow.map", "icon-x=24;icon-y=23;left=1;scr...")
+
+[20:59:10] cannot open savefile buffer [0xc000530]#rock for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+  usr: Marion Sheets (/mob/dead/observer)
+  src: null
+  usr.loc: Mineral deposit (105,106,6) (/turf/simulated/mineral/random/caves)
+  call stack:
+icon2base64(/icon (/icon), "\[0xc000530]#rock")
+bicon raw(Mineral deposit (108,103,6) (/turf/simulated/mineral/random/caves), -1)
+bicon(Mineral deposit (108,103,6) (/turf/simulated/mineral/random/caves), "class=\'icon\'", -1)
+Mineral deposit (108,103,6) (/turf/simulated/mineral/random/caves): get examine string(Marion Sheets (/mob/dead/observer), 1, null)
+Mineral deposit (108,103,6) (/turf/simulated/mineral/random/caves): examine(Marion Sheets (/mob/dead/observer), -1)
+Marion Sheets (/mob/dead/observer): Examine(Mineral deposit (108,103,6) (/turf/simulated/mineral/random/caves))
+Mineral deposit (108,103,6) (/turf/simulated/mineral/random/caves): attack ghost(Marion Sheets (/mob/dead/observer))
+Marion Sheets (/mob/dead/observer): ClickOn(Mineral deposit (108,103,6) (/turf/simulated/mineral/random/caves), "icon-x=28;icon-y=20;left=1;scr...")
+Mineral deposit (108,103,6) (/turf/simulated/mineral/random/caves): Click(Mineral deposit (108,103,6) (/turf/simulated/mineral/random/caves), "mapwindow.map", "icon-x=28;icon-y=20;left=1;scr...")
+FatFat (/client): Click(Mineral deposit (108,103,6) (/turf/simulated/mineral/random/caves), Mineral deposit (108,103,6) (/turf/simulated/mineral/random/caves), "mapwindow.map", "icon-x=28;icon-y=20;left=1;scr...")
+
+[20:59:11] cannot open savefile buffer [0xc000530]#rock for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+  usr: Marion Sheets (/mob/dead/observer)
+  src: null
+  usr.loc: Mineral deposit (117,94,6) (/turf/simulated/mineral/random/caves)
+  call stack:
+icon2base64(/icon (/icon), "\[0xc000530]#rock")
+bicon raw(Mineral deposit (117,94,6) (/turf/simulated/mineral/random/caves), -1)
+bicon(Mineral deposit (117,94,6) (/turf/simulated/mineral/random/caves), "class=\'icon\'", -1)
+Mineral deposit (117,94,6) (/turf/simulated/mineral/random/caves): get examine string(Marion Sheets (/mob/dead/observer), 1, null)
+Mineral deposit (117,94,6) (/turf/simulated/mineral/random/caves): examine(Marion Sheets (/mob/dead/observer), -1)
+Marion Sheets (/mob/dead/observer): Examine(Mineral deposit (117,94,6) (/turf/simulated/mineral/random/caves))
+Mineral deposit (117,94,6) (/turf/simulated/mineral/random/caves): attack ghost(Marion Sheets (/mob/dead/observer))
+Marion Sheets (/mob/dead/observer): ClickOn(Mineral deposit (117,94,6) (/turf/simulated/mineral/random/caves), "icon-x=28;icon-y=20;left=1;scr...")
+Mineral deposit (117,94,6) (/turf/simulated/mineral/random/caves): Click(Mineral deposit (117,94,6) (/turf/simulated/mineral/random/caves), "mapwindow.map", "icon-x=28;icon-y=20;left=1;scr...")
+FatFat (/client): Click(Mineral deposit (117,94,6) (/turf/simulated/mineral/random/caves), Mineral deposit (117,94,6) (/turf/simulated/mineral/random/caves), "mapwindow.map", "icon-x=28;icon-y=20;left=1;scr...")
+
+[20:59:12] cannot open savefile buffer [0xc0004c4]#bar for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+  usr: Marion Sheets (/mob/dead/observer)
+  src: null
+  usr.loc: Rock (126,85,6) (/turf/simulated/mineral)
+  call stack:
+icon2base64(/icon (/icon), "\[0xc0004c4]#bar")
+bicon raw(the floor (129,82,6) (/turf/simulated/floor), -1)
+bicon(the floor (129,82,6) (/turf/simulated/floor), "class=\'icon\'", -1)
+the floor (129,82,6) (/turf/simulated/floor): get examine string(Marion Sheets (/mob/dead/observer), 1, null)
+the floor (129,82,6) (/turf/simulated/floor): examine(Marion Sheets (/mob/dead/observer), -1)
+Marion Sheets (/mob/dead/observer): Examine(the floor (129,82,6) (/turf/simulated/floor))
+the floor (129,82,6) (/turf/simulated/floor): attack ghost(Marion Sheets (/mob/dead/observer))
+Marion Sheets (/mob/dead/observer): ClickOn(the floor (129,82,6) (/turf/simulated/floor), "icon-x=28;icon-y=20;left=1;scr...")
+the floor (129,82,6) (/turf/simulated/floor): Click(the floor (129,82,6) (/turf/simulated/floor), "mapwindow.map", "icon-x=28;icon-y=20;left=1;scr...")
+FatFat (/client): Click(the floor (129,82,6) (/turf/simulated/floor), the floor (129,82,6) (/turf/simulated/floor), "mapwindow.map", "icon-x=28;icon-y=20;left=1;scr...")
+
+[21:02:51] cannot open savefile buffer [0xc00016f]#artifact_13_active for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+  usr: (src)
+  src: null
+  call stack:
+icon2base64(/icon (/icon), "\[0xc00016f]#artifact_13_activ...")
+bicon raw(the bluespace crystal (/obj/machinery/artifact/bluespace_crystal), -1)
+bicon(the bluespace crystal (/obj/machinery/artifact/bluespace_crystal), "class=\'icon\'", -1)
+/datum/artifact_effect/tesla (/datum/artifact_effect/tesla): toggle artifact effect(1)
+ImmediateInvokeAsync(/datum/artifact_effect/tesla (/datum/artifact_effect/tesla), /datum/artifact_effect/proc/to... (/datum/artifact_effect/proc/toggle_artifact_effect), 1)
+/datum/artifact_effect/tesla (/datum/artifact_effect/tesla): ToggleActivate(1)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): try turn on effect(13, /datum/artifact_effect/tesla (/datum/artifact_effect/tesla), 1)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): toggle effects on(13)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): process(2)
+Machines (/datum/controller/subsystem/machines): fire(0)
+Machines (/datum/controller/subsystem/machines): ignite(0)
+Master (/datum/controller/master): RunQueue()
+Master (/datum/controller/master): Loop()
+Master (/datum/controller/master): StartProcessing(0)
+
+[21:02:53] cannot open savefile buffer [0xc00016f]#artifact_13_active for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+  usr: (src)
+  src: null
+  call stack:
+icon2base64(/icon (/icon), "\[0xc00016f]#artifact_13_activ...")
+bicon raw(the bluespace crystal (/obj/machinery/artifact/bluespace_crystal), -1)
+bicon(the bluespace crystal (/obj/machinery/artifact/bluespace_crystal), "class=\'icon\'", -1)
+/datum/artifact_effect/tesla (/datum/artifact_effect/tesla): toggle artifact effect(1)
+ImmediateInvokeAsync(/datum/artifact_effect/tesla (/datum/artifact_effect/tesla), /datum/artifact_effect/proc/to... (/datum/artifact_effect/proc/toggle_artifact_effect), 1)
+/datum/artifact_effect/tesla (/datum/artifact_effect/tesla): ToggleActivate(1)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): try turn on effect(13, /datum/artifact_effect/tesla (/datum/artifact_effect/tesla), 1)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): toggle effects on(13)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): process(2)
+Machines (/datum/controller/subsystem/machines): fire(0)
+Machines (/datum/controller/subsystem/machines): ignite(0)
+Master (/datum/controller/master): RunQueue()
+Master (/datum/controller/master): Loop()
+Master (/datum/controller/master): StartProcessing(0)
+
+[21:02:53] cannot open savefile buffer [0xc00016f]#artifact_13_active for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+  usr: (src)
+  src: null
+  call stack:
+icon2base64(/icon (/icon), "\[0xc00016f]#artifact_13_activ...")
+bicon raw(the bluespace crystal (/obj/machinery/artifact/bluespace_crystal), -1)
+bicon(the bluespace crystal (/obj/machinery/artifact/bluespace_crystal), "class=\'icon\'", -1)
+/datum/artifact_effect/tesla (/datum/artifact_effect/tesla): toggle artifact effect(1)
+ImmediateInvokeAsync(/datum/artifact_effect/tesla (/datum/artifact_effect/tesla), /datum/artifact_effect/proc/to... (/datum/artifact_effect/proc/toggle_artifact_effect), 1)
+/datum/artifact_effect/tesla (/datum/artifact_effect/tesla): ToggleActivate(1)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): try turn on effect(13, /datum/artifact_effect/tesla (/datum/artifact_effect/tesla), 1)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): toggle effects on(13)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): process(2)
+Machines (/datum/controller/subsystem/machines): fire(0)
+Machines (/datum/controller/subsystem/machines): ignite(0)
+Master (/datum/controller/master): RunQueue()
+Master (/datum/controller/master): Loop()
+Master (/datum/controller/master): StartProcessing(0)
+
+[21:02:55] cannot open savefile buffer [0xc00016f]#artifact_13 for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+  usr: (src)
+  src: null
+  call stack:
+icon2base64(/icon (/icon), "\[0xc00016f]#artifact_13")
+bicon raw(the bluespace crystal (/obj/machinery/artifact/bluespace_crystal), -1)
+bicon(the bluespace crystal (/obj/machinery/artifact/bluespace_crystal), "class=\'icon\'", -1)
+/datum/artifact_effect/tesla (/datum/artifact_effect/tesla): toggle artifact effect(1)
+ImmediateInvokeAsync(/datum/artifact_effect/tesla (/datum/artifact_effect/tesla), /datum/artifact_effect/proc/to... (/datum/artifact_effect/proc/toggle_artifact_effect), 1)
+/datum/artifact_effect/tesla (/datum/artifact_effect/tesla): ToggleActivate(1)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): try turn off effect(13, /datum/artifact_effect/tesla (/datum/artifact_effect/tesla), 1)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): toggle effects off(13)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): process(2)
+Machines (/datum/controller/subsystem/machines): fire(0)
+Machines (/datum/controller/subsystem/machines): ignite(0)
+Master (/datum/controller/master): RunQueue()
+Master (/datum/controller/master): Loop()
+Master (/datum/controller/master): StartProcessing(0)
+
+[21:02:59] cannot open savefile buffer [0xc00016f]#artifact_13 for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+  usr: (src)
+  src: null
+  call stack:
+icon2base64(/icon (/icon), "\[0xc00016f]#artifact_13")
+bicon raw(the bluespace crystal (/obj/machinery/artifact/bluespace_crystal), -1)
+bicon(the bluespace crystal (/obj/machinery/artifact/bluespace_crystal), "class=\'icon\'", -1)
+/datum/artifact_effect/tesla (/datum/artifact_effect/tesla): toggle artifact effect(1)
+ImmediateInvokeAsync(/datum/artifact_effect/tesla (/datum/artifact_effect/tesla), /datum/artifact_effect/proc/to... (/datum/artifact_effect/proc/toggle_artifact_effect), 1)
+/datum/artifact_effect/tesla (/datum/artifact_effect/tesla): ToggleActivate(1)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): try turn off effect(13, /datum/artifact_effect/tesla (/datum/artifact_effect/tesla), 1)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): toggle effects off(13)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): process(2)
+Machines (/datum/controller/subsystem/machines): fire(0)
+Machines (/datum/controller/subsystem/machines): ignite(0)
+Master (/datum/controller/master): RunQueue()
+Master (/datum/controller/master): Loop()
+Master (/datum/controller/master): StartProcessing(0)
+
+[21:03:01] cannot open savefile buffer [0xc000213]#spectrometer for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+  usr: (src)
+  src: null
+  call stack:
+icon2base64(/icon (/icon), "\[0xc000213]#spectrometer")
+bicon raw(Radiocarbon spectrometer (/obj/machinery/radiocarbon_spectrometer), -1)
+bicon(Radiocarbon spectrometer (/obj/machinery/radiocarbon_spectrometer), "class=\'icon\'", -1)
+Radiocarbon spectrometer (/obj/machinery/radiocarbon_spectrometer): process(2)
+Machines (/datum/controller/subsystem/machines): fire(0)
+Machines (/datum/controller/subsystem/machines): ignite(0)
+Master (/datum/controller/master): RunQueue()
+Master (/datum/controller/master): Loop()
+Master (/datum/controller/master): StartProcessing(0)
+
+[21:03:05] cannot open savefile buffer [0xc0003f8]#drone_100 for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+  usr: (src)
+  src: null
+  call stack:
+icon2base64(/icon (/icon), "\[0xc0003f8]#drone_100")
+bicon raw(Боевой дрон (/mob/living/simple_animal/hostile/retaliate/malf_drone/mining), -1)
+bicon(Боевой дрон (/mob/living/simple_animal/hostile/retaliate/malf_drone/mining), "class=\'icon\'", -1)
+Боевой дрон (/mob/living/simple_animal/hostile/retaliate/malf_drone/mining): Life(2)
+Mobs (/datum/controller/subsystem/mobs): fire(0)
+Mobs (/datum/controller/subsystem/mobs): ignite(0)
+Master (/datum/controller/master): RunQueue()
+Master (/datum/controller/master): Loop()
+Master (/datum/controller/master): StartProcessing(0)
+
+[21:03:05] cannot open savefile buffer [0xc00016f]#artifact_13_active for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+  usr: (src)
+  src: null
+  call stack:
+icon2base64(/icon (/icon), "\[0xc00016f]#artifact_13_activ...")
+bicon raw(the bluespace crystal (/obj/machinery/artifact/bluespace_crystal), -1)
+bicon(the bluespace crystal (/obj/machinery/artifact/bluespace_crystal), "class=\'icon\'", -1)
+/datum/artifact_effect/tesla (/datum/artifact_effect/tesla): toggle artifact effect(1)
+ImmediateInvokeAsync(/datum/artifact_effect/tesla (/datum/artifact_effect/tesla), /datum/artifact_effect/proc/to... (/datum/artifact_effect/proc/toggle_artifact_effect), 1)
+/datum/artifact_effect/tesla (/datum/artifact_effect/tesla): ToggleActivate(1)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): try turn on effect(13, /datum/artifact_effect/tesla (/datum/artifact_effect/tesla), 1)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): toggle effects on(13)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): process(2)
+Machines (/datum/controller/subsystem/machines): fire(0)
+Machines (/datum/controller/subsystem/machines): ignite(0)
+Master (/datum/controller/master): RunQueue()
+Master (/datum/controller/master): Loop()
+Master (/datum/controller/master): StartProcessing(0)
+
+[21:03:07] cannot open savefile buffer [0xc0003f8]#drone_100 for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+  usr: (src)
+  src: null
+  call stack:
+icon2base64(/icon (/icon), "\[0xc0003f8]#drone_100")
+bicon raw(Боевой дрон (/mob/living/simple_animal/hostile/retaliate/malf_drone/mining), -1)
+bicon(Боевой дрон (/mob/living/simple_animal/hostile/retaliate/malf_drone/mining), "class=\'icon\'", -1)
+Боевой дрон (/mob/living/simple_animal/hostile/retaliate/malf_drone/mining): Life(2)
+Mobs (/datum/controller/subsystem/mobs): fire(0)
+Mobs (/datum/controller/subsystem/mobs): ignite(0)
+Master (/datum/controller/master): RunQueue()
+Master (/datum/controller/master): Loop()
+Master (/datum/controller/master): StartProcessing(0)
+
+[21:03:07] cannot open savefile buffer [0xc00016f]#artifact_13 for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+  usr: (src)
+  src: null
+  call stack:
+icon2base64(/icon (/icon), "\[0xc00016f]#artifact_13")
+bicon raw(the bluespace crystal (/obj/machinery/artifact/bluespace_crystal), -1)
+bicon(the bluespace crystal (/obj/machinery/artifact/bluespace_crystal), "class=\'icon\'", -1)
+/datum/artifact_effect/tesla (/datum/artifact_effect/tesla): toggle artifact effect(1)
+ImmediateInvokeAsync(/datum/artifact_effect/tesla (/datum/artifact_effect/tesla), /datum/artifact_effect/proc/to... (/datum/artifact_effect/proc/toggle_artifact_effect), 1)
+/datum/artifact_effect/tesla (/datum/artifact_effect/tesla): ToggleActivate(1)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): try turn off effect(13, /datum/artifact_effect/tesla (/datum/artifact_effect/tesla), 1)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): toggle effects off(13)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): process(2)
+Machines (/datum/controller/subsystem/machines): fire(0)
+Machines (/datum/controller/subsystem/machines): ignite(0)
+Master (/datum/controller/master): RunQueue()
+Master (/datum/controller/master): Loop()
+Master (/datum/controller/master): StartProcessing(0)
+
+[21:03:07] cannot open savefile buffer [0xc000213]#spectrometer for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+  usr: (src)
+  src: null
+  call stack:
+icon2base64(/icon (/icon), "\[0xc000213]#spectrometer")
+bicon raw(Radiocarbon spectrometer (/obj/machinery/radiocarbon_spectrometer), -1)
+bicon(Radiocarbon spectrometer (/obj/machinery/radiocarbon_spectrometer), "class=\'icon\'", -1)
+Radiocarbon spectrometer (/obj/machinery/radiocarbon_spectrometer): process(2)
+Machines (/datum/controller/subsystem/machines): fire(0)
+Machines (/datum/controller/subsystem/machines): ignite(0)
+Master (/datum/controller/master): RunQueue()
+Master (/datum/controller/master): Loop()
+Master (/datum/controller/master): StartProcessing(0)
+
+[21:03:11] cannot open savefile buffer [0xc00016f]#artifact_13_active for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+  usr: (src)
+  src: null
+  call stack:
+icon2base64(/icon (/icon), "\[0xc00016f]#artifact_13_activ...")
+bicon raw(the bluespace crystal (/obj/machinery/artifact/bluespace_crystal), -1)
+bicon(the bluespace crystal (/obj/machinery/artifact/bluespace_crystal), "class=\'icon\'", -1)
+/datum/artifact_effect/tesla (/datum/artifact_effect/tesla): toggle artifact effect(1)
+ImmediateInvokeAsync(/datum/artifact_effect/tesla (/datum/artifact_effect/tesla), /datum/artifact_effect/proc/to... (/datum/artifact_effect/proc/toggle_artifact_effect), 1)
+/datum/artifact_effect/tesla (/datum/artifact_effect/tesla): ToggleActivate(1)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): try turn on effect(13, /datum/artifact_effect/tesla (/datum/artifact_effect/tesla), 1)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): toggle effects on(13)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): process(2)
+Machines (/datum/controller/subsystem/machines): fire(0)
+Machines (/datum/controller/subsystem/machines): ignite(0)
+Master (/datum/controller/master): RunQueue()
+Master (/datum/controller/master): Loop()
+Master (/datum/controller/master): StartProcessing(0)
+
+[21:03:11] cannot open savefile buffer [0xc00016f]#artifact_13_active for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+  usr: (src)
+  src: null
+  call stack:
+icon2base64(/icon (/icon), "\[0xc00016f]#artifact_13_activ...")
+bicon raw(the bluespace crystal (/obj/machinery/artifact/bluespace_crystal), -1)
+bicon(the bluespace crystal (/obj/machinery/artifact/bluespace_crystal), "class=\'icon\'", -1)
+/datum/artifact_effect/tesla (/datum/artifact_effect/tesla): toggle artifact effect(1)
+ImmediateInvokeAsync(/datum/artifact_effect/tesla (/datum/artifact_effect/tesla), /datum/artifact_effect/proc/to... (/datum/artifact_effect/proc/toggle_artifact_effect), 1)
+/datum/artifact_effect/tesla (/datum/artifact_effect/tesla): ToggleActivate(1)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): try turn on effect(13, /datum/artifact_effect/tesla (/datum/artifact_effect/tesla), 1)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): toggle effects on(13)
+the bluespace crystal (/obj/machinery/artifact/bluespace_crystal): process(2)
+Machines (/datum/controller/subsystem/machines): fire(0)
+Machines (/datum/controller/subsystem/machines): ignite(0)
+Master (/datum/controller/master): RunQueue()
+Master (/datum/controller/master): Loop()
+Master (/datum/controller/master): StartProcessing(0)
+
+[21:03:17] cannot open savefile buffer [0xc0003f8]#drone_100 for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+  usr: (src)
+  src: null
+  call stack:
+icon2base64(/icon (/icon), "\[0xc0003f8]#drone_100")
+bicon raw(Боевой дрон (/mob/living/simple_animal/hostile/retaliate/malf_drone/mining), -1)
+bicon(Боевой дрон (/mob/living/simple_animal/hostile/retaliate/malf_drone/mining), "class=\'icon\'", -1)
+Боевой дрон (/mob/living/simple_animal/hostile/retaliate/malf_drone/mining): Life(2)
+Mobs (/datum/controller/subsystem/mobs): fire(0)
+Mobs (/datum/controller/subsystem/mobs): ignite(0)
+Master (/datum/controller/master): RunQueue()
+Master (/datum/controller/master): Loop()
+Master (/datum/controller/master): StartProcessing(0)
+
+[21:03:29] cannot open savefile buffer [0xc00016f]#artifact_13 for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:03:29] cannot open savefile buffer [0xc00016f]#artifact_13_active for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:03:31] cannot open savefile buffer [0xc00016f]#artifact_13 for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:03:33] cannot open savefile buffer [0xc00016f]#artifact_13_active for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:03:33] cannot open savefile buffer [0xc000213]#spectrometer for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:03:37] cannot open savefile buffer [0xc0003f8]#drone_100 for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:03:38] cannot open savefile buffer [0xc0004c4]#brown for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:03:39] cannot open savefile buffer [0xc00016f]#artifact_13_active for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:03:41] cannot open savefile buffer [0xc00016f]#artifact_13_active for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:03:41] cannot open savefile buffer [0xc00016f]#artifact_13 for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:03:43] cannot open savefile buffer [0xc00016f]#artifact_13 for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:03:47] cannot open savefile buffer [0xc00016f]#artifact_13_active for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:03:47] cannot open savefile buffer [0xc00016f]#artifact_13_active for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:03:47] cannot open savefile buffer [0xc00016f]#artifact_13 for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:03:50] cannot open savefile buffer [0xc0004c4]#asteroidwarning for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:03:51] cannot open savefile buffer [0xc00016f]#artifact_13_active for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:03:53] cannot open savefile buffer [0xc00016f]#artifact_13 for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:03:55] cannot open savefile buffer [0xc000213]#spectrometer for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:03:59] cannot open savefile buffer [0xc00016f]#artifact_13 for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:04:05] cannot open savefile buffer [0xc00016f]#artifact_13 for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:04:05] cannot open savefile buffer [0xc00016f]#artifact_13_active for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:04:07] cannot open savefile buffer [0xc000213]#spectrometer for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:04:11] cannot open savefile buffer [0xc00016f]#artifact_13_active for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:04:11] cannot open savefile buffer [0xc00016f]#artifact_13 for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:04:23] cannot open savefile buffer [0xc00016f]#artifact_13 for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+
+[21:04:23] cannot open savefile buffer [0xc00016f]#artifact_13 for write in browserOutput.dm:22 :
+proc name: icon2base64 (/proc/icon2base64)
+  source file: browserOutput.dm,22
+

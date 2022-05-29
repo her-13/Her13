@@ -1,0 +1,23 @@
+[13:56:04] Server '' starting up on 26.166.93.76:56024
+[13:56:06]GAME: Derelict Teleporter loaded at (148,68,3)
+[13:56:06]GAME: agrosphere loaded at (28,31,4)
+[13:56:07]GAME: Tree Asteroid loaded at (185,17,3)
+[13:56:07]GAME: Clown Shuttle loaded at (212,127,3)
+[13:56:07]GAME: iss loaded at (82,125,3)
+[13:56:07]GAME: NASA satellite loaded at (234,100,4)
+[13:56:07]GAME: Broken Breacher loaded at (124,138,4)
+[13:56:43]ADMIN: fatfat/(FatFat) has started the game.
+[13:56:46]MODE: Current master mode is extended
+[13:56:46]DEBUG: Next event of severity RoundStart in 0 minutes.
+[13:56:46]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[13:56:46]GAME: ANTAG LIST:
+no antagonists this moment
+[13:56:47]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[13:56:47]DEBUG: Next event of severity Mundane in 16.948 minutes.
+[13:56:47]DEBUG: Next event of severity Moderate in 52.296 minutes.
+[13:56:47]DEBUG: Next event of severity Major in 66.2633 minutes.
+[13:56:54]EMOTE: @fatfat/(Jimmy Batten) : <b>Jimmy Batten</b> <i>gasps!</i>
+[13:57:08]EMOTE: @fatfat/(Jimmy Batten) : <b>Jimmy Batten</b> <i>gasps!</i>
+[13:57:10]EMOTE: @fatfat/(Jimmy Batten) : <b>Jimmy Batten</b> <i>gasps!</i>
+[13:57:16]EMOTE: @fatfat/(Jimmy Batten) : <b>Jimmy Batten</b> <i>gasps!</i>
+[13:59:53] Graceful shutdown

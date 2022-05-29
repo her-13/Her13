@@ -1,0 +1,27 @@
+[21:23:15] Server '' starting up on 26.166.93.76:49540
+[21:23:17]GAME: NASA satellite loaded at (164,179,3)
+[21:23:17]GAME: Abandoned Lab loaded at (157,106,3)
+[21:23:18]GAME: iss loaded at (47,70,3)
+[21:23:18]GAME: cloning_lab loaded at (179,214,3)
+[21:23:18]GAME: syndicate_fighter loaded at (230,123,4)
+[21:23:18]GAME: delivery_shuttle loaded at (158,58,4)
+[21:23:18]GAME: listening_post loaded at (195,48,4)
+[21:23:59]ADMIN: fatfat/(FatFat) has started the game.
+[21:24:01]MODE: Current master mode is extended
+[21:24:01]DEBUG: Next event of severity RoundStart in 0 minutes.
+[21:24:01]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[21:24:01]DEBUG: Next event of severity RoundStart in 0 minutes.
+[21:24:01]DEBUG: Starting event 'Die Monkey' of severity RoundStart.
+[21:24:01]GAME: ANTAG LIST:
+no antagonists this moment
+[21:24:02]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[21:24:02]GAME: RoundStart Event: All the monkeys died.
+[21:24:02]DEBUG: Event 'Die Monkey' has completed at 12:00.
+[21:24:02]DEBUG: Next event of severity Mundane in 17.156 minutes.
+[21:24:02]DEBUG: Next event of severity Moderate in 48.164 minutes.
+[21:24:02]DEBUG: Next event of severity Major in 53.215 minutes.
+[21:24:15]ADMIN: fatfat/(Everett Brindle) created a /obj/effect/portal/tsci_wormhole/hub
+[21:24:22]ADMIN: fatfat/(Everett Brindle) healed / revived fatfat/(Everett Brindle)
+[21:24:25]ADMIN: fatfat/(Everett Brindle) healed / revived fatfat/(Everett Brindle)
+[21:24:37]SAY: *no key*/(walrus) : [Listening Post]: URK
+[21:24:44] Graceful shutdown

@@ -1,0 +1,67 @@
+[22:17:49] Base SHA: a34f4e7d104f62b64b106412fc78cff780518897
+
+[22:27:12] bad index in modifyvariables.dm:99 :
+proc name: mod list add (/client/proc/mod_list_add)
+  source file: modifyvariables.dm,99
+  usr: the unknown (/mob/living/carbon/human)
+  src: FatFat (/client)
+  usr.loc: the floor (58,118,2) (/turf/simulated/floor)
+  call stack:
+FatFat (/client): mod list add(/list (/list))
+FatFat (/client): mod list(/list (/list))
+FatFat (/client): modify variables(the space-bike (/obj/vehicle/space/spacebike), "overlays", 1)
+FatFat (/client): view var Topic("_src_=vars;datumedit=\[0x2001a...", /list (/list), null)
+FatFat (/client): Topic("_src_=vars;datumedit=\[0x2001a...", /list (/list), null)
+
+[22:27:42] bad index in modifyvariables.dm:99 :
+proc name: mod list add (/client/proc/mod_list_add)
+  source file: modifyvariables.dm,99
+  usr: the unknown (/mob/living/carbon/human)
+  src: FatFat (/client)
+  usr.loc: the floor (60,117,2) (/turf/simulated/floor)
+  call stack:
+FatFat (/client): mod list add(/list (/list))
+FatFat (/client): mod list(/list (/list))
+FatFat (/client): modify variables(the unknown (/mob/living/carbon/human), "overlays", 1)
+FatFat (/client): view var Topic("_src_=vars;datumedit=\[0x30000...", /list (/list), null)
+FatFat (/client): Topic("_src_=vars;datumedit=\[0x30000...", /list (/list), null)
+
+[22:28:09] bad index in modifyvariables.dm:99 :
+proc name: mod list add (/client/proc/mod_list_add)
+  source file: modifyvariables.dm,99
+  usr: the unknown (/mob/living/carbon/human)
+  src: FatFat (/client)
+  usr.loc: the floor (59,118,2) (/turf/simulated/floor)
+  call stack:
+FatFat (/client): mod list add(/list (/list))
+FatFat (/client): mod list(/list (/list))
+FatFat (/client): modify variables(the unknown (/mob/living/carbon/human), "overlays", 1)
+FatFat (/client): view var Topic("_src_=vars;datumedit=\[0x30000...", /list (/list), null)
+FatFat (/client): Topic("_src_=vars;datumedit=\[0x30000...", /list (/list), null)
+
+[22:29:10] bad index in modifyvariables.dm:99 :
+proc name: mod list add (/client/proc/mod_list_add)
+  source file: modifyvariables.dm,99
+  usr: the unknown (/mob/living/carbon/human)
+  src: FatFat (/client)
+  usr.loc: the floor (58,117,2) (/turf/simulated/floor)
+  call stack:
+FatFat (/client): mod list add(/list (/list))
+FatFat (/client): mod list(/list (/list))
+FatFat (/client): modify variables(the space-bike (/obj/vehicle/space/spacebike), "overlays", 0)
+FatFat (/client): view var Topic("_src_=vars;datumchange=\[0x200...", /list (/list), null)
+FatFat (/client): Topic("_src_=vars;datumchange=\[0x200...", /list (/list), null)
+
+[22:30:18] bad index in modifyvariables.dm:99 :
+proc name: mod list add (/client/proc/mod_list_add)
+  source file: modifyvariables.dm,99
+  usr: the unknown (/mob/living/carbon/human)
+  src: FatFat (/client)
+  usr.loc: the floor (57,115,2) (/turf/simulated/floor)
+  call stack:
+FatFat (/client): mod list add(/list (/list))
+FatFat (/client): mod list(/list (/list))
+FatFat (/client): modify variables(the space-bike (/obj/vehicle/space/spacebike), "overlays", 1)
+FatFat (/client): view var Topic("_src_=vars;datumedit=\[0x202b6...", /list (/list), null)
+FatFat (/client): Topic("_src_=vars;datumedit=\[0x202b6...", /list (/list), null)
+

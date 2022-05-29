@@ -1,0 +1,89 @@
+/obj/item/stack/rods
+	name = "metal rod"
+	desc = "Some rods. Can be used for building, or something."
+	singular_name = "metal rod"
+	icon_state = "rods"
+	flags = CONDUCT
+	w_class = SIZE_SMALL
+	force = 2.0
+	throwforce = 5.0
+	throw_speed = 5
+	throw_range = 20
+	m_amt = 1875
+	max_amount = 60
+	usesound = 'sound/weapons/Genhit.ogg'
+	attack_verb = list("hit", "bludgeoned", "whacked")
+	qualities = list(
+		QUALITY_PRYING = 0.5
+	)
+
+/obj/item/stack/rods/update_icon()
+	var/amount = get_amount()
+	if((amount <= 5) && (amount > 0))
+		icon_state = "rods-[amount]"
+	else
+		icon_state = "rods"
+
+/obj/item/stack/rods/attackby(obj/item/I, mob/user, params)
+	if(iswelder(I))
+		var/obj/item/weapon/weldingtool/WT = I
+
+		if(get_amount() < 2)
+			to_chat(user, "<span class='warning'>You need at least two rods to do this!</span>")
+			return
+
+		if(WT.use(0, user))
+			var/obj/item/stack/sheet/metal/new_item = new(usr.loc, , TRUE)
+			user.visible_message(
+				"[user.name] shaped [src] into metal with the welding tool.",
+				"<span class='notice'>You shape [src] into metal with the welding tool.</span>",
+				"<span class='italics'>You hear welding.</span>")
+
+			var/replace = (user.get_inactive_hand() == src)
+			use(2)
+			if(!QDELETED(src) && replace)
+				user.put_in_hands(new_item)
+
+	else
+		return ..()
+
+/obj/item/stack/rods/attack_self(mob/living/user)
+	var/atom/build_loc = loc
+	if(ismob(build_loc))
+		build_loc = build_loc.loc
+
+	if(!isturf(build_loc))
+		return FALSE
+
+	add_fingerprint(user)
+
+	if(locate(/obj/structure/grille, build_loc))
+		for(var/obj/structure/grille/G in build_loc)
+			if(!G.destroyed)
+				return TRUE
+
+			if(!use(1))
+				continue
+
+			G.health = 10
+			G.density = TRUE
+			G.destroyed = FALSE
+			G.icon_state = "grille"
+
+		return FALSE
+
+
+	if(get_amount() < 2)
+		to_chat(user, "<span class='warning'>You need at least two rods to do this!</span>")
+		return
+	if(user.is_busy(src))
+		return
+	to_chat(usr, "<span class='notice'>Assembling grille...</span>")
+	if (!use_tool(usr, usr, 10))
+		return
+	if (!use(2))
+		return
+	var/obj/structure/grille/F = new /obj/structure/grille(build_loc)
+	user.try_take(F, build_loc)
+	to_chat(usr, "<span class='notice'>You assemble a grille.</span>")
+	F.add_fingerprint(usr)

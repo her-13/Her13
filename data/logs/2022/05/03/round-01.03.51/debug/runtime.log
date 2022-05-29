@@ -1,0 +1,396 @@
+[01:03:51] Base SHA: 380a51e6eab1ff2a6d4b7c2835a3b290a96d4e6b
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+  usr: null
+  src: Стена (3,24,1) (/turf/simulated/wall/mineral/human/human10)
+  call stack:
+Стена (3,24,1) (/turf/simulated/wall/mineral/human/human10): SliceNDice('icons/turf/Events/Human/walls_...')
+Стена (3,24,1) (/turf/simulated/wall/mineral/human/human10): smooth set icon(0, /list (/list))
+cardinal smooth(Стена (3,24,1) (/turf/simulated/wall/mineral/human/human10), 0)
+smooth icon(Стена (3,24,1) (/turf/simulated/wall/mineral/human/human10))
+smooth zlevel(1, 1)
+Icon Smoothing (/datum/controller/subsystem/icon_smooth): Initialize(650506)
+Master (/datum/controller/master): Initialize(null, null)
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+  usr: null
+  src: Стена (4,24,1) (/turf/simulated/wall/mineral/human/human2)
+  call stack:
+Стена (4,24,1) (/turf/simulated/wall/mineral/human/human2): SliceNDice('icons/turf/Events/Human/walls_...')
+Стена (4,24,1) (/turf/simulated/wall/mineral/human/human2): smooth set icon(0, /list (/list))
+cardinal smooth(Стена (4,24,1) (/turf/simulated/wall/mineral/human/human2), 0)
+smooth icon(Стена (4,24,1) (/turf/simulated/wall/mineral/human/human2))
+smooth zlevel(1, 1)
+Icon Smoothing (/datum/controller/subsystem/icon_smooth): Initialize(650506)
+Master (/datum/controller/master): Initialize(null, null)
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+  usr: null
+  src: Стена (5,24,1) (/turf/simulated/wall/mineral/human/human2)
+  call stack:
+Стена (5,24,1) (/turf/simulated/wall/mineral/human/human2): SliceNDice('icons/turf/Events/Human/walls_...')
+Стена (5,24,1) (/turf/simulated/wall/mineral/human/human2): smooth set icon(0, /list (/list))
+cardinal smooth(Стена (5,24,1) (/turf/simulated/wall/mineral/human/human2), 0)
+smooth icon(Стена (5,24,1) (/turf/simulated/wall/mineral/human/human2))
+smooth zlevel(1, 1)
+Icon Smoothing (/datum/controller/subsystem/icon_smooth): Initialize(650506)
+Master (/datum/controller/master): Initialize(null, null)
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+  usr: null
+  src: Стена (6,24,1) (/turf/simulated/wall/mineral/human/human2)
+  call stack:
+Стена (6,24,1) (/turf/simulated/wall/mineral/human/human2): SliceNDice('icons/turf/Events/Human/walls_...')
+Стена (6,24,1) (/turf/simulated/wall/mineral/human/human2): smooth set icon(0, /list (/list))
+cardinal smooth(Стена (6,24,1) (/turf/simulated/wall/mineral/human/human2), 0)
+smooth icon(Стена (6,24,1) (/turf/simulated/wall/mineral/human/human2))
+smooth zlevel(1, 1)
+Icon Smoothing (/datum/controller/subsystem/icon_smooth): Initialize(650506)
+Master (/datum/controller/master): Initialize(null, null)
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+  usr: null
+  src: Стена (7,24,1) (/turf/simulated/wall/mineral/human/human15)
+  call stack:
+Стена (7,24,1) (/turf/simulated/wall/mineral/human/human15): SliceNDice('icons/turf/Events/Human/walls_...')
+Стена (7,24,1) (/turf/simulated/wall/mineral/human/human15): smooth set icon(0, /list (/list))
+cardinal smooth(Стена (7,24,1) (/turf/simulated/wall/mineral/human/human15), 0)
+smooth icon(Стена (7,24,1) (/turf/simulated/wall/mineral/human/human15))
+smooth zlevel(1, 1)
+Icon Smoothing (/datum/controller/subsystem/icon_smooth): Initialize(650506)
+Master (/datum/controller/master): Initialize(null, null)
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+  usr: null
+  src: Стена (8,24,1) (/turf/simulated/wall/mineral/human/human2)
+  call stack:
+Стена (8,24,1) (/turf/simulated/wall/mineral/human/human2): SliceNDice('icons/turf/Events/Human/walls_...')
+Стена (8,24,1) (/turf/simulated/wall/mineral/human/human2): smooth set icon(0, /list (/list))
+cardinal smooth(Стена (8,24,1) (/turf/simulated/wall/mineral/human/human2), 0)
+smooth icon(Стена (8,24,1) (/turf/simulated/wall/mineral/human/human2))
+smooth zlevel(1, 1)
+Icon Smoothing (/datum/controller/subsystem/icon_smooth): Initialize(650506)
+Master (/datum/controller/master): Initialize(null, null)
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+  usr: null
+  src: Стена (9,24,1) (/turf/simulated/wall/mineral/human/human2)
+  call stack:
+Стена (9,24,1) (/turf/simulated/wall/mineral/human/human2): SliceNDice('icons/turf/Events/Human/walls_...')
+Стена (9,24,1) (/turf/simulated/wall/mineral/human/human2): smooth set icon(0, /list (/list))
+cardinal smooth(Стена (9,24,1) (/turf/simulated/wall/mineral/human/human2), 0)
+smooth icon(Стена (9,24,1) (/turf/simulated/wall/mineral/human/human2))
+smooth zlevel(1, 1)
+Icon Smoothing (/datum/controller/subsystem/icon_smooth): Initialize(650506)
+Master (/datum/controller/master): Initialize(null, null)
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+  usr: null
+  src: Стена (10,24,1) (/turf/simulated/wall/mineral/human/human2)
+  call stack:
+Стена (10,24,1) (/turf/simulated/wall/mineral/human/human2): SliceNDice('icons/turf/Events/Human/walls_...')
+Стена (10,24,1) (/turf/simulated/wall/mineral/human/human2): smooth set icon(0, /list (/list))
+cardinal smooth(Стена (10,24,1) (/turf/simulated/wall/mineral/human/human2), 0)
+smooth icon(Стена (10,24,1) (/turf/simulated/wall/mineral/human/human2))
+smooth zlevel(1, 1)
+Icon Smoothing (/datum/controller/subsystem/icon_smooth): Initialize(650506)
+Master (/datum/controller/master): Initialize(null, null)
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+  usr: null
+  src: Стена (11,24,1) (/turf/simulated/wall/mineral/human/human15)
+  call stack:
+Стена (11,24,1) (/turf/simulated/wall/mineral/human/human15): SliceNDice('icons/turf/Events/Human/walls_...')
+Стена (11,24,1) (/turf/simulated/wall/mineral/human/human15): smooth set icon(0, /list (/list))
+cardinal smooth(Стена (11,24,1) (/turf/simulated/wall/mineral/human/human15), 0)
+smooth icon(Стена (11,24,1) (/turf/simulated/wall/mineral/human/human15))
+smooth zlevel(1, 1)
+Icon Smoothing (/datum/controller/subsystem/icon_smooth): Initialize(650506)
+Master (/datum/controller/master): Initialize(null, null)
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+  usr: null
+  src: Стена (12,24,1) (/turf/simulated/wall/mineral/human/human2)
+  call stack:
+Стена (12,24,1) (/turf/simulated/wall/mineral/human/human2): SliceNDice('icons/turf/Events/Human/walls_...')
+Стена (12,24,1) (/turf/simulated/wall/mineral/human/human2): smooth set icon(0, /list (/list))
+cardinal smooth(Стена (12,24,1) (/turf/simulated/wall/mineral/human/human2), 0)
+smooth icon(Стена (12,24,1) (/turf/simulated/wall/mineral/human/human2))
+smooth zlevel(1, 1)
+Icon Smoothing (/datum/controller/subsystem/icon_smooth): Initialize(650506)
+Master (/datum/controller/master): Initialize(null, null)
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+  usr: null
+  src: Стена (13,24,1) (/turf/simulated/wall/mineral/human/human2)
+  call stack:
+Стена (13,24,1) (/turf/simulated/wall/mineral/human/human2): SliceNDice('icons/turf/Events/Human/walls_...')
+Стена (13,24,1) (/turf/simulated/wall/mineral/human/human2): smooth set icon(0, /list (/list))
+cardinal smooth(Стена (13,24,1) (/turf/simulated/wall/mineral/human/human2), 0)
+smooth icon(Стена (13,24,1) (/turf/simulated/wall/mineral/human/human2))
+smooth zlevel(1, 1)
+Icon Smoothing (/datum/controller/subsystem/icon_smooth): Initialize(650506)
+Master (/datum/controller/master): Initialize(null, null)
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+  usr: null
+  src: Стена (14,24,1) (/turf/simulated/wall/mineral/human/human2)
+  call stack:
+Стена (14,24,1) (/turf/simulated/wall/mineral/human/human2): SliceNDice('icons/turf/Events/Human/walls_...')
+Стена (14,24,1) (/turf/simulated/wall/mineral/human/human2): smooth set icon(0, /list (/list))
+cardinal smooth(Стена (14,24,1) (/turf/simulated/wall/mineral/human/human2), 0)
+smooth icon(Стена (14,24,1) (/turf/simulated/wall/mineral/human/human2))
+smooth zlevel(1, 1)
+Icon Smoothing (/datum/controller/subsystem/icon_smooth): Initialize(650506)
+Master (/datum/controller/master): Initialize(null, null)
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+  usr: null
+  src: Стена (15,24,1) (/turf/simulated/wall/mineral/human/human11)
+  call stack:
+Стена (15,24,1) (/turf/simulated/wall/mineral/human/human11): SliceNDice('icons/turf/Events/Human/walls_...')
+Стена (15,24,1) (/turf/simulated/wall/mineral/human/human11): smooth set icon(0, /list (/list))
+cardinal smooth(Стена (15,24,1) (/turf/simulated/wall/mineral/human/human11), 0)
+smooth icon(Стена (15,24,1) (/turf/simulated/wall/mineral/human/human11))
+smooth zlevel(1, 1)
+Icon Smoothing (/datum/controller/subsystem/icon_smooth): Initialize(650506)
+Master (/datum/controller/master): Initialize(null, null)
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+  usr: null
+  src: Стена (3,25,1) (/turf/simulated/wall/mineral/human/human7)
+  call stack:
+Стена (3,25,1) (/turf/simulated/wall/mineral/human/human7): SliceNDice('icons/turf/Events/Human/walls_...')
+Стена (3,25,1) (/turf/simulated/wall/mineral/human/human7): smooth set icon(0, /list (/list))
+cardinal smooth(Стена (3,25,1) (/turf/simulated/wall/mineral/human/human7), 0)
+smooth icon(Стена (3,25,1) (/turf/simulated/wall/mineral/human/human7))
+smooth zlevel(1, 1)
+Icon Smoothing (/datum/controller/subsystem/icon_smooth): Initialize(650506)
+Master (/datum/controller/master): Initialize(null, null)
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+  usr: null
+  src: Стена (7,25,1) (/turf/simulated/wall/mineral/human/human7)
+  call stack:
+Стена (7,25,1) (/turf/simulated/wall/mineral/human/human7): SliceNDice('icons/turf/Events/Human/walls_...')
+Стена (7,25,1) (/turf/simulated/wall/mineral/human/human7): smooth set icon(0, /list (/list))
+cardinal smooth(Стена (7,25,1) (/turf/simulated/wall/mineral/human/human7), 0)
+smooth icon(Стена (7,25,1) (/turf/simulated/wall/mineral/human/human7))
+smooth zlevel(1, 1)
+Icon Smoothing (/datum/controller/subsystem/icon_smooth): Initialize(650506)
+Master (/datum/controller/master): Initialize(null, null)
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+  usr: null
+  src: Стена (11,25,1) (/turf/simulated/wall/mineral/human/human7)
+  call stack:
+Стена (11,25,1) (/turf/simulated/wall/mineral/human/human7): SliceNDice('icons/turf/Events/Human/walls_...')
+Стена (11,25,1) (/turf/simulated/wall/mineral/human/human7): smooth set icon(0, /list (/list))
+cardinal smooth(Стена (11,25,1) (/turf/simulated/wall/mineral/human/human7), 0)
+smooth icon(Стена (11,25,1) (/turf/simulated/wall/mineral/human/human7))
+smooth zlevel(1, 1)
+Icon Smoothing (/datum/controller/subsystem/icon_smooth): Initialize(650506)
+Master (/datum/controller/master): Initialize(null, null)
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+  usr: null
+  src: Стена (15,25,1) (/turf/simulated/wall/mineral/human/human7)
+  call stack:
+Стена (15,25,1) (/turf/simulated/wall/mineral/human/human7): SliceNDice('icons/turf/Events/Human/walls_...')
+Стена (15,25,1) (/turf/simulated/wall/mineral/human/human7): smooth set icon(0, /list (/list))
+cardinal smooth(Стена (15,25,1) (/turf/simulated/wall/mineral/human/human7), 0)
+smooth icon(Стена (15,25,1) (/turf/simulated/wall/mineral/human/human7))
+smooth zlevel(1, 1)
+Icon Smoothing (/datum/controller/subsystem/icon_smooth): Initialize(650506)
+Master (/datum/controller/master): Initialize(null, null)
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+  usr: null
+  src: Стена (3,26,1) (/turf/simulated/wall/mineral/human/human7)
+  call stack:
+Стена (3,26,1) (/turf/simulated/wall/mineral/human/human7): SliceNDice('icons/turf/Events/Human/walls_...')
+Стена (3,26,1) (/turf/simulated/wall/mineral/human/human7): smooth set icon(0, /list (/list))
+cardinal smooth(Стена (3,26,1) (/turf/simulated/wall/mineral/human/human7), 0)
+smooth icon(Стена (3,26,1) (/turf/simulated/wall/mineral/human/human7))
+smooth zlevel(1, 1)
+Icon Smoothing (/datum/controller/subsystem/icon_smooth): Initialize(650506)
+Master (/datum/controller/master): Initialize(null, null)
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+  usr: null
+  src: Стена (7,26,1) (/turf/simulated/wall/mineral/human/human7)
+  call stack:
+Стена (7,26,1) (/turf/simulated/wall/mineral/human/human7): SliceNDice('icons/turf/Events/Human/walls_...')
+Стена (7,26,1) (/turf/simulated/wall/mineral/human/human7): smooth set icon(0, /list (/list))
+cardinal smooth(Стена (7,26,1) (/turf/simulated/wall/mineral/human/human7), 0)
+smooth icon(Стена (7,26,1) (/turf/simulated/wall/mineral/human/human7))
+smooth zlevel(1, 1)
+Icon Smoothing (/datum/controller/subsystem/icon_smooth): Initialize(650506)
+Master (/datum/controller/master): Initialize(null, null)
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:10] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+
+[01:04:11] Unexpected Amount of States: Too few states: 0,  expected 4 (Non-Diagonal) or 7 (Diagonal) in icon_smooth.dm:105 :
+proc name: SliceNDice (/atom/proc/SliceNDice)
+  source file: icon_smooth.dm,105
+

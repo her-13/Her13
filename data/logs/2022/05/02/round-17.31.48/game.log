@@ -1,0 +1,30 @@
+[17:31:48] Server '' starting up on 26.166.93.76:51673
+[17:31:50]GAME: NASA satellite loaded at (233,99,4)
+[17:31:50]GAME: DJ Station loaded at (181,30,4)
+[17:31:51]GAME: robostation loaded at (12,33,3)
+[17:31:51]GAME: Broken Breacher loaded at (39,82,4)
+[17:31:51]GAME: Secrete Lab loaded at (67,107,3)
+[17:31:52]GAME: Derelict Station loaded at (94,125,4)
+[17:31:52]GAME: delivery_shuttle loaded at (175,157,3)
+[17:32:36]ADMIN: fatfat/(FatFat) has started the game.
+[17:32:39]MODE: Current master mode is extended
+[17:32:39]DEBUG: Next event of severity RoundStart in 0 minutes.
+[17:32:39]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[17:32:39]DEBUG: Next event of severity RoundStart in 0 minutes.
+[17:32:39]GAME: RoundStart Event: Selected areas is nothing
+[17:32:39]DEBUG: Starting event 'Dirt Bay' of severity RoundStart.
+[17:32:39]GAME: ANTAG LIST:
+no antagonists this moment
+[17:32:40]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[17:32:40]DEBUG: Event 'Dirt Bay' has completed at 12:00.
+[17:32:40]DEBUG: Next event of severity Mundane in 13.956 minutes.
+[17:32:40]DEBUG: Next event of severity Moderate in 42.294 minutes.
+[17:32:40]DEBUG: Next event of severity Major in 57.7 minutes.
+[17:32:42]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[17:32:50]ADMIN: fatfat/(Andre Fuchs) created a /mob/living/carbon/human
+[17:32:57]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[17:33:02]ADMIN: fatfat/(unknown) modified unknown's ckey to fatfat
+[17:33:03]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[17:33:15]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[17:33:25]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[17:33:45] Graceful shutdown

@@ -1,0 +1,91 @@
+[18:40:26] Server '' starting up on 192.168.0.7:62342
+[18:41:10]GAME: robostation loaded at (125,84,4)
+[18:41:11]GAME: Broken Breacher loaded at (130,38,3)
+[18:41:11]GAME: delivery_shuttle loaded at (197,143,3)
+[18:41:11]GAME: NT Ships Squad loaded at (215,190,4)
+[18:41:11]GAME: NASA satellite loaded at (59,203,4)
+[18:41:11]GAME: Abandoned Ship loaded at (130,143,3)
+[18:41:11]GAME: ghost_ship_2 loaded at (125,191,3)
+[18:41:46]ADMIN: fatfat/(Russell Cowart) has started the game.
+[18:41:48]MODE: Current master mode is extended
+[18:41:49]DEBUG: Next event of severity RoundStart in 0 minutes.
+[18:41:49]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[18:41:49]DEBUG: Next event of severity RoundStart in 0 minutes.
+[18:41:49]DEBUG: Starting event 'Forgotten Headset' of severity RoundStart.
+[18:41:49]DEBUG: Next event of severity RoundStart in 0 minutes.
+[18:41:49]DEBUG: Starting event 'Forgotten Watertanks' of severity RoundStart.
+[18:41:49]GAME: ANTAG LIST:
+no antagonists this moment
+[18:41:49]DEBUG: Event 'Roundstart Nothing' has completed at 12:01.
+[18:41:49]GAME: RoundStart Event: the radio headset was removed from the unknown
+[18:41:49]GAME: RoundStart Event: the radio headset was removed from the unknown
+[18:41:49]GAME: RoundStart Event: the radio headset was removed from the unknown
+[18:41:49]GAME: RoundStart Event: the radio headset was removed from the unknown
+[18:41:49]GAME: RoundStart Event: the radio headset was removed from the unknown
+[18:41:49]GAME: RoundStart Event: the radio headset was removed from the unknown
+[18:41:49]GAME: RoundStart Event: the radio headset was removed from the unknown
+[18:41:49]GAME: RoundStart Event: the radio headset was removed from the unknown
+[18:41:49]GAME: RoundStart Event: the radio headset was removed from the unknown
+[18:41:49]DEBUG: Event 'Forgotten Headset' has completed at 12:01.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]GAME: RoundStart Event: All watertank have been deleted.
+[18:41:49]DEBUG: Event 'Forgotten Watertanks' has completed at 12:01.
+[18:41:49]DEBUG: Next event of severity Mundane in 12.288 minutes.
+[18:41:49]DEBUG: Next event of severity Moderate in 47.482 minutes.
+[18:41:49]DEBUG: Next event of severity Major in 63.325 minutes.
+[18:41:56]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[18:42:00]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:42:04]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[18:42:06]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:42:08]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[18:42:09]ADMIN: fatfat/(Russell Cowart) jumped to Dwarf
+[18:42:16]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[18:42:25]ADMIN: fatfat/(Russell Cowart) created a /obj/structure/spawner/basilisk
+[18:42:27]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[18:42:30]ADMIN: fatfat/(Russell Cowart) created a /mob/living/carbon/human
+[18:42:33]SAY: *no key*/(DET5) : [Research Director's Office]: One...null...Beep
+[18:42:34]ADMIN: fatfat/(Russell Cowart) deleted the unknown at (181,80,6)
+[18:42:35]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[18:42:36]ADMIN: fatfat/(Russell Cowart) created a /mob/living/carbon/human/dummy
+[18:42:38]ADMIN: fatfat/(Russell Cowart) stuffed fatfat into unknown.
+[18:42:43]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[18:42:45]ADMIN: fatfat/(Test Dummy) deleted the basilisk at (177,79,6)
+[18:42:47]SAY: *no key*/(Dusty) : [Chief Medical Officer's office]: Purr!
+[18:42:47]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[18:42:52]ADMIN: fatfat/(Test Dummy) deleted the basilisk at (177,80,6)
+[18:42:55]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:42:57]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:43:19]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[18:43:19]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:43:23]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[18:43:31] Graceful shutdown

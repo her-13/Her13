@@ -1,0 +1,54 @@
+[19:58:27]TGUI: fatfat in browseroutput/initialize
+[20:01:10]TGUI: fatfat in browseroutput/initialize
+[20:01:16]TGUI: fatfat (as FatFat at (8,174,1))
+Using: /datum/tgui_modal [0x21022241]
+new AlertModal fancy 1
+[20:01:16]TGUI: fatfat in tgui-window-1/initialize
+Using: /datum/tgui_modal [0x21022241]
+[20:01:17]TGUI: fatfat (as FatFat at (8,174,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x21022241]
+Action: choose {"choice":"Yes"}
+[20:01:17]TGUI: fatfat in tgui-window-1/close (suspending)
+[20:02:17]TGUI: fatfat (as Esteban Coates at (228,203,1))
+Using: /datum/tgui_modal [0x210083de]
+new AlertModal fancy 1
+[20:02:18]TGUI: fatfat (as Esteban Coates at (228,203,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x210083de]
+Action: choose {"choice":"Yes"}
+[20:02:18]TGUI: fatfat in tgui-window-1/close (suspending)
+[20:15:47]TGUI: fatfat (as Unknown at (228,204,1))
+Using: /datum/tgui_modal [0x21012d94]
+new AlertModal fancy 1
+[20:15:48]TGUI: fatfat (as Unknown at (228,204,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x21012d94]
+Action: choose {"choice":"Yes"}
+[20:15:48]TGUI: fatfat in tgui-window-1/close (suspending)
+[20:17:18]TGUI: fatfat (as the unknown at (228,204,1))
+Using: /datum/tgui_modal [0x2101c340]
+new AlertModal fancy 1
+[20:17:19]TGUI: fatfat (as the unknown at (228,204,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x2101c340]
+Action: choose {"choice":"Yes"}
+[20:17:19]TGUI: fatfat in tgui-window-1/close (suspending)
+[20:17:57]TGUI: fatfat (as the unknown at (228,201,1))
+Using: /datum/tgui_modal [0x2101302e]
+new AlertModal fancy 1
+[20:17:58]TGUI: fatfat (as the unknown at (228,201,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x2101302e]
+Action: choose {"choice":"Yes"}
+[20:17:58]TGUI: fatfat in tgui-window-1/close (suspending)
+[20:18:49]TGUI: fatfat (as NIGERS at (228,202,1))
+Using: /datum/tgui_modal [0x21013440]
+new AlertModal fancy 1
+[20:18:50]TGUI: fatfat (as NIGERS at (228,202,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x21013440]
+Action: choose {"choice":"Style"}
+[20:18:50]TGUI: fatfat in tgui-window-1/close (suspending)
+[20:19:28]TGUI: fatfat (as NIGERS at (228,202,1))
+Using: /datum/tgui_modal [0x210134f9]
+new AlertModal fancy 1
+[20:19:29]TGUI: fatfat (as NIGERS at (228,202,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x210134f9]
+Action: choose {"choice":"Style"}
+[20:19:29]TGUI: fatfat in tgui-window-1/close (suspending)
+[20:46:06]TGUI: fatfat in browseroutput/initialize

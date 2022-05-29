@@ -1,0 +1,10 @@
+[18:04:28]TGUI: fatfat in browseroutput/initialize
+[18:04:39]TGUI: fatfat (as FatFat at (1,1,1))
+Using: /datum/tgui_modal [0x2101257f]
+new AlertModal fancy 1
+[18:04:39]TGUI: fatfat in tgui-window-1/initialize
+Using: /datum/tgui_modal [0x2101257f]
+[18:04:40]TGUI: fatfat (as FatFat at (1,1,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x2101257f]
+Action: choose {"choice":"Yes"}
+[18:04:40]TGUI: fatfat in tgui-window-1/close (suspending)

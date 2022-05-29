@@ -1,0 +1,1 @@
+[01:07:07]SQL: ERROR: not connected | SELECT job, bantime, bantype, reason, duration, expiration_time, a_ckey, round_id FROM erro_ban WHERE ckey = 'fatfat' AND (bantype = 'JOB_PERMABAN'  OR (bantype = 'JOB_TEMPBAN' AND expiration_time > Now())) AND isnull(unbanned)

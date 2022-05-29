@@ -1,0 +1,210 @@
+[22:17:49] Server '' starting up on 192.168.0.4:59178
+[22:18:18]GAME: escape_pod loaded at (133,184,3)
+[22:18:18]GAME: DJ Station loaded at (197,122,4)
+[22:18:18]GAME: syndicate_fighter loaded at (49,108,3)
+[22:18:18]GAME: Derelict Teleporter loaded at (48,70,3)
+[22:18:18]GAME: planetarium loaded at (172,164,3)
+[22:18:18]GAME: NASA satellite loaded at (217,218,4)
+[22:18:18]GAME: Abandoned Lab loaded at (21,182,3)
+[22:19:18]ADMIN: fatfat/(Alden Carr) has started the game.
+[22:19:21]MODE: Current master mode is extended
+[22:19:21]DEBUG: Next event of severity RoundStart in 0 minutes.
+[22:19:21]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[22:19:21]GAME: ANTAG LIST:
+no antagonists this moment
+[22:19:22]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[22:19:22]DEBUG: Next event of severity Mundane in 12.104 minutes.
+[22:19:22]DEBUG: Next event of severity Moderate in 40.592 minutes.
+[22:19:22]DEBUG: Next event of severity Major in 69.3167 minutes.
+[22:19:22]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:19:22]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:19:26]ADMIN: fatfat/(Alden Carr) created a /obj/vehicle/space/spacebike
+[22:19:31]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:19:33]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:19:35]ADMIN: fatfat/(Alden Carr) created a /mob/living/carbon/human
+[22:19:39]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:19:39]ADMIN: fatfat/(Alden Carr) stuffed fatfat into unknown.
+[22:19:41]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:19:41]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss
+[22:20:03]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:20:04]ADMIN: fatfat/(unknown) modified space-bike's overlays to /list
+[22:20:15]ADMIN: fatfat/(unknown) modified space-bike's bike_icon to pig
+[22:20:22]ADMIN: fatfat/(unknown) modified space-bike's icon to 1.dmi
+[22:20:23]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:20:23]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:20:26]ADMIN: fatfat/(unknown) modified space-bike's icon_state to pig
+[22:20:27]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:20:29]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:20:53]ADMIN: fatfat/(unknown) modified space-bike's layer to 5
+[22:20:55]SAY: *no key*/(Renault) : [Captain's Office]: Ack-Ack-Ack-Ackawoooo
+[22:21:01]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:21:01]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:21:11]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:21:15]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:21:20]ADMIN: fatfat/(unknown) modified space-bike's land_speed to 1
+[22:21:29]ADMIN: fatfat/(unknown) deleted the wall at (27,141,2)
+[22:21:31]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:21:31]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:21:37]EMOTE: fatfat/(unknown) : grunts in pain!
+[22:21:37]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:21:43]EMOTE: fatfat/(unknown) : grunts in pain!
+[22:21:43]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:21:44]ADMIN: fatfat/(unknown) jumped to (82,116,2) in Recycleroffice
+[22:21:45]SAY: *no key*/(Betsy) : [Hydroponics]: Moo?
+[22:21:49]ADMIN: fatfat/(unknown) jumped to (82,116,2) in Recycleroffice
+[22:21:54]ADMIN: fatfat/(unknown) has possessed the space-bike (/obj/vehicle/space/spacebike) at (82,113,2)
+[22:21:59]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:21:59]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:22:01]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:22:03]EMOTE: @fatfat/(unknown) : screams in pain loudly!
+[22:22:06]ADMIN: fatfat/(unknown) healed / revived @fatfat/(unknown)
+[22:22:19]SAY: *no key*/(DET5) : [Research Director's Office]: Boom...
+[22:22:27]SAY: *no key*/(Ian) : [Head of Personnel's Office]: Bark!
+[22:22:28]ADMIN: fatfat/(unknown) modified space-bike's x to 81
+[22:22:35]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:22:35]ADMIN: fatfat/(unknown) modified space-bike's y to 115
+[22:22:39]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:22:47]SAY: *no key*/(DET5) : [Research Director's Office]: Analyzing...
+[22:22:49]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:22:52]ADMIN: fatfat/(unknown) deleted Recycler office at (79,117,2)
+[22:22:55]SAY: *no key*/(DET5) : [Research Director's Office]: One...null...Beep
+[22:22:55]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:22:57]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:22:59]ADMIN: fatfat/(unknown) deleted Recycler office at (74,117,2)
+[22:23:29]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:23:33]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:23:43]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:23:47]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:23:49]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:23:53]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[22:23:57]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:24:01]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:24:03]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:24:07]SAY: *no key*/(DET5) : [Research Director's Office]: Not enough time
+[22:24:13]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:24:23]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:24:39]SAY: *no key*/(Tom (301)) : [Vault]: Squeek!
+[22:24:41]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:24:43]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:24:45]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[22:24:51]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:25:01]SAY: *no key*/(DET5) : [Research Director's Office]: Beep
+[22:25:13]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:25:15]SAY: *no key*/(Wall-E) : [Quartermaster's Office]: Buzz.
+[22:25:23]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[22:25:27]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[22:25:47]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:25:53]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:25:53]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:26:03]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[22:26:05]SAY: *no key*/(SyndiCat) : [Syndicate Forward Operating Base]: Purr!
+[22:26:11]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:26:12]ADMIN: fatfat/(unknown) modified space-bike's icon to 1.dmi
+[22:26:17]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:26:23]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:26:25]SAY: *no key*/(Betsy) : [Hydroponics]: MOOOOOO
+[22:26:37]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:26:37]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:26:43]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:26:45]SAY: *no key*/(Renault) : [Captain's Office]: Geckers
+[22:26:45]SAY: *no key*/(Wall-E) : [Quartermaster's Office]: Beep-Boop
+[22:26:45]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:26:49]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:26:51]SAY: *no key*/(DET5) : [Research Director's Office]: Successfully
+[22:26:53]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:26:56]ADMIN: fatfat/(unknown) modified space-bike's add_overlays to overlay_pig.dmi
+[22:26:57]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:26:57]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:27:07]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:27:13]SAY: *no key*/(Ian) : [Head of Personnel's Office]: Bark!
+[22:27:19]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:27:19]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:27:23]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:27:46]SAY: *no key*/(DET5) : [Research Director's Office]: Director, where are researches?
+[22:27:47]SAY: *no key*/(Runtime) : [Cargo Bay]: Зафиксирована аномалия #99. Пожалуйста, отойдите подальше.
+[22:27:50]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[22:27:50]SAY: *no key*/(Betsy) : [Hydroponics]: Moo?
+[22:27:54]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:27:54]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[22:28:00]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:28:06]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[22:28:14]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:28:22]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss
+[22:28:26]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:28:29]ADMIN: fatfat/(unknown) created a /obj/vehicle/space/spacebike
+[22:28:30]SAY: *no key*/(DET5) : [Research Director's Office]: Boom...
+[22:28:30]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:28:58]SAY: *no key*/(Experiment 97d) : [Wizard's Den]: EHEHEHEHEH
+[22:29:00]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:29:10]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[22:29:14]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[22:29:16]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:29:24]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:29:25]GAME: Roundstart logout report
+
+
+[22:29:26]ADMIN: fatfat/(unknown) created a /obj/vehicle/space/spacebike
+[22:29:28]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:29:28]SAY: *no key*/(Ian) : [Head of Personnel's Office]: Woof!
+[22:29:32]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:29:34]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:29:42]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:29:42]SAY: *no key*/(Renault) : [Captain's Office]: Ack-Ack
+[22:29:46]SAY: *no key*/(DET5) : [Research Director's Office]: One...two...three...more...
+[22:29:52]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:29:52]SAY: *no key*/(DET5) : [Research Director's Office]: One...two...three...more...
+[22:29:52]SAY: *no key*/(SyndiCat) : [Syndicate Forward Operating Base]: Purr!
+[22:29:56]SAY: *no key*/(DET5) : [Research Director's Office]: Not enough time
+[22:29:56]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:29:58]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:29:58]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[22:30:02]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:30:02]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:30:16]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:30:22]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:30:23]ADMIN: fatfat/(unknown) deleted the space-bike at (58,115,2)
+[22:30:26]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:30:27]ADMIN: fatfat/(unknown) deleted the space-bike at (59,117,2)
+[22:30:36]SAY: *no key*/(Wall-E) : [Quartermaster's Office]: Beep-Boop
+[22:30:37]ADMIN: fatfat/(unknown) created a /obj/vehicle/space/spacebike
+[22:30:44]ADMIN: fatfat/(unknown) modified space-bike's icon_state to 
+[22:30:48]ADMIN: fatfat/(unknown) modified space-bike's icon_state to pig
+[22:30:52]ADMIN: fatfat/(unknown) modified space-bike's bike_icon to pig
+[22:30:54]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[22:30:56]ADMIN: fatfat/(unknown) modified space-bike's icon to 1.dmi
+[22:31:00]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:31:00]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:31:10]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:31:12]SAY: *no key*/(Renault) : [Captain's Office]: Awoo
+[22:31:12]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[22:31:22]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:31:32]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[22:31:34]DEBUG: Next event of severity Mundane in 17.684 minutes.
+[22:31:34]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[22:31:54]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:31:56]DEBUG: Event 'Mundane News' has completed at 12:13.
+[22:31:56]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:31:58]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:32:04]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:32:06]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:32:08]SAY: *no key*/(DET5) : [Research Director's Office]: One...two...three...more...
+[22:32:10]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[22:32:16]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:32:16]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:32:18]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:32:20]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:32:24]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:32:32]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:32:36]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[22:32:46]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:32:50]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:32:54]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:32:54]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[22:33:02]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:33:10]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:33:17]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:33:19]ADMIN: fatfat/(unknown) modified space-bike's add_overlays to overlay_pig.dmi
+[22:33:29]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:33:33]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:33:35]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:33:37] Graceful shutdown

@@ -1,0 +1,40 @@
+[22:43:06] Server '' starting up on 192.168.0.5:64899
+[22:43:42]GAME: Abandoned Lab loaded at (103,175,3)
+[22:43:42]GAME: DJ Station loaded at (152,54,3)
+[22:43:42]GAME: delivery_shuttle loaded at (166,151,3)
+[22:43:42]GAME: Abandoned Ship loaded at (161,73,4)
+[22:43:42]GAME: teleporter loaded at (169,158,4)
+[22:43:42]GAME: ghost_ship_1 loaded at (21,189,4)
+[22:43:42]GAME: Tree Asteroid loaded at (72,153,3)
+[22:45:31]ADMIN: fatfat/(Grandpa Wells) created a /mob/living/simple_animal/space_worm/head
+[22:45:39]ADMIN: fatfat/(Grandpa Wells) teleported *no key*/(space worm head)
+[22:45:50]ADMIN: fatfat/(Grandpa Wells) has started the game.
+[22:45:53]MODE: Current master mode is extended
+[22:45:53]DEBUG: Next event of severity RoundStart in 0 minutes.
+[22:45:53]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[22:45:53]DEBUG: Next event of severity RoundStart in 0 minutes.
+[22:45:53]DEBUG: Starting event 'BlueScreen APC' of severity RoundStart.
+[22:45:53]GAME: ANTAG LIST:
+no antagonists this moment
+[22:45:54]DEBUG: Event 'Roundstart Nothing' has completed at 12:01.
+[22:45:54]GAME: RoundStart Event: Cold Room APC bluescreen in (81,123,2).
+[22:45:54]GAME: RoundStart Event: Barbershop APC bluescreen in (98,120,2).
+[22:45:54]GAME: RoundStart Event: Cyborg Station APC bluescreen in (123,117,2).
+[22:45:54]GAME: RoundStart Event: Engineering Monitoring Room APC bluescreen in (123,99,2).
+[22:45:54]GAME: RoundStart Event: Science Maintenance APC bluescreen in (166,158,2).
+[22:45:54]GAME: RoundStart Event: Mining Station Starboard Wing APC bluescreen in (167,71,6).
+[22:45:54]DEBUG: Event 'BlueScreen APC' has completed at 12:01.
+[22:45:54]DEBUG: Next event of severity Mundane in 15.612 minutes.
+[22:45:54]DEBUG: Next event of severity Moderate in 45.25 minutes.
+[22:45:54]DEBUG: Next event of severity Major in 62.4267 minutes.
+[22:45:57]ADMIN: fatfat/(Grandpa Wells) stuffed fatfat into space worm head.
+[22:46:07]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[22:46:13]SAY: *no key*/(Commander Clucky) : [Hydroponics]: BWAAAAARK BWAK BWAK BWAK!
+[22:46:19]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:46:19]SAY: *no key*/(mouse (356)) : [Auxiliary Storage]: Squeek?
+[22:46:29]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:46:33]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:46:37]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[22:46:39]ATTACK: *no key*/(space worm head) has been gnawed, by fatfat/(space worm head)
+[22:46:40]ATTACK: *no key*/(space worm head) has been gnawed, by fatfat/(space worm head)
+[22:46:47] Graceful shutdown

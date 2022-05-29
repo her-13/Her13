@@ -1,0 +1,21 @@
+[01:09:04] Server '' starting up on 26.166.93.76:61413
+[01:09:07]GAME: Space Toilet loaded at (206,201,4)
+[01:09:07]GAME: agrosphere loaded at (131,47,4)
+[01:09:07]GAME: escape_pod loaded at (77,196,4)
+[01:09:07]GAME: Abandoned Lab loaded at (86,131,3)
+[01:09:07]GAME: delivery_shuttle loaded at (52,149,3)
+[01:09:08]GAME: ghost_ship_1 loaded at (169,144,3)
+[01:09:08]GAME: NT Ships Squad loaded at (185,130,4)
+[01:09:22]ADMIN: fatfat/(FatFat) will begin the game as soon as possible.
+[01:09:26]ADMIN: fatfat/(FatFat) will begin the game as normal.
+[01:09:29]ADMIN: fatfat/(FatFat) has started the game.
+[01:09:31]MODE: Current master mode is extended
+[01:09:31]DEBUG: Next event of severity RoundStart in 0 minutes.
+[01:09:31]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[01:09:31]GAME: ANTAG LIST:
+no antagonists this moment
+[01:09:32]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[01:09:32]DEBUG: Next event of severity Mundane in 16.072 minutes.
+[01:09:32]DEBUG: Next event of severity Moderate in 39.19 minutes.
+[01:09:32]DEBUG: Next event of severity Major in 58.5333 minutes.
+[01:09:45] Graceful shutdown

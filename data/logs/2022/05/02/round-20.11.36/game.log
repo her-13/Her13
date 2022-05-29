@@ -1,0 +1,30 @@
+[20:11:36] Server '' starting up on 26.166.93.76:49178
+[20:11:39]GAME: Derelict Station loaded at (28,71,3)
+[20:11:39]GAME: Abandoned Cargo Shuttle loaded at (142,118,3)
+[20:11:40]GAME: Clown Shuttle loaded at (198,77,3)
+[20:11:40]GAME: Abandoned Ship loaded at (133,186,3)
+[20:11:40]GAME: ghost_ship_1 loaded at (140,176,4)
+[20:11:40]GAME: escape_pod loaded at (179,69,4)
+[20:11:40]GAME: Abandoned Lab loaded at (98,178,4)
+[20:12:08]ADMIN: fatfat/(FatFat) has started the game.
+[20:12:11]MODE: Current master mode is extended
+[20:12:11]DEBUG: Next event of severity RoundStart in 0 minutes.
+[20:12:11]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[20:12:11]DEBUG: Next event of severity RoundStart in 0 minutes.
+[20:12:11]GAME: RoundStart Event: Selected areas is nothing
+[20:12:11]DEBUG: Starting event 'Anti meat' of severity RoundStart.
+[20:12:11]DEBUG: Next event of severity RoundStart in 0 minutes.
+[20:12:11]GAME: RoundStart Event: Selected areas is nothing
+[20:12:11]DEBUG: Starting event 'Armory Mess' of severity RoundStart.
+[20:12:11]GAME: ANTAG LIST:
+no antagonists this moment
+[20:12:12]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[20:12:12]DEBUG: Event 'Anti meat' has completed at 12:00.
+[20:12:12]DEBUG: Event 'Armory Mess' has completed at 12:00.
+[20:12:12]DEBUG: Next event of severity Mundane in 15.238 minutes.
+[20:12:12]DEBUG: Next event of severity Moderate in 51.136 minutes.
+[20:12:12]DEBUG: Next event of severity Major in 57.805 minutes.
+[20:12:25]ADMIN: fatfat/(Parker Anderson) created a /obj/item/weapon/rcs
+[20:12:30]ATTACK: fatfat/(Parker Anderson) has been attacked with rapid-crate-sender (RCS) (INTENT: HELP) (DAMTYPE: BRUTE), by fatfat/(Parker Anderson)
+[20:12:30]EMOTE: fatfat/(Parker Anderson) : <b>Parker Anderson</b> <i>grunts.</i>
+[20:12:43] Graceful shutdown

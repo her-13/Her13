@@ -1,0 +1,554 @@
+[19:58:05] Server '' starting up on 192.168.0.4:55845
+[19:58:34]GAME: delivery_shuttle loaded at (147,159,3)
+[19:58:34]GAME: syndicate_fighter loaded at (161,187,3)
+[19:58:34]GAME: DJ Station loaded at (58,138,4)
+[19:58:34]GAME: agrosphere loaded at (90,91,3)
+[19:58:34]GAME: robostation loaded at (109,147,4)
+[19:58:34]GAME: teleporter loaded at (176,26,3)
+[20:01:20]ADMIN: fatfat/(Esteban Coates) has started the game.
+[20:01:23]MODE: Current master mode is extended
+[20:01:24]DEBUG: Next event of severity RoundStart in 0 minutes.
+[20:01:24]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[20:01:24]GAME: ANTAG LIST:
+no antagonists this moment
+[20:01:25]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[20:01:25]DEBUG: Next event of severity Mundane in 17.962 minutes.
+[20:01:25]DEBUG: Next event of severity Moderate in 43.586 minutes.
+[20:01:25]DEBUG: Next event of severity Major in 52.835 minutes.
+[20:01:25]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[20:01:29]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[20:01:31]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[20:01:38]ADMIN: fatfat/(Esteban Coates) jumped to Syndicate Control Room
+[20:01:45]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[20:01:49]SAY: *no key*/(Commander Clucky) : [Hydroponics]: BWAAAAARK BWAK BWAK BWAK!
+[20:01:49]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:01:51]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[20:01:58]ADMIN: fatfat/(Esteban Coates) jumped to Syndicate Forward Operating Base
+[20:02:01]SAY: *no key*/(Renault) : [Captain's Office]: Ack-Ack-Ack-Ackawoooo
+[20:02:07]ADMIN: fatfat/(Esteban Coates) created a /mob/living/carbon/human
+[20:02:16]ADMIN: fatfat/(Esteban Coates) created a /obj/vehicle/space/spacebike
+[20:02:18]ADMIN: fatfat/(Esteban Coates) stuffed fatfat into unknown.
+[20:02:20]SAY: *no key*/(DET5) : [Research Director's Office]: One...null...Beep
+[20:02:22]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[20:02:24]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[20:02:32]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[20:02:32]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:02:36]SAY: *no key*/(Betsy) : [Hydroponics]: Moo
+[20:02:36]SAY: *no key*/(Experiment 97d) : [Wizard's Den]: Eh?
+[20:02:39]ADMIN: fatfat/(unknown) modified space-bike's icon to icons/mob/animal.dmi
+[20:02:40]SAY: *no key*/(mouse (546)) : [Atmospherics Maintenance]: Squeek?
+[20:02:40]SAY: *no key*/(Commander Clucky) : [Hydroponics]: BWAAAAARK BWAK BWAK BWAK!
+[20:02:46]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[20:02:54]SAY: *no key*/(DET5) : [Research Director's Office]: Analyzing...
+[20:02:55]ADMIN: fatfat/(unknown) modified space-bike's icon_state to pig
+[20:02:56]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss
+[20:03:02]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[20:03:16]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[20:03:17]ADMIN: fatfat/(unknown) modified space-bike's icon_state to pig
+[20:03:18]SAY: *no key*/(Dusty) : [Chief Medical Officer's office]: Purr!
+[20:03:28]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[20:03:32]SAY: *no key*/(DET5) : [Research Director's Office]: ED-209 protect me
+[20:03:36]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[20:03:38]SAY: *no key*/(DET5) : [Research Director's Office]: One...two...three...more...
+[20:03:44]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[20:03:52]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[20:03:58]SAY: *no key*/(E-N) : [Head of Security's Office]: Bark!
+[20:04:04]SAY: *no key*/(DET5) : [Research Director's Office]: Z-z-z-zero
+[20:04:14]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[20:04:26]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[20:04:35]ADMIN: fatfat/(unknown) created a /obj/structure/stool/bed/chair/office/light
+[20:04:36]SAY: *no key*/(DET5) : [Research Director's Office]: ...this is a joke
+[20:04:44]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[20:04:44]SAY: *no key*/(Renault) : [Captain's Office]: Ack-Ack-Ack-Ackawoooo
+[20:04:46]SAY: *no key*/(mouse (175)) : [Engineering Maintenance]: SQUEEK!
+[20:04:57]SAY: *no key*/(DET5) : [Research Director's Office]: Z-z-z-zero
+[20:04:57]ADMIN: fatfat/(unknown) modified chair's icon to icons/mob/animal.dmi
+[20:04:59]SAY: *no key*/(mouse (175)) : [Engineering Maintenance]: Squeek?
+[20:05:01]ADMIN: fatfat/(unknown) modified chair's icon_state to pig
+[20:05:12]ADMIN: fatfat/(unknown) modified chair's icon_state to pig
+[20:05:13]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[20:05:13]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[20:05:15]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[20:05:23]ADMIN: fatfat/(unknown) modified chair's layer to 6
+[20:05:29]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:05:30]ADMIN: fatfat/(unknown) modified chair's layer to 1
+[20:05:31]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[20:05:33]SAY: *no key*/(mouse (889)) : [Engineering Maintenance]: Squeek!
+[20:05:33]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[20:05:43]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[20:05:49]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[20:06:01]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[20:06:15]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[20:06:19]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[20:06:19]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[20:06:25]ADMIN: fatfat/(unknown) created a /obj/structure/stool
+[20:06:38]ADMIN: fatfat/(unknown) created a /obj/structure/stool/bed/chair/metal/red
+[20:06:39]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[20:06:43]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:06:45]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[20:06:55]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[20:06:59]ADMIN: fatfat/(unknown) modified chair's icon_state to pig
+[20:07:15]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[20:07:21]SAY: *no key*/(Experiment 97d) : [Wizard's Den]: EHEHEHEHEH
+[20:07:23]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[20:07:27]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[20:07:30]ADMIN: fatfat/(unknown) modified space-bike's icon_state to pig
+[20:07:53]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[20:07:56]ADMIN: fatfat/(unknown) modified space-bike's remove_overlays to TRUE
+[20:08:06]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[20:08:06]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:08:06]ADMIN: fatfat/(unknown) modified space-bike's layer to 5
+[20:08:12]ADMIN: fatfat/(unknown) modified space-bike's layer to 3
+[20:08:36]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[20:08:44]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[20:08:44]SAY: *no key*/(Commander Clucky) : [Hydroponics]: BWAAAAARK BWAK BWAK BWAK!
+[20:08:46]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[20:08:48]SAY: *no key*/(DET5) : [Research Director's Office]: One...two...three...more...
+[20:08:52]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[20:08:54]SAY: *no key*/(Dusty) : [Chief Medical Officer's office]: Purr!
+[20:09:16]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[20:09:18]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[20:09:22]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[20:09:40]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[20:09:46]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[20:09:58]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[20:10:02]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[20:10:04]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:10:08]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[20:10:08]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[20:10:20]SAY: *no key*/(DET5) : [Research Director's Office]: ED-209 protect me
+[20:10:22]SAY: *no key*/(mouse (889)) : [Engineering Maintenance]: Squeek!
+[20:10:28]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[20:10:50]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[20:10:54]SAY: *no key*/(DET5) : [Research Director's Office]: Beep
+[20:11:02]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[20:11:06]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:11:08]SAY: *no key*/(Renault) : [Captain's Office]: Awoo
+[20:11:08]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[20:11:10]ADMIN: fatfat/(unknown) created a /obj/mecha/combat/honker
+[20:11:12]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[20:11:22]ADMIN: fatfat/(unknown) modified H.O.N.K's icon to icons/mob/animal.dmi
+[20:11:22]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[20:11:25]ADMIN: fatfat/(unknown) modified H.O.N.K's initial_icon to pig
+[20:11:26]SAY: *no key*/(Ian) : [Head of Personnel's Office]: Woof!
+[20:11:27]GAME: Roundstart logout report
+
+
+[20:11:31]ADMIN: fatfat/(unknown) modified H.O.N.K's icon_state to pig
+[20:11:40]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[20:11:47]SAY: *no key*/(Wall-E) : [Quartermaster's Office]: Buzz.
+[20:11:47]ADMIN: fatfat/(unknown) changed the equipment of fatfat/(unknown) to clown.
+[20:11:59]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[20:11:59]ADMIN: fatfat/(unknown) created a /obj/mecha/combat/marauder/seraph
+[20:12:03]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[20:12:09]ADMIN: fatfat/(unknown) modified Seraph's icon to icons/mob/animal.dmi
+[20:12:13]SAY: *no key*/(DET5) : [Research Director's Office]: One...two...three...more...
+[20:12:14]ADMIN: fatfat/(unknown) modified Seraph's icon_state to pig
+[20:12:24]ADMIN: fatfat/(unknown) created a /obj/mecha/medical/odysseus
+[20:12:32]ADMIN: fatfat/(unknown) has moved in /obj/mecha/medical/odysseus with name Odysseus
+[20:12:39]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[20:12:39]ADMIN: fatfat/(unknown) modified Odysseus's icon_state to pig
+[20:12:45]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[20:12:49]ADMIN: fatfat/(unknown) modified Odysseus's icon to icons/mob/animal.dmi
+[20:12:49]SAY: *no key*/(Commander Clucky) : [Hydroponics]: Cluck!
+[20:12:55]ADMIN: fatfat/(unknown) has moved out of /obj/mecha/medical/odysseus with name Odysseus
+[20:13:21]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[20:13:37]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[20:13:43]SAY: *no key*/(Experiment 97d) : [Wizard's Den]: Eh?
+[20:13:45]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[20:13:49]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[20:13:51]ADMIN: fatfat/(unknown) created a /obj/structure/scrap/vehicle
+[20:13:56]ADMIN: fatfat/(unknown) created a /obj/structure/scrap/vehicle
+[20:14:01]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[20:14:06]ADMIN: fatfat/(unknown) created a /obj/vehicle/space
+[20:14:11]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[20:14:17]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[20:14:21]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss
+[20:14:22]ADMIN: fatfat/(unknown) modified vehicle's icon to icons/mob/animal.dmi
+[20:14:27]ADMIN: fatfat/(unknown) modified vehicle's icon_state to pig
+[20:14:29]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[20:14:35]SAY: *no key*/(DET5) : [Research Director's Office]: Science time
+[20:14:35]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[20:14:41]SAY: *no key*/(DET5) : [Research Director's Office]: Beep
+[20:14:47]SAY: *no key*/(DET5) : [Research Director's Office]: Science time
+[20:15:07]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[20:15:19]SAY: *no key*/(E-N) : [Head of Security's Office]: Woof!
+[20:15:19]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[20:15:23]ADMIN: fatfat/(unknown) modified space-bike's remove_overlays to 1
+[20:15:42]SAY: *no key*/(grey baby slime (989)) : [Xenobiology Lab]: Hungry...
+[20:15:52]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[20:16:06]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[20:16:15]ADMIN: fatfat/(unknown) modified space-bike's overlays to /list
+[20:16:16]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[20:16:18]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[20:16:26]SAY: *no key*/(DET5) : [Research Director's Office]: Science time
+[20:16:34]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[20:16:34]ADMIN: fatfat/(unknown) modified space-bike's layer to 4
+[20:16:46]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[20:16:48]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:16:54]SAY: *no key*/(DET5) : [Research Director's Office]: Director, where are researches?
+[20:17:02]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[20:17:03]ADMIN: fatfat/(unknown) created a /obj/structure/mirror/magic
+[20:17:16]SAY: *no key*/(DET5) : [Research Director's Office]: Director, where are researches?
+[20:17:16]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[20:17:19]ADMIN: fatfat/(unknown) deleted Seraph at (227,204,1)
+[20:17:22]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[20:17:37]ADMIN: fatfat/(unknown) healed / revived fatfat/(unknown)
+[20:17:38]SAY: *no key*/(DET5) : [Research Director's Office]: ED-209 protect me
+[20:17:40]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[20:17:48]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[20:17:56]ADMIN: fatfat/(unknown) created a /mob/living/carbon/human
+[20:17:58]ADMIN: fatfat/(unknown) stuffed fatfat into unknown.
+[20:18:02]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[20:18:10]SAY: *no key*/(DET5) : [Research Director's Office]: Analyzing...
+[20:18:10]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[20:18:10]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[20:18:21]ADMIN: fatfat/(Tom) changed the equipment of fatfat/(Tom) to jolly gravedigger.
+[20:18:28]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[20:18:36]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[20:18:38]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[20:19:25]SAY: *no key*/(Commander Clucky) : [Hydroponics]: BWAAAAARK BWAK BWAK BWAK!
+[20:19:29]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:19:29]DEBUG: Next event of severity Mundane in 17.142 minutes.
+[20:19:29]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[20:19:35]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[20:19:45]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[20:19:47]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[20:19:51]DEBUG: Event 'Trivial News' has completed at 12:19.
+[20:19:59]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[20:20:05]ADMIN: fatfat/(NIGERS) created a /obj/item/weapon/changeling_hammer
+[20:20:09]SAY: *no key*/(Commander Clucky) : [Hydroponics]: Bwaak bwak.
+[20:20:13]ADMIN: fatfat/(NIGERS) created a /obj/item/weapon/pickaxe/drill/jackhammer
+[20:20:16]ADMIN: fatfat/(NIGERS) created a /obj/item/weapon/banhammer
+[20:20:21]SAY: *no key*/(Ian) : [Head of Personnel's Office]: Woof!
+[20:20:23]ADMIN: fatfat/(NIGERS) created a /obj/item/weapon/sledgehammer
+[20:20:31]SAY: *no key*/(Renault) : [Captain's Office]: Ack-Ack-Ack-Ackawoooo
+[20:20:31]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:20:33]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[20:20:33]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[20:20:37]SAY: *no key*/(Wall-E) : [Quartermaster's Office]: Buzz.
+[20:20:37]SAY: *no key*/(Experiment 97d) : [Wizard's Den]: EHEHEHEHEH
+[20:20:37]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:20:38]ADMIN: fatfat/(NIGERS) modified space-bike's layer to 6
+[20:20:39]SAY: *no key*/(DET5) : [Research Director's Office]: One...two...three...more...
+[20:20:43]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[20:20:45]SAY: *no key*/(DET5) : [Research Director's Office]: Boom...
+[20:20:51]SAY: *no key*/(DET5) : [Research Director's Office]: Science time
+[20:21:01]ADMIN: fatfat/(NIGERS) modified NIGERS's layer to 4
+[20:21:06]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss
+[20:21:08]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[20:21:08]SAY: *no key*/(DET5) : [Research Director's Office]: Not enough time
+[20:21:22]ADMIN: fatfat/(NIGERS) modified NIGERS's layer to 3
+[20:21:31]ADMIN: fatfat/(NIGERS) modified NIGERS's default_layer to 3
+[20:21:35]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[20:21:35]ADMIN: fatfat/(NIGERS) modified NIGERS's layer to 3
+[20:21:45]SAY: *no key*/(DET5) : [Research Director's Office]: Analyzing...
+[20:21:47]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[20:21:51]SAY: *no key*/(DET5) : [Research Director's Office]: One...two...three...more...
+[20:21:51]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[20:21:53]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:21:55]SAY: *no key*/(DET5) : [Research Director's Office]: ED-209 protect me
+[20:21:55]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:22:16]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[20:22:18]ADMIN: fatfat/(NIGERS) modified space-bike's layer to 7
+[20:22:36]SAY: *no key*/(DET5) : [Research Director's Office]: Beep
+[20:22:38]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[20:22:44]SAY: *no key*/(DET5) : [Research Director's Office]: Science time
+[20:22:50]ADMIN: fatfat/(NIGERS) modified NIGERS's layer to 8
+[20:22:57]SAY: *no key*/(DET5) : [Research Director's Office]: Beep
+[20:23:00]ADMIN: fatfat/(NIGERS) modified space-bike's layer to 11
+[20:23:11]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[20:23:13]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:23:18]ADMIN: fatfat/(NIGERS) jumped to Gym
+[20:23:40]ATTACK: fatfat/(NIGERS) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:23:40]EMOTE: fatfat/(NIGERS) : writhes in heavy pain and screams!
+[20:23:46]ADMIN: fatfat/(NIGERS) healed / revived fatfat/(NIGERS)
+[20:23:56]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[20:24:00]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[20:24:04]SAY: *no key*/(Renault) : [Captain's Office]: Geckers
+[20:24:04]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[20:24:06]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[20:24:12]SAY: *no key*/(DET5) : [Research Director's Office]: One...two...three...more...
+[20:24:16]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:24:27]ADMIN: fatfat/(NIGERS) jumped to (132,151,2) in Dormitories
+[20:24:44]ADMIN: fatfat/(NIGERS) created a /obj/item/clothing/shoes/sandal
+[20:24:44]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[20:24:46]SAY: *no key*/(DET5) : [Research Director's Office]: Not enough time
+[20:24:46]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[20:24:53]ADMIN: fatfat/(NIGERS) jumped to @fatfat/(unknown)
+[20:25:08]SAY: *no key*/(Dusty) : [Chief Medical Officer's office]: Purr!
+[20:25:10]ADMIN: fatfat/(NIGERS) modified NIGERS's layer to 3
+[20:25:14]SAY: *no key*/(DET5) : [Research Director's Office]: Z-z-z-zero
+[20:25:15]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[20:25:24]ADMIN: fatfat/(NIGERS) modified space-bike's land_speed to 1
+[20:25:45]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:25:45]EMOTE: @fatfat/(unknown) : screams in pain as much as he can!
+[20:25:47]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:25:49]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[20:25:50]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:25:50]EMOTE: @fatfat/(unknown) : screams in pain loudly!
+[20:25:59]SAY: *no key*/(Commander Clucky) : [Hydroponics]: Cluck!
+[20:26:01]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[20:26:05]EMOTE: @fatfat/(unknown) : screams in agony!
+[20:26:07]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:26:09]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[20:26:11]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[20:26:15]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[20:26:15]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[20:26:35]SAY: *no key*/(grey baby slime (989)) : [Xenobiology Lab]: I want to eat...
+[20:26:53]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[20:26:55]SAY: *no key*/(grey baby slime (116)) : [Xenobiology Lab]: I want to eat...
+[20:26:57]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[20:27:07]EMOTE: @fatfat/(unknown) : screams in pain loudly!
+[20:27:07]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[20:27:23]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[20:27:29]SAY: *no key*/(DET5) : [Research Director's Office]: Successfully
+[20:27:31]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[20:27:37]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[20:28:01]EMOTE: @fatfat/(unknown) : screams in pain as much as he can!
+[20:28:01]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[20:28:05]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[20:28:09]SAY: *no key*/(grey baby slime (989)) : [Xenobiology Lab]: Lonely...
+[20:28:23]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[20:28:31]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:28:48]EMOTE: @fatfat/(unknown) : screams in pain loudly!
+[20:28:48]EMOTE: @fatfat/(unknown) : <span class='emote'><B>The unknown</B> can no longer stand, collapsing!</span>
+[20:29:00]EMOTE: @fatfat/(unknown) : gasps!
+[20:29:00]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[20:29:04]EMOTE: @fatfat/(unknown) : gasps!
+[20:29:04]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[20:29:04]SAY: *no key*/(SyndiCat) : [Syndicate Forward Operating Base]: Meow!
+[20:29:04]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:29:12]EMOTE: @fatfat/(unknown) : gasps!
+[20:29:24]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[20:29:30]EMOTE: @fatfat/(unknown) : gasps!
+[20:29:44]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[20:29:46]EMOTE: @fatfat/(unknown) : seizes up and falls limp, his eyes dead and lifeless...
+[20:29:56]SAY: *no key*/(Commander Clucky) : [Hydroponics]: Bwaak bwak.
+[20:29:58]SAY: *no key*/(DET5) : [Research Director's Office]: Analyzing...
+[20:30:12]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[20:30:17]ADMIN: fatfat/(NIGERS) modified Sledgehammer's hitsound to 35560-meme.ogg
+[20:30:18]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[20:30:28]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[20:30:30]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:30:31]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:30:34]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:30:38]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[20:30:42]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[20:30:56]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:30:57]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:30:58]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:31:00]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:31:00]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[20:31:01]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:31:03]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:31:08]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[20:31:13]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:31:14]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[20:31:16]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:31:16]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[20:31:31]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[20:31:32]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[20:31:41]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[20:31:45]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[20:31:57]SAY: *no key*/(DET5) : [Research Director's Office]: Z-z-z-zero
+[20:32:01]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:32:02]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:32:03]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:32:06]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:32:07]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[20:32:07]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:32:08]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:32:10]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:32:12]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:32:19]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[20:32:35]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[20:32:37]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[20:32:41]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[20:32:41]SAY: *no key*/(Commander Clucky) : [Hydroponics]: BWAAAAARK BWAK BWAK BWAK!
+[20:32:41]SAY: *no key*/(SyndiCat) : [Syndicate Forward Operating Base]: Esp!
+[20:32:47]SAY: *no key*/(grey baby slime (116)) : [Xenobiology Lab]: Hungry...
+[20:32:59]SAY: *no key*/(Betsy) : [Hydroponics]: Moo
+[20:33:01]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[20:33:21]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[20:33:37]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[20:34:10]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[20:34:12]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[20:34:16]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:34:18]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[20:34:24]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[20:34:36]SAY: *no key*/(Wall-E) : [Quartermaster's Office]: Eva? Evaaa!
+[20:34:38]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:34:40]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:34:44]SAY: *no key*/(DET5) : [Research Director's Office]: One...null...Beep
+[20:34:45]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:34:46]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:34:50]SAY: *no key*/(Dusty) : [Chief Medical Officer's office]: Meow!
+[20:34:52]SAY: *no key*/(DET5) : [Research Director's Office]: One...two...three...more...
+[20:34:53]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:34:54]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[20:34:55]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:34:56]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:34:57]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:34:58]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:35:00]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:35:01]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:35:06]SAY: *no key*/(SyndiCat) : [Syndicate Forward Operating Base]: Purr!
+[20:35:09]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:35:10]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:35:12]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:35:12]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[20:35:13]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:35:16]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[20:35:28]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:35:50]SAY: *no key*/(DET5) : [Research Director's Office]: ...this is a joke
+[20:35:56]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:35:56]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[20:35:58]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:35:59]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:36:02]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:36:09]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:36:11]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:36:14]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[20:36:20]SAY: *no key*/(Ian) : [Head of Personnel's Office]: Bark!
+[20:36:24]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[20:36:25]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:36:27]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:36:28]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:36:29]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:36:30]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:36:31]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:36:31]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:36:32]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[20:36:32]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:36:33]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:36:34]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:36:38]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[20:36:46]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[20:36:53]DEBUG: Next event of severity Mundane in 13.064 minutes.
+[20:36:53]DEBUG: Starting event 'Nothing' of severity Mundane.
+[20:36:55]DEBUG: Event 'Nothing' has completed at 12:36.
+[20:36:57]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HELP) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:36:59]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HELP) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:37:04]SAY: *no key*/(Dusty) : [Chief Medical Officer's office]: Purr!
+[20:37:05]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HELP) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:37:06]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HELP) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:37:08]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HELP) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:37:08]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:37:09]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HELP) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:37:10]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[20:37:12]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[20:37:16]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[20:37:18]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[20:37:32]SAY: *no key*/(Wall-E) : [Quartermaster's Office]: Beep-Boop
+[20:37:36]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[20:37:38]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[20:37:42]SAY: *no key*/(grey baby slime (116)) : [Xenobiology Lab]: Blop...
+[20:37:42]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[20:37:48]SAY: *no key*/(E-N) : [Head of Security's Office]: Woof!
+[20:37:54]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[20:37:57]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:38:00]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:38:02]SAY: *no key*/(DET5) : [Research Director's Office]: Director, where are researches?
+[20:38:12]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:38:13]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:38:13]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[20:38:14]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:38:15]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:38:15]SAY: *no key*/(SyndiCat) : [Syndicate Forward Operating Base]: Purr!
+[20:38:17]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[20:38:24]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:38:25]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[20:38:26]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:38:27]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[20:38:27]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:38:29]SAY: *no key*/(grey baby slime (116)) : [Xenobiology Lab]: Blop...
+[20:38:29]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:38:30]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:38:31]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:38:33]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[20:38:35]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:38:36]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:38:37]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:38:38]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:38:38]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:38:39]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[20:38:39]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:46:26]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[20:46:37]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:46:41]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[20:46:45]SAY: *no key*/(DET5) : [Research Director's Office]: One...two...three...more...
+[20:46:49]ADMIN: fatfat/(NIGERS) created a /obj/vehicle/space/spacebike
+[20:46:53]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[20:47:03]EMOTE: fatfat/(NIGERS) : икает.
+[20:47:04]ADMIN: fatfat/(NIGERS) mass modified space-bike's overlays to /list
+[20:47:11]SAY: *no key*/(DET5) : [Research Director's Office]: Successfully
+[20:47:11]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[20:47:11]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[20:47:18]ADMIN: fatfat/(NIGERS) modified space-bike's bike_icon to pig
+[20:47:23]EMOTE: fatfat/(NIGERS) : икает.
+[20:47:33]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[20:47:37]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[20:47:41]ADMIN: fatfat/(NIGERS) modified space-bike's icon to icons/mob/animal.dmi
+[20:47:41]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[20:47:44]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[20:47:46]ADMIN: fatfat/(NIGERS) modified space-bike's icon_state to pig
+[20:47:46]SAY: *no key*/(Ian) : [Head of Personnel's Office]: AUUUUUU
+[20:47:58]ADMIN: fatfat/(NIGERS) modified space-bike's layer to 5
+[20:48:02]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[20:48:26]SAY: *no key*/(grey baby slime (989)) : [Xenobiology Lab]: So... hungry...
+[20:48:27]ADMIN: fatfat/(NIGERS) modified space-bike's icon_state to pig
+[20:48:35]ADMIN: fatfat/(NIGERS) modified space-bike's fly_speed to 3
+[20:48:37]ADMIN: fatfat/(NIGERS) modified space-bike's land_speed to 1
+[20:48:38]SAY: *no key*/(grey baby slime (116)) : [Xenobiology Lab]: Very... hungry...
+[20:48:39]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:48:41]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:48:42]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:48:42]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[20:48:43]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:48:44]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:48:45]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:48:46]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:48:47]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:48:47]ATTACK: @fatfat/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:48:48]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[20:48:50]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[20:48:50]SAY: *no key*/(Commander Clucky) : [Hydroponics]: Cluck!
+[20:48:52]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[20:48:54]ADMIN: fatfat/(NIGERS) created a /mob/living/carbon/human
+[20:48:55]ADMIN: fatfat/(NIGERS) created a /mob/living/carbon/human
+[20:48:56]ATTACK: *no key*/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:48:56]EMOTE: *no key*/(unknown) : screams in pain as much as he can!
+[20:48:57]ATTACK: *no key*/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:48:57]EMOTE: *no key*/(unknown) : screams in agony!
+[20:48:58]ADMIN: fatfat/(NIGERS) created a /mob/living/carbon/human
+[20:48:59]ATTACK: *no key*/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:48:59]EMOTE: *no key*/(unknown) : screams in agony!
+[20:49:00]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[20:49:01]ADMIN: fatfat/(NIGERS) created a /mob/living/carbon/human
+[20:49:01]ATTACK: *no key*/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:49:01]EMOTE: *no key*/(unknown) : screams in pain as much as he can!
+[20:49:02]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[20:49:04]ATTACK: *no key*/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:49:05]ATTACK: *no key*/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:49:05]EMOTE: *no key*/(unknown) : screams in agony!
+[20:49:07]ATTACK: *no key*/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:49:07]EMOTE: *no key*/(unknown) : screams in pain loudly!
+[20:49:08]ATTACK: *no key*/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:49:08]EMOTE: *no key*/(unknown) : screams in pain as much as he can!
+[20:49:15]SAY: *no key*/(grey baby slime (989)) : [Xenobiology Lab]: Lonely...
+[20:49:17]SAY: *no key*/(Betsy) : [Hydroponics]: Moo?
+[20:49:18]ATTACK: *no key*/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:49:18]EMOTE: *no key*/(unknown) : screams in pain as much as he can!
+[20:49:20]ATTACK: *no key*/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:49:20]EMOTE: *no key*/(unknown) : screams in agony!
+[20:49:21]ATTACK: *no key*/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:49:21]EMOTE: *no key*/(unknown) : screams in pain as much as he can!
+[20:49:22]ATTACK: *no key*/(unknown) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(NIGERS)
+[20:49:22]EMOTE: *no key*/(unknown) : screams in agony!
+[20:49:25]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[20:49:27]ADMIN: fatfat/(NIGERS) jumped to (222,209,1) in Space
+[20:49:27]SAY: *no key*/(grey baby slime (989)) : [Xenobiology Lab]: Very... hungry...
+[20:49:29]SAY: *no key*/(grey baby slime (989)) : [Xenobiology Lab]: Rawr...
+[20:49:30]ADMIN: fatfat/(NIGERS) jumped to (225,207,1) in Syndicate Mothership
+[22:14:34] Graceful shutdown

@@ -1,0 +1,27 @@
+[20:09:31]TGUI: fatfat in browseroutput/initialize
+[20:09:41]TGUI: fatfat (as FatFat at (8,174,1))
+Using: /datum/tgui_modal [0x21000930]
+new AlertModal fancy 1
+[20:09:41]TGUI: fatfat in tgui-window-1/initialize
+Using: /datum/tgui_modal [0x21000930]
+[20:09:43]TGUI: fatfat (as FatFat at (8,174,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x21000930]
+Action: choose {"choice":"Yes"}
+[20:09:43]TGUI: fatfat in tgui-window-1/close (suspending)
+[20:10:53]TGUI: fatfat in browseroutput/initialize
+[20:11:04]TGUI: fatfat (as Ulric Schrader at (56,141,2))
+Using: /datum/tgui_modal [0x210254d8]
+new AlertModal fancy 1
+[20:11:04]TGUI: fatfat in tgui-window-1/initialize
+Using: /datum/tgui_modal [0x210254d8]
+[20:11:05]TGUI: fatfat (as Ulric Schrader at (56,141,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x210254d8]
+Action: choose {"choice":"Yes"}
+[20:11:05]TGUI: fatfat in tgui-window-1/close (suspending)
+[20:11:19]TGUI: fatfat (as the unknown at (56,142,2))
+Using: /datum/tgui_modal [0x21013ac8]
+new AlertModal fancy 1
+[20:11:20]TGUI: fatfat (as the unknown at (56,142,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x21013ac8]
+Action: choose {"choice":"Yes"}
+[20:11:20]TGUI: fatfat in tgui-window-1/close (suspending)

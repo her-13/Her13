@@ -1,0 +1,27 @@
+[14:29:42] Server '' starting up on 26.166.93.76:52784
+[14:29:44]GAME: syndicate_fighter loaded at (38,146,3)
+[14:29:44]GAME: delivery_shuttle loaded at (111,122,4)
+[14:29:45]GAME: planetarium loaded at (77,100,3)
+[14:29:45]GAME: NASA satellite loaded at (142,149,3)
+[14:29:45]GAME: Broken Breacher loaded at (60,188,4)
+[14:29:45]GAME: Derelict Teleporter loaded at (184,221,3)
+[14:30:11]ADMIN: fatfat/(FatFat) has started the game.
+[14:30:14]MODE: Current master mode is extended
+[14:30:14]DEBUG: Next event of severity RoundStart in 0 minutes.
+[14:30:14]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[14:30:14]DEBUG: Next event of severity RoundStart in 0 minutes.
+[14:30:14]GAME: RoundStart Event: Selected areas is nothing
+[14:30:14]DEBUG: Starting event 'Bridge Mess' of severity RoundStart.
+[14:30:14]DEBUG: Next event of severity RoundStart in 0 minutes.
+[14:30:14]DEBUG: Starting event 'Die Monkey' of severity RoundStart.
+[14:30:14]GAME: ANTAG LIST:
+no antagonists this moment
+[14:30:15]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[14:30:15]DEBUG: Event 'Bridge Mess' has completed at 12:00.
+[14:30:15]GAME: RoundStart Event: All the monkeys died.
+[14:30:15]DEBUG: Event 'Die Monkey' has completed at 12:00.
+[14:30:15]DEBUG: Next event of severity Mundane in 15.084 minutes.
+[14:30:15]DEBUG: Next event of severity Moderate in 50.862 minutes.
+[14:30:15]DEBUG: Next event of severity Major in 53.62 minutes.
+[14:30:23]SAY: *no key*/(Runtime) : [Space]: Зафиксирована аномалия #1510. Пожалуйста, отойдите подальше.
+[14:33:55] Graceful shutdown

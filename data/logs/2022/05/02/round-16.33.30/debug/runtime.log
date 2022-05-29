@@ -1,0 +1,39 @@
+[16:33:30] Base SHA: fdbccba9556539bad21f346ada389159d11af49e
+
+[16:33:59] pick() from empty list in observer.dm:77 :
+proc name: atom init (/mob/dead/observer/atom_init)
+  source file: observer.dm,77
+  usr: (src)
+  src: the ghost (/mob/dead/observer)
+  src.loc: null
+  call stack:
+the ghost (/mob/dead/observer): atom init(0)
+Atoms (/datum/controller/subsystem/atoms): InitAtom(the ghost (/mob/dead/observer), /list (/list))
+the ghost (/mob/dead/observer): New(0)
+the ghost (/mob/dead/observer): New(null)
+FatFat (/mob/dead/new_player): Topic("src=\[0x3000002];lobby_observe...", /list (/list))
+FatFat (/client): Topic("src=\[0x3000002];lobby_observe...", /list (/list), FatFat (/mob/dead/new_player))
+
+[16:33:59] pick() from empty list in observer.dm:77 :
+proc name: atom init (/mob/dead/observer/atom_init)
+  source file: observer.dm,77
+  usr: (src)
+  src: the ghost (/mob/dead/observer)
+  src.loc: null
+  call stack:
+the ghost (/mob/dead/observer): atom init(1)
+Atoms (/datum/controller/subsystem/atoms): InitAtom(the ghost (/mob/dead/observer), /list (/list))
+the ghost (/mob/dead/observer): New(1)
+FatFat (/mob/dead/new_player): Topic("src=\[0x3000002];lobby_observe...", /list (/list))
+FatFat (/client): Topic("src=\[0x3000002];lobby_observe...", /list (/list), FatFat (/mob/dead/new_player))
+
+[16:33:59] Cannot read null.loc in new_player.dm:126 :
+proc name: Topic (/mob/dead/new_player/Topic)
+  source file: new_player.dm,126
+  usr: (src)
+  src: FatFat (/mob/dead/new_player)
+  src.loc: Grass patch (1,1,1) (/turf/simulated/floor/grass)
+  call stack:
+FatFat (/mob/dead/new_player): Topic("src=\[0x3000002];lobby_observe...", /list (/list))
+FatFat (/client): Topic("src=\[0x3000002];lobby_observe...", /list (/list), FatFat (/mob/dead/new_player))
+

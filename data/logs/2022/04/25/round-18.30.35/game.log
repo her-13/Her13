@@ -1,0 +1,475 @@
+[18:30:35] Server '' starting up on 26.166.93.76:61621
+[18:31:09]GAME: Abandoned Ship loaded at (36,69,3)
+[18:31:09]GAME: teleporter loaded at (195,59,4)
+[18:31:09]GAME: Tree Asteroid loaded at (90,211,4)
+[18:31:09]GAME: agrosphere loaded at (188,13,3)
+[18:31:09]GAME: ghost_ship_1 loaded at (139,129,3)
+[18:31:10]GAME: NT Ships Squad loaded at (91,143,4)
+[18:31:10]GAME: Derelict Teleporter loaded at (49,111,4)
+[18:31:18]ADMIN: fatfat/(FatFat) will begin the game as soon as possible.
+[18:31:26]ADMIN: fatfat/(Chip Compton) jumped to Research and Development
+[18:31:33]ADMIN: fatfat/(Chip Compton) created a /mob/living/carbon/human
+[18:31:52]ADMIN: fatfat/(Chip Compton) stuffed fatfat into unknown.
+[18:31:54]MODE: Current master mode is extended
+[18:31:55]DEBUG: Next event of severity RoundStart in 0 minutes.
+[18:31:55]DEBUG: Starting event 'Forgotten Survival Box' of severity RoundStart.
+[18:31:55]DEBUG: Next event of severity RoundStart in 0 minutes.
+[18:31:55]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[18:31:55]GAME: ANTAG LIST:
+no antagonists this moment
+[18:31:56]DEBUG: Event 'Forgotten Survival Box' has completed at 12:00.
+[18:31:56]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[18:31:56]DEBUG: Next event of severity Mundane in 15.902 minutes.
+[18:31:56]DEBUG: Next event of severity Moderate in 45.752 minutes.
+[18:31:56]DEBUG: Next event of severity Major in 68.6233 minutes.
+[18:32:03]ADMIN: fatfat/(unknown) teleported heavenlyblue/(Devin Holdeman)
+[18:32:04]ADMIN: heavenlyblue/(Devin Holdeman) jumped to Research and Development
+[18:32:06]ATTACK: *no key*/(strong goliath) has been pulverized, by *no key*/(friendly goliath)
+[18:32:06]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:32:07]ADMIN: fatfat/(unknown) changed the equipment of fatfat/(unknown) to captain.
+[18:32:08]ATTACK: *no key*/(friendly goliath) has been pulverized, by *no key*/(strong goliath)
+[18:32:10]ATTACK: *no key*/(friendly goliath) has been pulverized, by *no key*/(goliath)
+[18:32:10]SAY: *no key*/(DET5) : [Research Director's Office]: Beep
+[18:32:14]ATTACK: *no key*/(friendly goliath) has been pulverized, by *no key*/(goliath)
+[18:32:14]ATTACK: *no key*/(strong goliath) has been pulverized, by *no key*/(friendly goliath)
+[18:32:14]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Я спросил.
+[18:32:16]ATTACK: *no key*/(friendly goliath) has been pulverized, by *no key*/(goliath)
+[18:32:16]SAY: fatfat/(unknown) : [Toxins Mixing Room]: У человечка.
+[18:32:21]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Оптимальное значение дл труы.
+[18:32:22]ATTACK: *no key*/(friendly goliath) has been pulverized, by *no key*/(strong goliath)
+[18:32:22]ATTACK: *no key*/(goliath) has been pulverized, by *no key*/(friendly goliath)
+[18:32:24]ATTACK: *no key*/(friendly goliath) has been pulverized, by *no key*/(strong goliath)
+[18:32:24]SAY: fatfat/(unknown) : [Toxins Mixing Room]: 250.
+[18:32:26]ATTACK: *no key*/(friendly goliath) has been pulverized, by *no key*/(strong goliath)
+[18:32:26]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Говорит.
+[18:32:28]ATTACK: *no key*/(friendly goliath) has been pulverized, by *no key*/(healthy goliath)
+[18:32:29]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Пробуй.
+[18:32:30]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Mixing Room]: А что за чел.
+[18:32:34]SAY: *no key*/(Commander Clucky) : [Hydroponics]: BWAAAAARK BWAK BWAK BWAK!
+[18:32:34]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Человечек.
+[18:32:38]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:32:54]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[18:33:06]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:33:12]SAY: *no key*/(grey baby slime (703)) : [Xenobiology Lab]: Rawr...
+[18:33:14]SAY: *no key*/(shantak) : [Space]: Shuhn
+[18:33:20]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:33:26]SAY: *no key*/(mouse (387)) : [Engineering]: Squeek?
+[18:33:27]ATTACK: fatfat/(unknown) has been attacked with chain of command (INTENT: HELP) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[18:33:32]ADMIN: fatfat/(unknown) healed / revived fatfat/(unknown)
+[18:33:46]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:33:50]ADMIN: fatfat/(unknown) created a /obj/item/weapon/grenade/clusterbuster/soap
+[18:33:55]ADMIN: fatfat/(unknown) created a /obj/item/weapon/reagent_containers/food/snacks/soap
+[18:33:58]SAY: *no key*/(DET5) : [Research Director's Office]: Science time
+[18:33:58]SAY: *no key*/(Betsy) : [Hydroponics]: Moo
+[18:34:02]SAY: *no key*/(E-N) : [Head of Security's Office]: YAP
+[18:34:14]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[18:34:20]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:34:28]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:34:28]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Mixing Room]: Надо еще баллоны опустошить вроде.
+[18:34:30]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Опустошай пока.
+[18:34:30]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[18:34:34]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Здесь кислород.
+[18:34:36]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Тут форон.
+[18:34:40]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Не перемешивая.
+[18:34:40]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:34:42]SAY: *no key*/(DET5) : [Research Director's Office]: Not enough time
+[18:34:48]SAY: *no key*/(DET5) : [Research Director's Office]: ED-209 protect me
+[18:34:50]SAY: *no key*/(Betsy) : [Hydroponics]: Moo?
+[18:35:02]SAY: *no key*/(mouse (292)) : [Medbay Maintenance]: Squeek?
+[18:35:16]SAY: *no key*/(DET5) : [Research Director's Office]: ...this is a joke
+[18:35:18]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Mixing Room]: Не работает.
+[18:35:32]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss
+[18:35:43]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:35:46]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Во.
+[18:35:47]SAY: fatfat/(unknown) : [Toxins Mixing Room]: На стрелочку.
+[18:35:50]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Внизу.
+[18:35:52]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Посередине.
+[18:35:53]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:35:54]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Чтобы 101кпа.
+[18:35:55]SAY: *no key*/(Dusty) : [Chief Medical Officer's office]: Esp!
+[18:35:55]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Mixing Room]: Ясно.
+[18:35:59]SAY: *no key*/(Commander Clucky) : [Hydroponics]: Cluck!
+[18:36:00]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Форон опустошай.
+[18:36:19]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Пускай.
+[18:36:23]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:36:23]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Стой куда.
+[18:36:33]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Трубу.
+[18:36:35]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[18:36:35]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Запускай.
+[18:36:37]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:36:43]SAY: fatfat/(unknown) : [Toxins Mixing Room]: 250.
+[18:36:47]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[18:36:49]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Там максимум.
+[18:37:03]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Уже 330.
+[18:37:08]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Так быстрее греется.
+[18:37:13]SAY: *no key*/(mouse (590)) : [Incinerator]: SQUEEK!
+[18:37:31]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[18:37:35]ADMIN: fatfat/(unknown) told everyone to man up and deal with it.
+[18:37:39]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:37:51]SAY: *no key*/(Renault) : [Captain's Office]: Awoo
+[18:38:09]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:38:21]EMOTE: *no key*/(Ian) : chases its tail
+[18:38:21]ADMINPRIVATE: fatfat/(unknown)->fatfat/(unknown): тест
+[18:38:29]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[18:38:30]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Я поставил кастомный бвонк.
+[18:38:31]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Крутой.
+[18:38:38]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Mixing Room]: Чел харош.
+[18:38:39]SAY: *no key*/(shantak) : [Space]: Shrunnph?
+[18:38:45]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:38:49]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Кислород готов уже.
+[18:38:53]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Заполни на 800.
+[18:39:01]SAY: *no key*/(grey baby slime (87)) : [Xenobiology Lab]: Rawr...
+[18:39:01]SAY: *no key*/(Commander Clucky) : [Hydroponics]: BWAAAAARK BWAK BWAK BWAK!
+[18:39:12]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Добивай.
+[18:39:15]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Простым фороном.
+[18:39:19]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[18:39:21]SAY: *no key*/(DET5) : [Research Director's Office]: Science time
+[18:39:27]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[18:39:29]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Научный канал не забываем врубать.
+[18:39:31]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[18:39:42]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Тут почти нагрелось.
+[18:39:49]SAY: fatfat/(unknown) : [Toxins Mixing Room]: А ты знаешь про эми взрывы?
+[18:39:51]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:39:53]SAY: *no key*/(shantak) : [Space]: Shrunnph?
+[18:39:54]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Mixing Room]: Нет.
+[18:39:59]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Ну короче.
+[18:40:01]SAY: *no key*/(shantak) : [Space]: Shrunnph?
+[18:40:02]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Блюспейс банки.
+[18:40:03]SAY: fatfat/(unknown) : [Toxins Mixing Room]: 2 штуки.
+[18:40:06]SAY: fatfat/(unknown) : [Toxins Mixing Room]: В одной уран.
+[18:40:08]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Полностью.
+[18:40:16]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Во второй алюминий помоему.
+[18:40:22]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Это взрыв на 50к очков.
+[18:40:27]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Гранатой типо.
+[18:40:29]SAY: *no key*/(DET5) : [Research Director's Office]: Beep
+[18:40:30]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Mixing Room]: А ясно.
+[18:40:36]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Готово.
+[18:40:38]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Суй форон.
+[18:40:45]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:40:48]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Mixing Room]: Сколько.
+[18:40:50]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Mixing Room]: Полный?
+[18:40:50]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Весь.
+[18:40:51]SAY: *no key*/(Commander Clucky) : [Hydroponics]: BWAAAAARK BWAK BWAK BWAK!
+[18:41:00]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Суй в клапан.
+[18:41:03]SAY: *no key*/(DET5) : [Research Director's Office]: Z-z-z-zero
+[18:41:04]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Стой.
+[18:41:08]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Это тот?
+[18:41:10]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Mixing Room]: Да.
+[18:41:12]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Ладно.
+[18:41:14]GAME: heavenlyblue/(Devin Holdeman) attached a the proximity sensor to a transfer valve.
+[18:41:15]SAY: *no key*/(DET5) : [Research Director's Office]: ED-209 protect me
+[18:41:18]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Нет.
+[18:41:20]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Это не тот.
+[18:41:23]SAY: fatfat/(unknown) : [Toxins Mixing Room]: У него 300к.
+[18:41:25]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:41:32]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Mixing Room]: Другого нет.
+[18:41:33]SAY: *no key*/(samak) : [Space]: Hruuugh!
+[18:41:37]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Mixing Room]: Это он.
+[18:41:37]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:41:39]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:41:39]SAY: fatfat/(unknown) : [Toxins Mixing Room]: А.
+[18:41:40]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Точно.
+[18:41:44]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Сори.
+[18:41:45]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Зря быканул.
+[18:41:47]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:41:48]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Тыж туда форон уже.
+[18:41:49]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Налил.
+[18:41:58]GAME: Roundstart logout report
+
+
+[18:42:00]ATTACK: fatfat/(unknown) has been attacked with chain of command (INTENT: HELP) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[18:42:01]ATTACK: fatfat/(unknown) has been attacked with chain of command (INTENT: HELP) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[18:42:01]EMOTE: fatfat/(unknown) : <b>The unknown</b> <i>grunts.</i>
+[18:42:10]ADMIN: fatfat/(unknown) healed / revived fatfat/(unknown)
+[18:42:11]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:42:16]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Mixing Room]: Как сделать.
+[18:42:18]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[18:42:22]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Тыж уже сунул.
+[18:42:23]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Сигналер.
+[18:42:26]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Mixing Room]: Нет.
+[18:42:29]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Положи.
+[18:42:34]GAME: heavenlyblue/(Devin Holdeman) attached a the remote signaling device to a transfer valve.
+[18:42:36]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Mixing Room]: А я понял.
+[18:42:38]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:42:48]SAY: *no key*/(DET5) : [Research Director's Office]: Boom...
+[18:42:50]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Нафига ты плеть принес.
+[18:42:51]ATTACK: fatfat/(unknown) has been attacked with chain of command (INTENT: HELP) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[18:43:01]ATTACK: fatfat/(unknown) has been attacked with chain of command (INTENT: HELP) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[18:43:01]EMOTE: fatfat/(unknown) : <b>The unknown</b> <i>grunts.</i>
+[18:43:16]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Канал врубил?
+[18:43:18]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Научный.
+[18:43:20]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Launch Roon]: Врубил.
+[18:43:32]ADMIN: fatfat/(unknown) healed / revived fatfat/(unknown)
+[18:43:35]GAME: Bomb valve opened in Toxins Test Site with the remote signaling device attacher: Devin Holdeman(heavenlyblue), last touched by heavenlyblue/(Devin Holdeman)
+[18:43:35]GAME: heavenlyblue(Devin Holdeman) used the remote signaling device, location (159,161,2),frequency: 145.7, code:30
+[18:43:36]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:43:37]GAME: Explosion with size (51) in area Toxins Test Site
+[18:43:38]SAY: *no key*/(shantak) : [Space]: Shunpf
+[18:43:42]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Во.
+[18:43:43]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Красава.
+[18:43:44]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Launch Roon]: Кайфарик.
+[18:43:49]SAY: fatfat/(unknown) : [Toxins Launch Roon]: 51.
+[18:43:54]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Надо тебе в раунд.
+[18:43:55]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Закрепить.
+[18:43:57]SAY: fatfat/(unknown) : [Toxins Launch Roon]: А то забудешь.
+[18:43:58]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Как я.
+[18:44:01]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Я вот научился.
+[18:44:01]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Launch Roon]: Надо реально.
+[18:44:03]SAY: fatfat/(unknown) : [Toxins Launch Roon]: И забыл.
+[18:44:09]SAY: fatfat/(unknown) : [Toxins Launch Roon]: И цифры эти записать.
+[18:44:10]SAY: fatfat/(unknown) : [Toxins Launch Roon]: 250.
+[18:44:12]SAY: fatfat/(unknown) : [Toxins Launch Roon]: 600.
+[18:44:13]SAY: fatfat/(unknown) : [Toxins Launch Roon]: 800.
+[18:44:18]SAY: *no key*/(Wall-E) : [Quartermaster's Office]: Buzz.
+[18:44:24]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:44:26]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[18:44:31]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Щас еще поищу.
+[18:44:32]EMOTE: *no key*/(Ian) : chases its tail
+[18:44:34]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Кое че крутое.
+[18:44:44]EMOTE: fatfat/(unknown) : <b>The unknown</b> <i>gasps!</i>
+[18:44:47]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:44:50]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:44:50]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[18:44:52]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:44:56]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:44:58]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:44:58]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:45:00]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:45:00]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:45:02]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:45:02]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:45:02]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:45:04]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>coughs.</i>
+[18:45:06]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>gasps!</i>
+[18:45:06]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:45:07]ADMIN: heavenlyblue/(Devin Holdeman) healed / Rrvived heavenlyblue/(Devin Holdeman)
+[18:45:08]EMOTE: fatfat/(unknown) : <b>The unknown</b> <i>gasps!</i>
+[18:45:10]EMOTE: fatfat/(unknown) : <b>The unknown</b> <i>gasps!</i>
+[18:45:12]EMOTE: fatfat/(unknown) : <b>The unknown</b> <i>gasps!</i>
+[18:45:14]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:45:14]EMOTE: fatfat/(unknown) : <b>The unknown</b> <i>gasps!</i>
+[18:45:16]EMOTE: fatfat/(unknown) : <b>The unknown</b> <i>gasps!</i>
+[18:45:18]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:45:20]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:45:20]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:45:20]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[18:45:22]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:45:22]SAY: *no key*/(Wall-E) : [Quartermaster's Office]: Eva? Evaaa!
+[18:45:24]ADMIN: heavenlyblue/(Devin Holdeman) jumped to (167,164,2) in Xenobiology Lab
+[18:45:24]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>gasps!</i>
+[18:45:26]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:45:27]ADMIN: heavenlyblue/(Devin Holdeman) healed / Rrvived heavenlyblue/(Devin Holdeman)
+[18:45:28]SAY: *no key*/(DET5) : [Research Director's Office]: ...this is a joke
+[18:45:31]ADMIN: heavenlyblue/(Devin Holdeman) deleted Xenobiology Internal Airlock at (169,161,2)
+[18:45:33]ADMIN: heavenlyblue/(Devin Holdeman) deleted Xenobiology External Airlock at (169,157,2)
+[18:45:48]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[18:45:50]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:45:52]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[18:45:54]ATTACK: Devin Holdeman (heavenlyblue) primed Slipocalypse
+[18:45:54]GAME: heavenlyblue/(Devin Holdeman) has primed a Slipocalypse for detonation at Toxins Launch Roon (159,159,2).
+[18:45:56]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:45:56]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:46:00]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Почти нашел.
+[18:46:20]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>gasps!</i>
+[18:46:24]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[18:46:53]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:46:55]SAY: *no key*/(grey baby slime (703)) : [Xenobiology Lab]: Lonely...
+[18:46:59]EMOTE: *no key*/(Ian) : dances around
+[18:47:05]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[18:47:08]ADMIN: heavenlyblue/(Devin Holdeman) healed / Rrvived heavenlyblue/(Devin Holdeman)
+[18:47:11]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>snores.</i>
+[18:47:13]SAY: heavenlyblue/(Devin Holdeman) : [Science Maintenance]: Что ты ищешь.
+[18:47:18]ADMIN: heavenlyblue/(Devin Holdeman) healed / Rrvived heavenlyblue/(Devin Holdeman)
+[18:47:21]SAY: *no key*/(E-N) : [Head of Security's Office]: YAP
+[18:47:23]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[18:47:24]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>snores.</i>
+[18:47:27]SAY: fatfat/(unknown) : [Science Maintenance]: Пушку.
+[18:47:31]SAY: fatfat/(unknown) : [Science Maintenance]: Которую можно заряжать.
+[18:47:33]SAY: fatfat/(unknown) : [Science Maintenance]: Лимитками.
+[18:47:35]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>gasps!</i>
+[18:47:37]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:47:37]SAY: fatfat/(unknown) : [Science Maintenance]: Она стреляет линией взрыва.
+[18:47:41]SAY: fatfat/(unknown) : [Science Maintenance]: Пытаюсь вспомнить.
+[18:47:45]SAY: fatfat/(unknown) : [Science Maintenance]: Сделай пока вторую бомбу.
+[18:47:47]SAY: fatfat/(unknown) : [Science Maintenance]: А я найду.
+[18:47:47]SAY: fatfat/(unknown) : [Science Maintenance]: Пушу.
+[18:47:49]SAY: fatfat/(unknown) : [Science Maintenance]: Пушку.
+[18:47:51]SAY: *no key*/(DET5) : [Research Director's Office]: Successfully
+[18:47:57]DEBUG: Next event of severity Mundane in 17.05 minutes.
+[18:47:57]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[18:48:07]SAY: *no key*/(grey baby slime (87)) : [Xenobiology Lab]: I want to eat...
+[18:48:07]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:48:11]ADMIN: fatfat/(unknown) created a /obj/item/weapon/gun/energy/mindflayer
+[18:48:19]DEBUG: Event 'Trivial News' has completed at 12:17.
+[18:48:27]SAY: *no key*/(Wall-E) : [Quartermaster's Office]: Buzz.
+[18:48:29]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:48:29]ADMIN: fatfat/(unknown) created a /obj/item/weapon/gun/projectile/automatic/gyropistol
+[18:48:37]SAY: *no key*/(grey baby slime (87)) : [Xenobiology Lab]: Lonely...
+[18:48:39]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[18:48:49]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[18:48:51]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[18:48:55]SAY: *no key*/(shantak) : [Wizard's Den]: Shuhn
+[18:49:07]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[18:49:11]SAY: *no key*/(Commander Clucky) : [Hydroponics]: Bwaak bwak.
+[18:49:26]ADMIN: fatfat/(unknown) created a /obj/item/ammo_box/magazine/internal/cylinder/flaregun
+[18:49:45]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:49:45]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Mixing Room]: Tam nelzya opustoshit.
+[18:49:50]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Mixing Room]: Vozdux.
+[18:49:55]SAY: fatfat/(unknown) : [Science Maintenance]: Заспавнь.
+[18:49:56]SAY: fatfat/(unknown) : [Science Maintenance]: Еще.
+[18:49:58]SAY: fatfat/(unknown) : [Science Maintenance]: Помпу.
+[18:50:02]ADMIN: fatfat/(unknown) created a /obj/item/weapon/gun/energy/gun/nuclear
+[18:50:09]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:50:15]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[18:50:21]SAY: *no key*/(DET5) : [Research Director's Office]: Z-z-z-zero
+[18:50:25]SAY: *no key*/(DET5) : [Research Director's Office]: Beep
+[18:50:27]ADMIN: heavenlyblue/(Devin Holdeman) spawned /obj/machinery/portable_atmospherics/powered/pump/filled at (160,149,2)
+[18:50:33]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:50:33]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:50:53]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[18:51:01]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:51:21]SAY: *no key*/(DET5) : [Research Director's Office]: Director, where are researches?
+[18:51:37]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:51:43]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:51:44]ADMIN: fatfat/(unknown) created a /obj/item/weapon/cane
+[18:51:48]ADMIN: fatfat/(unknown) created a /obj/item/weapon/gift
+[18:51:51]ADMIN: fatfat/(unknown) created a /obj/item/weapon/caution
+[18:51:51]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:51:53]EMOTE: *no key*/(Ian) : chases its tail
+[18:51:59]ADMIN: heavenlyblue/(Devin Holdeman) turned on a pump that contains Plasma at (160,149,2)]
+[18:51:59]EMOTE: *no key*/(Ian) : chases its tail
+[18:52:03]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:52:15]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:52:17]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:52:25]SAY: *no key*/(Ian) : [Head of Personnel's Office]: AUUUUUU
+[18:52:31]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Ищу ищу.
+[18:52:37]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Mixing Room]: Cкажи как опустошать плазму.
+[18:52:38]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Mixing Room]: Я забыл.
+[18:52:42]SAY: *no key*/(Ian) : [Head of Personnel's Office]: YAP
+[18:52:44]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:52:50]SAY: *no key*/(DET5) : [Research Director's Office]: ED-209 protect me
+[18:52:57]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Mixing Room]: Ау.
+[18:53:00]ADMIN: heavenlyblue/(Devin Holdeman) told fatfat/(unknown) to man up and deal with it.
+[18:53:03]GAME: heavenlyblue/(Devin Holdeman) attached a the remote signaling device to a transfer valve.
+[18:53:07]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Че забыл.
+[18:53:17]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Mixing Room]: Как опустошать бак с плазмой.
+[18:53:26]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[18:53:26]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Так же как и воздух.
+[18:53:28]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Тыкаешь.
+[18:53:32]SAY: fatfat/(unknown) : [Toxins Mixing Room]: По стрелочке.
+[18:53:36]SAY: *no key*/(Renault) : [Captain's Office]: Ack-Ack
+[18:53:36]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Которые кругом.
+[18:53:38]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:53:39]SAY: fatfat/(unknown) : [Toxins Mixing Room]: И потом он.
+[18:53:42]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:53:46]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Mixing Room]: А я понял тупой вопрос.
+[18:53:50]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Mixing Room]: Забей.
+[18:54:06]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:54:10]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Cjnq.
+[18:54:11]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Стой.
+[18:54:12]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Не кидай ее.
+[18:54:15]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Мыжж ее для пушки.
+[18:54:16]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Launch Roon]: Я уже кинул.
+[18:54:18]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Собрали.
+[18:54:22]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[18:54:25]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Я тебе хотел показать пушку которая бомбами заряжается.
+[18:54:26]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[18:54:28]SAY: *no key*/(DET5) : [Research Director's Office]: Science time
+[18:54:30]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[18:54:32]SAY: heavenlyblue/(Devin Holdeman) : [Toxins Launch Roon]: Ща принесу.
+[18:54:36]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:54:40]ADMIN: fatfat/(unknown) used secret restore_air
+[18:54:40]ADMIN: heavenlyblue/(Devin Holdeman) jumped to (161,161,2) in Toxins Launch Roon
+[18:54:42]SAY: *no key*/(Renault) : [Captain's Office]: Ack-Ack-Ack-Ackawoooo
+[18:54:43]ADMIN: heavenlyblue/(Devin Holdeman) deleted Toxins Launcher Bay Door at (161,163,2)
+[18:54:48]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:54:50]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>coughs.</i>
+[18:54:56]SAY: *no key*/(grey baby slime (703)) : [Xenobiology Lab]: Lonely...
+[18:54:58]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:54:58]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:55:00]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:55:02]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:55:02]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:55:02]ADMIN: heavenlyblue/(Devin Holdeman) healed / Rrvived heavenlyblue/(Devin Holdeman)
+[18:55:08]ADMIN: heavenlyblue/(Devin Holdeman) jumped to fatfat/(unknown)
+[18:55:11]ADMIN: heavenlyblue/(Devin Holdeman) healed / Rrvived heavenlyblue/(Devin Holdeman)
+[18:55:22]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:55:26]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[18:55:34]SAY: *no key*/(shantak) : [Space]: Shuhn
+[18:55:34]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:55:39]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Бля друг.
+[18:55:43]SAY: fatfat/(unknown) : [Toxins Launch Roon]: В упор не могу найти ее.
+[18:55:45]ADMIN: heavenlyblue/(Devin Holdeman) changed the equipment of heavenlyblue/(Devin Holdeman) to masked killer.
+[18:55:48]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Похуй взрыавем.
+[18:55:51]ADMIN: fatfat/(unknown) jumped to (161,166,2) in Space
+[18:56:00]ADMIN: heavenlyblue/(Devin Holdeman) healed / revived heavenlyblue/(Devin Holdeman)
+[18:56:02]EMOTE: fatfat/(unknown) : <b>The unknown</b> <i>grunts.</i>
+[18:56:02]GAME: Bomb valve opened in Toxins Test Site with the remote signaling device attacher: Unknown(heavenlyblue), last touched by fatfat/(unknown)
+[18:56:03]GAME: Explosion with size (51) in area Toxins Test Site
+[18:56:03]EMOTE: fatfat/(unknown) : <b>The unknown</b> <i>screams!</i>
+[18:56:03]EMOTE: fatfat/(unknown) : <b>The unknown</b> <i>screams!</i>
+[18:56:03]EMOTE: fatfat/(unknown) : <b>The unknown</b> <i>grunts.</i>
+[18:56:04]SAY: *no key*/(Runtime) : [Wizard's Den]: HSSSSS
+[18:56:08]EMOTE: *no key*/(Ian) : chases its tail
+[18:56:08]ADMIN: @heavenlyblue/(Devin Holdeman) jumped to coordinates 161, 205, 2
+[18:56:09]ADMIN: fatfat/(unknown) healed / revived fatfat/(unknown)
+[18:56:12]EMOTE: @heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:14]EMOTE: @heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:15]ADMIN: heavenlyblue/(Devin Holdeman) stuffed heavenlyblue into Devin Holdeman.
+[18:56:16]SAY: *no key*/(DET5) : [Research Director's Office]: Successfully
+[18:56:18]EMOTE: fatfat/(unknown) : <b>The unknown</b> <i>grunts.</i>
+[18:56:20]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:22]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:22]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:22]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[18:56:22]OOC: heavenlyblue/(Devin Holdeman) : ну все короче?
+[18:56:24]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:24]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:24]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:26]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:26]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:26]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:26]EMOTE: fatfat/(unknown) : <b>The unknown</b> <i>grunts.</i>
+[18:56:26]EMOTE: fatfat/(unknown) : <b>The unknown</b> <i>grunts.</i>
+[18:56:28]ADMIN: fatfat/(unknown) jumped to (160,161,2) in Toxins Launch Roon
+[18:56:28]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:28]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:30]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:30]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:30]ADMIN: fatfat/(unknown) healed / revived fatfat/(unknown)
+[18:56:32]EMOTE: fatfat/(unknown) : <b>The unknown</b> <i>gasps!</i>
+[18:56:33]ADMIN: heavenlyblue/(Devin Holdeman) healed / revived heavenlyblue/(Devin Holdeman)
+[18:56:35]OOC: fatfat/(unknown) : на 51 твоя бахнула
+[18:56:38]SAY: *no key*/(shantak) : [Space]: Shuhn
+[18:56:41]ADMINSAY: fatfat/(unknown) : но уже на 8к очков
+[18:56:44]OOC: heavenlyblue/(Devin Holdeman) : я в курсе
+[18:56:44]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:44]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:46]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:46]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:48]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:48]SAY: *no key*/(samak) : [Wizard's Den]: Hruuugh!
+[18:56:50]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:52]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:52]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:52]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:54]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:54]OOC: fatfat/(unknown) : все выходит?
+[18:56:56]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:56]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:58]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:58]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:56:59]OOC: heavenlyblue/(Devin Holdeman) : походу
+[18:57:00]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:57:00]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:57:00]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:57:02]ADMIN: heavenlyblue/(Devin Holdeman) healed / revived heavenlyblue/(Devin Holdeman)
+[18:57:03]OOC: fatfat/(unknown) : ну давай
+[18:57:05]OOC: fatfat/(unknown) : если че звони
+[18:57:06]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:57:08]EMOTE: heavenlyblue/(Devin Holdeman) : <b>Devin Holdeman</b> <i>grunts.</i>
+[18:57:10]OOC: fatfat/(unknown) : работу там ищи
+[18:57:11]OOC: heavenlyblue/(Devin Holdeman) : ок спс !
+[18:57:14]SAY: *no key*/(samak) : [Space]: Hruuugh!
+[18:57:18]SAY: *no key*/(DET5) : [Research Director's Office]: Successfully
+[18:57:23] Graceful shutdown

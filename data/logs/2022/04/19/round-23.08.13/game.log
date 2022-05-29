@@ -1,0 +1,204 @@
+[23:08:13] Server '' starting up on 192.168.0.4:52337
+[23:08:48]GAME: listening_post loaded at (23,171,4)
+[23:08:48]GAME: teleporter loaded at (146,202,3)
+[23:08:48]GAME: Broken Breacher loaded at (52,95,4)
+[23:08:48]GAME: ghost_ship_1 loaded at (129,184,4)
+[23:08:49]GAME: Secrete Lab loaded at (81,208,4)
+[23:08:49]GAME: Abandoned Lab loaded at (110,94,3)
+[23:08:49]GAME: ghost_ship_2 loaded at (85,194,3)
+[23:09:30]ADMIN: fatfat/(Fabian Judge) created a /obj/vehicle/space/spacebike
+[23:09:59]ADMIN: fatfat/(Fabian Judge) modified space-bike's icon_state to pig
+[23:10:04]ADMIN: fatfat/(Fabian Judge) modified space-bike's icon to 1.dmi
+[23:10:33]ADMIN: fatfat/(Fabian Judge) mass modified space-bike's bike_icon to pig
+[23:10:44]ADMIN: fatfat/(Fabian Judge) mass modified space-bike's icon to 1.dmi
+[23:11:05]ADMIN: fatfat/(Fabian Judge) mass modified space-bike's icon_state to pig
+[23:11:18]ADMIN: fatfat/(Fabian Judge) created a /obj/vehicle/space/spacebike
+[23:11:52]ADMIN: fatfat/(Fabian Judge) mass modified space-bike's icon to 1.dmi
+[23:12:09]ADMIN: fatfat/(Fabian Judge) created a /obj/vehicle/space/spacebike
+[23:12:20]ADMIN: fatfat/(Fabian Judge) mass modified space-bike's bike_icon to 1.dmi
+[23:12:26]MODE: Current master mode is extended
+[23:12:27]DEBUG: Next event of severity RoundStart in 0 minutes.
+[23:12:27]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[23:12:27]GAME: ANTAG LIST:
+no antagonists this moment
+[23:12:27]DEBUG: Event 'Roundstart Nothing' has completed at 12:03.
+[23:12:27]DEBUG: Next event of severity Mundane in 13.814 minutes.
+[23:12:27]DEBUG: Next event of severity Moderate in 53.006 minutes.
+[23:12:27]DEBUG: Next event of severity Major in 50.2283 minutes.
+[23:12:30]ADMIN: fatfat/(Fabian Judge) created a /obj/vehicle/space/spacebike
+[23:12:32]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[23:12:32]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[23:12:38]SAY: *no key*/(Renault) : [Captain's Office]: Awoo
+[23:12:42]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[23:12:52]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[23:12:58]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[23:13:00]SAY: *no key*/(mouse (781)) : [Medbay Maintenance]: SQUEEK!
+[23:13:00]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[23:13:01]ADMIN: fatfat/(Fabian Judge) modified space-bike's remove_overlays to bike_overlay
+[23:13:02]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[23:13:12]SAY: *no key*/(mouse (920)) : [Medbay Maintenance]: Squeek?
+[23:13:22]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[23:13:22]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[23:13:23]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[23:13:26]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[23:13:27]ADMIN: fatfat/(Fabian Judge) mass modified space-bike's bike_icon to 1.dmi
+[23:13:38]ADMIN: fatfat/(Fabian Judge) mass modified space-bike's icon_state to pig
+[23:13:39]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[23:13:49]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[23:13:51]SAY: *no key*/(DET5) : [Research Director's Office]: One...null...Beep
+[23:13:53]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[23:13:56]ADMIN: fatfat/(Fabian Judge) mass modified space-bike's icon to 1.dmi
+[23:13:57]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[23:13:59]SAY: *no key*/(DET5) : [Research Director's Office]: Not enough time
+[23:14:03]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[23:14:03]ADMIN: fatfat/(Fabian Judge) mass modified space-bike's bike_icon to pig
+[23:14:09]SAY: *no key*/(DET5) : [Research Director's Office]: Beep
+[23:14:11]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[23:14:14]ADMIN: fatfat/(Fabian Judge) created a /obj/vehicle/space/spacebike
+[23:14:15]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[23:14:17]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[23:14:21]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[23:14:21]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[23:14:23]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[23:14:27]ADMIN: fatfat/(Fabian Judge) created a /mob/living/carbon/human
+[23:14:30]ADMIN: fatfat/(Fabian Judge) stuffed fatfat into unknown.
+[23:14:31]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[23:14:33]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[23:14:37]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[23:14:45]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[23:14:47]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[23:14:49]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[23:15:07]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[23:15:17]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[23:15:17]SAY: *no key*/(Betsy) : [Hydroponics]: Moo
+[23:15:23]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[23:15:25]SAY: *no key*/(Wall-E) : [Quartermaster's Office]: Beep-Boop
+[23:15:27]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[23:15:33]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[23:15:43]SAY: *no key*/(Dusty) : [Chief Medical Officer's office]: Esp!
+[23:15:45]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[23:15:49]SAY: *no key*/(Poly) : [Chief Engineer's office]: ....
+[23:15:55]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[23:15:57]ADMIN: fatfat/(unknown) modified space-bike's add_overlays to pig_overlays
+[23:16:05]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[23:16:15]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[23:16:15]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[23:16:19]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[23:16:21]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[23:16:23]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[23:16:31]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[23:16:35]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[23:16:39]SAY: *no key*/(mouse (889)) : [Armory]: Squeek!
+[23:16:41]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss...
+[23:16:43]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[23:16:49]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[23:16:53]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[23:16:55]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[23:17:05]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[23:17:09]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[23:17:11]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[23:17:17]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[23:17:19]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[23:17:19]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss?
+[23:17:23]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[23:17:27]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[23:17:29]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[23:17:31]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[23:17:55]SAY: *no key*/(DET5) : [Research Director's Office]: Director, where are researches?
+[23:17:59]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[23:18:01]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[23:18:01]SAY: *no key*/(Poly) : [Chief Engineer's office]: ....
+[23:18:07]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[23:18:11]SAY: *no key*/(SyndiCat) : [Syndicate Forward Operating Base]: HSSSSS
+[23:18:33]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[23:18:37]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[23:18:47]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[23:18:47]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[23:18:49]SAY: *no key*/(Experiment 97d) : [Wizard's Den]: Eh?
+[23:18:55]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[23:19:03]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[23:19:09]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss?
+[23:19:15]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[23:19:21]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[23:19:21]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[23:19:23]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[23:19:23]ADMIN: fatfat/(unknown) modified space-bike's layer to 6
+[23:19:25]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[23:19:25]SAY: *no key*/(DET5) : [Research Director's Office]: ED-209 protect me
+[23:19:25]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[23:19:37]ADMIN: fatfat/(unknown) modified space-bike's land_speed to 1
+[23:19:45]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[23:19:47]ADMIN: fatfat/(unknown) created a /obj/item/weapon/sledgehammer
+[23:19:47]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[23:19:49]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[23:19:53]SAY: *no key*/(DET5) : [Research Director's Office]: Not enough time
+[23:19:53]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[23:19:58]ADMIN: fatfat/(unknown) modified Sledgehammer's hitsound to 35560-meme.ogg
+[23:19:59]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[23:20:11]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[23:20:17]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[23:20:21]ADMIN: fatfat/(unknown) created a /mob/living/carbon/human/bum
+[23:20:23]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:20:23]EMOTE: *no key*/(Lena Sealis) : writhes in heavy pain and screams!
+[23:20:24]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:20:25]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:20:26]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:20:27]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:20:27]EMOTE: *no key*/(Lena Sealis) : screams in agony!
+[23:20:27]EMOTE: *no key*/(Lena Sealis) : gasps!
+[23:20:28]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:20:29]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:20:29]EMOTE: *no key*/(Lena Sealis) : seizes up and falls limp, his eyes dead and lifeless...
+[23:20:32]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:20:33]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:20:34]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:20:35]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:20:36]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:20:41]SAY: *no key*/(Poly) : [Chief Engineer's office]: ....
+[23:20:42]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:20:43]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:20:43]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[23:20:44]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:20:46]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:20:46]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:20:48]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[23:20:48]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:20:49]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:20:56]SAY: *no key*/(Wall-E) : [Quartermaster's Office]: Eva? Evaaa!
+[23:21:00]SAY: *no key*/(SyndiCat) : [Syndicate Forward Operating Base]: Purr!
+[23:21:00]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[23:21:08]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[23:21:08]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[23:21:08]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:21:10]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:21:11]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:21:12]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:21:13]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:21:14]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[23:21:14]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:21:15]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:21:16]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:21:16]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:21:17]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:21:19]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:21:20]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[23:21:20]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[23:21:20]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[23:21:20]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:21:21]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:21:22]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[23:21:22]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:21:23]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:21:24]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:21:26]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[23:21:36]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[23:21:38]EMOTE: fatfat/(unknown) : screams in agony!
+[23:21:38]SAY: *no key*/(Renault) : [Captain's Office]: Awoo
+[23:21:38]SAY: *no key*/(Poly) : [Chief Engineer's office]: ....
+[23:21:40]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[23:21:40]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:21:42]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[23:21:42]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:21:45]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:21:46]ATTACK: *no key*/(Lena Sealis) has been attacked with Sledgehammer (Wielded) (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[23:21:50] Graceful shutdown

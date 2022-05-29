@@ -1,0 +1,180 @@
+[15:06:25] Server '' starting up on 192.168.0.5:65110
+[15:07:03]GAME: Clown Shuttle loaded at (13,167,4)
+[15:07:03]GAME: escape_pod loaded at (162,65,4)
+[15:07:03]GAME: syndicate_fighter loaded at (96,157,3)
+[15:07:03]GAME: Abandoned Cargo Shuttle loaded at (51,125,3)
+[15:07:03]GAME: Secrete Lab loaded at (60,192,4)
+[15:07:03]GAME: delivery_shuttle loaded at (117,70,4)
+[15:07:03]GAME: Space Toilet loaded at (74,145,4)
+[15:07:59]ADMIN: fatfat/(Phoenix Mccullough) created a /obj/vehicle/space/spacebike
+[15:08:06]ADMIN: fatfat/(Phoenix Mccullough) created a /mob/living/carbon/human
+[15:08:17]ADMIN: fatfat/(Phoenix Mccullough) created a /obj/structure/reagent_dispensers/kvasstank
+[15:08:23]ADMIN: fatfat/(Phoenix Mccullough) stuffed fatfat into unknown.
+[15:09:03]ADMIN: fatfat/(unknown) modified space-bike's bike_icon to truck
+[15:09:14]ADMIN: fatfat/(unknown) modified space-bike's icon to dalnoboisjik.dmi
+[15:09:20]ADMIN: fatfat/(unknown) modified space-bike's icon_state to truck
+[15:09:53]ADMIN: fatfat/(unknown) modified space-bike's layer to 5
+[15:10:08]ADMIN: fatfat/(unknown) modified unknown's pixel_y to 5
+[15:10:14]ADMIN: fatfat/(unknown) modified unknown's pixel_y to 11
+[15:10:17]ADMIN: fatfat/(unknown) modified unknown's pixel_y to 15
+[15:10:19]ADMIN: fatfat/(unknown) modified unknown's pixel_x to 13
+[15:10:22]ADMIN: fatfat/(unknown) modified unknown's pixel_x to 15
+[15:10:25]ADMIN: fatfat/(unknown) modified unknown's pixel_x to 16
+[15:10:29]ADMIN: fatfat/(unknown) modified unknown's pixel_x to 17
+[15:10:37]MODE: Current master mode is extended
+[15:10:38]DEBUG: Next event of severity RoundStart in 0 minutes.
+[15:10:38]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[15:10:38]DEBUG: Next event of severity RoundStart in 0 minutes.
+[15:10:38]DEBUG: Starting event 'Chiefs Animals' of severity RoundStart.
+[15:10:38]GAME: ANTAG LIST:
+no antagonists this moment
+[15:10:38]DEBUG: Event 'Roundstart Nothing' has completed at 12:03.
+[15:10:38]GAME: RoundStart Event: DET5 and DET5 has been swapped.
+[15:10:38]GAME: RoundStart Event: Renault and DET5 has been swapped.
+[15:10:38]GAME: RoundStart Event: DET5 and DET5 has been swapped.
+[15:10:38]GAME: RoundStart Event: Renault and Tom (803) has been swapped.
+[15:10:38]GAME: RoundStart Event: Dusty and Ian has been swapped.
+[15:10:38]GAME: RoundStart Event: Dusty and Wall-E has been swapped.
+[15:10:38]GAME: RoundStart Event: Wall-E and E-N has been swapped.
+[15:10:38]GAME: RoundStart Event: Tom (803) and Wall-E has been swapped.
+[15:10:38]DEBUG: Event 'Chiefs Animals' has completed at 12:03.
+[15:10:38]DEBUG: Next event of severity Mundane in 15.814 minutes.
+[15:10:38]DEBUG: Next event of severity Moderate in 50.146 minutes.
+[15:10:38]DEBUG: Next event of severity Major in 62.585 minutes.
+[15:11:01]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss
+[15:11:09]ADMIN: fatfat/(unknown) created a /obj/vehicle/space/spacebike
+[15:11:10]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[15:11:10]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[15:11:12]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[15:11:14]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[15:11:26]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[15:11:30]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[15:11:30]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[15:11:32]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[15:11:34]SAY: *no key*/(Wall-E) : [Research Director's Office]: Eva? Evaaa!
+[15:11:48]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[15:11:48]SAY: *no key*/(Betsy) : [Hydroponics]: Moo?
+[15:11:53]ADMIN: fatfat/(unknown) modified space-bike's bike_icon to interceptor
+[15:11:54]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[15:11:57]ADMIN: fatfat/(unknown) modified space-bike's icon_state to interceptor
+[15:11:58]SAY: *no key*/(Ian) : [Chief Medical Officer's office]: YAP
+[15:12:00]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[15:12:01]ADMIN: fatfat/(unknown) modified space-bike's icon to mashina.dmi
+[15:12:06]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[15:12:14]SAY: *no key*/(DET5) : [Captain's Office]: Z-z-z-zero
+[15:12:16]SAY: *no key*/(Wall-E) : [Research Director's Office]: Beep-Boop
+[15:12:20]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[15:12:20]ADMIN: fatfat/(unknown) modified space-bike's land_speed to 2
+[15:12:30]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[15:12:30]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[15:12:34]ADMIN: fatfat/(unknown) modified unknown's pixel_x to 5
+[15:12:34]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[15:12:34]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[15:12:36]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[15:12:36]ADMIN: fatfat/(unknown) modified unknown's pixel_x to 10
+[15:12:38]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[15:12:38]SAY: *no key*/(DET5) : [Captain's Office]: Beep
+[15:12:38]ADMIN: fatfat/(unknown) modified unknown's pixel_x to 15
+[15:12:40]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss
+[15:12:42]ADMIN: fatfat/(unknown) modified unknown's pixel_y to 10
+[15:12:42]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[15:12:46]SAY: *no key*/(E-N) : [Head of Personnel's Office]: YAP
+[15:12:50]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[15:12:51]ADMIN: fatfat/(unknown) modified space-bike's layer to 5
+[15:12:54]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[15:13:01]ADMIN: fatfat/(unknown) modified unknown's pixel_y to 10
+[15:13:04]ADMIN: fatfat/(unknown) modified unknown's pixel_x to 17
+[15:13:08]ADMIN: fatfat/(unknown) modified unknown's pixel_y to 10
+[15:13:09]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[15:13:11]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[15:13:12]ADMIN: fatfat/(unknown) modified unknown's pixel_y to 15
+[15:13:13]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[15:13:25]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[15:13:27]SAY: *no key*/(Betsy) : [Hydroponics]: Moo?
+[15:13:29]SAY: *no key*/(mouse (361)) : [Incinerator]: SQUEEK!
+[15:13:37]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[15:13:41]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[15:13:43]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[15:13:43]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[15:13:47]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[15:13:50]ADMIN: fatfat/(unknown) modified space-bike's pixel_x to -5
+[15:13:53]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[15:13:53]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[15:13:57]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[15:13:57]ADMIN: fatfat/(unknown) modified space-bike's pixel_x to -10
+[15:13:59]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[15:14:03]ADMIN: fatfat/(unknown) modified space-bike's pixel_x to -15
+[15:14:06]ADMIN: fatfat/(unknown) modified space-bike's pixel_y to -5
+[15:14:10]ADMIN: fatfat/(unknown) modified space-bike's pixel_y to -10
+[15:14:11]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[15:14:11]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[15:14:15]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[15:14:21]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[15:14:21]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[15:14:25]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[15:14:29]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[15:14:30]ADMIN: fatfat/(unknown) modified space-bike's layer to 6
+[15:14:31]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[15:14:31]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[15:14:39]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[15:14:39]ADMIN: fatfat/(unknown) modified space-bike's layer to 5
+[15:14:43]SAY: *no key*/(DET5) : [Captain's Office]: Beep-beep
+[15:14:47]SAY: *no key*/(E-N) : [Head of Personnel's Office]: Woof!
+[15:14:54]ADMIN: fatfat/(unknown) modified space-bike's pixel_x to -17
+[15:14:57]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[15:15:03]ADMIN: fatfat/(unknown) modified space-bike's layer to 6
+[15:15:11]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[15:15:15]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[15:15:17]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[15:15:19]SAY: *no key*/(DET5) : [Captain's Office]: Beep
+[15:15:21]SAY: *no key*/(DET5) : [Captain's Office]: Beep-beep
+[15:15:31]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[15:15:31]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[15:15:33]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[15:15:41]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[15:15:41]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[15:15:45]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[15:15:47]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[15:15:49]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[15:15:51]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[15:16:09]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[15:16:09]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[15:16:09]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[15:16:11]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[15:16:17]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[15:16:22]SAY: *no key*/(Dusty) : [Quartermaster's Office]: Purr!
+[15:16:22]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[15:16:23]ADMIN: fatfat/(unknown) changed the equipment of fatfat/(unknown) to engineer.
+[15:16:23]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[15:16:25]SAY: *no key*/(grey baby slime (442)) : [Xenobiology Lab]: Blop...
+[15:16:25]SAY: *no key*/(DET5) : [Captain's Office]: Beeeepsky
+[15:16:27]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[15:16:33]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[15:16:42]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[15:16:44]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[15:16:46]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[15:16:50]SAY: *no key*/(DET5) : [Captain's Office]: Analyzing...
+[15:16:54]SAY: *no key*/(DET5) : [Captain's Office]: Analyzing...
+[15:16:54]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[15:16:56]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[15:16:58]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[15:17:24]SAY: *no key*/(DET5) : [Captain's Office]: Science time
+[15:17:24]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[15:17:26]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[15:17:32]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[15:17:42]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[15:17:42]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[15:17:44]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[15:17:50]SAY: *no key*/(DET5) : [Captain's Office]: Director, where are researches?
+[15:17:54]SAY: *no key*/(grey baby slime (442)) : [Xenobiology Lab]: Blorble...
+[15:17:54]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[15:17:58]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[15:18:00]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[15:18:04]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[15:18:10]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[15:18:18]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[15:18:22]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[15:18:24]SAY: *no key*/(mouse (615)) : [Engineering]: Squeek!
+[15:18:28]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[15:18:30]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[15:18:34] Graceful shutdown

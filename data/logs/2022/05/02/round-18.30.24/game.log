@@ -1,0 +1,22 @@
+[18:30:24] Server '' starting up on 26.166.93.76:53752
+[18:30:28]GAME: Derelict Station loaded at (136,52,3)
+[18:30:28]GAME: iss loaded at (93,73,4)
+[18:30:28]GAME: cloning_lab loaded at (194,209,3)
+[18:30:28]GAME: Abandoned Ship loaded at (125,193,3)
+[18:30:28]GAME: Clown Shuttle loaded at (15,125,4)
+[18:30:28]GAME: Space Toilet loaded at (194,210,4)
+[18:30:28]GAME: planetarium loaded at (69,148,4)
+[18:30:52]ADMIN: fatfat/(FatFat) has started the game.
+[18:30:55]MODE: Current master mode is extended
+[18:30:55]DEBUG: Next event of severity RoundStart in 0 minutes.
+[18:30:55]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[18:30:55]GAME: ANTAG LIST:
+no antagonists this moment
+[18:30:56]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[18:30:56]DEBUG: Next event of severity Mundane in 12.902 minutes.
+[18:30:56]DEBUG: Next event of severity Moderate in 47.342 minutes.
+[18:30:56]DEBUG: Next event of severity Major in 65.65 minutes.
+[18:31:03]SAY: fatfat/(Charles Mcfall) : [Space/headset]: Але.
+[18:31:15]ATTACK: fatfat/(Charles Mcfall) has been punched, by fatfat/(Charles Mcfall)
+[18:31:21]ADMIN: fatfat/(Charles Mcfall) jumped to (1,6,1) in Space
+[18:31:34] Graceful shutdown

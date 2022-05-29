@@ -1,0 +1,722 @@
+[22:34:55]TGUI: fatfat in browseroutput/initialize
+[22:35:01]TGUI: fatfat (as FatFat at (8,174,1))
+Using: /datum/tgui_modal [0x21013ba3]
+new AlertModal fancy 1
+[22:35:01]TGUI: fatfat in tgui-window-1/initialize
+Using: /datum/tgui_modal [0x21013ba3]
+[22:35:02]TGUI: fatfat (as FatFat at (8,174,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x21013ba3]
+Action: choose {"choice":"Yes"}
+[22:35:02]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:35:19]TGUI: fatfat (as Patrick Dennis at (49,140,2))
+Using: /datum/tgui_modal [0x21013b45]
+new AlertModal fancy 1
+[22:35:21]TGUI: fatfat (as Patrick Dennis at (49,140,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x21013b45]
+Action: choose {"choice":"Yes"}
+[22:35:21]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:36:17]TGUI: fatfat (as the unknown at (50,140,2))
+Using: /datum/tgui_modal [0x21006649]
+new AlertModal fancy 1
+[22:36:20]TGUI: fatfat (as the unknown at (50,140,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x21006649]
+Action: choose {"choice":"Yes"}
+[22:36:20]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:38:47]TGUI: fatfat (as the unknown at (50,141,2))
+Using: /datum/tgui_modal [0x2101319b]
+new AlertModal fancy 1
+[22:38:48]TGUI: fatfat (as the unknown at (50,141,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x2101319b]
+Action: choose {"choice":"Yes"}
+[22:38:48]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:39:12]TGUI: fatfat (as the unknown at (50,141,2))
+Using: /datum/tgui_modal [0x210134ca]
+new AlertModal fancy 1
+[22:40:42]TGUI: fatfat (as the unknown at (50,141,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x210134ca]
+Action: choose {"choice":"Yes"}
+[22:40:42]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:40:58]TGUI: fatfat (as the unknown at (50,142,2))
+Using: /datum/tgui_modal [0x21012b16]
+new AlertModal fancy 1
+[22:40:59]TGUI: fatfat (as the unknown at (50,142,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x21012b16]
+Action: choose {"choice":"Yes"}
+[22:40:59]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:42:21]TGUI: fatfat (as the unknown at (50,142,2))
+Using: /datum/filter_editor [0x2100997f]
+new Filteriffic fancy 1
+[22:42:49]TGUI: fatfat (as the unknown at (50,142,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: add_filter {"name":"default","priority":10,"type":"blur"}
+[22:42:54]TGUI: fatfat (as the unknown at (50,142,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: remove_filter {"name":"default"}
+[22:42:56]TGUI: fatfat (as the unknown at (50,142,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: add_filter {"name":"default","priority":10,"type":"motion_blur"}
+[22:43:05]TGUI: fatfat (as the unknown at (50,142,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: change_priority {"name":"default","new_priority":10}
+[22:43:05]TGUI: fatfat (as the unknown at (50,142,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: change_priority {"name":"default","new_priority":9}
+[22:43:07]TGUI: fatfat (as the unknown at (50,142,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: change_priority {"name":"default","new_priority":40}
+[22:43:09]TGUI: fatfat (as the unknown at (50,142,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: remove_filter {"name":"default"}
+[22:43:12]TGUI: fatfat (as the unknown at (50,142,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: add_filter {"name":"default","priority":10,"type":"layer"}
+[22:43:17]TGUI: fatfat (as the unknown at (50,142,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_color_value {"name":"default"}
+[22:43:21]TGUI: fatfat (as the unknown at (50,142,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"flags":3}}
+[22:43:22]TGUI: fatfat (as the unknown at (50,142,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"flags":2}}
+[22:43:22]TGUI: fatfat (as the unknown at (50,142,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"flags":0}}
+[22:43:23]TGUI: fatfat (as the unknown at (50,142,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"flags":0}}
+[22:43:24]TGUI: fatfat (as the unknown at (50,142,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_color_value {"name":"default"}
+[22:43:33]TGUI: fatfat (as the unknown at (50,142,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_icon_value {"name":"default"}
+[22:43:51]TGUI: fatfat (as the unknown at (50,142,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: change_priority {"name":"default","new_priority":-59}
+[22:43:55]TGUI: fatfat (as the unknown at (50,142,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: change_priority {"name":"default","new_priority":1}
+[22:43:56]TGUI: fatfat (as the unknown at (50,142,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: transition_filter_value {"name":"default","new_data":{"x":1}}
+[22:43:57]TGUI: fatfat (as the unknown at (50,142,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: transition_filter_value {"name":"default","new_data":{"y":1}}
+[22:44:07]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"render_source":"1"}}
+[22:44:08]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"render_source":""}}
+[22:44:10]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"render_source":"p"}}
+[22:44:10]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"render_source":"pi"}}
+[22:44:10]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"render_source":"pig"}}
+[22:44:11]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"render_source":"pig_"}}
+[22:44:11]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"render_source":"pig_o"}}
+[22:44:12]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"render_source":"pig_ov"}}
+[22:44:12]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"render_source":"pig_ove"}}
+[22:44:13]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"render_source":"pig_over"}}
+[22:44:13]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"render_source":"pig_overl"}}
+[22:44:13]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"render_source":"pig_overla"}}
+[22:44:13]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"render_source":"pig_overlas"}}
+[22:44:13]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"render_source":"pig_overlasa"}}
+[22:44:14]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"render_source":"pig_overlas"}}
+[22:44:14]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"render_source":"pig_overla"}}
+[22:44:15]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"render_source":"pig_overlay"}}
+[22:44:15]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"render_source":"pig_overlay"}}
+[22:44:17]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"render_source":""}}
+[22:44:19]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"flags":3}}
+[22:44:19]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"flags":2}}
+[22:44:20]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"flags":0}}
+[22:44:20]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_filter_value {"name":"default","new_data":{"flags":0}}
+[22:44:32]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: change_priority {"name":"default","new_priority":50}
+[22:44:40]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: add_filter {"name":"default","priority":10,"type":"alpha"}
+[22:44:44]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_icon_value {"name":"default-dupe"}
+[22:44:57]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: modify_icon_value {"name":"default-dupe"}
+[22:45:05]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: remove_filter {"name":"default-dupe"}
+[22:45:05]TGUI: fatfat (as the unknown at (49,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2100997f]
+Action: remove_filter {"name":"default"}
+[22:45:50]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:45:50]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:47:58]TGUI: fatfat (as the unknown at (51,141,2))
+Using: /datum/filter_editor [0x2101395b]
+new Filteriffic fancy 1
+[22:48:01]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: add_filter {"name":"default","priority":10,"type":"alpha"}
+[22:48:05]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: modify_icon_value {"name":"default"}
+[22:48:11]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: remove_filter {"name":"default"}
+[22:48:13]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: add_filter {"name":"default","priority":10,"type":"angular_blur"}
+[22:48:16]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: remove_filter {"name":"default"}
+[22:48:18]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: add_filter {"name":"default","priority":10,"type":"wave"}
+[22:48:22]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: remove_filter {"name":"default"}
+[22:48:24]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: add_filter {"name":"default","priority":10,"type":"blur"}
+[22:48:28]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: change_priority {"name":"default","new_priority":0}
+[22:48:31]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: remove_filter {"name":"default"}
+[22:48:34]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: add_filter {"name":"default","priority":10,"type":"outline"}
+[22:48:38]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: remove_filter {"name":"default"}
+[22:48:41]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: add_filter {"name":"default","priority":10,"type":"layer"}
+[22:49:09]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: modify_icon_value {"name":"default"}
+[22:49:29]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: modify_filter_value {"name":"default","new_data":{"flags":3}}
+[22:49:30]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: modify_filter_value {"name":"default","new_data":{"flags":1}}
+[22:49:31]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: modify_filter_value {"name":"default","new_data":{"flags":0}}
+[22:49:31]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: modify_filter_value {"name":"default","new_data":{"flags":0}}
+[22:49:32]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: modify_filter_value {"name":"default","new_data":{"flags":0}}
+[22:49:33]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: modify_filter_value {"name":"default","new_data":{"flags":3}}
+[22:49:33]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: modify_filter_value {"name":"default","new_data":{"flags":2}}
+[22:49:34]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: modify_filter_value {"name":"default","new_data":{"flags":0}}
+[22:49:34]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: modify_filter_value {"name":"default","new_data":{"flags":0}}
+[22:49:45]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: transition_filter_value {"name":"default","new_data":{"color":"1"}}
+[22:49:45]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: modify_color_value {"name":"default"}
+[22:49:48]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: modify_color_value {"name":"default"}
+[22:49:50]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x2101395b]
+Action: transition_filter_value {"name":"default","new_data":{"color":""}}
+[22:49:53]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:49:53]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:50:03]TGUI: fatfat (as the unknown at (51,141,2))
+Using: /datum/filter_editor [0x21012b12]
+new Filteriffic fancy 1
+[22:51:16]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: add_filter {"name":"default","priority":10,"type":"motion_blur"}
+[22:51:20]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: remove_filter {"name":"default-dupe"}
+[22:52:14]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: change_priority {"name":"default","new_priority":100}
+[22:52:16]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: change_priority {"name":"default","new_priority":10}
+[22:52:23]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default","new_data":{"y":26.500000000000032}}
+[22:52:24]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default","new_data":{"x":-183.79999999999995}}
+[22:52:25]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default","new_data":{"x":-420.95}}
+[22:52:25]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default","new_data":{"x":274.69000000000005}}
+[22:52:26]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default","new_data":{"x":485.4900000000001}}
+[22:52:26]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default","new_data":{"x":485.4900000000001}}
+[22:52:26]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default","new_data":{"x":485.4900000000001}}
+[22:52:28]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default","new_data":{"x":0}}
+[22:52:30]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default","new_data":{"y":26.5}}
+[22:52:30]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default","new_data":{"x":1}}
+[22:52:31]TGUI: fatfat (as the unknown at (51,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default","new_data":{"y":1}}
+[22:52:59]TGUI: fatfat (as the unknown at (52,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: remove_filter {"name":"default"}
+[22:53:01]TGUI: fatfat (as the unknown at (52,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: add_filter {"name":"default","priority":10,"type":"displace"}
+[22:53:04]TGUI: fatfat (as the unknown at (52,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_icon_value {"name":"default"}
+[22:53:10]TGUI: fatfat (as the unknown at (52,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: remove_filter {"name":"default"}
+[22:53:12]TGUI: fatfat (as the unknown at (52,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: add_filter {"name":"default","priority":10,"type":"alpha"}
+[22:53:16]TGUI: fatfat (as the unknown at (52,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_filter_value {"name":"default","new_data":{"flags":1}}
+[22:53:18]TGUI: fatfat (as the unknown at (52,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_icon_value {"name":"default"}
+[22:53:23]TGUI: fatfat (as the unknown at (52,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_filter_value {"name":"default","new_data":{"flags":3}}
+[22:53:23]TGUI: fatfat (as the unknown at (52,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_filter_value {"name":"default","new_data":{"flags":2}}
+[22:53:24]TGUI: fatfat (as the unknown at (52,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_filter_value {"name":"default","new_data":{"flags":0}}
+[22:53:25]TGUI: fatfat (as the unknown at (52,140,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_filter_value {"name":"default","new_data":{"flags":1}}
+[22:53:33]TGUI: fatfat (as the unknown at (52,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: remove_filter {"name":"default"}
+[22:53:38]TGUI: fatfat (as the unknown at (52,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: add_filter {"name":"default","priority":10,"type":"outline"}
+[22:53:41]TGUI: fatfat (as the unknown at (52,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: remove_filter {"name":"default"}
+[22:53:53]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: add_filter {"name":"default","priority":10,"type":"outline"}
+[22:53:55]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: remove_filter {"name":"default"}
+[22:53:58]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: add_filter {"name":"default","priority":10,"type":"drop_shadow"}
+[22:54:01]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: change_priority {"name":"default","new_priority":35}
+[22:54:04]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: remove_filter {"name":"default"}
+[22:54:06]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:54:06]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:54:27]TGUI: fatfat (as the unknown at (53,141,2))
+Using: /datum/filter_editor [0x21013d11]
+new Filteriffic fancy 1
+[22:54:29]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21013d11]
+Action: add_filter {"name":"default","priority":10,"type":"layer"}
+[22:54:31]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21013d11]
+Action: modify_icon_value {"name":"default"}
+[22:54:38]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21013d11]
+Action: modify_filter_value {"name":"default","new_data":{"flags":3}}
+[22:54:39]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21013d11]
+Action: modify_filter_value {"name":"default","new_data":{"flags":2}}
+[22:54:40]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21013d11]
+Action: modify_filter_value {"name":"default","new_data":{"flags":0}}
+[22:54:40]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21013d11]
+Action: modify_filter_value {"name":"default","new_data":{"flags":0}}
+[22:54:57]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:54:57]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:55:06]TGUI: fatfat (as the unknown at (53,141,2))
+Using: /datum/tgui_modal [0x2101388d]
+new AlertModal fancy 1
+[22:55:08]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x2101388d]
+Action: choose {"choice":"No"}
+[22:55:08]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:55:14]TGUI: fatfat (as the unknown at (53,141,2))
+Using: /datum/filter_editor [0x21012b12]
+new Filteriffic fancy 1
+[22:55:17]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: add_filter {"name":"default","priority":10,"type":"rays"}
+[22:55:21]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: change_priority {"name":"default-dupe","new_priority":58}
+[22:55:24]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: change_priority {"name":"default-dupe","new_priority":41}
+[22:55:27]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: change_priority {"name":"default","new_priority":2}
+[22:55:31]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: change_priority {"name":"default","new_priority":100}
+[22:55:34]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default","new_data":{"x":0.2300000000000104}}
+[22:55:34]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default","new_data":{"x":0.5500000000000105}}
+[22:55:35]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default","new_data":{"x":-0.7299999999999895}}
+[22:55:35]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default","new_data":{"x":-1.3199999999999896}}
+[22:55:35]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default","new_data":{"x":1.2800000000000104}}
+[22:55:36]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default","new_data":{"x":1.2800000000000104}}
+[22:55:39]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default-dupe","new_data":{"x":0.6400000000000104}}
+[22:55:39]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default-dupe","new_data":{"x":-0.42999999999998955}}
+[22:55:40]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default-dupe","new_data":{"x":-0.9699999999999895}}
+[22:55:40]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default-dupe","new_data":{"x":0.5500000000000105}}
+[22:55:41]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default-dupe","new_data":{"x":-0.30999999999998956}}
+[22:55:41]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default-dupe","new_data":{"x":-0.3499999999999896}}
+[22:55:41]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default-dupe","new_data":{"x":0.9300000000000105}}
+[22:55:42]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default-dupe","new_data":{"x":0.7900000000000105}}
+[22:55:44]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_color_value {"name":"default-dupe"}
+[22:55:50]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default-dupe","new_data":{"offset":0}}
+[22:55:50]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default-dupe","new_data":{"x":1.3200000000000105}}
+[22:55:51]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default-dupe","new_data":{"x":1.8300000000000105}}
+[22:55:51]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default-dupe","new_data":{"x":1.8300000000000105}}
+[22:55:55]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default-dupe","new_data":{"x":5}}
+[22:55:58]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default-dupe","new_data":{"x":0}}
+[22:56:03]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default","new_data":{"x":10}}
+[22:56:08]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_filter_value {"name":"default-dupe","new_data":{"flags":2}}
+[22:56:09]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_filter_value {"name":"default-dupe","new_data":{"flags":3}}
+[22:56:09]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_filter_value {"name":"default-dupe","new_data":{"flags":1}}
+[22:56:10]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_filter_value {"name":"default-dupe","new_data":{"flags":3}}
+[22:56:10]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_filter_value {"name":"default-dupe","new_data":{"flags":1}}
+[22:56:11]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_filter_value {"name":"default-dupe","new_data":{"flags":3}}
+[22:56:12]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_filter_value {"name":"default-dupe","new_data":{"flags":2}}
+[22:56:12]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_filter_value {"name":"default-dupe","new_data":{"flags":3}}
+[22:56:16]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_filter_value {"name":"default-dupe","new_data":{"density":11}}
+[22:56:18]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_filter_value {"name":"default-dupe","new_data":{"density":10}}
+[22:56:36]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default-dupe","new_data":{"size":100}}
+[22:56:58]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default-dupe","new_data":{"y":11}}
+[22:57:02]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: remove_filter {"name":"default-dupe"}
+[22:57:12]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_filter_value {"name":"default","new_data":{"flags":3}}
+[22:57:12]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_filter_value {"name":"default","new_data":{"flags":2}}
+[22:57:13]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_filter_value {"name":"default","new_data":{"flags":0}}
+[22:57:14]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_filter_value {"name":"default","new_data":{"flags":0}}
+[22:57:26]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: add_filter {"name":"default","priority":10,"type":"rays"}
+[22:57:30]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: remove_filter {"name":"default-dupe"}
+[22:57:32]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: add_filter {"name":"default","priority":10,"type":"ripple"}
+[22:57:43]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: remove_filter {"name":"default-dupe"}
+[22:57:54]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: add_filter {"name":"default","priority":10,"type":"motion_blur"}
+[22:58:13]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: change_priority {"name":"default","new_priority":-100}
+[22:58:17]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: change_priority {"name":"default","new_priority":100}
+[22:58:19]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: remove_filter {"name":"default-dupe"}
+[22:58:25]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_icon_value {"name":"default"}
+[22:58:28]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_icon_value {"name":"default"}
+[22:58:42]TGUI: fatfat (as the unknown at (55,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: transition_filter_value {"name":"default","new_data":{"x":10}}
+[22:58:42]TGUI: fatfat (as the unknown at (55,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21012b12]
+Action: modify_icon_value {"name":"default"}
+[22:59:46]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:59:46]TGUI: fatfat in tgui-window-1/close (suspending)
+[23:00:47]TGUI: fatfat (as the unknown at (54,141,2))
+Using: /datum/filter_editor [0x21013b9c]
+new Filteriffic fancy 1
+[23:00:50]TGUI: fatfat (as the unknown at (54,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21013b9c]
+Action: add_filter {"name":"default","priority":10,"type":"layer"}
+[23:00:51]TGUI: fatfat (as the unknown at (54,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21013b9c]
+Action: modify_icon_value {"name":"default"}
+[23:00:55]TGUI: fatfat (as the unknown at (54,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21013b9c]
+Action: transition_filter_value {"name":"default","new_data":{"x":0}}
+[23:00:58]TGUI: fatfat (as the unknown at (54,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21013b9c]
+Action: transition_filter_value {"name":"default","new_data":{"x":0}}
+[23:01:00]TGUI: fatfat (as the unknown at (54,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21013b9c]
+Action: transition_filter_value {"name":"default","new_data":{"y":-10}}
+[23:01:02]TGUI: fatfat (as the unknown at (54,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21013b9c]
+Action: transition_filter_value {"name":"default","new_data":{"y":-20}}
+[23:01:04]TGUI: fatfat (as the unknown at (54,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21013b9c]
+Action: transition_filter_value {"name":"default","new_data":{"y":-15}}
+[23:01:07]TGUI: fatfat (as the unknown at (54,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21013b9c]
+Action: transition_filter_value {"name":"default","new_data":{"x":5}}
+[23:01:16]TGUI: fatfat (as the unknown at (52,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21013b9c]
+Action: change_priority {"name":"default","new_priority":100}
+[23:01:18]TGUI: fatfat (as the unknown at (52,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21013b9c]
+Action: modify_filter_value {"name":"default","new_data":{"flags":3}}
+[23:01:19]TGUI: fatfat (as the unknown at (52,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21013b9c]
+Action: modify_filter_value {"name":"default","new_data":{"flags":2}}
+[23:01:19]TGUI: fatfat (as the unknown at (52,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21013b9c]
+Action: modify_filter_value {"name":"default","new_data":{"flags":0}}
+[23:01:20]TGUI: fatfat (as the unknown at (52,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21013b9c]
+Action: modify_filter_value {"name":"default","new_data":{"flags":0}}
+[23:01:21]TGUI: fatfat (as the unknown at (52,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21013b9c]
+Action: modify_filter_value {"name":"default","new_data":{"flags":3}}
+[23:01:22]TGUI: fatfat (as the unknown at (52,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21013b9c]
+Action: modify_filter_value {"name":"default","new_data":{"flags":1}}
+[23:01:25]TGUI: fatfat (as the unknown at (52,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21013b9c]
+Action: transition_filter_value {"name":"default","new_data":{"x":15}}
+[23:01:28]TGUI: fatfat in tgui-window-1/close (suspending)
+[23:01:28]TGUI: fatfat in tgui-window-1/close (suspending)
+[23:01:39]TGUI: fatfat (as the unknown at (53,141,2))
+Using: /datum/filter_editor [0x210234c0]
+new Filteriffic fancy 1
+[23:01:41]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x210234c0]
+Action: remove_filter {"name":"default"}
+[23:01:42]TGUI: fatfat in tgui-window-1/close (suspending)
+[23:01:42]TGUI: fatfat in tgui-window-1/close (suspending)
+[23:02:07]TGUI: fatfat (as the unknown at (53,141,2))
+Using: /datum/filter_editor [0x21023403]
+new Filteriffic fancy 1
+[23:02:12]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21023403]
+Action: modify_icon_value {"name":"default"}
+[23:02:17]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21023403]
+Action: transition_filter_value {"name":"default","new_data":{"x":-15}}
+[23:02:19]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21023403]
+Action: transition_filter_value {"name":"default","new_data":{"x":5}}
+[23:02:21]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21023403]
+Action: transition_filter_value {"name":"default","new_data":{"x":0}}
+[23:02:23]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21023403]
+Action: transition_filter_value {"name":"default","new_data":{"x":5}}
+[23:02:24]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21023403]
+Action: transition_filter_value {"name":"default","new_data":{"x":15}}
+[23:02:27]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21023403]
+Action: transition_filter_value {"name":"default","new_data":{"y":-15}}
+[23:02:30]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21023403]
+Action: transition_filter_value {"name":"default","new_data":{"y":-20}}
+[23:02:33]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21023403]
+Action: transition_filter_value {"name":"default","new_data":{"y":-15}}
+[23:02:35]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21023403]
+Action: transition_filter_value {"name":"default","new_data":{"y":-12}}
+[23:02:37]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21023403]
+Action: transition_filter_value {"name":"default","new_data":{"y":13}}
+[23:02:39]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21023403]
+Action: transition_filter_value {"name":"default","new_data":{"y":-12}}
+[23:02:41]TGUI: fatfat (as the unknown at (53,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21023403]
+Action: transition_filter_value {"name":"default","new_data":{"y":-15}}
+[23:02:49]TGUI: fatfat (as the unknown at (52,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21023403]
+Action: transition_filter_value {"name":"default","new_data":{"y":-20}}
+[23:02:53]TGUI: fatfat (as the unknown at (52,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21023403]
+Action: transition_filter_value {"name":"default","new_data":{"y":-30}}
+[23:02:57]TGUI: fatfat (as the unknown at (52,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21023403]
+Action: transition_filter_value {"name":"default","new_data":{"y":-25}}
+[23:03:00]TGUI: fatfat (as the unknown at (52,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21023403]
+Action: transition_filter_value {"name":"default","new_data":{"y":-22}}
+[23:03:12]TGUI: fatfat (as the unknown at (52,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21023403]
+Action: transition_filter_value {"name":"default","new_data":{"y":-23}}
+[23:03:15]TGUI: fatfat (as the unknown at (52,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21023403]
+Action: transition_filter_value {"name":"default","new_data":{"y":-22}}
+[23:03:17]TGUI: fatfat (as the unknown at (52,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21023403]
+Action: transition_filter_value {"name":"default","new_data":{"x":15}}
+[23:03:17]TGUI: fatfat (as the unknown at (52,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21023403]
+Action: transition_filter_value {"name":"default","new_data":{"x":15}}
+[23:03:21]TGUI: fatfat (as the unknown at (52,141,2)) in tgui-window-1
+Using: /datum/filter_editor [0x21023403]
+Action: transition_filter_value {"name":"default","new_data":{"x":16}}
+[23:04:47]TGUI:  in tgui-window-1/close (suspending)
+[23:04:51]TGUI: fatfat in browseroutput/initialize

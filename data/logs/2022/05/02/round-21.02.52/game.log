@@ -1,0 +1,164 @@
+[21:02:52] Server '' starting up on 26.166.93.76:63488
+[21:02:54]GAME: delivery_shuttle loaded at (120,173,3)
+[21:02:54]GAME: Secrete Lab loaded at (47,115,4)
+[21:02:54]GAME: ghost_ship_1 loaded at (109,16,3)
+[21:02:54]GAME: cloning_lab loaded at (159,154,3)
+[21:02:55]GAME: listening_post loaded at (149,69,3)
+[21:02:55]GAME: Abandoned Lab loaded at (64,183,3)
+[21:02:55]GAME: ghost_ship_2 loaded at (165,85,4)
+[21:03:14]ADMIN: fatfat/(FatFat) has started the game.
+[21:03:18]MODE: Current master mode is extended
+[21:03:18]DEBUG: Next event of severity RoundStart in 0 minutes.
+[21:03:18]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[21:03:18]DEBUG: Next event of severity RoundStart in 0 minutes.
+[21:03:18]GAME: RoundStart Event: Selected areas is nothing
+[21:03:18]DEBUG: Starting event 'Stolen First AID' of severity RoundStart.
+[21:03:18]DEBUG: Next event of severity RoundStart in 0 minutes.
+[21:03:18]DEBUG: Starting event 'Products Inflation' of severity RoundStart.
+[21:03:18]GAME: ANTAG LIST:
+no antagonists this moment
+[21:03:19]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[21:03:19]DEBUG: Event 'Stolen First AID' has completed at 12:00.
+[21:03:19]GAME: RoundStart Event: bloodpack A+ has changed amount and price in Blood'O'Matic (57,120,4).
+[21:03:19]GAME: RoundStart Event: bloodpack B+ has changed amount and price in Blood'O'Matic (57,120,4).
+[21:03:19]GAME: RoundStart Event: bloodpack B- has changed amount and price in Blood'O'Matic (57,120,4).
+[21:03:19]GAME: RoundStart Event: bloodpack O+ has changed amount and price in Blood'O'Matic (57,120,4).
+[21:03:19]GAME: RoundStart Event: bloodpack O- has changed amount and price in Blood'O'Matic (57,120,4).
+[21:03:19]GAME: RoundStart Event: anti-toxin bottle has changed amount and price in NanoMed Plus (59,125,4).
+[21:03:19]GAME: RoundStart Event: inaprovaline bottle has changed amount and price in NanoMed Plus (59,125,4).
+[21:03:19]GAME: RoundStart Event: sleep-toxin bottle has changed amount and price in NanoMed Plus (59,125,4).
+[21:03:19]GAME: RoundStart Event: Syringe (spaceacillin) has changed amount and price in NanoMed Plus (59,125,4).
+[21:03:19]GAME: RoundStart Event: syringe has changed amount and price in NanoMed Plus (59,125,4).
+[21:03:19]GAME: RoundStart Event: Health Analyzer has changed amount and price in NanoMed Plus (59,125,4).
+[21:03:19]GAME: RoundStart Event: advanced trauma kit has changed amount and price in NanoMed Plus (59,125,4).
+[21:03:19]GAME: RoundStart Event: advanced burn kit has changed amount and price in NanoMed Plus (59,125,4).
+[21:03:19]GAME: RoundStart Event: medical splints has changed amount and price in NanoMed Plus (59,125,4).
+[21:03:19]GAME: RoundStart Event: suture kit has changed amount and price in NanoMed Plus (59,125,4).
+[21:03:19]GAME: RoundStart Event: Space Cola has changed amount and price in Robust Softdrinks (65,121,4).
+[21:03:19]GAME: RoundStart Event: Space Mountain Wind has changed amount and price in Robust Softdrinks (65,121,4).
+[21:03:19]GAME: RoundStart Event: Dr. Gibb has changed amount and price in Robust Softdrinks (65,121,4).
+[21:03:19]GAME: RoundStart Event: Star-kist has changed amount and price in Robust Softdrinks (65,121,4).
+[21:03:19]GAME: RoundStart Event: Bottled Water has changed amount and price in Robust Softdrinks (65,121,4).
+[21:03:19]GAME: RoundStart Event: Space-Up has changed amount and price in Robust Softdrinks (65,121,4).
+[21:03:19]GAME: RoundStart Event: Vrisk Serket Iced Tea has changed amount and price in Robust Softdrinks (65,121,4).
+[21:03:19]GAME: RoundStart Event: Grapel Juice has changed amount and price in Robust Softdrinks (65,121,4).
+[21:03:19]GAME: RoundStart Event: candy bar has changed amount and price in Getmore Chocolate Corp (65,120,4).
+[21:03:19]GAME: RoundStart Event: Dosi Ramen has changed amount and price in Getmore Chocolate Corp (65,120,4).
+[21:03:19]GAME: RoundStart Event: Dosi Ramen (Spicy) has changed amount and price in Getmore Chocolate Corp (65,120,4).
+[21:03:19]GAME: RoundStart Event: chips has changed amount and price in Getmore Chocolate Corp (65,120,4).
+[21:03:19]GAME: RoundStart Event: 4no Raisins has changed amount and price in Getmore Chocolate Corp (65,120,4).
+[21:03:19]GAME: RoundStart Event: Space Twinkie has changed amount and price in Getmore Chocolate Corp (65,120,4).
+[21:03:19]GAME: RoundStart Event: Robust Coffee has changed amount and price in Hot Drinks machine (72,123,4).
+[21:03:19]GAME: RoundStart Event: Duke Purple Tea has changed amount and price in Hot Drinks machine (72,123,4).
+[21:03:19]GAME: RoundStart Event: Dutch Hot Coco has changed amount and price in Hot Drinks machine (72,123,4).
+[21:03:19]GAME: RoundStart Event: candy bar has changed amount and price in Getmore Chocolate Corp (175,158,3).
+[21:03:19]GAME: RoundStart Event: Dosi Ramen (Spicy) has changed amount and price in Getmore Chocolate Corp (175,158,3).
+[21:03:19]GAME: RoundStart Event: chips has changed amount and price in Getmore Chocolate Corp (175,158,3).
+[21:03:19]GAME: RoundStart Event: Scaredy's Private Reserve Beef Jerky has changed amount and price in Getmore Chocolate Corp (175,158,3).
+[21:03:19]GAME: RoundStart Event: 4no Raisins has changed amount and price in Getmore Chocolate Corp (175,158,3).
+[21:03:19]GAME: RoundStart Event: Space Twinkie has changed amount and price in Getmore Chocolate Corp (175,158,3).
+[21:03:19]GAME: RoundStart Event: Cheesie Honkers has changed amount and price in Getmore Chocolate Corp (175,158,3).
+[21:03:19]GAME: RoundStart Event: top-hat has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: black fedora has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: monocle has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: bomber jacket has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: Maid cap has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: puffer vest has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: letterman jacket has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: red letterman jacket has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: navy suit has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: executive suit has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: burgundy suit has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: charcoal suit has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: white suit has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: camo pants has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: black jeans has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: khaki pants has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: white pants has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: red pants has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: black pants has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: tan pants has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: blue pants has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: track pants has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: sundress has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: black tango dress has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: prescription glasses has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: poncho has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: worn shirt has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: sandals has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: Byzantine skiadion has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: black bandana has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: skull bandana has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: green bandana has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: gold bandana has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: blue bandana has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: blue neck scarf has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: red scarf has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: yellow scarf has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: winter boots has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: field jacket olive has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: field jacket desert has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: field jacket navy has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: Student Jacket has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: shawl has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: atlas jacket has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: sukeban pants has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: sukeban dress has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: sukeban coat has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: pink polo has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: pretty dress has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: summer dress has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: vintage dress has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: party dress has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: aviator glasses has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: aviator glasses has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: aviator glasses has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: aviator glasses has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: Jerusalem glasses has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: 3D glasses has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: gar glasses has changed amount and price in Hacked ClothesMate (165,84,3).
+[21:03:19]GAME: RoundStart Event: inaprovaline autoinjector has changed amount and price in NanoMed (171,80,3).
+[21:03:19]GAME: RoundStart Event: Syringe (anti-toxin) has changed amount and price in NanoMed (171,80,3).
+[21:03:19]GAME: RoundStart Event: roll of gauze has changed amount and price in NanoMed (171,80,3).
+[21:03:19]GAME: RoundStart Event: ointment has changed amount and price in NanoMed (171,80,3).
+[21:03:19]GAME: RoundStart Event: Health Analyzer has changed amount and price in NanoMed (171,80,3).
+[21:03:19]GAME: RoundStart Event: suture kit has changed amount and price in NanoMed (171,80,3).
+[21:03:19]GAME: RoundStart Event: candy bar has changed amount and price in Hacked Getmore Chocolate Corp (172,85,3).
+[21:03:19]GAME: RoundStart Event: Dosi Ramen has changed amount and price in Hacked Getmore Chocolate Corp (172,85,3).
+[21:03:19]GAME: RoundStart Event: chips has changed amount and price in Hacked Getmore Chocolate Corp (172,85,3).
+[21:03:19]GAME: RoundStart Event: Scaredy's Private Reserve Beef Jerky has changed amount and price in Hacked Getmore Chocolate Corp (172,85,3).
+[21:03:19]GAME: RoundStart Event: 4no Raisins has changed amount and price in Hacked Getmore Chocolate Corp (172,85,3).
+[21:03:19]GAME: RoundStart Event: Space Twinkie has changed amount and price in Hacked Getmore Chocolate Corp (172,85,3).
+[21:03:19]GAME: RoundStart Event: Space Cola has changed amount and price in Hacked Robust Softdrinks (172,84,3).
+[21:03:19]GAME: RoundStart Event: Dr. Gibb has changed amount and price in Hacked Robust Softdrinks (172,84,3).
+[21:03:19]GAME: RoundStart Event: Star-kist has changed amount and price in Hacked Robust Softdrinks (172,84,3).
+[21:03:19]GAME: RoundStart Event: Bottled Water has changed amount and price in Hacked Robust Softdrinks (172,84,3).
+[21:03:19]GAME: RoundStart Event: Space-Up has changed amount and price in Hacked Robust Softdrinks (172,84,3).
+[21:03:19]GAME: RoundStart Event: Vrisk Serket Iced Tea has changed amount and price in Hacked Robust Softdrinks (172,84,3).
+[21:03:19]GAME: RoundStart Event: Grapel Juice has changed amount and price in Hacked Robust Softdrinks (172,84,3).
+[21:03:19]GAME: RoundStart Event: Griffeater Gin has changed amount and price in Booze-O-Mat (174,98,4).
+[21:03:19]GAME: RoundStart Event: Uncle Git's Special Reserve has changed amount and price in Booze-O-Mat (174,98,4).
+[21:03:19]GAME: RoundStart Event: Caccavo Guaranteed Quality Tequilla has changed amount and price in Booze-O-Mat (174,98,4).
+[21:03:19]GAME: RoundStart Event: Goldeneye Vermouth has changed amount and price in Booze-O-Mat (174,98,4).
+[21:03:19]GAME: RoundStart Event: Captain Pete's Cuban Spiced Rum has changed amount and price in Booze-O-Mat (174,98,4).
+[21:03:19]GAME: RoundStart Event: Chateau De Baton Premium Cognac has changed amount and price in Booze-O-Mat (174,98,4).
+[21:03:19]GAME: RoundStart Event: Robert Robust's Coffee Liqueur has changed amount and price in Booze-O-Mat (174,98,4).
+[21:03:19]GAME: RoundStart Event: Space Beer has changed amount and price in Booze-O-Mat (174,98,4).
+[21:03:19]GAME: RoundStart Event: Orange Juice has changed amount and price in Booze-O-Mat (174,98,4).
+[21:03:19]GAME: RoundStart Event: Tomato Juice has changed amount and price in Booze-O-Mat (174,98,4).
+[21:03:19]GAME: RoundStart Event: Lime Juice has changed amount and price in Booze-O-Mat (174,98,4).
+[21:03:19]GAME: RoundStart Event: Milk Cream has changed amount and price in Booze-O-Mat (174,98,4).
+[21:03:19]GAME: RoundStart Event: T-Borg's Tonic Water has changed amount and price in Booze-O-Mat (174,98,4).
+[21:03:19]GAME: RoundStart Event: Space Cola has changed amount and price in Booze-O-Mat (174,98,4).
+[21:03:19]GAME: RoundStart Event: flask has changed amount and price in Booze-O-Mat (174,98,4).
+[21:03:19]GAME: RoundStart Event: vacuum flask has changed amount and price in Booze-O-Mat (174,98,4).
+[21:03:19]GAME: RoundStart Event: glass has changed amount and price in Booze-O-Mat (174,98,4).
+[21:03:19]GAME: RoundStart Event: Emeraldine Melon Liquor has changed amount and price in Booze-O-Mat (174,98,4).
+[21:03:19]GAME: RoundStart Event: Miss Blue Curacao has changed amount and price in Booze-O-Mat (174,98,4).
+[21:03:19]GAME: RoundStart Event: Duc de Paris Brut has changed amount and price in Booze-O-Mat (174,98,4).
+[21:03:19]DEBUG: Event 'Products Inflation' has completed at 12:00.
+[21:03:19]DEBUG: Next event of severity Mundane in 17.78 minutes.
+[21:03:19]DEBUG: Next event of severity Moderate in 43.868 minutes.
+[21:03:19]DEBUG: Next event of severity Major in 54.485 minutes.
+[21:03:32]ADMIN: fatfat/(Cristopher Philips) created a /obj/effect/portal/tsci_wormhole/hub
+[21:03:45] Graceful shutdown

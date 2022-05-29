@@ -1,0 +1,934 @@
+[22:20:35] Server '' starting up on 192.168.0.5:55417
+[22:21:18]GAME: teleporter loaded at (54,223,3)
+[22:21:18]GAME: Broken Breacher loaded at (179,188,3)
+[22:21:18]GAME: ghost_ship_1 loaded at (105,84,4)
+[22:21:18]GAME: agrosphere loaded at (97,151,3)
+[22:21:20]GAME: Derelict Station loaded at (136,133,4)
+[22:21:20]GAME: Abandoned Cargo Shuttle loaded at (112,187,4)
+[22:21:20]GAME: ghost_ship_2 loaded at (210,135,3)
+[22:21:31]ADMIN: fatfat/(Jaime Ewing) will begin the game as soon as possible.
+[22:21:48]ADMIN: fatfat/(Jaime Ewing) created a /obj/item/clothing/accessory/armor/dermal
+[22:21:49]ADMIN: fatfat/(Jaime Ewing) created a /obj/item/clothing/head/helmet/HoS/dermal
+[22:21:56]MODE: Current master mode is extended
+[22:21:57]DEBUG: Next event of severity RoundStart in 0 minutes.
+[22:21:57]DEBUG: Starting event 'Forgotten Survival Box' of severity RoundStart.
+[22:21:57]DEBUG: Next event of severity RoundStart in 0 minutes.
+[22:21:57]GAME: RoundStart Event: Selected areas is Warden and Armory
+[22:21:57]DEBUG: Starting event 'Stolen Weapon' of severity RoundStart.
+[22:21:57]GAME: ANTAG LIST:
+no antagonists this moment
+[22:21:57]DEBUG: Event 'Forgotten Survival Box' has completed at 12:01.
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the bulletproof helmet on OTHER in (122,192,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the bulletproof fullbody armor on OTHER in (122,192,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the hazmat helmet on OTHER in (0,0,0)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the security gas mask on OTHER in (123,189,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the bulletproof helmet on OTHER in (122,192,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the bulletproof fullbody armor on OTHER in (122,192,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the security officer's jumpsuit on OTHER in (0,0,0)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the ablative fullbody armor on OTHER in (123,192,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the brown shoes on OTHER in (0,0,0)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the riot suit on OTHER in (121,192,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the riot suit on OTHER in (119,192,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the ablative helmet on OTHER in (123,192,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the hazmat suit on OTHER in (0,0,0)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the ablative helmet on OTHER in (123,192,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the security gas mask on OTHER in (123,189,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the security gas mask on OTHER in (123,189,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the riot helmet on OTHER in (121,192,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the ablative fullbody armor on OTHER in (123,192,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the bulletproof helmet on OTHER in (122,192,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the ablative fullbody armor on OTHER in (123,192,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the riot helmet on OTHER in (120,192,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the bomb hood on OTHER in (0,0,0)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the security gas mask on OTHER in (123,189,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the ablative helmet on OTHER in (123,192,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the bulletproof fullbody armor on OTHER in (122,192,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the security gas mask on OTHER in (123,189,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the bomb suit on OTHER in (0,0,0)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the security gas mask on OTHER in (123,189,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the security gas mask on OTHER in (123,189,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the riot helmet on OTHER in (119,192,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the security gas mask on OTHER in (123,189,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the riot suit on OTHER in (120,192,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the warden's jumpsuit on OTHER in (0,0,0)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the holobadge on OTHER in (0,0,0)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the holobadge on OTHER in (0,0,0)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace Warden's jacket on OTHER in (0,0,0)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the security armor on OTHER in (0,0,0)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the holobadge on OTHER in (0,0,0)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the shoulder holster on OTHER in (0,0,0)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the breath mask on OTHER in (123,184,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the holobadge on OTHER in (0,0,0)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the warden's dress on OTHER in (0,0,0)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the security hardsuit on OTHER in (123,184,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the holobadge on OTHER in (0,0,0)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the holobadge on OTHER in (0,0,0)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace HUDsunglasses on OTHER in (0,0,0)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the warden's helmet on OTHER in (0,0,0)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the security gas mask on OTHER in (0,0,0)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the warden's beret on OTHER in (0,0,0)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the magboots on OTHER in (123,184,2)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the holobadge on OTHER in (0,0,0)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the jackboots on OTHER in (0,0,0)
+[22:21:57]GAME: RoundStart Event: "Stolen Weapon" replace the security hardsuit helmet on OTHER in (123,184,2)
+[22:21:57]DEBUG: Event 'Stolen Weapon' has completed at 12:01.
+[22:21:57]DEBUG: Next event of severity Mundane in 15.82 minutes.
+[22:21:57]DEBUG: Next event of severity Moderate in 37.048 minutes.
+[22:21:57]DEBUG: Next event of severity Major in 53.215 minutes.
+[22:21:58]ADMIN: fatfat/(Jaime Ewing) created a /mob/living/carbon/human
+[22:22:02]ADMIN: fatfat/(Jaime Ewing) stuffed fatfat into unknown.
+[22:22:06]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[22:22:10]SAY: *no key*/(DET5) : [Research Director's Office]: Science time
+[22:22:16]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:22:18]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:22:18]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:22:20]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:22:28]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:22:31]ADMIN: fatfat/(unknown) modified dermal armour patch's icon_custom to 1.dmi
+[22:22:32]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:22:32]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:22:36]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:22:39]ADMIN: fatfat/(unknown) modified dermal armour patch's icon_state to glaza
+[22:22:50]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:22:52]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:22:55]ADMIN: fatfat/(unknown) modified dermal armour patch's icon_state to glaz
+[22:22:58]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:23:00]SAY: *no key*/(mouse (361)) : [Incinerator]: Squeek!
+[22:23:04]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:23:08]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:23:14]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:23:20]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:23:20]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:23:28]SAY: *no key*/(Ian) : [Head of Personnel's Office]: Woof!
+[22:23:30]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:23:36]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[22:23:38]SAY: *no key*/(SyndiCat) : [Syndicate Forward Operating Base]: Purr!
+[22:23:40]ADMIN: fatfat/(unknown) modified dermal armour patch's icon_state to glaz_mob
+[22:23:40]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:23:42]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:23:52]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:23:54]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:24:04]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:24:08]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:24:10]ADMIN: fatfat/(unknown) modified dermal armour patch's icon to 1.dmi
+[22:24:12]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:24:20]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:24:20]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[22:24:24]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:24:26]ADMIN: fatfat/(unknown) modified dermal armour patch's icon_override to 1.dmi
+[22:24:41]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:24:43]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:24:49]SAY: *no key*/(DET5) : [Research Director's Office]: Beep
+[22:24:55]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:24:55]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:25:15]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:25:43]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:25:47]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:25:48]ADMIN: fatfat/(unknown) modified dermal armour patch's icon to 1.dmi
+[22:26:05]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:26:07]SAY: *no key*/(DET5) : [Research Director's Office]: One...null...Beep
+[22:26:27]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:26:31]ADMIN: fatfat/(unknown) modified dermal armour patch's icon_state to glaz_mob
+[22:26:37]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:26:39]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:26:45]SAY: *no key*/(mouse (425)) : [Engineering Maintenance]: SQUEEK!
+[22:26:47]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:26:53]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[22:26:55]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:26:59]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:27:01]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[22:27:01]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:27:07]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:27:13]SAY: *no key*/(DET5) : [Research Director's Office]: One...two...three...more...
+[22:27:19]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:27:32]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:27:34]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:27:34]ADMIN: fatfat/(unknown) modified dermal armour patch's item_state to glaz
+[22:27:43]ADMIN: fatfat/(unknown) modified dermal armour patch's item_state to glaz_mob
+[22:27:48]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:27:48]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:27:48]SAY: *no key*/(DET5) : [Research Director's Office]: ...this is a joke
+[22:28:02]SAY: *no key*/(DET5) : [Research Director's Office]: Boom...
+[22:28:22]SAY: *no key*/(Commander Clucky) : [Hydroponics]: BWAAAAARK BWAK BWAK BWAK!
+[22:28:36]SAY: *no key*/(DET5) : [Research Director's Office]: Director, where are researches?
+[22:28:36]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:28:41]ADMIN: fatfat/(unknown) modified dermal armour patch's icon_state to glaz
+[22:28:44]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:29:00]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:29:02]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[22:29:06]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:29:10]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[22:29:12]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[22:29:14]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:29:18]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:29:26]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[22:29:26]ADMIN: fatfat/(unknown) created a /obj/item/clothing/suit/catshirt
+[22:29:36]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:29:36]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:29:40]ADMIN: fatfat/(unknown) modified cat shirt's icon_custom to fem.dmi
+[22:29:42]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:29:42]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[22:29:46]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:29:46]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:29:46]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:29:52]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:30:00]ADMIN: fatfat/(unknown) modified cat shirt's item_state to flaff_mob
+[22:30:18]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:30:20]ADMIN: fatfat/(unknown) modified cat shirt's icon_state to flaff
+[22:30:22]SAY: *no key*/(Betsy) : [Hydroponics]: MOOOOOO
+[22:30:24]ADMIN: fatfat/(unknown) modified cat shirt's icon to fem.dmi
+[22:30:24]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:30:28]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:30:42]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:30:48]ADMIN: fatfat/(unknown) modified unknown's resize to 1.7
+[22:30:49]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:30:52]ADMIN: fatfat/(unknown) modified unknown's resize to 1.1
+[22:30:53]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:30:53]ADMIN: fatfat/(unknown) modified unknown's resize to 1.1
+[22:30:55]ADMIN: fatfat/(unknown) modified unknown's resize to 1.1
+[22:30:57]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[22:31:07]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[22:31:13]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:31:16]ADMIN: fatfat/(unknown) modified head's pumped to 10000
+[22:31:27]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:31:28]ADMIN: fatfat/(unknown) modified chest's pumped to 100000
+[22:31:36]ADMIN: fatfat/(unknown) modified groin's pumped to 10000
+[22:31:41]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:31:41]SAY: *no key*/(DET5) : [Research Director's Office]: Z-z-z-zero
+[22:31:41]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:31:44]ADMIN: fatfat/(unknown) modified left arm's pumped to 100000
+[22:31:45]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:31:47]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:31:52]ADMIN: fatfat/(unknown) modified right arm's pumped to 10000000
+[22:31:55]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:31:57]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:32:01]GAME: Roundstart logout report
+
+
+[22:32:01]ADMIN: fatfat/(unknown) modified left leg's pumped to 1000000
+[22:32:07]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:32:08]ADMIN: fatfat/(unknown) modified right leg's pumped to 10000000
+[22:32:12]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:32:12]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[22:32:14]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:32:14]ADMIN: fatfat/(unknown) healed / revived fatfat/(unknown)
+[22:32:16]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:32:18]SAY: *no key*/(DET5) : [Research Director's Office]: Successfully
+[22:32:22]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[22:32:24]ADMIN: fatfat/(unknown) created a /obj/structure/mirror/magic
+[22:32:55]ADMIN: fatfat/(unknown) modified unknown's nutrition to 10000
+[22:33:06]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:33:08]SAY: *no key*/(DET5) : [Research Director's Office]: ...this is a joke
+[22:33:10]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:33:10]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:33:10]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[22:33:14]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[22:33:24]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:33:35]ATTACK: fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:33:38]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:33:44]SAY: *no key*/(DET5) : [Research Director's Office]: Director, where are researches?
+[22:33:46]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[22:33:46]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:33:49]ADMIN: fatfat/(unknown) created a /mob/living/carbon/human
+[22:33:52]ADMIN: fatfat/(unknown) stuffed fatfat into unknown.
+[22:33:52]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[22:33:54]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:34:01]ADMIN: fatfat/(unknown) created a /obj/item/weapon/gun/projectile/shotgun/dungeon
+[22:34:03]ADMIN: fatfat/(unknown) created a /obj/item/weapon/storage/box/shotgun/slug
+[22:34:11]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[22:34:13]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:34:22]ATTACK: @fatfat/(unknown) has been shot with <b>/obj/item/projectile/bullet</b>, by fatfat/(unknown)
+[22:34:23]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:34:25]ATTACK: @fatfat/(unknown) has been shot with <b>/obj/item/projectile/bullet</b>, by fatfat/(unknown)
+[22:34:26]ATTACK: @fatfat/(unknown) has been shot with <b>/obj/item/projectile/bullet</b>, by fatfat/(unknown)
+[22:34:27]ATTACK: @fatfat/(unknown) has been shot with <b>/obj/item/projectile/bullet</b>, by fatfat/(unknown)
+[22:34:28]ATTACK: @fatfat/(unknown) has been shot with <b>/obj/item/projectile/bullet</b>, by fatfat/(unknown)
+[22:34:29]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:34:30]ATTACK: @fatfat/(unknown) has been shot with <b>/obj/item/projectile/bullet/buckpellet</b>, by fatfat/(unknown)
+[22:34:35]ADMIN: fatfat/(unknown) stuffed fatfat into unknown.
+[22:34:37]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:34:49]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:34:57]ADMIN: fatfat/(unknown) created a /obj/item/clothing/shoes/slippers
+[22:35:00]ADMIN: fatfat/(unknown) created a /obj/item/clothing/shoes/slippers_worn
+[22:35:03]ADMIN: fatfat/(unknown) created a /obj/machinery/ai_slipper
+[22:35:05]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:35:06]ADMIN: fatfat/(unknown) deleted AI Liquid Dispenser at (62,142,2)
+[22:35:07]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:35:15]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:35:31]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss...
+[22:35:31]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:35:33]ADMIN: fatfat/(unknown) created a /obj/item/clothing/shoes/slippers
+[22:35:51]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[22:35:53]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:35:55]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:35:55]SAY: *no key*/(Renault) : [Captain's Office]: Awoo
+[22:36:12]ADMIN: fatfat/(unknown) modified unknown's nutrition to 1000
+[22:36:15]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:36:19]SAY: *no key*/(DET5) : [Research Director's Office]: Successfully
+[22:36:21]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:36:23]ADMIN: fatfat/(unknown) has toggled fatfat/(unknown)'s nodamage to On
+[22:36:23]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:36:30]ADMIN: fatfat/(unknown) modified unknown's nutrition to 10000
+[22:36:41]SAY: *no key*/(DET5) : [Research Director's Office]: Science time
+[22:37:03]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:37:03]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:37:21]ADMIN: fatfat/(unknown) created a /obj/item/clothing/gloves/space_ninja
+[22:37:21]SAY: *no key*/(DET5) : [Research Director's Office]: One...null...Beep
+[22:37:27]SAY: *no key*/(DET5) : [Research Director's Office]: ED-209 protect me
+[22:37:29]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:37:31]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:37:33]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:37:33]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:37:37]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:37:41]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:37:45]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:37:51]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:37:53]ADMIN: fatfat/(unknown) modified shotgun slug's icon to Nar.dmi
+[22:37:53]DEBUG: Next event of severity Mundane in 12.606 minutes.
+[22:37:53]DEBUG: Starting event 'Nothing' of severity Mundane.
+[22:37:55]DEBUG: Event 'Nothing' has completed at 12:16.
+[22:37:56]ADMIN: fatfat/(unknown) modified shotgun slug's icon to fem.dmi
+[22:38:01]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:38:03]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:38:19]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:38:23]ATTACK: @fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:38:24]ATTACK: @fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:38:24]EMOTE: @fatfat/(unknown) : screams in pain as much as he can!
+[22:38:25]ATTACK: @fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:38:25]EMOTE: @fatfat/(unknown) : seizes up and falls limp, his eyes dead and lifeless...
+[22:38:26]ATTACK: @fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:38:27]ATTACK: @fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:38:28]ATTACK: @fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:38:29]ATTACK: @fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:38:29]ATTACK: @fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:38:31]ATTACK: @fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:38:32]ATTACK: @fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:38:33]ATTACK: @fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:38:33]ATTACK: @fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:38:33]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss
+[22:38:37]ATTACK: @fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:38:37]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:38:39]ATTACK: @fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:38:40]ATTACK: @fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:38:42]ATTACK: @fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:38:43]ATTACK: @fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:38:44]ATTACK: @fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:38:44]ATTACK: @fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:38:45]ATTACK: @fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:38:46]ATTACK: @fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:38:47]ATTACK: @fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:38:48]ATTACK: @fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:38:49]ATTACK: @fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:38:50]ATTACK: @fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:38:51]ATTACK: @fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:38:52]ATTACK: @fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:38:56]ATTACK: @fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:38:58]ATTACK: @fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:39:01]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:39:05]SAY: *no key*/(grey baby slime (155)) : [Xenobiology Lab]: Lonely...
+[22:39:11]SAY: *no key*/(grey baby slime (155)) : [Xenobiology Lab]: Blorble...
+[22:39:17]ADMIN: fatfat/(unknown) modified [0x21025533] (/datum/component/mood)'s mood to 30
+[22:39:29]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[22:39:37]ADMIN: fatfat/(unknown) modified [0x21025533] (/datum/component/mood)'s shown_mood to 30
+[22:39:37]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[22:39:45]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:39:49]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:39:51]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:39:52]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:39:53]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:39:54]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:39:55]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:39:56]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:39:57]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[22:40:01]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:40:01]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:40:03]SAY: *no key*/(DET5) : [Research Director's Office]: One...null...Beep
+[22:40:04]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:40:05]ATTACK: fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:40:05]SAY: *no key*/(grey baby slime (155)) : [Xenobiology Lab]: Lonely...
+[22:40:06]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:40:07]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:40:09]ATTACK: fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:40:09]SAY: *no key*/(DET5) : [Research Director's Office]: Analyzing...
+[22:40:13]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:40:16]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:40:17]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:40:20]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:40:23]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss
+[22:40:25]SAY: *no key*/(mouse (425)) : [Engineering Maintenance]: Squeek?
+[22:40:26]ATTACK: @fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:40:33]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:40:47]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:40:47]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:40:49]ADMIN: fatfat/(unknown) has possessed the shotgun slug (/obj/item/ammo_casing/shotgun) at (53,141,2)
+[22:40:51]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:41:00]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:41:06]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:41:12]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:41:14]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[22:41:21]ADMIN: fatfat/(unknown) made fatfat/(unknown) drop everything!
+[22:41:26]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:41:28]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:41:32]ATTACK: @fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:41:33]ATTACK: @fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:41:33]ATTACK: @fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:41:34]ATTACK: @fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:41:36]ATTACK: @fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:41:37]ATTACK: @fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:41:38]ATTACK: @fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:41:40]ATTACK: @fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:41:41]ATTACK: @fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:41:42]ATTACK: @fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:41:48]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:41:50]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:41:54]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:41:56]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:41:58]SAY: *no key*/(Wall-E) : [Quartermaster's Office]: Beep-Boop
+[22:41:59]ATTACK: fatfat/(unknown) has been punched, by fatfat/(unknown)
+[22:42:00]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:42:03]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:42:06]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:42:06]SAY: *no key*/(E-N) : [Head of Security's Office]: Woof!
+[22:42:10]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:42:14]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:42:17]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:42:22]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:42:26]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:42:27]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:42:31]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:42:35]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:42:37]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:42:38]ATTACK: fatfat/(unknown) has been attacked with shotgun slug (INTENT: HARM) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[22:42:44]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:42:50]SAY: *no key*/(Ian) : [Head of Personnel's Office]: Bark!
+[22:42:56]ADMIN: fatfat/(unknown) made all SMESs powered
+[22:42:56]ADMIN: fatfat/(unknown) used secret quickpower
+[22:43:02]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:43:04]SAY: *no key*/(Wall-E) : [Quartermaster's Office]: Buzz.
+[22:43:10]ADMIN: fatfat/(unknown) has entered build mode.
+[22:43:12]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:43:18]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:43:25]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:43:25]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:43:33]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:43:55]SAY: *no key*/(grey baby slime (382)) : [Xenobiology Lab]: Where is the food?
+[22:44:03]SAY: *no key*/(grey baby slime (382)) : [Xenobiology Lab]: Hungry...
+[22:44:08]ADMIN: fatfat/(unknown) has left build mode.
+[22:44:11]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:44:17]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:19]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:21]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:22]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:23]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:24]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:25]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:27]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:27]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:44:28]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:29]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:30]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:32]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:33]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:35]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:35]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[22:44:36]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:39]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:41]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:42]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:44]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:45]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:46]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:47]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[22:44:47]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:48]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:49]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:50]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:51]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[22:44:52]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:53]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:55]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:56]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:58]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:44:59]SAY: *no key*/(DET5) : [Research Director's Office]: Director, where are researches?
+[22:45:00]ADMIN: fatfat/(unknown) deleted the bush at (195,124,2)
+[22:45:01]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:02]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:03]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:05]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:05]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[22:45:06]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:07]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:08]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:10]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:11]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:12]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:13]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:14]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:16]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:17]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:17]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:45:18]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:19]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:20]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:22]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:23]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:45:23]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:25]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:26]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:27]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:29]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:30]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:31]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:45:31]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:32]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:33]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:45:34]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:35]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:36]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:37]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:38]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:40]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:41]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:42]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:43]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:44]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:46]ADMIN: fatfat/(unknown) deleted the bush at (194,119,2)
+[22:45:48]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:50]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:51]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:51]SAY: *no key*/(DET5) : [Research Director's Office]: ...this is a joke
+[22:45:53]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:54]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:55]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:45:55]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:56]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:57]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:45:58]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:00]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:01]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:46:01]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:46:02]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:04]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:05]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:46:06]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:07]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:08]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:09]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:11]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:11]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[22:46:12]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:13]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:46:15]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:16]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:19]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:19]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[22:46:19]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:21]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:22]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:24]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:25]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:26]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:28]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:29]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:30]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:31]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:46:32]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:33]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:35]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:37]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:38]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:39]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:40]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:41]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:42]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:43]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:46:44]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:45]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:45]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:46:46]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:47]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:49]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:50]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:52]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:54]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:55]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:55]SAY: *no key*/(Dusty) : [Chief Medical Officer's office]: Purr!
+[22:46:56]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:57]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:46:59]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:47:04]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:47:05]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:47:06]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:47:08]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:47:09]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:47:10]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:47:11]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:47:11]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:47:12]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:47:13]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:47:14]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:47:16]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:47:17]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:47:18]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:47:19]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:47:20]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:47:20]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:47:21]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:47:22]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:47:23]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:47:24]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:47:31]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:47:39]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:47:41]SAY: *no key*/(Experiment 97d) : [Wizard's Den]: Eh?
+[22:47:45]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:47:51]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:47:55]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:47:56]ADMIN: fatfat/(unknown) created a /turf/unsimulated/wall/fakeglass
+[22:47:58]ADMIN: fatfat/(unknown) created a /turf/unsimulated/wall/fakeglass
+[22:47:59]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[22:48:00]ADMIN: fatfat/(unknown) created a /turf/unsimulated/wall/fakeglass
+[22:48:01]ADMIN: fatfat/(unknown) created a /turf/unsimulated/wall/fakeglass
+[22:48:03]ADMIN: fatfat/(unknown) created a /turf/unsimulated/wall/fakeglass
+[22:48:04]ADMIN: fatfat/(unknown) created a /turf/unsimulated/wall/fakeglass
+[22:48:06]ADMIN: fatfat/(unknown) created a /turf/unsimulated/wall/fakeglass
+[22:48:13]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[22:48:16]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:48:19]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:48:21]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[22:48:25]ADMIN: fatfat/(unknown) created a /obj/structure/pedestal/cult
+[22:48:30]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:48:31]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:48:39]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:48:41]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:48:42]ADMIN: fatfat/(unknown) created a /turf/unsimulated/wall/fakeglass
+[22:48:43]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:48:45]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:48:55]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:48:57]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult/runed
+[22:48:57]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:48:57]SAY: *no key*/(Dusty) : [Chief Medical Officer's office]: Meow!
+[22:49:02]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:49:04]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:49:06]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:49:08]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:49:09]ADMIN: fatfat/(unknown) created a /obj/structure/pedestal/cult
+[22:49:11]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:49:11]SAY: *no key*/(DET5) : [Research Director's Office]: Beep
+[22:49:13]ADMIN: fatfat/(unknown) deleted the pedestal at (192,116,2)
+[22:49:15]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[22:49:20]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:49:22]ADMIN: fatfat/(unknown) created a /obj/structure/pedestal/cult
+[22:49:23]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:49:25]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:49:27]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult/lava
+[22:49:29]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult/lava
+[22:49:29]SAY: *no key*/(DET5) : [Research Director's Office]: One...null...Beep
+[22:49:30]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult/lava
+[22:49:31]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult/lava
+[22:49:37]SAY: *no key*/(DET5) : [Research Director's Office]: Successfully
+[22:49:39]ADMIN: fatfat/(unknown) created a /obj/structure/mineral_door/cult
+[22:49:41]ADMIN: fatfat/(unknown) created a /obj/structure/mineral_door/cult
+[22:49:41]SAY: *no key*/(Betsy) : [Hydroponics]: Moo
+[22:49:43]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:49:43]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[22:49:45]SAY: *no key*/(DET5) : [Research Director's Office]: Beep
+[22:49:47]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult/lava
+[22:49:49]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult/lava
+[22:49:55]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[22:49:56]ADMIN: fatfat/(unknown) created a /obj/structure/pedestal/cult
+[22:49:57]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:49:59]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:50:02]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:50:03]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:50:03]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:50:06]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:50:07]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[22:50:07]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:50:21]ADMIN: fatfat/(unknown) created a /obj/structure/altar_of_gods/cult
+[22:50:28]ADMIN: fatfat/(unknown) created a /obj/structure/closet/crate/freezer
+[22:50:29]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:50:33]DEBUG: Next event of severity Mundane in 15.444 minutes.
+[22:50:33]DEBUG: Starting event 'Nothing' of severity Mundane.
+[22:50:35]DEBUG: Event 'Nothing' has completed at 12:29.
+[22:50:49]SAY: *no key*/(Renault) : [Captain's Office]: Ack-Ack
+[22:50:49]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[22:50:49]SAY: *no key*/(Commander Clucky) : [Hydroponics]: BWAAAAARK BWAK BWAK BWAK!
+[22:50:53]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:50:57]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:51:01]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[22:51:09]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:51:11]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[22:51:17]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[22:51:20]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:51:22]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:51:23]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:51:23]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult
+[22:51:25]SAY: *no key*/(DET5) : [Research Director's Office]: Science time
+[22:51:25]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:51:27]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:51:28]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult
+[22:51:31]ADMIN: fatfat/(unknown) deleted the grille at (200,123,2)
+[22:51:31]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:51:33]ADMIN: fatfat/(unknown) deleted the reinforced window at (200,123,2)
+[22:51:35]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:51:35]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:51:35]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:51:35]ADMIN: fatfat/(unknown) deleted Emergency Shutter at (200,123,2)
+[22:51:37]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:51:39]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult/runed
+[22:51:41]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:51:43]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult/runed
+[22:51:43]SAY: *no key*/(DET5) : [Research Director's Office]: ...this is a joke
+[22:51:44]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult/runed
+[22:51:47]ADMIN: fatfat/(unknown) deleted the reinforced window at (200,124,2)
+[22:51:49]ADMIN: fatfat/(unknown) deleted the grille at (200,124,2)
+[22:51:51]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:51:51]ADMIN: fatfat/(unknown) deleted Emergency Shutter at (200,124,2)
+[22:51:54]ADMIN: fatfat/(unknown) deleted the reinforced window at (199,124,2)
+[22:51:55]SAY: *no key*/(DET5) : [Research Director's Office]: Beep
+[22:51:57]ADMIN: fatfat/(unknown) deleted Emergency Shutter at (199,124,2)
+[22:51:57]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:51:59]ADMIN: fatfat/(unknown) deleted the grille at (199,124,2)
+[22:52:05]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:52:09]SAY: *no key*/(grey baby slime (155)) : [Xenobiology Lab]: Hungry...
+[22:52:09]SAY: *no key*/(DET5) : [Research Director's Office]: Z-z-z-zero
+[22:52:11]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:52:11]SAY: *no key*/(SyndiCat) : [Syndicate Forward Operating Base]: Meow!
+[22:52:13]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:52:13]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[22:52:29]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:52:29]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:52:31]ADMIN: fatfat/(unknown) created a /obj/machinery/kitchen_machine/microwave
+[22:52:31]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:52:37]ADMIN: fatfat/(unknown) created a /obj/machinery/kitchen_machine/oven
+[22:52:41]ADMIN: fatfat/(unknown) deleted the oven at (196,114,2)
+[22:52:43]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:52:49]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[22:52:50]ADMIN: fatfat/(unknown) created a /obj/item/weapon/kitchen/mould/worm
+[22:52:51]SAY: *no key*/(DET5) : [Research Director's Office]: Beep
+[22:52:53]SAY: *no key*/(DET5) : [Research Director's Office]: Successfully
+[22:52:53]ADMIN: fatfat/(unknown) deleted the worm-shaped candy mould at (196,114,2)
+[22:53:00]ADMIN: fatfat/(unknown) created a /obj/item/weapon/kitchenknife/ritual
+[22:53:01]ADMIN: fatfat/(unknown) created a /obj/item/weapon/kitchenknife/ritual
+[22:53:01]ADMIN: fatfat/(unknown) created a /obj/item/weapon/kitchenknife/ritual
+[22:53:01]ADMIN: fatfat/(unknown) created a /obj/item/weapon/kitchenknife/ritual
+[22:53:07]ADMIN: fatfat/(unknown) created a /obj/structure/kitchenspike
+[22:53:11]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:53:11]SAY: *no key*/(DET5) : [Research Director's Office]: ED-209 protect me
+[22:53:13]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:53:22]ADMIN: fatfat/(unknown) created a /obj/machinery/deepfryer
+[22:53:25]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:53:37]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:53:43]ADMIN: fatfat/(unknown) created a /obj/item/weapon/fireaxe
+[22:53:48]ADMIN: fatfat/(unknown) created a /obj/item/weapon/kitchenknife/butch
+[22:53:49]ADMIN: fatfat/(unknown) created a /obj/item/weapon/kitchenknife/butch
+[22:53:55]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:54:08]ADMIN: fatfat/(unknown) jumped to Cult Heaven
+[22:54:13]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:54:19]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:54:23]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:54:25]ADMIN: fatfat/(unknown) jumped to Bar
+[22:54:27]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:54:29]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:54:33]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[22:54:44]ADMIN: fatfat/(unknown) created a /obj/machinery/optable/torture_table
+[22:54:45]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:54:46]ADMIN: fatfat/(unknown) created a /obj/machinery/optable/torture_table
+[22:54:48]ADMIN: fatfat/(unknown) created a /obj/machinery/optable/torture_table
+[22:54:49]SAY: *no key*/(Renault) : [Captain's Office]: Geckers
+[22:54:50]ADMIN: fatfat/(unknown) created a /obj/machinery/optable/torture_table
+[22:54:53]ADMIN: fatfat/(unknown) created a /obj/machinery/optable/torture_table
+[22:54:53]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:54:54]ADMIN: fatfat/(unknown) created a /obj/machinery/optable/torture_table
+[22:54:58]ADMIN: fatfat/(unknown) created a /obj/machinery/optable/torture_table
+[22:54:59]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:55:01]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:55:05]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:55:05]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:55:09]SAY: *no key*/(DET5) : [Research Director's Office]: Z-z-z-zero
+[22:55:09]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:55:15]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult/lava
+[22:55:17]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult/lava
+[22:55:18]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult/lava
+[22:55:19]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:55:20]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult/lava
+[22:55:22]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult/lava
+[22:55:23]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult/lava
+[22:55:25]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult/lava
+[22:55:25]SAY: *no key*/(Commander Clucky) : [Hydroponics]: Bwaak bwak.
+[22:55:27]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult/lava
+[22:55:28]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult/lava
+[22:55:29]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult/lava
+[22:55:31]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult/lava
+[22:55:32]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult/lava
+[22:55:33]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:55:35]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:55:43]ADMIN: fatfat/(unknown) modified door's name to МЕНЕДЖЕР РЕСТОРАНА
+[22:55:47]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:55:53]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[22:56:01]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[22:56:04]ADMIN: fatfat/(unknown) created a /obj/structure/table/woodentable/fancy/black
+[22:56:09]ADMIN: fatfat/(unknown) created a /obj/structure/reagent_dispensers/kvasstank
+[22:56:09]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:56:18]ADMIN: fatfat/(unknown) modified KBAC's icon to Nar.dmi
+[22:56:19]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:56:24]ADMIN: fatfat/(unknown) modified KBAC's resize to 0.1
+[22:56:29]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:56:33]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:56:34]ADMIN: fatfat/(unknown) modified KBAC's pixel_y to -250
+[22:56:38]ADMIN: fatfat/(unknown) modified KBAC's pixel_x to -250
+[22:56:41]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:56:42]ADMIN: fatfat/(unknown) modified KBAC's pixel_x to -240
+[22:56:44]ADMIN: fatfat/(unknown) modified KBAC's pixel_x to -230
+[22:56:45]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:56:47]ADMIN: fatfat/(unknown) modified KBAC's pixel_x to -225
+[22:56:47]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:56:49]ADMIN: fatfat/(unknown) modified KBAC's pixel_x to -230
+[22:56:51]ADMIN: fatfat/(unknown) modified KBAC's pixel_x to -235
+[22:57:18]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:57:30]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:57:48]SAY: *no key*/(DET5) : [Research Director's Office]: One...two...three...more...
+[22:57:49]ADMIN: fatfat/(unknown) created a /obj/structure/noticeboard/plastic
+[22:57:54]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:57:55]ADMIN: fatfat/(unknown) created a /obj/structure/noticeboard/plastic
+[22:58:08]SAY: *no key*/(Dusty) : [Chief Medical Officer's office]: Esp!
+[22:58:10]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:58:14]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:58:15]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult/runed/anim
+[22:58:22]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:58:24]ADMIN: fatfat/(unknown) created a /mob/living/carbon/human
+[22:58:26]ADMIN: fatfat/(unknown) stuffed fatfat into unknown.
+[22:58:32]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[22:58:44]SAY: *no key*/(Wall-E) : [Quartermaster's Office]: Beep-Boop
+[22:58:54]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:59:12]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:59:15]ADMIN: fatfat/(unknown) created a /obj/structure/mineral_door/cult
+[22:59:25]ADMIN: fatfat/(unknown) created a /turf/unsimulated/floor/cult/lava
+[22:59:30]DEBUG: Next event of severity Moderate in 45.812 minutes.
+[22:59:30]DEBUG: Starting event 'Nothing' of severity Moderate.
+[22:59:32]DEBUG: Event 'Nothing' has completed at 12:38.
+[22:59:40]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:59:42]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:59:48]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:59:48]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:59:48]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:59:48]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:59:55]ADMIN: fatfat/(unknown) created 30ea /obj/item/weapon/reagent_containers/food/drinks/bottle/tomatojuice
+[23:00:00]SAY: *no key*/(Commander Clucky) : [Hydroponics]: BWAAAAARK BWAK BWAK BWAK!
+[23:00:04]SAY: *no key*/(DET5) : [Research Director's Office]: Director, where are researches?
+[23:00:10]ADMIN: fatfat/(unknown) created 30ea /obj/item/weapon/reagent_containers/food/drinks/drinkingglass/blood
+[23:00:12]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[23:00:18]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[23:00:18]SAY: *no key*/(Commander Clucky) : [Hydroponics]: BWAAAAARK BWAK BWAK BWAK!
+[23:00:31]ADMIN: fatfat/(unknown) has entered build mode.
+[23:00:42]ADMIN: fatfat/(unknown) has left build mode.
+[23:00:45]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[23:00:45]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[23:00:55]SAY: *no key*/(Ian) : [Head of Personnel's Office]: Bark!
+[23:00:55]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[23:01:03]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[23:01:08]ADMIN: fatfat/(unknown) created a /obj/structure/stool/bed/chair/wood/wings
+[23:01:09]ADMIN: fatfat/(unknown) created a /obj/structure/stool/bed/chair/wood/wings
+[23:01:10]ADMIN: fatfat/(unknown) created a /obj/structure/stool/bed/chair/wood/wings
+[23:01:12]ADMIN: fatfat/(unknown) created a /obj/structure/stool/bed/chair/wood/wings
+[23:01:13]ADMIN: fatfat/(unknown) created a /obj/structure/stool/bed/chair/wood/wings
+[23:01:15]ADMIN: fatfat/(unknown) created a /obj/structure/stool/bed/chair/wood/wings
+[23:01:15]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[23:01:19]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[23:01:19]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[23:01:31]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[23:01:32]ADMIN: fatfat/(unknown) used secret restore_air
+[23:01:40]ADMIN: fatfat/(unknown) used secret restore_air
+[23:01:41]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[23:01:41]ADMIN: fatfat/(unknown) used secret restore_air
+[23:01:43]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[23:01:46]ADMIN: fatfat/(unknown) used secret restore_air
+[23:01:48]ADMIN: fatfat/(unknown) used secret restore_air
+[23:01:53]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[23:01:55]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[23:01:55]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[23:01:59]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[23:02:01]SAY: *no key*/(DET5) : [Research Director's Office]: Successfully
+[23:02:03]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[23:02:15]MODE: fatfat/(unknown) is now Cultist.
+[23:02:15]MODE: Cult Of Blood was normally created.
+[23:02:16]MODE: There are zero active leaders of cult, trying to add some..
+[23:02:16]MODE: fatfat/(unknown) is <span class='danger'>no longer</span> Cultist.
+[23:02:16]MODE: fatfat/(unknown) is now Cultist.
+[23:02:16]MODE: Managed to add new leaders of cult.
+[23:02:23]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[23:02:25]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[23:02:31]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[23:02:33]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[23:02:39]SAY: *no key*/(Experiment 97d) : [Wizard's Den]: EHEHEHEHEH
+[23:02:47]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[23:02:57]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[23:03:03]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[23:03:11]SAY: *no key*/(Wall-E) : [Quartermaster's Office]: Eva? Evaaa!
+[23:03:13]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[23:03:17]SAY: *no key*/(Poly) : [Chief Engineer's office]: What are you before me?
+[23:03:21]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[23:03:22]ADMIN: fatfat/(unknown) deleted the maintenance access at (174,131,2)
+[23:03:25]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[23:03:27]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[23:03:33]SAY: *no key*/(DET5) : [Research Director's Office]: Not enough time
+[23:03:37]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[23:03:41]SAY: *no key*/(DET5) : [Research Director's Office]: ...this is a joke
+[23:03:41]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[23:03:45]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[23:03:47]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[23:03:49]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[23:03:51]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[23:04:01]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[23:04:01]SAY: *no key*/(DET5) : [Research Director's Office]: Boom...
+[23:04:01]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[23:04:05]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[23:04:09]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[23:04:09]ADMIN: fatfat/(unknown) jumped to (197,118,2) in Garden
+[23:04:11]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[23:04:16]MODE: There are zero active leaders of cult, trying to add some..
+[23:04:16]MODE: Unable to add new leaders of cult.
+[23:04:21]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[23:04:37]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[23:04:49]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[23:04:51]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[23:04:51]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[23:04:53]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[23:04:55]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[23:05:03]ADMIN: fatfat/(unknown) has possessed KBAC (/obj/structure/reagent_dispensers/kvasstank) at (199,123,2)
+[23:05:11]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[23:05:19]SAY: *no key*/(DET5) : [Research Director's Office]: Boom...
+[23:05:21]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[23:05:27]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[23:05:36]ADMIN: fatfat/(unknown) changed the equipment of fatfat/(unknown) to captain.
+[23:05:41]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[23:05:45]ADMIN: fatfat/(unknown) created a /obj/item/weapon/storage/backpack/cultpack
+[23:05:47]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[23:05:55]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[23:06:01]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[23:06:09]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[23:06:09]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[23:06:23]DEBUG: Next event of severity Mundane in 14.184 minutes.
+[23:06:23]DEBUG: Starting event 'Nothing' of severity Mundane.
+[23:06:25]DEBUG: Event 'Nothing' has completed at 12:45.
+[23:06:27]SAY: *no key*/(DET5) : [Research Director's Office]: ...this is a joke
+[23:06:29]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[23:06:37]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[23:06:56]ADMIN: fatfat/(unknown) deleted the wall at (193,127,2)
+[23:07:03]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[23:07:07]SAY: *no key*/(grey baby slime (155)) : [Xenobiology Lab]: Lonely...
+[23:07:07]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[23:07:09]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[23:07:09]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[23:07:11]ADMIN: fatfat/(unknown) created a /turf/simulated/wall/cult/runed
+[23:07:15]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[23:07:25]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[23:07:25]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[23:07:31]SAY: *no key*/(grey baby slime (382)) : [Xenobiology Lab]: Rawr...
+[23:07:37]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[23:07:41]SAY: *no key*/(DET5) : [Research Director's Office]: ...this is a joke
+[23:07:43]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss
+[23:07:49]SAY: *no key*/(Commander Clucky) : [Hydroponics]: Bwaak bwak.
+[23:07:51]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[23:07:57]SAY: *no key*/(DET5) : [Research Director's Office]: One...two...three...more...
+[23:08:36] Graceful shutdown

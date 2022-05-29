@@ -1,0 +1,428 @@
+[18:21:59] Server '' starting up on 26.166.93.76:55419
+[18:22:32]GAME: NASA satellite loaded at (89,183,3)
+[18:22:32]GAME: delivery_shuttle loaded at (81,13,3)
+[18:22:32]GAME: teleporter loaded at (153,186,4)
+[18:22:32]GAME: Tree Asteroid loaded at (31,41,4)
+[18:22:32]GAME: Abandoned Lab loaded at (157,134,4)
+[18:22:32]GAME: Derelict Teleporter loaded at (176,91,4)
+[18:22:34]GAME: Derelict Station loaded at (87,54,3)
+[18:22:57]ADMIN: fatfat/(Emmanuel Ehret) jumped to the start area
+[18:23:22]ADMIN: fatfat/(Emmanuel Ehret) jumped to Syndicate Forward Operating Base
+[18:23:27]ADMIN: fatfat/(Emmanuel Ehret) has started the game.
+[18:23:31]MODE: Current master mode is extended
+[18:23:31]DEBUG: Next event of severity RoundStart in 0 minutes.
+[18:23:31]DEBUG: Starting event 'Forgotten Watertanks' of severity RoundStart.
+[18:23:31]DEBUG: Next event of severity RoundStart in 0 minutes.
+[18:23:31]DEBUG: Starting event 'Forgotten Fueltanks' of severity RoundStart.
+[18:23:31]DEBUG: Next event of severity RoundStart in 0 minutes.
+[18:23:31]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[18:23:31]GAME: ANTAG LIST:
+no antagonists this moment
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]GAME: RoundStart Event: All watertank have been deleted.
+[18:23:32]DEBUG: Event 'Forgotten Watertanks' has completed at 12:01.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]GAME: RoundStart Event: All fueltanks have been deleted.
+[18:23:32]DEBUG: Event 'Forgotten Fueltanks' has completed at 12:01.
+[18:23:32]DEBUG: Event 'Roundstart Nothing' has completed at 12:01.
+[18:23:32]DEBUG: Next event of severity Mundane in 15.842 minutes.
+[18:23:32]DEBUG: Next event of severity Moderate in 41.308 minutes.
+[18:23:32]DEBUG: Next event of severity Major in 58.1183 minutes.
+[18:23:45]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[18:23:48]ADMIN: fatfat/(Emmanuel Ehret) created a /mob/living/carbon/human
+[18:23:51]ADMIN: fatfat/(Emmanuel Ehret) stuffed fatfat into unknown.
+[18:23:55]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[18:24:03]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:24:03]ADMIN: fatfat/(unknown) created a /obj/item/weapon/card/id/syndicate
+[18:24:09]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[18:24:13]SAY: *no key*/(DET5) : [Research Director's Office]: Beep
+[18:24:13]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:24:22]ADMIN: fatfat/(unknown) created a /obj/item/weapon/card/id/syndicate_command
+[18:24:31]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[18:24:33]ADMIN: fatfat/(unknown) changed the equipment of fatfat/(unknown) to space pirate.
+[18:24:35]SAY: *no key*/(shantak) : [Space]: Shuhn
+[18:24:37]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:24:41]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[18:24:43]SAY: *no key*/(Dusty) : [Chief Medical Officer's office]: Esp!
+[18:24:55]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:24:57]SAY: *no key*/(Commander Clucky) : [Hydroponics]: Bwaak bwak.
+[18:25:09]SAY: *no key*/(samak) : [Space]: Hruuugh!
+[18:25:45]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:25:49]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:25:49]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:26:09]SAY: *no key*/(DET5) : [Research Director's Office]: Z-z-z-zero
+[18:26:09]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:26:21]SAY: *no key*/(Wall-E) : [Quartermaster's Office]: Buzz.
+[18:26:29]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:26:29]ADMIN: fatfat/(unknown) jumped to Centcom Control
+[18:26:33]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:26:35]SAY: *no key*/(DET5) : [Research Director's Office]: Analyzing...
+[18:26:43]ADMIN: fatfat/(unknown) created a /mob/living/carbon/human/vox
+[18:26:45]SAY: *no key*/(Runtime) : [Wizard's Den]: HSSSSS
+[18:26:45]ADMIN: fatfat/(unknown) stuffed fatfat into unknown.
+[18:26:47]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[18:26:51]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:26:55]SAY: *no key*/(mouse (253)) : [Medbay Maintenance]: Squeek!
+[18:26:55]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:26:59]SAY: *no key*/(Commander Clucky) : [Hydroponics]: Cluck!
+[18:27:11]SAY: *no key*/(SyndiCat) : [north east of the mining asteroid]: HSSSSS
+[18:27:25]SAY: *no key*/(DET5) : [Research Director's Office]: ...this is a joke
+[18:27:33]SAY: *no key*/(grey baby slime (785)) : [Xenobiology Lab]: Lonely...
+[18:27:37]ADMIN: fatfat/(unknown) jumped to (63,219,1) in the hyperspace
+[18:28:02]ADMIN: fatfat/(unknown) jumped to (246,15,1) in Vox Skipjack Hold
+[18:28:07]SAY: *no key*/(Renault) : [Captain's Office]: Tchoff
+[18:28:07]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:28:08]ADMIN: fatfat/(unknown) jumped to (246,15,1) in Vox Skipjack Hold
+[18:28:17]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[18:28:19]SAY: *no key*/(SyndiCat) : [north east of the mining asteroid]: Meow!
+[18:28:19]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:28:21]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[18:28:21]SAY: *no key*/(shantak) : [Space]: Shuhn
+[18:28:31]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[18:28:35]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:28:38]ADMIN: fatfat/(unknown) deleted Pressure Tank (Air) at (210,204,6)
+[18:28:45]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:28:53]ADMIN: fatfat/(unknown) created a /obj/machinery/portable_atmospherics/canister/nitrogen
+[18:28:57]ADMIN: fatfat/(unknown) deleted Canister: [N2] at (210,204,6)
+[18:29:00]ADMIN: fatfat/(unknown) created a /obj/machinery/portable_atmospherics/canister/empty/nitrogen
+[18:29:04]ADMIN: fatfat/(unknown) deleted Canister: [N2] at (210,204,6)
+[18:29:17]SAY: *no key*/(Renault) : [Captain's Office]: Geckers
+[18:29:23]ADMIN: fatfat/(unknown) created a /obj/item/weapon/tank/emergency_nitrogen
+[18:29:32]ADMIN: fatfat/(unknown) created a /obj/machinery/portable_atmospherics/canister/nitrogen
+[18:29:35]SAY: *no key*/(Runtime) : [Wizard's Den]: Meow!
+[18:29:36]ADMIN: fatfat/(unknown) deleted Canister: [N2] at (210,204,6)
+[18:29:39]ADMIN: fatfat/(unknown) created a /obj/machinery/atmospherics/components/unary/tank/nitrogen
+[18:29:45]ADMIN: fatfat/(unknown) stuffed fatfat into Syndicate.
+[18:29:49]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:30:05]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[18:30:21]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[18:30:25]ADMIN: fatfat/(unknown) stuffed fatfat into unknown.
+[18:30:29]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:30:31]ADMIN: fatfat/(unknown) jumped to (178,38,6) in Nearby mining asteroid
+[18:30:37]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:31:07]SAY: *no key*/(Betsy) : [Hydroponics]: Moo
+[18:31:09]SAY: *no key*/(DET5) : [Research Director's Office]: Director, where are researches?
+[18:31:09]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:31:16]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[18:31:22]SAY: *no key*/(shantak) : [Space]: Shrunnph?
+[18:31:32]SAY: *no key*/(DET5) : [Research Director's Office]: Successfully
+[18:31:38]SAY: *no key*/(shantak) : [Space]: Shuhn
+[18:31:52]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss?
+[18:31:58]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[18:32:00]SAY: *no key*/(DET5) : [Research Director's Office]: Boom...
+[18:32:00]SAY: *no key*/(mouse (39)) : [Engineering]: Squeek?
+[18:32:02]SAY: *no key*/(shantak) : [Space]: Shrunnph?
+[18:32:16]SAY: *no key*/(DET5) : [Research Director's Office]: One...two...three...more...
+[18:32:24]SAY: *no key*/(shantak) : [Space]: Shrunnph?
+[18:32:30]SAY: *no key*/(Runtime) : [Wizard's Den]: Meow!
+[18:32:46]SAY: *no key*/(Ian) : [Head of Personnel's Office]: Bark!
+[18:32:52]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[18:32:58]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:33:02]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[18:33:31]ADMIN: fatfat/(unknown) toggled debugging off.
+[18:33:33]GAME: Roundstart logout report
+
+Syndicate (@fatfat), the  (Disconnected)
+
+[18:33:36]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:33:58]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:34:34]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[18:34:40]SAY: *no key*/(samak) : [Space]: Hrunnph
+[18:34:50]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:35:16]SAY: *no key*/(DET5) : [Research Director's Office]: Z-z-z-zero
+[18:35:27]ADMIN: fatfat/(unknown) has remade the powernet. makepowernets() called.
+[18:35:28]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:35:36]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:35:38]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:35:46]ADMIN: fatfat/(unknown) toggled debugging on.
+[18:35:50]SAY: *no key*/(Dusty) : [Chief Medical Officer's office]: Meow!
+[18:36:00]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:36:00]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:36:04]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[18:36:12]SAY: *no key*/(DET5) : [Research Director's Office]: Not enough time
+[18:36:12]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:36:16]SAY: *no key*/(DET5) : [Research Director's Office]: Director, where are researches?
+[18:36:18]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:36:26]SAY: *no key*/(DET5) : [Research Director's Office]: Analyzing...
+[18:36:28]SAY: *no key*/(Poly) : [Chief Engineer's office]: The things I have seen!
+[18:36:30]SAY: *no key*/(DET5) : [Research Director's Office]: ED-209 protect me
+[18:36:32]SAY: *no key*/(DET5) : [Research Director's Office]: Successfully
+[18:37:06]SAY: *no key*/(Ian) : [Head of Personnel's Office]: AUUUUUU
+[18:37:06]SAY: *no key*/(Commander Clucky) : [Hydroponics]: Cluck!
+[18:37:12]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:37:16]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[18:37:20]SAY: *no key*/(samak) : [Space]: Hrunnph
+[18:37:34]SAY: *no key*/(DET5) : [Research Director's Office]: Director, where are researches?
+[18:38:06]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:38:10]SAY: *no key*/(Commander Clucky) : [Hydroponics]: Bwaak bwak.
+[18:38:12]SAY: *no key*/(DET5) : [Research Director's Office]: Successfully
+[18:38:24]SAY: *no key*/(SyndiCat) : [north east of the mining asteroid]: Purr!
+[18:38:38]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[18:39:02]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[18:39:10]SAY: *no key*/(Renault) : [Captain's Office]: Ack-Ack
+[18:39:12]SAY: *no key*/(DET5) : [Research Director's Office]: Not enough time
+[18:39:18]SAY: *no key*/(DET5) : [Research Director's Office]: Director, where are researches?
+[18:39:26]DEBUG: Next event of severity Mundane in 14.77 minutes.
+[18:39:26]DEBUG: Starting event 'Nothing' of severity Mundane.
+[18:39:28]DEBUG: Event 'Nothing' has completed at 12:17.
+[18:39:28]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[18:39:32]SAY: *no key*/(shantak) : [Space]: Shrunnph?
+[18:39:36]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:39:40]SAY: *no key*/(DET5) : [Research Director's Office]: ED-209 protect me
+[18:39:46]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:39:50]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[18:39:54]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[18:40:00]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:40:12]SAY: *no key*/(DET5) : [Research Director's Office]: One...two...three...more...
+[18:40:16]SAY: *no key*/(shantak) : [Space]: Shunpf
+[18:40:30]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:40:38]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:40:40]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:41:00]SAY: *no key*/(SyndiCat) : [north east of the mining asteroid]: Meow!
+[18:41:08]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:41:30]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[18:41:34]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss
+[18:41:54]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:41:58]SAY: *no key*/(DET5) : [Research Director's Office]: Director, where are researches?
+[18:42:08]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:42:45]SAY: *no key*/(Wall-E) : [Quartermaster's Office]: Eva? Evaaa!
+[18:43:01]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[18:43:01]SAY: *no key*/(shantak) : [Space]: Shunpf
+[18:43:05]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss
+[18:43:13]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:43:15]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[18:43:23]SAY: *no key*/(Runtime) : [Wizard's Den]: Meow!
+[18:43:33]SAY: *no key*/(DET5) : [Research Director's Office]: Not enough time
+[18:43:43]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[18:43:55]SAY: *no key*/(DET5) : [Research Director's Office]: Director, where are researches?
+[18:43:55]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:44:07]SAY: *no key*/(grey baby slime (165)) : [Xenobiology Lab]: Blop...
+[18:44:07]SAY: *no key*/(shantak) : [Space]: Shunpf
+[18:44:09]SAY: *no key*/(Dusty) : [Chief Medical Officer's office]: Esp!
+[18:44:37]SAY: *no key*/(DET5) : [Research Director's Office]: Not enough time
+[18:44:50]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:44:56]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[18:45:10]EMOTE: *no key*/(Ian) : chases its tail
+[18:45:12]SAY: *no key*/(Poly) : [Chief Engineer's office]: The things I have seen!
+[18:45:24]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:45:44]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:46:04]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:46:14]SAY: *no key*/(DET5) : [Research Director's Office]: Director, where are researches?
+[18:46:22]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:46:32]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:46:44]SAY: *no key*/(Commander Clucky) : [Hydroponics]: BWAAAAARK BWAK BWAK BWAK!
+[18:46:52]SAY: *no key*/(Dusty) : [Chief Medical Officer's office]: Esp!
+[18:47:06]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:47:14]SAY: *no key*/(Ian) : [Head of Personnel's Office]: YAP
+[18:47:25]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:47:37]SAY: *no key*/(DET5) : [Research Director's Office]: Beep
+[18:47:39]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:47:51]SAY: *no key*/(grey baby slime (165)) : [Xenobiology Lab]: Rawr...
+[18:47:51]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:47:55]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:48:09]SAY: *no key*/(Poly) : [Chief Engineer's office]: The things I have seen!
+[18:48:15]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[18:48:23]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[18:48:38]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[18:48:44]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:48:46]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[18:49:04]SAY: *no key*/(Renault) : [Captain's Office]: Ack-Ack
+[18:49:22]SAY: *no key*/(Poly) : [Chief Engineer's office]: The things I have seen!
+[18:49:28]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[18:49:34]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[18:49:36]SAY: *no key*/(shantak) : [Space]: Shuhn
+[18:49:52]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:49:54]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:50:02]SAY: *no key*/(DET5) : [Research Director's Office]: Science time
+[18:50:06]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:50:18]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:50:32]SAY: *no key*/(DET5) : [Research Director's Office]: Z-z-z-zero
+[18:50:42]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[18:50:48]SAY: *no key*/(DET5) : [Research Director's Office]: Director, where are researches?
+[18:50:48]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:50:56]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:50:56]SAY: *no key*/(samak) : [Wizard's Den]: Hrunnph
+[18:51:02]SAY: *no key*/(Poly) : [Chief Engineer's office]: The things I have seen!
+[18:51:24]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:51:28]SAY: *no key*/(Poly) : [Chief Engineer's office]: The things I have seen!
+[18:51:34]SAY: *no key*/(grey baby slime (165)) : [Xenobiology Lab]: Blorble...
+[18:51:34]SAY: *no key*/(DET5) : [Research Director's Office]: Successfully
+[18:51:52]EMOTE: *no key*/(Ian) : chases its tail
+[18:52:18]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:52:20]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:52:54]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:53:12]SAY: *no key*/(Commander Clucky) : [Hydroponics]: BWAAAAARK BWAK BWAK BWAK!
+[18:53:14]EMOTE: *no key*/(Ian) : dances around
+[18:53:18]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:53:20]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:53:22]EMOTE: *no key*/(Ian) : dances around
+[18:53:22]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:53:40]SAY: *no key*/(DET5) : [Research Director's Office]: Boom...
+[18:53:40]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:53:44]SAY: *no key*/(DET5) : [Research Director's Office]: Successfully
+[18:53:52]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:53:58]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:54:08]EMOTE: *no key*/(Ian) : chases its tail
+[18:54:18]DEBUG: Next event of severity Mundane in 12.3 minutes.
+[18:54:18]DEBUG: Starting event 'Money Hacker' of severity Mundane.
+[18:54:18]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:54:20]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[18:54:22]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[18:54:26]SAY: *no key*/(Betsy) : [Hydroponics]: MOOOOOO
+[18:54:38]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[18:54:46]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:55:00]SAY: *no key*/(grey baby slime (785)) : [Xenobiology Lab]: Hungry...
+[18:55:04]SAY: *no key*/(samak) : [Space]: Hrunnph
+[18:55:18]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[18:55:18]SAY: *no key*/(Experiment 97d) : [Wizard's Den]: EHEHEHEHEH
+[18:55:34]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[18:55:42]SAY: *no key*/(grey baby slime (165)) : [Xenobiology Lab]: Rawr...
+[18:55:42]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[18:55:46]EMOTE: *no key*/(Ian) : chases its tail
+[18:55:46]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:56:04]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:56:08]EMOTE: *no key*/(Ian) : chases its tail
+[18:56:18]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:56:22]SAY: *no key*/(Poly) : [Chief Engineer's office]: The things I have seen!
+[18:56:34]SAY: *no key*/(DET5) : [Research Director's Office]: One...null...Beep
+[18:56:46]SAY: *no key*/(Dusty) : [Chief Medical Officer's office]: Purr!
+[18:56:56]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:57:26]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[18:57:44]SAY: *no key*/(DET5) : [Research Director's Office]: Boom...
+[18:57:46]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:57:48]SAY: *no key*/(grey baby slime (165)) : [Xenobiology Lab]: Blorble...
+[18:57:48]SAY: *no key*/(shantak) : [Space]: Shunpf
+[18:58:08]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:58:16]SAY: *no key*/(grey baby slime (165)) : [Xenobiology Lab]: Rawr...
+[18:58:16]SAY: *no key*/(E-N) : [Head of Security's Office]: YAP
+[18:58:20]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:58:30]SAY: *no key*/(DET5) : [Research Director's Office]: Boom...
+[18:58:30]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:58:38]SAY: *no key*/(DET5) : [Research Director's Office]: ...this is a joke
+[18:58:40]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[18:58:40]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:58:42]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:58:44]EMOTE: *no key*/(Ian) : chases its tail
+[18:59:04]SAY: *no key*/(Poly) : [Chief Engineer's office]: The things I have seen!
+[18:59:06]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:59:08]SAY: *no key*/(Betsy) : [Hydroponics]: Moo?
+[18:59:14]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[18:59:18]EMOTE: *no key*/(Ian) : chases its tail
+[18:59:22]SAY: *no key*/(Runtime) : [Wizard's Den]: Esp!
+[18:59:44]SAY: *no key*/(DET5) : [Research Director's Office]: Director, where are researches?
+[18:59:58]SAY: *no key*/(Betsy) : [Hydroponics]: Moo
+[19:00:04]SAY: *no key*/(shantak) : [Space]: Shuhn
+[19:00:14]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[19:00:20]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[19:00:24]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[19:00:26]SAY: *no key*/(Poly) : [Chief Engineer's office]: The things I have seen!
+[19:00:30]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[19:00:32]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[19:00:48]SAY: *no key*/(Commander Clucky) : [Hydroponics]: Bwaak bwak.
+[19:00:52]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[19:01:00]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[19:01:02]SAY: *no key*/(DET5) : [Research Director's Office]: ...this is a joke
+[19:01:26]SAY: *no key*/(E-N) : [Head of Security's Office]: AUUUUUU
+[19:01:48]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[19:02:06]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss
+[19:02:08]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[19:02:10]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[19:02:20]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[19:02:22]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[19:02:34]SAY: *no key*/(Poly) : [Chief Engineer's office]: The things I have seen!
+[19:02:38]SAY: *no key*/(Experiment 97d) : [Wizard's Den]: EHEHEHEHEH
+[19:02:48]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[19:02:50]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[19:02:56]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss
+[19:03:02]SAY: *no key*/(grey baby slime (785)) : [Xenobiology Lab]: Very... hungry...
+[19:03:02]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[19:03:33]SAY: *no key*/(DET5) : [Research Director's Office]: Beep
+[19:03:35]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[19:03:39]SAY: *no key*/(DET5) : [Research Director's Office]: ...this is a joke
+[19:03:45]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[19:03:49]SAY: *no key*/(SyndiCat) : [north east of the mining asteroid]: Purr!
+[19:04:00]ADMIN: fatfat/(unknown) toggled new player game entering.
+[19:04:05]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[19:04:09]SAY: *no key*/(DET5) : [Research Director's Office]: One...null...Beep
+[19:04:13]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[19:04:13]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss...
+[19:04:16]ADMIN: fatfat/(unknown) delayed the round end.
+[19:04:18]DEBUG: Event 'Money Hacker' has completed at 12:41.
+[19:04:19]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[19:04:25]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[19:04:29]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[19:04:41]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[19:04:43]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[19:04:43]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[19:04:47]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[19:04:57]SAY: *no key*/(DET5) : [Research Director's Office]: Science time
+[19:04:57]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[19:04:58]DEBUG: Next event of severity Moderate in 48.672 minutes.
+[19:04:58]DEBUG: Starting event 'APC Damage' of severity Moderate.
+[19:04:59]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[19:05:01]DEBUG: Event 'APC Damage' has completed at 12:42.
+[19:05:09]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[19:05:19]SAY: *no key*/(Poly) : [Chief Engineer's office]: The things I have seen!
+[19:05:21]SAY: *no key*/(Renault) : [Captain's Office]: Ack-Ack
+[19:05:33]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[19:05:35]SAY: *no key*/(samak) : [Space]: Hruuugh!
+[19:05:39]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[19:06:03]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[19:06:12] Graceful shutdown

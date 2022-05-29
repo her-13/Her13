@@ -1,0 +1,20 @@
+[21:29:33]TGUI: fatfat in browseroutput/initialize
+[21:29:44]TGUI: fatfat in verb/fix_tgui_panel
+Started fixing.
+[21:29:44]TGUI: fatfat (as FatFat at (1,1,1))
+Using: /datum/tgui_modal [0x210129e6]
+new AlertModal fancy 1
+[21:29:44]TGUI: fatfat in tgui-window-1/initialize
+Using: /datum/tgui_modal [0x210129e6]
+[21:29:44]TGUI: fatfat in browseroutput/initialize
+[21:29:48]TGUI: fatfat (as FatFat at (1,1,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x210129e6]
+Action: choose {"choice":"Yes"}
+[21:29:48]TGUI: fatfat in tgui-window-1/close (suspending)
+[21:30:04]TGUI: fatfat (as Levi Wentzel at (5,9,1))
+Using: /datum/tgui_modal [0x21014226]
+new AlertModal fancy 1
+[21:30:05]TGUI: fatfat (as Levi Wentzel at (5,9,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x21014226]
+Action: choose {"choice":"Yes"}
+[21:30:05]TGUI: fatfat in tgui-window-1/close (suspending)

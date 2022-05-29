@@ -1,0 +1,59 @@
+[19:27:55] Server '' starting up on 192.168.0.4:51067
+[19:28:51]ADMIN: fatfat/(Cory Sloan) created a /obj/item/weapon/bikehorn/dogtoy
+[19:28:58]GAME: Abandoned Ship loaded at (164,37,3)
+[19:28:58]GAME: Derelict Teleporter loaded at (212,120,3)
+[19:28:58]GAME: syndicate_fighter loaded at (157,128,4)
+[19:28:58]GAME: NASA satellite loaded at (189,126,3)
+[19:29:00]ADMIN: fatfat/(Cory Sloan) created a /mob/living/carbon/human
+[19:29:03]GAME: Derelict Station loaded at (48,60,3)
+[19:29:04]GAME: iss loaded at (16,185,3)
+[19:29:05]GAME: robostation loaded at (65,89,4)
+[19:29:33]ADMIN: fatfat/(Cory Sloan) will begin the game as soon as possible.
+[19:30:38]ADMIN: fatfat/(Cory Sloan) stuffed fatfat into unknown.
+[19:30:40]MODE: Current master mode is extended
+[19:30:43]DEBUG: Next event of severity RoundStart in 0 minutes.
+[19:30:43]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[19:30:43]DEBUG: Next event of severity RoundStart in 0 minutes.
+[19:30:43]DEBUG: Starting event 'Forgottens Tanks' of severity RoundStart.
+[19:30:43]GAME: ANTAG LIST:
+no antagonists this moment
+[19:30:45]DEBUG: Event 'Roundstart Nothing' has completed at 12:01.
+[19:30:45]GAME: RoundStart Event: the tank storage unit has reduced of oxygen tanks in (157,110,1)
+[19:30:45]GAME: RoundStart Event: the tank storage unit has reduced of phoron tanks in (157,110,1)
+[19:30:45]GAME: RoundStart Event: the tank storage unit has reduced of oxygen tanks in (81,118,2)
+[19:30:45]GAME: RoundStart Event: the tank storage unit has reduced of oxygen tanks in (105,145,2)
+[19:30:45]GAME: RoundStart Event: the tank storage unit has reduced of oxygen tanks in (162,148,2)
+[19:30:45]GAME: RoundStart Event: the tank storage unit has reduced of phoron tanks in (162,148,2)
+[19:30:45]GAME: RoundStart Event: the tank storage unit has reduced of oxygen tanks in (60,80,6)
+[19:30:45]GAME: RoundStart Event: the tank storage unit has reduced of oxygen tanks in (152,188,6)
+[19:30:45]DEBUG: Event 'Forgottens Tanks' has completed at 12:01.
+[19:30:45]DEBUG: Next event of severity Mundane in 15.854 minutes.
+[19:30:45]DEBUG: Next event of severity Moderate in 42.83 minutes.
+[19:30:45]DEBUG: Next event of severity Major in 57.29 minutes.
+[19:30:45]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[19:30:53]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[19:31:01]SAY: *no key*/(mouse (180)) : [Incinerator]: Squeek?
+[19:31:13]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[19:31:19]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[19:31:24]ATTACK: fatfat/(unknown) has been attacked with dog toy (INTENT: HELP) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[19:31:25]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[19:31:25]ATTACK: fatfat/(unknown) has been attacked with dog toy (INTENT: HELP) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[19:31:26]ATTACK: fatfat/(unknown) has been attacked with dog toy (INTENT: HELP) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[19:31:29]SAY: *no key*/(DET5) : [Research Director's Office]: ...this is a joke
+[19:31:30]ATTACK: fatfat/(unknown) has been attacked with dog toy (INTENT: HELP) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[19:31:39]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[19:31:53]ADMIN: fatfat/(unknown) created a /obj/item/weapon/pen
+[19:31:55]ATTACK: fatfat/(unknown) has been attacked with pen (INTENT: HELP) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[19:31:55]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[19:31:57]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[19:31:57]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[19:32:02]SAY: *no key*/(DET5) : [Research Director's Office]: Boom...
+[19:32:10]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[19:32:10]SAY: *no key*/(Betsy) : [Hydroponics]: Moo?
+[19:32:12]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[19:32:16]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[19:32:24]SAY: *no key*/(DET5) : [Research Director's Office]: ...this is a joke
+[19:32:24]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss
+[19:32:28]ATTACK: fatfat/(unknown) has been attacked with pen (INTENT: HELP) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[19:32:30]ATTACK: fatfat/(unknown) has been attacked with pen (INTENT: HELP) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[19:32:33] Graceful shutdown

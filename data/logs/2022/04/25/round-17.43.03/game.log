@@ -1,0 +1,288 @@
+[17:43:03] Server '' starting up on 26.166.93.76:61621
+[17:43:35]GAME: delivery_shuttle loaded at (208,125,3)
+[17:43:35]GAME: Abandoned Ship loaded at (114,176,3)
+[17:43:35]GAME: agrosphere loaded at (141,175,4)
+[17:43:36]GAME: Derelict Station loaded at (56,27,4)
+[17:43:36]GAME: cloning_lab loaded at (38,154,3)
+[17:43:36]GAME: teleporter loaded at (143,218,3)
+[17:43:36]GAME: Clown Shuttle loaded at (68,27,3)
+[17:44:58]ADMIN: fatfat/(Edgar Griffiths) created a /mob/living/carbon/human
+[17:45:00]ADMIN: fatfat/(Edgar Griffiths) stuffed fatfat into unknown.
+[17:45:07]ADMIN: fatfat/(unknown) created a /obj/structure/mirror/magic
+[17:45:23]ADMIN: fatfat/(ФатФатов) changed the equipment of fatfat/(ФатФатов) to captain.
+[17:45:30]ADMIN: fatfat/(ФатФатов) has started the game.
+[17:45:34]MODE: Current master mode is extended
+[17:45:35]DEBUG: Next event of severity RoundStart in 0 minutes.
+[17:45:35]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[17:45:35]DEBUG: Next event of severity RoundStart in 0 minutes.
+[17:45:35]DEBUG: Starting event 'Forgotten Fueltanks' of severity RoundStart.
+[17:45:35]DEBUG: Next event of severity RoundStart in 0 minutes.
+[17:45:35]GAME: RoundStart Event: Selected areas is Recycler, Engineering Break Room, Waste Disposal, Second Dorm Room, AI Satellite Exterior, Fore Primary Hallway, Dormitories, AI Satellite, Patient's Rooms, AI Satellite Exterior, Recycleroffice, Construction Area, Cold Room, Play Room, Quartermaster's Office, Medbay Storage, Medbay Storage, North Technical Storage, Toxins Test Site, Patient's Rooms, Entry Shuttles Hallway, Altar, Armory, Research Division, Patient's Rooms, Patient Room Two, Entry Shuttles Hallway, Vault, Internal Affairs, Science Breaktime Room, Starboard Emergency Storage, Starboard Primary Hallway, Medbay Maintenance, North Technical Storage, Third Dorm Room, Chapel Office, Bridge, Medbay Maintenance, Recycler, Technical Storage, Medbay Storage, Auxiliary Tool Storage, Labor Shuttle Dock, Toxins Test Site, Toxins Test Site, North Technical Storage, EVA Maintenance, Fore Starboard Solar Maintenance, Barbershop, Arrival Shuttle Hallway, Atmospherics Maintenance, Science Maintenance, Escape Shuttle Maintenance, Emergency Treatment Centre, Dormitories, Captain's Office, Second Dorm Room, Miscellaneous Research, Starboard Emergency Storage, Patient Room Two, Telecoms Central Compartment, Patient Room One and Miscellaneous Research
+[17:45:35]DEBUG: Starting event 'Break Light' of severity RoundStart.
+[17:45:35]GAME: ANTAG LIST:
+no antagonists this moment
+[17:45:36]DEBUG: Event 'Roundstart Nothing' has completed at 12:02.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]GAME: RoundStart Event: All fueltanks have been deleted.
+[17:45:36]DEBUG: Event 'Forgotten Fueltanks' has completed at 12:02.
+[17:45:36]DEBUG: Event 'Break Light' has completed at 12:02.
+[17:45:36]DEBUG: Next event of severity Mundane in 17.422 minutes.
+[17:45:36]DEBUG: Next event of severity Moderate in 41.812 minutes.
+[17:45:36]DEBUG: Next event of severity Major in 58.315 minutes.
+[17:45:39]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[17:45:43]ATTACK: *no key*/(friendly ghostly basilisk) has been gnawed, by *no key*/(basilisk)
+[17:45:45]ATTACK: *no key*/(friendly ghostly basilisk) has been gnawed, by *no key*/(basilisk)
+[17:45:45]SAY: *no key*/(mouse (397)) : [Medbay Maintenance]: SQUEEK!
+[17:45:53]ATTACK: *no key*/(friendly ghostly basilisk) has been gnawed, by *no key*/(basilisk)
+[17:45:55]ATTACK: *no key*/(friendly ghostly basilisk) has been gnawed, by *no key*/(basilisk)
+[17:45:55]ATTACK: *no key*/(basilisk) has been gnawed, by *no key*/(friendly ghostly basilisk)
+[17:45:57]ATTACK: *no key*/(basilisk) has been gnawed, by *no key*/(friendly ghostly basilisk)
+[17:45:59]ATTACK: *no key*/(friendly ghostly basilisk) has been gnawed, by *no key*/(basilisk)
+[17:46:01]ATTACK: *no key*/(basilisk) has been gnawed, by *no key*/(friendly ghostly basilisk)
+[17:46:03]ATTACK: *no key*/(friendly ghostly basilisk) has been gnawed, by *no key*/(basilisk)
+[17:46:05]ATTACK: *no key*/(basilisk) has been gnawed, by *no key*/(friendly ghostly basilisk)
+[17:46:11]ATTACK: *no key*/(friendly ghostly basilisk) has been gnawed, by *no key*/(basilisk)
+[17:46:11]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[17:46:15]ATTACK: *no key*/(friendly ghostly basilisk) has been gnawed, by *no key*/(basilisk)
+[17:46:15]ATTACK: *no key*/(basilisk) has been gnawed, by *no key*/(friendly ghostly basilisk)
+[17:46:17]ATTACK: *no key*/(basilisk) has been gnawed, by *no key*/(friendly ghostly basilisk)
+[17:46:17]SAY: *no key*/(DET5) : [Research Director's Office]: Successfully
+[17:46:19]ATTACK: *no key*/(basilisk) has been gnawed, by *no key*/(friendly ghostly basilisk)
+[17:46:21]ATTACK: *no key*/(friendly ghostly basilisk) has been gnawed, by *no key*/(basilisk)
+[17:46:21]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[17:46:23]ATTACK: *no key*/(basilisk) has been gnawed, by *no key*/(friendly ghostly basilisk)
+[17:46:23]SAY: *no key*/(Dusty) : [Chief Medical Officer's office]: Purr!
+[17:46:25]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[17:46:27]ATTACK: *no key*/(friendly ghostly basilisk) has been gnawed, by *no key*/(basilisk)
+[17:46:31]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[17:46:33]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[17:46:37]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[17:46:47]SAY: *no key*/(grey baby slime (10)) : [Xenobiology Lab]: Blop...
+[17:46:47]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[17:46:47]SAY: *no key*/(samak) : [Space]: Hruuugh!
+[17:47:19]SAY: *no key*/(mouse (840)) : [Medbay Maintenance]: Squeek!
+[17:47:29]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[17:47:58]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[17:48:08]ATTACK: *no key*/(angelic friendly goliath) has been gnawed, by *no key*/(basilisk)
+[17:48:10]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:48:10]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:48:10]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:48:12]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:48:14]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:48:14]SAY: *no key*/(mouse (185)) : [Engineering Maintenance]: SQUEEK!
+[17:48:14]ATTACK: UNKNOWN shot hivelord brood () with a the freezing blast
+[17:48:20]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:48:20]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[17:48:22]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:48:22]ATTACK: UNKNOWN shot hivelord brood () with a the freezing blast
+[17:48:24]ATTACK: *no key*/(angelic friendly goliath) has been gnawed, by *no key*/(basilisk)
+[17:48:24]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[17:48:28]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:48:28]ATTACK: *no key*/(angelic friendly goliath) has been gnawed, by *no key*/(basilisk)
+[17:48:30]ATTACK: *no key*/(angelic friendly goliath) has been gnawed, by *no key*/(basilisk)
+[17:48:38]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:48:40]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:48:40]ATTACK: *no key*/(basilisk) has been pulverized, by *no key*/(angelic friendly goliath)
+[17:48:42]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[17:48:44]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:48:46]ATTACK: *no key*/(angelic friendly goliath) has been gnawed, by *no key*/(basilisk)
+[17:48:48]ATTACK: *no key*/(angelic friendly goliath) has been gnawed, by *no key*/(basilisk)
+[17:48:48]ATTACK: *no key*/(basilisk) has been pulverized, by *no key*/(angelic friendly goliath)
+[17:48:50]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:48:50]ATTACK: *no key*/(hivelord brood) has been pulverized, by *no key*/(angelic friendly goliath)
+[17:48:56]ATTACK: *no key*/(angelic friendly goliath) has been gnawed, by *no key*/(basilisk)
+[17:48:58]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:48:58]ATTACK: *no key*/(angelic friendly goliath) has been gnawed, by *no key*/(basilisk)
+[17:49:00]ATTACK: *no key*/(angelic friendly goliath) has been gnawed, by *no key*/(basilisk)
+[17:49:02]ATTACK: *no key*/(angelic friendly goliath) has been gnawed, by *no key*/(basilisk)
+[17:49:08]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:49:08]ATTACK: *no key*/(angelic friendly goliath) has been gnawed, by *no key*/(basilisk)
+[17:49:10]ATTACK: *no key*/(angelic friendly goliath) has been gnawed, by *no key*/(basilisk)
+[17:49:12]ATTACK: *no key*/(hivelord brood) has been pulverized, by *no key*/(angelic friendly goliath)
+[17:49:12]SAY: *no key*/(Betsy) : [Hydroponics]: MOOOOOO
+[17:49:16]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:49:16]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[17:49:18]ATTACK: *no key*/(angelic friendly goliath) has been gnawed, by *no key*/(basilisk)
+[17:49:20]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:49:20]ATTACK: *no key*/(angelic friendly goliath) has been gnawed, by *no key*/(basilisk)
+[17:49:24]ATTACK: *no key*/(angelic friendly goliath) has been gnawed, by *no key*/(basilisk)
+[17:49:26]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:49:28]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:49:28]ATTACK: *no key*/(basilisk) has been pulverized, by *no key*/(angelic friendly goliath)
+[17:49:30]ATTACK: *no key*/(angelic friendly goliath) has been gnawed, by *no key*/(basilisk)
+[17:49:32]ATTACK: *no key*/(basilisk) has been pulverized, by *no key*/(angelic friendly goliath)
+[17:49:42]ATTACK: *no key*/(basilisk) has been pulverized, by *no key*/(angelic friendly goliath)
+[17:49:44]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:49:44]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:49:46]SAY: *no key*/(Commander Clucky) : [Hydroponics]: Cluck!
+[17:49:48]SAY: *no key*/(shantak) : [Space]: Shrunnph?
+[17:49:50]ATTACK: *no key*/(angelic friendly goliath) has been gnawed, by *no key*/(basilisk)
+[17:49:52]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:49:52]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:49:52]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:49:54]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:49:56]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:49:56]SAY: *no key*/(shantak) : [Space]: Shuhn
+[17:49:58]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[17:50:00]ATTACK: UNKNOWN shot angelic friendly goliath () with a the freezing blast
+[17:50:02]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:50:02]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:50:06]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:50:06]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[17:50:08]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:50:10]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:50:10]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:50:12]ATTACK: UNKNOWN shot hivelord brood () with a the freezing blast
+[17:50:22]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:50:24]ATTACK: UNKNOWN shot hivelord brood () with a the freezing blast
+[17:50:26]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:50:28]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:50:38]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:50:38]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:50:38]ATTACK: *no key*/(angelic friendly goliath) has been gnawed, by *no key*/(basilisk)
+[17:50:38]ATTACK: *no key*/(hivelord brood) has been pulverized, by *no key*/(angelic friendly goliath)
+[17:50:40]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:50:40]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:50:42]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:50:44]ATTACK: *no key*/(angelic friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[17:50:48]ATTACK: *no key*/(angelic friendly goliath) has been gnawed, by *no key*/(basilisk)
+[17:51:04]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[17:51:14]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[17:51:16]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[17:51:18]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[17:51:24]SAY: *no key*/(Ian) : [Head of Personnel's Office]: Woof!
+[17:51:37]SAY: *no key*/(shantak) : [Space]: Shrunnph?
+[17:51:49]ADMIN: heavenlyblue/(Persh Fiddler) jumped to fatfat/(ФатФатов)
+[17:51:55]SAY: fatfat/(ФатФатов) : [Toxins Mixing Room]: Ща.
+[17:51:58]SAY: fatfat/(ФатФатов) : [Toxins Mixing Room]: Я сам вспомниаю.
+[17:51:59]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[17:52:01]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[17:52:07]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[17:52:11]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[17:52:17]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[17:52:17]SAY: *no key*/(Ian) : [Head of Personnel's Office]: Bark!
+[17:52:21]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[17:52:49]SAY: *no key*/(mouse (185)) : [Engineering Maintenance]: SQUEEK!
+[17:52:51]ADMIN: heavenlyblue/(Persh Fiddler) changed the equipment of heavenlyblue/(Persh Fiddler) to assassin.
+[17:52:55]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[17:53:07]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[17:53:11]SAY: fatfat/(ФатФатов) : [Toxins Mixing Room]: С фороном походу проебался.
+[17:53:13]SAY: fatfat/(ФатФатов) : [Toxins Mixing Room]: Но посмотрим.
+[17:53:15]SAY: fatfat/(ФатФатов) : [Toxins Mixing Room]: Может бахнет.
+[17:53:17]SAY: *no key*/(grey baby slime (10)) : [Xenobiology Lab]: Lonely...
+[17:53:17]SAY: *no key*/(DET5) : [Research Director's Office]: Boom...
+[17:53:37]ADMIN: heavenlyblue/(Persh Fiddler) changed the equipment of heavenlyblue/(Persh Fiddler) to special ops officer.
+[17:53:37]SAY: *no key*/(Runtime) : [Wizard's Den]: Meow!
+[17:53:57]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[17:54:13]SAY: *no key*/(SyndiCat) : [Syndicate Forward Operating Base]: Purr!
+[17:54:34]GAME: fatfat/(ФатФатов) attached a the remote signaling device to a transfer valve.
+[17:54:45]SAY: fatfat/(ФатФатов) : [Toxins Mixing Room]: Наушник вруби.
+[17:54:48]SAY: fatfat/(ФатФатов) : [Toxins Mixing Room]: На научны.
+[17:54:50]SAY: fatfat/(ФатФатов) : [Toxins Mixing Room]: Чтобы слышно было.
+[17:54:51]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[17:54:59]SAY: *no key*/(Wall-E) : [Quartermaster's Office]: Buzz.
+[17:55:01]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[17:55:05]SAY: fatfat/(ФатФатов) : [Toxins Mixing Room]: Пошли проверять.
+[17:55:05]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[17:55:19]SAY: *no key*/(DET5) : [Research Director's Office]: Beep
+[17:55:24]SAY: fatfat/(ФатФатов) : [Toxins Launch Roon]: Скорее всего хуиту намутил.
+[17:55:26]SAY: fatfat/(ФатФатов) : [Toxins Launch Roon]: Это че.
+[17:55:29]ADMIN: fatfat/(ФатФатов) jumped to (163,163,2) in Space
+[17:55:37]ADMIN: fatfat/(ФатФатов) jumped to (158,161,2) in Toxins Launch Roon
+[17:55:39]GAME: Roundstart logout report
+
+
+[17:55:40]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[17:55:40]ADMIN: fatfat/(ФатФатов) healed / revived fatfat/(ФатФатов)
+[17:55:42]ATTACK: UNKNOWN shot basilisk () with a the freezing blast
+[17:55:44]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[17:55:46]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[17:55:48]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[17:55:48]ATTACK: UNKNOWN shot basilisk () with a the freezing blast
+[17:55:53]SAY: heavenlyblue/(Persh Fiddler) : [Toxins Launch Roon]: Там все равно проветрить нужно.
+[17:55:54]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[17:55:56]ATTACK: *no key*/(friendly ghostly basilisk) has been gnawed, by *no key*/(basilisk)
+[17:55:56]ATTACK: *no key*/(friendly ghostly basilisk) has been gnawed, by *no key*/(basilisk)
+[17:55:56]ATTACK: *no key*/(basilisk) has been gnawed, by *no key*/(friendly ghostly basilisk)
+[17:55:58]ATTACK: *no key*/(friendly ghostly basilisk) has been gnawed, by *no key*/(basilisk)
+[17:55:59]SAY: fatfat/(ФатФатов) : [Toxins Launch Roon]: Че с камерой.
+[17:56:00]SAY: *no key*/(DET5) : [Research Director's Office]: Boom...
+[17:56:04]ATTACK: *no key*/(friendly ghostly basilisk) has been gnawed, by *no key*/(basilisk)
+[17:56:04]ATTACK: *no key*/(friendly ghostly basilisk) has been gnawed, by *no key*/(basilisk)
+[17:56:04]ATTACK: *no key*/(basilisk) has been gnawed, by *no key*/(friendly ghostly basilisk)
+[17:56:06]SAY: fatfat/(ФатФатов) : [Toxins Launch Roon]: Похуй.
+[17:56:07]SAY: fatfat/(ФатФатов) : [Toxins Launch Roon]: Она там.
+[17:56:08]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[17:56:10]ATTACK: *no key*/(basilisk) has been gnawed, by *no key*/(friendly ghostly basilisk)
+[17:56:10]GAME: Bomb valve opened in Toxins Test Site with the remote signaling device attacher: ФатФатов(fatfat), last touched by fatfat/(ФатФатов)
+[17:56:10]GAME: fatfat(ФатФатов) used the remote signaling device, location (159,161,2),frequency: 145.7, code:30
+[17:56:12]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[17:56:14]ATTACK: *no key*/(friendly ghostly basilisk) has been gnawed, by *no key*/(basilisk)
+[17:56:18]ATTACK: *no key*/(friendly ghostly basilisk) has been gnawed, by *no key*/(basilisk)
+[17:56:18]ATTACK: *no key*/(basilisk) has been gnawed, by *no key*/(friendly ghostly basilisk)
+[17:56:18]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[17:56:22]ATTACK: *no key*/(friendly ghostly basilisk) has been gnawed, by *no key*/(basilisk)
+[17:56:22]ATTACK: *no key*/(friendly ghostly basilisk) has been gnawed, by *no key*/(basilisk)
+[17:56:24]ATTACK: *no key*/(friendly ghostly basilisk) has been gnawed, by *no key*/(basilisk)
+[17:56:26]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss
+[17:56:29]SAY: fatfat/(ФатФатов) : [Toxins Launch Roon]: Пробуем еще.
+[17:56:30]SAY: *no key*/(DET5) : [Research Director's Office]: ...this is a joke
+[17:56:30]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[17:56:30]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[17:56:42]EMOTE: *no key*/(Ian) : chases its tail
+[17:56:44]ADMIN: heavenlyblue/(Persh Fiddler) jumped to (159,164,2) in Space
+[17:56:46]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[17:56:47]SAY: fatfat/(ФатФатов) : [Toxins Mixing Room]: Скорее всего я слишком много форона нагрел.
+[17:56:56]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[17:57:03]ADMIN: heavenlyblue/(Persh Fiddler) jumped to (159,195,2) in Space
+[17:57:06]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[17:57:10]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[17:57:14]ADMIN: heavenlyblue/(Persh Fiddler) jumped to (158,160,2) in Toxins Launch Roon
+[17:57:14]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[17:57:17]ADMIN: heavenlyblue/(Persh Fiddler) healed / Rrvived heavenlyblue/(Persh Fiddler)
+[17:57:36]EMOTE: *no key*/(Ian) : dances around
+[17:57:36]SAY: heavenlyblue/(Persh Fiddler) : [Research Division]: Хы.
+[17:57:39]SAY: fatfat/(ФатФатов) : [Toxins Mixing Room]: А.
+[17:57:40]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[17:57:41]SAY: fatfat/(ФатФатов) : [Toxins Mixing Room]: Это ты шмалял.
+[17:57:52]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[17:58:10]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[17:58:16]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[17:58:32]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[17:58:44]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[17:58:48]GAME: Bomb valve opened in Toxins Mixing Room with no device attacher: Unknown, last touched by fatfat/(ФатФатов)
+[17:58:52]SAY: fatfat/(ФатФатов) : [Toxins Mixing Room]: Не бахнула.
+[17:58:56]SAY: fatfat/(ФатФатов) : [Toxins Mixing Room]: Я рестарт ебану.
+[17:58:59]SAY: fatfat/(ФатФатов) : [Toxins Mixing Room]: А то тут всек запуталось.
+[17:59:02]ADMIN: fatfat/(ФатФатов) initiated a reboot.
+[17:59:02]ADMIN: heavenlyblue/(Persh Fiddler) spawned /mob/living/carbon/human/dummy at (162,152,2)
+[17:59:05]SAY: heavenlyblue/(Persh Fiddler) : [Toxins Mixing Room]: Afr.
+[17:59:07] Reboot , admin reboot - by fatfat

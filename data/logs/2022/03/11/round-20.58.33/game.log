@@ -1,0 +1,75 @@
+[20:58:33] Server '' starting up on 192.168.0.7:59754
+[20:59:06]GAME: Abandoned Ship loaded at (15,202,4)
+[20:59:06]GAME: Secrete Lab loaded at (156,110,3)
+[20:59:08]GAME: Derelict Station loaded at (120,42,4)
+[20:59:08]GAME: DJ Station loaded at (157,181,4)
+[20:59:08]GAME: teleporter loaded at (20,40,3)
+[20:59:08]ADMIN: fatfat/(Marion Sheets) jumped to Dwarf
+[20:59:08]GAME: Tree Asteroid loaded at (24,51,4)
+[20:59:08]GAME: ghost_ship_2 loaded at (86,119,3)
+[20:59:46]SAY: *no key*/(Runtime) : [Mine]: Зафиксирована аномалия #22. Пожалуйста, отойдите подальше.
+[21:02:47]MODE: Current master mode is extended
+[21:02:47]DEBUG: Next event of severity RoundStart in 0 minutes.
+[21:02:47]DEBUG: Starting event 'Forgotten Sec. Equimp.' of severity RoundStart.
+[21:02:47]GAME: ANTAG LIST:
+no antagonists this moment
+[21:02:48]GAME: RoundStart Event: the shoulder holster was removed from Security Officer's Locker in (68,150,2)
+[21:02:48]GAME: RoundStart Event: the flashbang was removed from Security Officer's Locker in (68,150,2)
+[21:02:48]GAME: RoundStart Event: the flare was removed from Security Officer's Locker in (68,150,2)
+[21:02:48]GAME: RoundStart Event: the security armor was removed from Security Officer's Locker in (126,187,2)
+[21:02:48]GAME: RoundStart Event: HUDsunglasses was removed from Security Officer's Locker in (126,187,2)
+[21:02:48]GAME: RoundStart Event: the security armor was removed from Security Officer's Locker in (126,183,2)
+[21:02:48]GAME: RoundStart Event: the security belt was removed from Security Officer's Locker in (126,183,2)
+[21:02:48]GAME: RoundStart Event: the security radio headset was removed from Security Officer's Locker in (126,183,2)
+[21:02:48]GAME: RoundStart Event: the taser gun was removed from Security Officer's Locker in (126,183,2)
+[21:02:48]GAME: RoundStart Event: the security backpack was removed from Security Officer's Locker in (127,187,2)
+[21:02:48]GAME: RoundStart Event: the flash was removed from Security Officer's Locker in (127,187,2)
+[21:02:48]GAME: RoundStart Event: the pepperspray was removed from Security Officer's Locker in (127,187,2)
+[21:02:48]GAME: RoundStart Event: the stun baton was removed from Security Officer's Locker in (127,187,2)
+[21:02:48]GAME: RoundStart Event: the police tape was removed from Security Officer's Locker in (127,187,2)
+[21:02:48]GAME: RoundStart Event: the hailer was removed from Security Officer's Locker in (127,187,2)
+[21:02:48]GAME: RoundStart Event: the security radio headset was removed from Security Officer's Locker in (127,183,2)
+[21:02:48]GAME: RoundStart Event: HUDsunglasses was removed from Security Officer's Locker in (127,183,2)
+[21:02:48]GAME: RoundStart Event: the baton sheath was removed from Security Officer's Locker in (127,183,2)
+[21:02:48]GAME: RoundStart Event: the flash was removed from Security Officer's Locker in (128,187,2)
+[21:02:48]GAME: RoundStart Event: the police tape was removed from Security Officer's Locker in (128,187,2)
+[21:02:48]GAME: RoundStart Event: the hailer was removed from Security Officer's Locker in (128,187,2)
+[21:02:48]GAME: RoundStart Event: the baton sheath was removed from Security Officer's Locker in (128,187,2)
+[21:02:48]GAME: RoundStart Event: the helmet was removed from Security Officer's Locker in (128,183,2)
+[21:02:48]GAME: RoundStart Event: the flash was removed from Security Officer's Locker in (128,183,2)
+[21:02:48]GAME: RoundStart Event: the security gloves was removed from Security Officer's Locker in (154,122,2)
+[21:02:48]GAME: RoundStart Event: the security belt was removed from Security Officer's Locker in (154,122,2)
+[21:02:48]GAME: RoundStart Event: HUDsunglasses was removed from Security Officer's Locker in (154,122,2)
+[21:02:48]GAME: RoundStart Event: the baton sheath was removed from Security Officer's Locker in (154,122,2)
+[21:02:48]DEBUG: Event 'Forgotten Sec. Equimp.' has completed at 12:03.
+[21:02:48]DEBUG: Next event of severity Mundane in 12.558 minutes.
+[21:02:48]DEBUG: Next event of severity Moderate in 36.11 minutes.
+[21:02:48]DEBUG: Next event of severity Major in 55.495 minutes.
+[21:02:48]SAY: *no key*/(Tom (224)) : [Vault]: Squeek?
+[21:02:57]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[21:03:01]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[21:03:03]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[21:03:03]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[21:03:11]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[21:03:11]SAY: *no key*/(Wall-E) : [Quartermaster's Office]: Beep-Boop
+[21:03:13]SAY: *no key*/(DET5) : [Research Director's Office]: Director, where are researches?
+[21:03:23]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[21:03:23]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[21:03:41]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[21:03:41]ADMIN: fatfat/(Marion Sheets) created a /obj/structure/spawner/basilisk
+[21:03:45]SAY: *no key*/(DET5) : [Research Director's Office]: ...this is a joke
+[21:03:49]ADMIN: fatfat/(Marion Sheets) created a /mob/living/carbon/human/dummy
+[21:03:51]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[21:03:52]ADMIN: fatfat/(Marion Sheets) toggled new player game entering.
+[21:03:55]ADMIN: fatfat/(Marion Sheets) stuffed fatfat into unknown.
+[21:04:03]ATTACK: fatfat/(Test Dummy) has been gnawed, by *no key*/(basilisk)
+[21:04:03]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[21:04:03]ADMIN: fatfat/(Test Dummy) deleted the basilisk at (178,80,6)
+[21:04:07]SAY: *no key*/(DET5) : [Research Director's Office]: ED-209 protect me
+[21:04:11]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[21:04:13]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[21:04:17]SAY: *no key*/(DET5) : [Research Director's Office]: Boom...
+[21:04:17]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[21:04:19]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[21:04:25]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[21:04:30] Graceful shutdown

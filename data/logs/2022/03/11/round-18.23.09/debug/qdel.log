@@ -1,0 +1,270 @@
+Path: /obj/item/weapon/flora/random
+	qdel() Count: 77
+	Destroy() Cost: 12.6161ms
+Path: /datum/component/clickplace
+	qdel() Count: 132
+	Destroy() Cost: 8.24559ms
+Path: /obj/item/stack/cable_coil/random
+	qdel() Count: 93
+	Destroy() Cost: 4.77449ms
+Path: /datum/component/mechanic_desc
+	qdel() Count: 214
+	Destroy() Cost: 4.6591ms
+Path: /obj/effect/landmark
+	qdel() Count: 69
+	Destroy() Cost: 1.7395ms
+Path: /obj/random/foods/donuts
+	qdel() Count: 72
+	Destroy() Cost: 1.70905ms
+Path: /datum/component/tactical
+	qdel() Count: 77
+	Destroy() Cost: 1.66881ms
+Path: /datum/component/twohanded
+	qdel() Count: 77
+	Destroy() Cost: 1.5043ms
+Path: /obj/effect/spawner/lootdrop/maintenance
+	qdel() Count: 42
+	Destroy() Cost: 1.14001ms
+Path: /datum/reagent/aqueous_foam
+	qdel() Count: 129
+	Destroy() Cost: 0.808676ms
+Path: /obj/effect/spawner/lootdrop/maintenance/two
+	qdel() Count: 27
+	Destroy() Cost: 0.754691ms
+Path: /obj/random/vending/snack
+	qdel() Count: 24
+	Destroy() Cost: 0.653998ms
+Path: /datum/mechanic_tip/clickplace
+	qdel() Count: 132
+	Destroy() Cost: 0.623304ms
+Path: /obj/random/vending/cola
+	qdel() Count: 23
+	Destroy() Cost: 0.614298ms
+Path: /datum/light_source
+	qdel() Count: 19
+	Destroy() Cost: 0.610641ms
+Path: /obj/random/tools/tech_supply
+	qdel() Count: 23
+	Destroy() Cost: 0.42401ms
+Path: /obj/effect/spawner/lootdrop/maintenance/four
+	qdel() Count: 14
+	Destroy() Cost: 0.402896ms
+Path: /obj/effect/spawner/lootdrop/maintenance/three
+	qdel() Count: 15
+	Destroy() Cost: 0.395704ms
+Path: /obj/random/melee
+	qdel() Count: 21
+	Destroy() Cost: 0.395694ms
+Path: /obj/random/foods/food_trash
+	qdel() Count: 13
+	Destroy() Cost: 0.387804ms
+Path: /obj/effect/decal/cleanable/blood/splatter
+	qdel() Count: 6
+	Destroy() Cost: 0.384003ms
+Path: /datum/component/swiping
+	qdel() Count: 5
+	Destroy() Cost: 0.345298ms
+Path: /obj/random/cloth/armor
+	qdel() Count: 16
+	Destroy() Cost: 0.3251ms
+Path: /obj/effect/landmark/cops_spawn
+	qdel() Count: 12
+	Destroy() Cost: 0.306ms
+Path: /datum/mechanic_tip/twohanded/required
+	qdel() Count: 77
+	Destroy() Cost: 0.281403ms
+Path: /obj/structure/sign/poster/contraband/random
+	qdel() Count: 6
+	Destroy() Cost: 0.269402ms
+Path: /obj/random/cloth/helmet
+	qdel() Count: 12
+	Destroy() Cost: 0.248099ms
+Path: /obj/effect/landmark/latejoin
+	qdel() Count: 10
+	Destroy() Cost: 0.240097ms
+Path: /obj/effect/landmark/start
+	qdel() Count: 6
+	Destroy() Cost: 0.238397ms
+Path: /obj/effect/landmark/abductor/console
+	qdel() Count: 4
+	Destroy() Cost: 0.158799ms
+Path: /obj/structure/sign/poster/official/random
+	qdel() Count: 4
+	Destroy() Cost: 0.142802ms
+Path: /datum/recipe/microwave/human
+	qdel() Count: 21
+	Destroy() Cost: 0.141047ms
+Path: /obj/effect/spawner/lootdrop/glowstick
+	qdel() Count: 4
+	Destroy() Cost: 0.1245ms
+Path: /obj/random/guns/energy_weapon
+	qdel() Count: 6
+	Destroy() Cost: 0.119005ms
+Path: /obj/random/tools/tool
+	qdel() Count: 5
+	Destroy() Cost: 0.108797ms
+Path: /obj/structure/sign/poster/random
+	qdel() Count: 2
+	Destroy() Cost: 0.071804ms
+Path: /obj/structure/lattice
+	qdel() Count: 2
+	Destroy() Cost: 0.0685005ms
+Path: /obj/effect/gibspawner/human
+	qdel() Count: 2
+	Destroy() Cost: 0.0620995ms
+Path: /obj/random/guns/projectile_assault
+	qdel() Count: 2
+	Destroy() Cost: 0.0607996ms
+Path: /obj/machinery/door/firedoor
+	qdel() Count: 1
+	Destroy() Cost: 0.0594997ms
+Path: /obj/random/guns/projectile_security
+	qdel() Count: 2
+	Destroy() Cost: 0.0508003ms
+Path: /obj/random/guns/projectile_shotgun
+	qdel() Count: 2
+	Destroy() Cost: 0.0485001ms
+Path: /obj/random/tools/toolbox
+	qdel() Count: 2
+	Destroy() Cost: 0.0447006ms
+Path: /obj/random/tools/powercell
+	qdel() Count: 2
+	Destroy() Cost: 0.0372009ms
+Path: /datum/quirk/child_of_nature
+	qdel() Count: 1
+	Destroy() Cost: 0.0347996ms
+Path: /obj/effect/landmark/start/new_player
+	qdel() Count: 1
+	Destroy() Cost: 0.0309992ms
+Path: /obj/effect/spawner/lootdrop/maintenance/six
+	qdel() Count: 1
+	Destroy() Cost: 0.0293002ms
+Path: /obj/random/tools/technology_scanner
+	qdel() Count: 1
+	Destroy() Cost: 0.0290995ms
+Path: /obj/random/misc/all
+	qdel() Count: 2
+	Destroy() Cost: 0.0279007ms
+Path: /datum/map_config
+	qdel() Count: 1
+	Destroy() Cost: 0.0277996ms
+Path: /obj/effect/spawner/lootdrop/maintenance/five
+	qdel() Count: 1
+	Destroy() Cost: 0.0270004ms
+Path: /datum/mechanic_tip/swiping
+	qdel() Count: 5
+	Destroy() Cost: 0.0260012ms
+Path: /obj/effect/gibspawner/robot
+	qdel() Count: 1
+	Destroy() Cost: 0.0255003ms
+Path: /obj/random/meds/chemical_bottle
+	qdel() Count: 1
+	Destroy() Cost: 0.0251999ms
+Path: /obj/random/foods/food_snack
+	qdel() Count: 1
+	Destroy() Cost: 0.0229015ms
+Path: /obj/random/scrap/dense_weighted
+	qdel() Count: 1
+	Destroy() Cost: 0.0228996ms
+Path: /datum/reagent/water
+	qdel() Count: 2
+	Destroy() Cost: 0.022583ms
+Path: /obj/random/guns/handgun_security
+	qdel() Count: 1
+	Destroy() Cost: 0.0213013ms
+Path: /datum/quirk/light_step
+	qdel() Count: 1
+	Destroy() Cost: 0.0207996ms
+Path: /obj/random/guns/projectile_handgun
+	qdel() Count: 1
+	Destroy() Cost: 0.0199013ms
+Path: /datum/reagent/toxin/mindbreaker
+	qdel() Count: 4
+	Destroy() Cost: 0.019207ms
+Path: /datum/quirk/light_drinker
+	qdel() Count: 1
+	Destroy() Cost: 0.0184002ms
+Path: /datum/quirk/alcohol_tolerance
+	qdel() Count: 1
+	Destroy() Cost: 0.0177002ms
+Path: /datum/quirk/multitasking
+	qdel() Count: 1
+	Destroy() Cost: 0.0174999ms
+Path: /datum/quirk/strong_mind
+	qdel() Count: 1
+	Destroy() Cost: 0.0174999ms
+Path: /obj/random/tools/bomb_supply
+	qdel() Count: 1
+	Destroy() Cost: 0.0172005ms
+Path: /datum/quirk/high_pain_threshold
+	qdel() Count: 1
+	Destroy() Cost: 0.0168991ms
+Path: /datum/quirk/fast_equip
+	qdel() Count: 1
+	Destroy() Cost: 0.0167999ms
+Path: /datum/quirk/nyctophobia
+	qdel() Count: 1
+	Destroy() Cost: 0.0167999ms
+Path: /datum/quirk/cough
+	qdel() Count: 1
+	Destroy() Cost: 0.0163994ms
+Path: /datum/quirk/freerunning
+	qdel() Count: 1
+	Destroy() Cost: 0.0163002ms
+Path: /datum/quirk/stress_eater
+	qdel() Count: 1
+	Destroy() Cost: 0.0163002ms
+Path: /datum/quirk/daltonism
+	qdel() Count: 1
+	Destroy() Cost: 0.0163002ms
+Path: /datum/quirk/blindness
+	qdel() Count: 1
+	Destroy() Cost: 0.016201ms
+Path: /datum/quirk/fatness
+	qdel() Count: 1
+	Destroy() Cost: 0.0161018ms
+Path: /datum/quirk/no_taste
+	qdel() Count: 1
+	Destroy() Cost: 0.016098ms
+Path: /datum/quirk/tourette
+	qdel() Count: 1
+	Destroy() Cost: 0.0159988ms
+Path: /datum/quirk/nervous
+	qdel() Count: 1
+	Destroy() Cost: 0.0159016ms
+Path: /datum/quirk/genetic_degradation
+	qdel() Count: 1
+	Destroy() Cost: 0.0157986ms
+Path: /datum/quirk/low_pain_threshold
+	qdel() Count: 1
+	Destroy() Cost: 0.0157013ms
+Path: /obj/random/scrap/moderate_weighted
+	qdel() Count: 1
+	Destroy() Cost: 0.0156021ms
+Path: /datum/quirk/nearsighted
+	qdel() Count: 1
+	Destroy() Cost: 0.0156002ms
+Path: /datum/quirk/epileptic
+	qdel() Count: 1
+	Destroy() Cost: 0.0155983ms
+Path: /datum/quirk/mute
+	qdel() Count: 1
+	Destroy() Cost: 0.0153008ms
+Path: /datum/quirk/deafness
+	qdel() Count: 1
+	Destroy() Cost: 0.0151997ms
+Path: /obj/random/foods/food_without_garbage
+	qdel() Count: 1
+	Destroy() Cost: 0.0147991ms
+Path: /obj/random/tools/tech_supply/guaranteed
+	qdel() Count: 1
+	Destroy() Cost: 0.0135994ms
+Path: /datum/recipe/grill/human
+	qdel() Count: 1
+	Destroy() Cost: 0.00699615ms
+Path: /datum/radio_frequency
+	qdel() Count: 1
+	Destroy() Cost: 0.00670052ms
+Path: /datum/reagent/mednanobots
+	qdel() Count: 1
+	Destroy() Cost: 0.00549984ms

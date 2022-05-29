@@ -1,0 +1,41 @@
+[16:01:01] Server '' starting up on 26.166.93.76:54459
+[16:01:04]GAME: DJ Station loaded at (33,162,4)
+[16:01:04]GAME: delivery_shuttle loaded at (224,221,3)
+[16:01:04]GAME: syndicate_fighter loaded at (205,147,4)
+[16:01:04]GAME: Broken Breacher loaded at (98,199,3)
+[16:01:04]GAME: teleporter loaded at (32,131,3)
+[16:01:04]GAME: Derelict Teleporter loaded at (121,114,4)
+[16:01:05]GAME: NT Ships Squad loaded at (88,131,3)
+[16:02:34]ADMIN: fatfat/(FatFat) jumped to coordinates 1, 1, 9
+[16:02:37]ADMIN: fatfat/(FatFat) has started the game.
+[16:02:41]MODE: Current master mode is extended
+[16:02:41]DEBUG: Next event of severity RoundStart in 0 minutes.
+[16:02:41]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[16:02:41]DEBUG: Next event of severity RoundStart in 0 minutes.
+[16:02:41]GAME: RoundStart Event: Selected areas is AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room, AI Satellite Teleporter Room and AI Satellite Teleporter Room
+[16:02:41]DEBUG: Starting event 'Break Light' of severity RoundStart.
+[16:02:41]DEBUG: Next event of severity RoundStart in 0 minutes.
+[16:02:41]DEBUG: Starting event 'Nuke Journey' of severity RoundStart.
+[16:02:41]GAME: ANTAG LIST:
+no antagonists this moment
+[16:02:41]DEBUG: Event 'Roundstart Nothing' has completed at 12:01.
+[16:02:41]DEBUG: Event 'Break Light' has completed at 12:01.
+[16:02:41]DEBUG: Event 'Nuke Journey' has completed at 12:01.
+[16:02:41]DEBUG: Next event of severity Mundane in 17.112 minutes.
+[16:02:41]DEBUG: Next event of severity Moderate in 53.966 minutes.
+[16:02:41]DEBUG: Next event of severity Major in 63.65 minutes.
+[16:02:59]ADMIN: fatfat/(Morgan Franks) jumped to coordinates 1, 1, 9
+[16:03:21]ADMIN: fatfat/(Morgan Franks) created a /mob/living/carbon/human/skrell
+[16:03:23]ADMIN: fatfat/(Morgan Franks) deleted the unknown at (153,239,9)
+[16:03:52]ADMIN: fatfat/(Morgan Franks) jumped to (1,1,1) in Space
+[16:04:09]ADMIN: fatfat/(Morgan Franks) jumped to coordinates 1, 1, 1
+[16:04:18]ADMIN: fatfat/(Morgan Franks) jumped to Derelict Teleporter
+[16:04:23]ADMIN: fatfat/(Morgan Franks) jumped to Shiv Fighter
+[16:04:32]ADMIN: fatfat/(Morgan Franks) jumped to coordinates 1, 1, 1
+[16:04:46]ADMIN: fatfat/(Morgan Franks) jumped to coordinates 100, 100, 1
+[16:04:53]ADMIN: fatfat/(Morgan Franks) created a /mob/living/carbon/human
+[16:05:02]ADMIN: fatfat/(Morgan Franks) created a /obj/machinery/light
+[16:05:05]ADMIN: fatfat/(Morgan Franks) created a /obj/item/weapon/lighter/zippo/custom
+[16:05:14]ADMIN: fatfat/(unknown) modified unknown's ckey to fatfat
+[16:05:56]ADMIN: fatfat/(unknown) created a /obj/item/weapon/crowbar
+[16:06:11] Graceful shutdown

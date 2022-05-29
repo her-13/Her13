@@ -1,0 +1,20 @@
+[18:11:48] Server '' starting up on 26.166.93.76:61028
+[18:11:51]GAME: Abandoned Lab loaded at (199,48,4)
+[18:11:51]GAME: agrosphere loaded at (119,123,3)
+[18:11:51]GAME: Secrete Lab loaded at (59,159,4)
+[18:11:51]GAME: escape_pod loaded at (96,190,3)
+[18:11:51]GAME: listening_post loaded at (173,186,4)
+[18:11:51]GAME: ghost_ship_1 loaded at (148,65,4)
+[18:11:51]GAME: Space Toilet loaded at (197,229,4)
+[18:12:32]ADMIN: fatfat/(FatFat) has started the game.
+[18:12:35]MODE: Current master mode is extended
+[18:12:35]MODE: Extended start because `minimum_player_count = 0`
+[18:12:35]DEBUG: Next event of severity RoundStart in 0 minutes.
+[18:12:35]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[18:12:35]GAME: ANTAG LIST:
+no antagonists this moment
+[18:12:36]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[18:12:36]DEBUG: Next event of severity Mundane in 17.668 minutes.
+[18:12:36]DEBUG: Next event of severity Moderate in 47.042 minutes.
+[18:12:36]DEBUG: Next event of severity Major in 52.97 minutes.
+[18:12:55] Graceful shutdown

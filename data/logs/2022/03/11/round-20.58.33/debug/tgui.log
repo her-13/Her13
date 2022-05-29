@@ -1,0 +1,42 @@
+[20:58:36]TGUI: fatfat in browseroutput/initialize
+[20:58:47]TGUI: fatfat (as FatFat at (8,174,1))
+Using: /datum/tgui_modal [0x2100092f]
+new AlertModal fancy 1
+[20:58:47]TGUI: fatfat in tgui-window-1/initialize
+Using: /datum/tgui_modal [0x2100092f]
+[20:58:48]TGUI: fatfat (as FatFat at (8,174,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x2100092f]
+Action: choose {"choice":"Yes"}
+[20:58:48]TGUI: fatfat in tgui-window-1/close (suspending)
+[20:58:53]TGUI: fatfat (as Marion Sheets at (58,142,2)) in browseroutput (chatRenderer)
+chatRenderer failed to load an image after 10 attempts
+User Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729)
+[20:59:12]TGUI: fatfat (as Marion Sheets at (120,91,6)) in browseroutput (chatRenderer)
+chatRenderer failed to load an image after 10 attempts
+User Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729)
+[20:59:13]TGUI: fatfat (as Marion Sheets at (132,79,6)) in browseroutput (chatRenderer)
+chatRenderer failed to load an image after 10 attempts
+User Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729)
+[20:59:15]TGUI: fatfat (as Marion Sheets at (141,77,6)) in browseroutput (chatRenderer)
+chatRenderer failed to load an image after 10 attempts
+User Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729)
+[21:03:41]TGUI: fatfat (as Marion Sheets at (177,80,6)) in browseroutput (chatRenderer)
+chatRenderer failed to load an image after 10 attempts
+User Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729)
+[21:03:53]TGUI: fatfat (as Marion Sheets at (180,79,6)) in browseroutput (chatRenderer)
+chatRenderer failed to load an image after 10 attempts
+User Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729)
+[21:03:54]TGUI: fatfat (as Marion Sheets at (180,79,6))
+Using: /datum/tgui_modal [0x21024f93]
+new AlertModal fancy 1
+[21:03:55]TGUI: fatfat (as Marion Sheets at (180,79,6)) in tgui-window-1
+Using: /datum/tgui_modal [0x21024f93]
+Action: choose {"choice":"Yes"}
+[21:03:55]TGUI: fatfat in tgui-window-1/close (suspending)
+[21:04:03]TGUI: fatfat (as the unknown at (179,81,6))
+Using: /datum/tgui_modal [0x21024f60]
+new AlertModal fancy 1
+[21:04:03]TGUI: fatfat (as the unknown at (179,81,6)) in tgui-window-1
+Using: /datum/tgui_modal [0x21024f60]
+Action: choose {"choice":"Yes"}
+[21:04:03]TGUI: fatfat in tgui-window-1/close (suspending)

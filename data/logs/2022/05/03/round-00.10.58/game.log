@@ -1,0 +1,19 @@
+[00:10:58] Server '' starting up on 26.166.93.76:50363
+[00:11:01]GAME: listening_post loaded at (151,81,4)
+[00:11:02]GAME: Derelict Station loaded at (45,120,4)
+[00:11:02]GAME: delivery_shuttle loaded at (76,168,3)
+[00:11:02]GAME: DJ Station loaded at (115,88,3)
+[00:11:02]GAME: Abandoned Lab loaded at (39,121,3)
+[00:11:02]GAME: iss loaded at (25,36,3)
+[00:11:02]GAME: Broken Breacher loaded at (149,164,3)
+[00:11:33]ADMIN: fatfat/(FatFat) has started the game.
+[00:11:36]MODE: Current master mode is extended
+[00:11:36]DEBUG: Next event of severity RoundStart in 0 minutes.
+[00:11:36]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[00:11:36]GAME: ANTAG LIST:
+no antagonists this moment
+[00:11:37]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[00:11:37]DEBUG: Next event of severity Mundane in 12.452 minutes.
+[00:11:37]DEBUG: Next event of severity Moderate in 53.476 minutes.
+[00:11:37]DEBUG: Next event of severity Major in 53.645 minutes.
+[00:13:46] Graceful shutdown

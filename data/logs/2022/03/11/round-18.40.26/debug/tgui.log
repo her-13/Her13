@@ -1,0 +1,44 @@
+[18:41:10]TGUI: fatfat in browseroutput/initialize
+[18:41:40]TGUI: fatfat (as FatFat at (8,174,1))
+Using: /datum/tgui_modal [0x2102188a]
+new AlertModal fancy 1
+[18:41:40]TGUI: fatfat in tgui-window-1/initialize
+Using: /datum/tgui_modal [0x2102188a]
+[18:41:40]TGUI: fatfat (as FatFat at (8,174,1))
+Using: /datum/tgui_modal [0x2100095d]
+new AlertModal fancy 1
+[18:41:40]TGUI: fatfat in tgui-window-2/initialize
+Using: /datum/tgui_modal [0x2100095d]
+[18:41:42]TGUI: fatfat (as FatFat at (8,174,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x2102188a]
+Action: choose {"choice":"Yes"}
+[18:41:42]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:41:42]TGUI: fatfat in tgui-window-2/close (suspending)
+[18:42:34]TGUI: fatfat (as Russell Cowart at (181,79,6))
+Using: /datum/tgui_modal [0x21024161]
+new AlertModal fancy 1
+[18:42:34]TGUI: fatfat (as Russell Cowart at (181,79,6)) in tgui-window-1
+Using: /datum/tgui_modal [0x21024161]
+Action: choose {"choice":"Yes"}
+[18:42:34]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:42:38]TGUI: fatfat (as Russell Cowart at (181,78,6))
+Using: /datum/tgui_modal [0x210051d9]
+new AlertModal fancy 1
+[18:42:38]TGUI: fatfat (as Russell Cowart at (181,78,6)) in tgui-window-1
+Using: /datum/tgui_modal [0x210051d9]
+Action: choose {"choice":"Yes"}
+[18:42:38]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:42:44]TGUI: fatfat (as the unknown at (179,80,6))
+Using: /datum/tgui_modal [0x210091af]
+new AlertModal fancy 1
+[18:42:45]TGUI: fatfat (as the unknown at (179,80,6)) in tgui-window-1
+Using: /datum/tgui_modal [0x210091af]
+Action: choose {"choice":"Yes"}
+[18:42:45]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:42:52]TGUI: fatfat (as the unknown at (179,81,6))
+Using: /datum/tgui_modal [0x21003fed]
+new AlertModal fancy 1
+[18:42:52]TGUI: fatfat (as the unknown at (179,81,6)) in tgui-window-1
+Using: /datum/tgui_modal [0x21003fed]
+Action: choose {"choice":"Yes"}
+[18:42:52]TGUI: fatfat in tgui-window-1/close (suspending)

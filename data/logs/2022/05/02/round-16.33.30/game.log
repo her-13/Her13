@@ -1,0 +1,24 @@
+[16:33:30] Server '' starting up on 26.166.93.76:60172
+[16:33:33]GAME: Space Toilet loaded at (186,99,3)
+[16:33:33]GAME: agrosphere loaded at (175,31,3)
+[16:33:33]GAME: escape_pod loaded at (105,161,3)
+[16:33:33]GAME: Tree Asteroid loaded at (57,19,3)
+[16:33:33]GAME: DJ Station loaded at (141,173,4)
+[16:33:33]GAME: Derelict Teleporter loaded at (100,64,3)
+[16:33:34]GAME: ghost_ship_2 loaded at (87,145,4)
+[16:34:06]ADMIN: fatfat/(FatFat) has started the game.
+[16:34:09]MODE: Current master mode is extended
+[16:34:09]DEBUG: Next event of severity RoundStart in 0 minutes.
+[16:34:09]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[16:34:09]GAME: ANTAG LIST:
+no antagonists this moment
+[16:34:10]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[16:34:10]DEBUG: Next event of severity Mundane in 13.978 minutes.
+[16:34:10]DEBUG: Next event of severity Moderate in 50.87 minutes.
+[16:34:10]DEBUG: Next event of severity Major in 53.7517 minutes.
+[16:34:22]ADMIN: fatfat/(Andre Poehl) jumped to coordinates 100, 100, 1
+[16:34:27]ADMIN: fatfat/(Andre Poehl) created a /mob/living/carbon/human
+[16:34:36]ADMIN: fatfat/(unknown) modified unknown's ckey to fatfat
+[16:34:57]ADMIN: fatfat/(unknown) created a /obj/vehicle/space/spacebike/horse
+[16:35:12]ADMIN: fatfat/(unknown) deleted the horse at (98,98,1)
+[16:38:37] Graceful shutdown

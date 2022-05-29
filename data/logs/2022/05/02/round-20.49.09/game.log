@@ -1,0 +1,21 @@
+[20:49:09] Server '' starting up on 26.166.93.76:53450
+[20:49:11]GAME: listening_post loaded at (177,119,3)
+[20:49:11]GAME: NASA satellite loaded at (208,161,4)
+[20:49:11]GAME: planetarium loaded at (50,45,3)
+[20:49:11]GAME: teleporter loaded at (74,42,4)
+[20:49:11]GAME: agrosphere loaded at (171,173,3)
+[20:49:12]GAME: robostation loaded at (148,154,4)
+[20:49:12]GAME: DJ Station loaded at (68,168,3)
+[20:49:23]ADMIN: fatfat/(FatFat) will begin the game as soon as possible.
+[20:49:34]MODE: Current master mode is extended
+[20:49:34]DEBUG: Next event of severity RoundStart in 0 minutes.
+[20:49:34]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[20:49:34]GAME: ANTAG LIST:
+no antagonists this moment
+[20:49:35]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[20:49:35]DEBUG: Next event of severity Mundane in 16.532 minutes.
+[20:49:35]DEBUG: Next event of severity Moderate in 49.26 minutes.
+[20:49:35]DEBUG: Next event of severity Major in 57.405 minutes.
+[20:49:44]ADMIN: fatfat/(Gary Woodward) created a /obj/effect/portal/tsci_wormhole/hub2
+[20:49:49]ADMIN: fatfat/(Gary Woodward) created a /obj/effect/portal/tsci_wormhole/hub1
+[20:49:52] Graceful shutdown

@@ -1,0 +1,418 @@
+[17:59:15] Server '' starting up on 26.166.93.76:61621
+[17:59:54]GAME: NT Ships Squad loaded at (157,114,3)
+[17:59:55]GAME: Abandoned Lab loaded at (43,112,4)
+[17:59:55]GAME: ghost_ship_1 loaded at (154,195,3)
+[17:59:55]GAME: Derelict Teleporter loaded at (49,86,3)
+[17:59:56]GAME: Secrete Lab loaded at (64,189,4)
+[17:59:56]GAME: planetarium loaded at (145,47,3)
+[17:59:56]GAME: syndicate_fighter loaded at (216,201,3)
+[18:00:52]ADMIN: heavenlyblue/(HeavenlyBlue) has started the game.
+[18:00:56]MODE: Current master mode is extended
+[18:00:57]DEBUG: Next event of severity RoundStart in 0 minutes.
+[18:00:57]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[18:00:57]DEBUG: Next event of severity RoundStart in 0 minutes.
+[18:00:57]GAME: RoundStart Event: Selected areas is EVA Storage, AI Satellite Teleporter Room, AI Satellite Teleporter Room, Locker Room, Head of Personnel's Office, Starboard Emergency Storage, Chief Medical Officer's office, Medbay Reception, Miscellaneous Research, Heads of Staff Meeting Room, AI Satellite Exterior, Crematorium, Cargo Bay, Security Checkpoint, Play Room, Third Dorm Room, Primary Tool Storage, Robotics Lab, Gym, Medbay Maintenance, Theatre, Heads of Staff Meeting Room, EVA Storage, Fore Port Solar Maintenance, Execution, Vault, First Dorm Room, Chapel Office, Bridge Maintenance, Hydroponics, Warden, Aft Port Solar Maintenance, Arrival Shuttle Hallway, Fore Starboard Solar Maintenance, Cargo Office, Toxins Launch Roon, Fitness Room, Chapel Maintenance, Aft Starboard Solar Maintenance, Emergency Treatment Centre, Bridge Maintenance, AI Satellite Teleporter Room, Cloning Lab, Third Dorm Room, Medbay Reception, Medbay Reception, Medbay Reception, Recycler, Dormitory Maintenance, Chapel Maintenance, Bridge, Port Emergency Storage, Chemistry, Toxins Test Site, Science Maintenance, Bridge, Telecoms Control Room, Armory, Chapel Office, Escape Shuttle Maintenance, Telecoms Control Room, Dormitories and North Technical Storage
+[18:00:57]DEBUG: Starting event 'Break Light' of severity RoundStart.
+[18:00:57]GAME: ANTAG LIST:
+no antagonists this moment
+[18:00:58]DEBUG: Event 'Roundstart Nothing' has completed at 12:01.
+[18:00:58]DEBUG: Event 'Break Light' has completed at 12:01.
+[18:00:58]DEBUG: Next event of severity Mundane in 13.806 minutes.
+[18:00:58]DEBUG: Next event of severity Moderate in 48.434 minutes.
+[18:00:58]DEBUG: Next event of severity Major in 69.1317 minutes.
+[18:00:58]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:01:08]ADMIN: fatfat/(Alberto Skywalker) created a /mob/living/carbon/human
+[18:01:10]ADMIN: fatfat/(Alberto Skywalker) stuffed fatfat into unknown.
+[18:01:14]ADMIN: heavenlyblue/(Loreto Williams) jumped to Research and Development
+[18:01:15]ADMIN: fatfat/(unknown) changed the equipment of fatfat/(unknown) to captain.
+[18:01:16]ATTACK: *no key*/(friendly angelic goliath) has been pulverized, by *no key*/(goliath)
+[18:01:18]ATTACK: *no key*/(friendly goliath) has been pulverized, by *no key*/(healthy goliath)
+[18:01:19]ADMIN: heavenlyblue/(Loreto Williams) jumped to (143,135,2) in Research and Development
+[18:01:20]ATTACK: *no key*/(goliath) has been pulverized, by *no key*/(friendly goliath)
+[18:01:22]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[18:01:22]ATTACK: *no key*/(friendly angelic goliath) has been pulverized, by *no key*/(goliath)
+[18:01:22]ATTACK: *no key*/(goliath) has been pulverized, by *no key*/(friendly angelic goliath)
+[18:01:24]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[18:01:24]ATTACK: *no key*/(friendly angelic goliath) has been pulverized, by *no key*/(invisible goliath)
+[18:01:26]ATTACK: *no key*/(goliath) has been pulverized, by *no key*/(friendly goliath)
+[18:01:28]ATTACK: *no key*/(friendly angelic goliath) has been pulverized, by *no key*/(invisible goliath)
+[18:01:30]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[18:01:30]ATTACK: *no key*/(friendly goliath) has been pulverized, by *no key*/(healthy goliath)
+[18:01:30]ATTACK: *no key*/(friendly angelic goliath) has been pulverized, by *no key*/(invisible goliath)
+[18:01:30]ATTACK: *no key*/(friendly goliath) has been pulverized, by *no key*/(goliath)
+[18:01:30]ATTACK: *no key*/(goliath) has been pulverized, by *no key*/(friendly angelic goliath)
+[18:01:30]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:01:32]ATTACK: *no key*/(friendly angelic goliath) has been pulverized, by *no key*/(invisible goliath)
+[18:01:34]ATTACK: *no key*/(friendly goliath) has been pulverized, by *no key*/(healthy goliath)
+[18:01:34]ATTACK: *no key*/(friendly goliath) has been pulverized, by *no key*/(goliath)
+[18:01:34]ATTACK: *no key*/(goliath) has been pulverized, by *no key*/(friendly angelic goliath)
+[18:01:34]ATTACK: *no key*/(goliath) has been pulverized, by *no key*/(friendly goliath)
+[18:01:37]ADMIN: heavenlyblue/(Loreto Williams) spawned /obj/item/weapon/gun/energy/pulse_rifle at (149,140,2)
+[18:01:38]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:01:38]ATTACK: *no key*/(friendly goliath) has been pulverized, by *no key*/(goliath)
+[18:01:38]ATTACK: *no key*/(friendly angelic goliath) has been pulverized, by *no key*/(goliath)
+[18:01:38]ATTACK: *no key*/(goliath) has been pulverized, by *no key*/(friendly goliath)
+[18:01:40]SAY: fatfat/(unknown) : [Toxins Mixing Room/Command]: Я возможно понял.
+[18:01:40]ATTACK: *no key*/(goliath) has been pulverized, by *no key*/(friendly goliath)
+[18:01:40]SAY: *no key*/(E-N) : [Head of Security's Office]: AUUUUUU
+[18:01:44]ATTACK: *no key*/(friendly goliath) has been pulverized, by *no key*/(invisible goliath)
+[18:01:46]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:01:46]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:01:48]ATTACK: *no key*/(friendly goliath) has been pulverized, by *no key*/(goliath)
+[18:01:48]ATTACK: *no key*/(goliath) has been pulverized, by *no key*/(friendly goliath)
+[18:01:50]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:01:50]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:01:52]ATTACK: *no key*/(friendly goliath) has been pulverized, by *no key*/(goliath)
+[18:01:52]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:01:54]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[18:01:54]ATTACK: *no key*/(friendly goliath) has been pulverized, by *no key*/(invisible goliath)
+[18:01:54]ATTACK: *no key*/(friendly goliath) has been pulverized, by *no key*/(goliath)
+[18:01:54]SAY: *no key*/(DET5) : [Research Director's Office]: Not enough time
+[18:01:56]SAY: *no key*/(DET5) : [Research Director's Office]: Boom...
+[18:01:56]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[18:01:58]SAY: *no key*/(shantak) : [Space]: Shuhn
+[18:02:00]ADMIN: heavenlyblue/(Loreto Williams) spawned /mob/living/carbon/human/dummy at (164,141,2)
+[18:02:10]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:02:10]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[18:02:10]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:02:14]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:02:14]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:02:16]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:02:18]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:02:20]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:02:20]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[18:02:20]ATTACK: *no key*/(hivelord brood) has been pulverized, by *no key*/(frail friendly goliath)
+[18:02:24]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:02:24]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[18:02:26]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:02:26]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:02:30]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:02:31]ADMIN: fatfat/(unknown) jumped to heavenlyblue/(Loreto Williams)
+[18:02:32]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:02:33]EMOTE: *no key*/(Test Dummy) : <b>The unknown</b> <i>screams!</i>
+[18:02:33]ATTACK: *no key*/(Test Dummy) has been shot with <b>/obj/item/projectile/beam</b>, by heavenlyblue/(Loreto Williams)
+[18:02:34]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:02:34]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:02:36]EMOTE: *no key*/(Test Dummy) : <b>The unknown</b> <i>screams!</i>
+[18:02:36]ATTACK: *no key*/(Test Dummy) has been shot with <b>/obj/item/projectile/beam</b>, by heavenlyblue/(Loreto Williams)
+[18:02:38]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:02:40]ADMIN: heavenlyblue/(Loreto Williams) healed / Rrvived *no key*/(Test Dummy)
+[18:02:40]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:02:40]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:02:42]ATTACK: *no key*/(hivelord brood) has been pulverized, by *no key*/(frail friendly goliath)
+[18:02:42]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:02:43]EMOTE: *no key*/(Test Dummy) : <b>The unknown</b> <i>screams!</i>
+[18:02:43]ATTACK: *no key*/(Test Dummy) has been shot with <b>/obj/item/projectile/beam/pulse</b>, by heavenlyblue/(Loreto Williams)
+[18:02:44]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:02:46]EMOTE: *no key*/(Test Dummy) : <b>The unknown</b> <i>screams!</i>
+[18:02:46]ATTACK: *no key*/(Test Dummy) has been shot with <b>/obj/item/projectile/beam/pulse</b>, by heavenlyblue/(Loreto Williams)
+[18:02:48]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:02:48]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[18:02:49]EMOTE: *no key*/(Test Dummy) : <b>The unknown</b> <i>screams!</i>
+[18:02:49]ATTACK: *no key*/(Test Dummy) has been shot with <b>/obj/item/projectile/beam/pulse</b>, by heavenlyblue/(Loreto Williams)
+[18:02:50]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:02:51]EMOTE: *no key*/(Test Dummy) : <b>The unknown</b> <i>screams!</i>
+[18:02:51]ATTACK: *no key*/(Test Dummy) has been shot with <b>/obj/item/projectile/beam/pulse</b>, by heavenlyblue/(Loreto Williams)
+[18:02:54]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:02:54]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:02:54]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:02:54]ATTACK: *no key*/(hivelord brood) has been pulverized, by *no key*/(frail friendly goliath)
+[18:03:01]EMOTE: *no key*/(Test Dummy) : <b>The unknown</b> <i>screams!</i>
+[18:03:01]ATTACK: *no key*/(Test Dummy) has been shot with <b>/obj/item/projectile/beam/pulse</b>, by heavenlyblue/(Loreto Williams)
+[18:03:04]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:03:04]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:03:04]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[18:03:05]EMOTE: *no key*/(Test Dummy) : <b>The unknown</b> <i>screams!</i>
+[18:03:05]ATTACK: *no key*/(Test Dummy) has been shot with <b>/obj/item/projectile/beam/pulse</b>, by heavenlyblue/(Loreto Williams)
+[18:03:06]SAY: *no key*/(Commander Clucky) : [Hydroponics]: Cluck!
+[18:03:10]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:03:16]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:03:21]SAY: *no key*/(DET5) : [Research Director's Office]: ED-209 protect me
+[18:03:23]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:03:23]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[18:03:23]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:03:25]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[18:03:27]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:03:31]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Ща все будет.
+[18:03:31]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:03:33]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:03:35]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:03:37]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:03:38]ADMIN: heavenlyblue/(Loreto Williams) changed the equipment of heavenlyblue/(Loreto Williams) to nanotrasen captain.
+[18:03:41]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:03:45]SAY: *no key*/(Experiment 97d) : [Wizard's Den]: EHEHEHEHEH
+[18:03:47]ATTACK: *no key*/(hivelord brood) has been pulverized, by *no key*/(frail friendly goliath)
+[18:03:49]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:03:51]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:03:51]ATTACK: *no key*/(hivelord brood) has been pulverized, by *no key*/(frail friendly goliath)
+[18:03:53]SAY: *no key*/(shantak) : [Space]: Shuhn
+[18:03:55]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:03:55]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:03:57]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:03:57]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:03:59]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:01]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:03]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:03]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:05]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:05]ATTACK: *no key*/(hivelord brood) has been pulverized, by *no key*/(frail friendly goliath)
+[18:04:09]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:09]EMOTE: *no key*/(Ian) : dances around
+[18:04:09]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Научный вруби.
+[18:04:11]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:13]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:13]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:13]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:04:15]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:15]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:04:18]SAY: heavenlyblue/(Loreto Williams) : [Toxins Mixing Room]: Dhe,bk.
+[18:04:19]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:19]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:20]ATTACK: heavenlyblue/(Loreto Williams) has been attacked with analyzer (INTENT: HELP) (DAMTYPE: BRUTE), by fatfat/(unknown)
+[18:04:21]SAY: heavenlyblue/(Loreto Williams) : [Toxins Mixing Room]: Vrubil.
+[18:04:21]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:04:23]SAY: *no key*/(DET5) : [Research Director's Office]: Analyzing...
+[18:04:27]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:27]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:29]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[18:04:33]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:33]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:33]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:35]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:37]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:39]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:41]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:43]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:45]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:45]ATTACK: *no key*/(hivelord brood) has been pulverized, by *no key*/(frail friendly goliath)
+[18:04:46]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Греется.
+[18:04:47]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:49]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:51]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:51]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:51]ATTACK: *no key*/(angelic basilisk) has been pulverized, by *no key*/(healthy friendly goliath)
+[18:04:53]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(basilisk)
+[18:04:53]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(angelic basilisk)
+[18:04:55]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Нам надо 600К.
+[18:04:55]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(angelic basilisk)
+[18:04:57]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:04:57]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[18:04:57]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(basilisk)
+[18:04:59]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:05:01]SAY: fatfat/(unknown) : [Toxins Mixing Room]: 583.
+[18:05:01]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:05:01]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:05:01]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(angelic basilisk)
+[18:05:05]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:05:07]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(angelic basilisk)
+[18:05:07]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:05:09]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:05:09]ATTACK: *no key*/(angelic basilisk) has been pulverized, by *no key*/(healthy friendly goliath)
+[18:05:11]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:05:11]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(basilisk)
+[18:05:11]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(angelic basilisk)
+[18:05:11]ATTACK: *no key*/(basilisk) has been pulverized, by *no key*/(healthy friendly goliath)
+[18:05:11]SAY: *no key*/(DET5) : [Research Director's Office]: One...two...three...more...
+[18:05:11]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[18:05:12]SAY: fatfat/(unknown) : [Toxins Mixing Room]: 600.
+[18:05:13]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:05:13]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(basilisk)
+[18:05:15]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:05:15]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(basilisk)
+[18:05:15]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(angelic basilisk)
+[18:05:17]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:05:19]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:05:21]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:05:23]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:05:23]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(angelic basilisk)
+[18:05:23]ATTACK: *no key*/(angelic basilisk) has been pulverized, by *no key*/(healthy friendly goliath)
+[18:05:25]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:05:25]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:05:25]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[18:05:25]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(basilisk)
+[18:05:25]ATTACK: *no key*/(hivelord brood) has been pulverized, by *no key*/(frail friendly goliath)
+[18:05:25]ATTACK: *no key*/(angelic basilisk) has been pulverized, by *no key*/(healthy friendly goliath)
+[18:05:26]SAY: heavenlyblue/(Loreto Williams) : [Toxins Mixing Room]: Ты опустошил синие штуки?
+[18:05:27]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:05:27]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(angelic basilisk)
+[18:05:29]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Да.
+[18:05:31]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Там пустая.
+[18:05:31]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:05:31]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:05:31]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(angelic basilisk)
+[18:05:31]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[18:05:34]SAY: fatfat/(unknown) : [Toxins Mixing Room]: И тут пустая.
+[18:05:35]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:05:37]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:05:37]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(basilisk)
+[18:05:37]ATTACK: *no key*/(angelic basilisk) has been pulverized, by *no key*/(healthy friendly goliath)
+[18:05:37]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:05:39]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:05:39]ATTACK: *no key*/(hivelord brood) has been pulverized, by *no key*/(frail friendly goliath)
+[18:05:43]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:05:45]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(basilisk)
+[18:05:47]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(basilisk)
+[18:05:49]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Воздух надо было.
+[18:05:52]SAY: fatfat/(unknown) : [Toxins Mixing Room]: На макс ставить.
+[18:05:54]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Ну ладно.
+[18:05:55]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:05:55]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:05:55]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(angelic basilisk)
+[18:05:57]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(angelic basilisk)
+[18:05:57]ATTACK: *no key*/(basilisk) has been pulverized, by *no key*/(healthy friendly goliath)
+[18:05:57]SAY: *no key*/(shantak) : [Space]: Shunpf
+[18:05:59]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(angelic basilisk)
+[18:06:00]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Щас быстро.
+[18:06:01]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:06:03]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:06:05]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Остудится.
+[18:06:05]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:06:05]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(angelic basilisk)
+[18:06:05]ATTACK: *no key*/(basilisk) has been pulverized, by *no key*/(healthy friendly goliath)
+[18:06:07]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:06:10]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Такой тебе надо.
+[18:06:11]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:06:11]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:06:11]ATTACK: *no key*/(basilisk) has been pulverized, by *no key*/(healthy friendly goliath)
+[18:06:15]SAY: *no key*/(DET5) : [Research Director's Office]: One...two...three...more...
+[18:06:17]SAY: *no key*/(Runtime) : [Secrete Lab]: HSSSSS
+[18:06:19]ATTACK: *no key*/(basilisk) has been pulverized, by *no key*/(healthy friendly goliath)
+[18:06:25]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(angelic basilisk)
+[18:06:29]ATTACK: *no key*/(basilisk) has been pulverized, by *no key*/(healthy friendly goliath)
+[18:06:31]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:06:31]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(angelic basilisk)
+[18:06:31]ATTACK: *no key*/(basilisk) has been pulverized, by *no key*/(healthy friendly goliath)
+[18:06:33]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:06:35]ATTACK: *no key*/(Test Dummy) has been shot with <b>/obj/item/projectile/energy</b>, by heavenlyblue/(Loreto Williams)
+[18:06:35]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:06:36]ATTACK: *no key*/(Test Dummy) has been shot with <b>/obj/item/projectile/energy</b>, by heavenlyblue/(Loreto Williams)
+[18:06:37]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:06:37]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:06:39]ATTACK: *no key*/(frail friendly goliath) has been slashed, by *no key*/(hivelord brood)
+[18:06:39]SAY: *no key*/(Runtime) : [Secrete Lab]: Purr!
+[18:06:40]ATTACK: *no key*/(Test Dummy) has been shot with <b>/obj/item/projectile/energy</b>, by heavenlyblue/(Loreto Williams)
+[18:06:41]SAY: *no key*/(Runtime) : [Wizard's Den]: Purr!
+[18:06:43]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(angelic basilisk)
+[18:06:43]ATTACK: *no key*/(basilisk) has been pulverized, by *no key*/(healthy friendly goliath)
+[18:06:45]ATTACK: *no key*/(Test Dummy) has been shot with <b>/obj/item/projectile/energy</b>, by heavenlyblue/(Loreto Williams)
+[18:06:46]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(basilisk)
+[18:06:46]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(angelic basilisk)
+[18:06:48]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[18:06:48]ATTACK: *no key*/(angelic basilisk) has been pulverized, by *no key*/(healthy friendly goliath)
+[18:06:50]ATTACK: *no key*/(angelic basilisk) has been pulverized, by *no key*/(healthy friendly goliath)
+[18:06:52]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss
+[18:06:52]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:06:54]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:07:00]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[18:07:02]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[18:07:02]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:07:04]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:07:05]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Надо 800кпа холодного.
+[18:07:06]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(basilisk)
+[18:07:06]ATTACK: *no key*/(angelic basilisk) has been pulverized, by *no key*/(healthy friendly goliath)
+[18:07:07]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Воздуха.
+[18:07:08]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(angelic basilisk)
+[18:07:08]ATTACK: *no key*/(angelic basilisk) has been pulverized, by *no key*/(healthy friendly goliath)
+[18:07:08]SAY: *no key*/(DET5) : [Research Director's Office]: ED-209 protect me
+[18:07:10]EMOTE: *no key*/(Ian) : dances around
+[18:07:16]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[18:07:18]EMOTE: *no key*/(Ian) : dances around
+[18:07:20]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(basilisk)
+[18:07:20]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(angelic basilisk)
+[18:07:21]ATTACK: *no key*/(Test Dummy) has been punched, by heavenlyblue/(Loreto Williams)
+[18:07:22]ATTACK: *no key*/(Test Dummy) has been punched, by heavenlyblue/(Loreto Williams)
+[18:07:22]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:07:22]ATTACK: *no key*/(Test Dummy) has been punched, by heavenlyblue/(Loreto Williams)
+[18:07:22]EMOTE: *no key*/(Test Dummy) : <b>The unknown</b> <i>screams!</i>
+[18:07:23]ATTACK: *no key*/(Test Dummy) has been punched, by heavenlyblue/(Loreto Williams)
+[18:07:24]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[18:07:24]ATTACK: *no key*/(Test Dummy) has been punched, by heavenlyblue/(Loreto Williams)
+[18:07:24]EMOTE: *no key*/(Test Dummy) : <b>The unknown</b> <i>grunts.</i>
+[18:07:25]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Эти холодосы можно улучшать.
+[18:07:27]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Как машинерию.
+[18:07:30]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(angelic basilisk)
+[18:07:30]ATTACK: *no key*/(angelic basilisk) has been pulverized, by *no key*/(healthy friendly goliath)
+[18:07:30]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Быстрее будет.
+[18:07:33]ADMIN: heavenlyblue/(Loreto Williams) deleted the unknown at (158,144,2)
+[18:07:36]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(basilisk)
+[18:07:36]ATTACK: *no key*/(angelic basilisk) has been pulverized, by *no key*/(healthy friendly goliath)
+[18:07:36]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Но у нас пока.
+[18:07:37]SAY: heavenlyblue/(Loreto Williams) : [Toxins Mixing Room]: Круть.
+[18:07:38]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(basilisk)
+[18:07:38]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[18:07:39]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Полевые испытания.
+[18:07:46]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(basilisk)
+[18:07:46]ATTACK: *no key*/(basilisk) has been pulverized, by *no key*/(healthy friendly goliath)
+[18:07:48]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(basilisk)
+[18:07:48]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(basilisk)
+[18:07:48]SAY: *no key*/(Dusty) : [Chief Medical Officer's office]: HSSSSS
+[18:07:50]ATTACK: *no key*/(basilisk) has been pulverized, by *no key*/(healthy friendly goliath)
+[18:07:54]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:07:55]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Тут почти охладиллся.
+[18:07:56]ATTACK: *no key*/(healthy friendly goliath) has been gnawed, by *no key*/(basilisk)
+[18:08:00]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[18:08:16]SAY: *no key*/(mouse (55)) : [Auxiliary Storage]: SQUEEK!
+[18:08:16]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:08:18]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:08:20]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[18:08:24]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[18:08:30]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[18:08:32]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[18:08:38]SAY: *no key*/(DET5) : [Research Director's Office]: Director, where are researches?
+[18:08:38]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:08:42]SAY: *no key*/(DET5) : [Research Director's Office]: Not enough time
+[18:08:48]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:08:50]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[18:08:52]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[18:08:54]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:09:02]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[18:09:02]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:09:03]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Кажется готово.
+[18:09:10]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Упс.
+[18:09:13]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Ща ебанет.
+[18:09:16]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[18:09:17]SAY: fatfat/(unknown) : [Toxins Mixing Room]: А нте.
+[18:09:18]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[18:09:23]SAY: heavenlyblue/(Loreto Williams) : [Toxins Mixing Room]: А почему.
+[18:09:26]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[18:09:26]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Незнаю.
+[18:09:32]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:09:36]SAY: *no key*/(samak) : [Wizard's Den]: Hruuugh!
+[18:09:38]SAY: heavenlyblue/(Loreto Williams) : [Toxins Mixing Room]: Там же воздуха нет.
+[18:09:42]SAY: fatfat/(unknown) : [Toxins Mixing Room]: Там не надо.
+[18:09:48]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[18:09:54]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:10:06]GAME: fatfat/(unknown) attached a the remote signaling device to a transfer valve.
+[18:10:20]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[18:10:21]ADMIN: fatfat/(unknown) used secret whiteout
+[18:10:28]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[18:10:30]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[18:10:30]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[18:10:34]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[18:10:36]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[18:10:36]SAY: *no key*/(SyndiCat) : [Syndicate Forward Operating Base]: Meow!
+[18:10:38]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[18:10:40]GAME: Bomb valve opened in Toxins Test Site with the remote signaling device attacher: unknown(fatfat), last touched by fatfat/(unknown)
+[18:10:40]GAME: fatfat(the unknown) used the remote signaling device, location (159,162,2),frequency: 145.7, code:30
+[18:10:42]GAME: Explosion with size (49) in area Toxins Test Site
+[18:10:42]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:10:44]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Есс.
+[18:10:46]SAY: *no key*/(DET5) : [Research Director's Office]: Boom...
+[18:10:48]SAY: heavenlyblue/(Loreto Williams) : [Toxins Launch Roon]: Мало.
+[18:10:48]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:10:51]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Ну она уже ебнула.
+[18:10:54]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Щас я рестарт дам.
+[18:10:56]SAY: fatfat/(unknown) : [Toxins Launch Roon]: И мы вместе.
+[18:10:56]SAY: heavenlyblue/(Loreto Williams) : [Toxins Launch Roon]: А почему не 51.
+[18:10:57]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Сделаем.
+[18:10:58]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[18:10:59]SAY: fatfat/(unknown) : [Toxins Launch Roon]: От начала.
+[18:11:01]GAME: Roundstart logout report
+
+
+[18:11:01]SAY: fatfat/(unknown) : [Toxins Launch Roon]: И до конца.
+[18:11:04]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Правильно.
+[18:11:08]SAY: fatfat/(unknown) : [Toxins Launch Roon]: Я главное вспомнил.
+[18:11:14]ADMIN: fatfat/(unknown) initiated a reboot.
+[18:11:18]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[18:11:19] Reboot , admin reboot - by fatfat

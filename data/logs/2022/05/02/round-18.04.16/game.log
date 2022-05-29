@@ -1,0 +1,23 @@
+[18:04:16] Server '' starting up on 26.166.93.76:54210
+[18:04:18]GAME: escape_pod loaded at (172,155,4)
+[18:04:18]GAME: delivery_shuttle loaded at (166,232,4)
+[18:04:19]GAME: planetarium loaded at (76,110,3)
+[18:04:19]GAME: agrosphere loaded at (142,15,4)
+[18:04:19]GAME: listening_post loaded at (141,186,4)
+[18:04:19]GAME: Space Toilet loaded at (238,135,3)
+[18:04:19]GAME: Broken Breacher loaded at (26,123,4)
+[18:04:42]ADMIN: fatfat/(FatFat) has started the game.
+[18:04:44]MODE: Current master mode is extended
+[18:04:44]DEBUG: Next event of severity RoundStart in 0 minutes.
+[18:04:44]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[18:04:44]DEBUG: Next event of severity RoundStart in 0 minutes.
+[18:04:44]GAME: RoundStart Event: Selected areas is nothing
+[18:04:44]DEBUG: Starting event 'Broken Airlocks' of severity RoundStart.
+[18:04:44]GAME: ANTAG LIST:
+no antagonists this moment
+[18:04:45]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[18:04:45]DEBUG: Event 'Broken Airlocks' has completed at 12:00.
+[18:04:45]DEBUG: Next event of severity Mundane in 16.69 minutes.
+[18:04:45]DEBUG: Next event of severity Moderate in 36.608 minutes.
+[18:04:45]DEBUG: Next event of severity Major in 67.385 minutes.
+[18:04:53] Graceful shutdown

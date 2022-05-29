@@ -1,0 +1,54 @@
+[23:08:13] Base SHA: a34f4e7d104f62b64b106412fc78cff780518897
+
+[23:17:29] bad index in modifyvariables.dm:99 :
+proc name: mod list add (/client/proc/mod_list_add)
+  source file: modifyvariables.dm,99
+  usr: the unknown (/mob/living/carbon/human)
+  src: FatFat (/client)
+  usr.loc: the floor (55,141,2) (/turf/simulated/floor)
+  call stack:
+FatFat (/client): mod list add(/list (/list))
+FatFat (/client): mod list(/list (/list))
+FatFat (/client): modify variables(the space-bike (/obj/vehicle/space/spacebike), "overlays", 1)
+FatFat (/client): view var Topic("_src_=vars;datumedit=\[0x200e9...", /list (/list), null)
+FatFat (/client): Topic("_src_=vars;datumedit=\[0x200e9...", /list (/list), null)
+
+[23:17:55] bad index in modifyvariables.dm:99 :
+proc name: mod list add (/client/proc/mod_list_add)
+  source file: modifyvariables.dm,99
+  usr: the unknown (/mob/living/carbon/human)
+  src: FatFat (/client)
+  usr.loc: the floor (55,141,2) (/turf/simulated/floor)
+  call stack:
+FatFat (/client): mod list add(/list (/list))
+FatFat (/client): mod list(/list (/list))
+FatFat (/client): modify variables(the space-bike (/obj/vehicle/space/spacebike), "overlays", 1)
+FatFat (/client): view var Topic("_src_=vars;datumedit=\[0x200e9...", /list (/list), null)
+FatFat (/client): Topic("_src_=vars;datumedit=\[0x200e9...", /list (/list), null)
+
+[23:18:50] bad index in modifyvariables.dm:99 :
+proc name: mod list add (/client/proc/mod_list_add)
+  source file: modifyvariables.dm,99
+  usr: the unknown (/mob/living/carbon/human)
+  src: FatFat (/client)
+  usr.loc: the floor (56,141,2) (/turf/simulated/floor)
+  call stack:
+FatFat (/client): mod list add(/list (/list))
+FatFat (/client): mod list(/list (/list))
+FatFat (/client): modify variables(the space-bike (/obj/vehicle/space/spacebike), "overlays", 1)
+FatFat (/client): view var Topic("_src_=vars;datumedit=\[0x20031...", /list (/list), null)
+FatFat (/client): Topic("_src_=vars;datumedit=\[0x20031...", /list (/list), null)
+
+[23:19:06] bad index in modifyvariables.dm:99 :
+proc name: mod list add (/client/proc/mod_list_add)
+  source file: modifyvariables.dm,99
+  usr: the unknown (/mob/living/carbon/human)
+  src: FatFat (/client)
+  usr.loc: the floor (56,141,2) (/turf/simulated/floor)
+  call stack:
+FatFat (/client): mod list add(/list (/list))
+FatFat (/client): mod list(/list (/list))
+FatFat (/client): modify variables(the space-bike (/obj/vehicle/space/spacebike), "overlays", 1)
+FatFat (/client): view var Topic("_src_=vars;datumedit=\[0x20031...", /list (/list), null)
+FatFat (/client): Topic("_src_=vars;datumedit=\[0x20031...", /list (/list), null)
+

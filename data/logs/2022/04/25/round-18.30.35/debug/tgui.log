@@ -1,0 +1,609 @@
+[18:30:37]TGUI: heavenlyblue in browseroutput/initialize
+[18:30:39]TGUI: fatfat in browseroutput/initialize
+[18:30:49]TGUI: heavenlyblue in browseroutput/initialize
+[18:31:19]TGUI: fatfat (as FatFat at (8,174,1))
+Using: /datum/tgui_modal [0x2100ef15]
+new AlertModal fancy 1
+[18:31:19]TGUI: fatfat in tgui-window-1/initialize
+Using: /datum/tgui_modal [0x2100ef15]
+[18:31:20]TGUI: fatfat (as FatFat at (8,174,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x2100ef15]
+Action: choose {"choice":"Yes"}
+[18:31:20]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:31:44]TGUI: heavenlyblue (as HeavenlyBlue at (8,174,1))
+Using: /datum/tgui_modal [0x210213f8]
+new AlertModal fancy 1
+[18:31:44]TGUI: heavenlyblue in tgui-window-1/initialize
+Using: /datum/tgui_modal [0x210213f8]
+[18:31:46]TGUI: heavenlyblue (as HeavenlyBlue at (8,174,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x210213f8]
+Action: choose {"choice":"ДА!!!"}
+[18:31:46]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:31:50]TGUI: heavenlyblue (as HeavenlyBlue at (8,174,1))
+Using: /datum/tgui_modal [0x21021576]
+new AlertModal fancy 1
+[18:31:50]TGUI: heavenlyblue (as HeavenlyBlue at (8,174,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x21021576]
+Action: choose {"choice":"ДА!!!"}
+[18:31:50]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:31:51]TGUI: fatfat (as Chip Compton at (160,151,2))
+Using: /datum/tgui_modal [0x2102220b]
+new AlertModal fancy 1
+[18:31:52]TGUI: fatfat (as Chip Compton at (160,151,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x2102220b]
+Action: choose {"choice":"Yes"}
+[18:31:52]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:32:51]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+new PortablePump fancy 1
+[18:32:53]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+Action: direction {}
+[18:32:54]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+Action: pressure {"pressure":"max"}
+[18:32:54]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+Action: power {}
+[18:32:56]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+Action: power {}
+[18:32:58]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+Action: power {}
+[18:33:02]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+Action: power {}
+[18:33:04]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+Action: power {}
+[18:33:06]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+Action: power {}
+[18:33:10]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:33:10]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:33:11]TGUI: heavenlyblue (as Devin Holdeman at (161,146,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+new PortablePump fancy 1
+[18:33:12]TGUI: heavenlyblue (as Devin Holdeman at (161,146,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: pressure {"pressure":"max"}
+[18:33:13]TGUI: heavenlyblue (as Devin Holdeman at (161,146,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: direction {}
+[18:33:14]TGUI: heavenlyblue (as Devin Holdeman at (161,146,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: power {}
+[18:33:20]TGUI: heavenlyblue (as Devin Holdeman at (161,146,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: power {}
+[18:33:22]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:33:22]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:33:26]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+new PortablePump fancy 1
+[18:33:27]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+Action: power {}
+[18:33:28]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+Action: power {}
+[18:33:31]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:33:31]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:33:32]TGUI: heavenlyblue (as Devin Holdeman at (161,146,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+new PortablePump fancy 1
+[18:33:32]TGUI: heavenlyblue (as Devin Holdeman at (161,146,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: power {}
+[18:33:34]TGUI: heavenlyblue (as Devin Holdeman at (161,146,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: power {}
+[18:33:34]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:33:34]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:34:09]TGUI: heavenlyblue (as Devin Holdeman at (161,146,2))
+Using: /obj/item/weapon/tank/oxygen [0x202c6dd]
+new Tank fancy 1
+[18:34:13]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:34:13]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:34:19]TGUI: heavenlyblue (as Devin Holdeman at (160,148,2))
+Using: /obj/item/weapon/tank/oxygen [0x202c6dd]
+new Tank fancy 1
+[18:34:21]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:34:21]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:34:34]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+new PortablePump fancy 1
+[18:34:35]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:34:35]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:34:39]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+new PortablePump fancy 1
+[18:34:43]TGUI: fatfat (as the unknown at (161,146,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+new PortablePump fancy 1
+[18:34:46]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: direction {}
+[18:34:50]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: power {}
+[18:34:54]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: power {}
+[18:34:54]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: direction {}
+[18:34:56]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: power {}
+[18:35:01]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: power {}
+[18:35:04]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: direction {}
+[18:35:04]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: power {}
+[18:35:06]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: power {}
+[18:35:09]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: power {}
+[18:35:09]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:35:09]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:35:13]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: direction {}
+[18:35:16]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:35:16]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:35:19]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+new PortablePump fancy 1
+[18:35:23]TGUI: fatfat (as the unknown at (161,147,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+new PortablePump fancy 1
+[18:35:25]TGUI: fatfat (as the unknown at (161,147,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: eject {}
+[18:35:28]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: power {}
+[18:35:32]TGUI: fatfat (as the unknown at (161,147,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: power {}
+[18:35:34]TGUI: fatfat (as the unknown at (161,147,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: direction {}
+[18:35:40]TGUI: fatfat (as the unknown at (161,147,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: direction {}
+[18:35:41]TGUI: fatfat (as the unknown at (161,147,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: pressure {"pressure":"reset"}
+[18:35:43]TGUI: fatfat (as the unknown at (161,147,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: direction {}
+[18:35:53]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:35:53]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:36:02]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:36:02]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:36:04]TGUI: fatfat (as the unknown at (161,146,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+new PortablePump fancy 1
+[18:36:05]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+new PortablePump fancy 1
+[18:36:06]TGUI: fatfat (as the unknown at (161,146,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: eject {}
+[18:36:06]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+Action: pressure {"pressure":"reset"}
+[18:36:08]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+Action: direction {}
+[18:36:09]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:36:09]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:36:10]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+Action: power {}
+[18:36:11]TGUI: fatfat (as the unknown at (161,144,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+new PortablePump fancy 1
+[18:36:12]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+Action: power {}
+[18:36:15]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+Action: eject {}
+[18:36:16]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:36:16]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:36:16]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:36:16]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:36:25]TGUI: fatfat (as the unknown at (160,144,2))
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006f65]
+new Canister fancy 1
+[18:36:25]TGUI: heavenlyblue (as Devin Holdeman at (160,145,2))
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006f65]
+new Canister fancy 1
+[18:36:26]TGUI: heavenlyblue (as Devin Holdeman at (160,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006f65]
+Action: eject {}
+[18:36:27]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:36:27]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:36:46]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:36:46]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:37:31]TGUI: heavenlyblue (as Devin Holdeman at (161,146,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+new PortablePump fancy 1
+[18:37:39]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:37:39]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:37:44]TGUI: fatfat (as the unknown at (159,147,2))
+Using: /datum/tgui_list_input [0x21013116]
+new ListInput fancy 1
+[18:37:51]TGUI: fatfat (as the unknown at (159,147,2)) in tgui-window-1
+Using: /datum/tgui_list_input [0x21013116]
+Action: choose {"choice":"lobby/"}
+[18:37:51]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:37:51]TGUI: fatfat (as the unknown at (159,147,2))
+Using: /datum/tgui_list_input [0x21013116]
+new ListInput fancy 1
+[18:37:54]TGUI: fatfat (as the unknown at (159,147,2)) in tgui-window-1
+Using: /datum/tgui_list_input [0x21013116]
+Action: choose {"choice":"/"}
+[18:37:54]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:37:54]TGUI: fatfat (as the unknown at (159,147,2))
+Using: /datum/tgui_list_input [0x21013116]
+new ListInput fancy 1
+[18:37:55]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:37:55]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:37:58]TGUI: fatfat (as the unknown at (159,147,2))
+Using: /datum/tgui_modal [0x21012d0c]
+new AlertModal fancy 1
+[18:38:00]TGUI: fatfat (as the unknown at (159,147,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x21012d0c]
+Action: choose {"choice":"File"}
+[18:38:00]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:38:56]TGUI: heavenlyblue (as Devin Holdeman at (161,146,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+new PortablePump fancy 1
+[18:38:58]TGUI: fatfat (as the unknown at (161,147,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+new PortablePump fancy 1
+[18:38:58]TGUI: heavenlyblue (as Devin Holdeman at (161,146,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: power {}
+[18:39:01]TGUI: heavenlyblue (as Devin Holdeman at (161,146,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: pressure {"pressure":800}
+[18:39:04]TGUI: heavenlyblue (as Devin Holdeman at (161,146,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: direction {}
+[18:39:05]TGUI: heavenlyblue (as Devin Holdeman at (161,146,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: power {}
+[18:39:08]TGUI: heavenlyblue (as Devin Holdeman at (161,146,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: power {}
+[18:39:10]TGUI: heavenlyblue (as Devin Holdeman at (161,146,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: eject {}
+[18:39:11]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:39:11]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:39:12]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:39:12]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:39:19]TGUI: heavenlyblue (as Devin Holdeman at (160,146,2))
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006f65]
+new Canister fancy 1
+[18:39:21]TGUI: heavenlyblue (as Devin Holdeman at (160,146,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006f65]
+Action: pressure {"pressure":1013}
+[18:39:21]TGUI: heavenlyblue (as Devin Holdeman at (160,146,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006f65]
+Action: valve {}
+[18:39:24]TGUI: heavenlyblue (as Devin Holdeman at (160,146,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006f65]
+Action: valve {}
+[18:39:25]TGUI: heavenlyblue (as Devin Holdeman at (160,146,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006f65]
+Action: eject {}
+[18:39:25]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:39:25]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:40:35]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+new PortablePump fancy 1
+[18:40:36]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:40:36]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:40:41]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+new PortablePump fancy 1
+[18:40:44]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+Action: direction {}
+[18:40:46]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:40:46]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:40:51]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+new PortablePump fancy 1
+[18:40:52]TGUI: fatfat (as the unknown at (161,144,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+new PortablePump fancy 1
+[18:40:52]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+Action: pressure {"pressure":"max"}
+[18:40:54]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+Action: power {}
+[18:40:57]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:40:57]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:40:57]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+Action: power {}
+[18:40:58]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+Action: eject {}
+[18:40:59]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:40:59]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:41:03]TGUI: heavenlyblue (as Devin Holdeman at (159,144,2))
+Using: /obj/item/weapon/tank/oxygen [0x202c6dd]
+new Tank fancy 1
+[18:41:04]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:41:04]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:41:23]TGUI: heavenlyblue (as Devin Holdeman at (160,146,2))
+Using: /obj/machinery/portable_atmospherics/canister/oxygen [0x2006cfd]
+new Canister fancy 1
+[18:41:24]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:41:24]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:41:25]TGUI: heavenlyblue (as Devin Holdeman at (160,146,2))
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006f65]
+new Canister fancy 1
+[18:41:26]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:41:26]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:41:33]TGUI: fatfat (as the unknown at (160,145,2))
+Using: /obj/machinery/portable_atmospherics/canister/oxygen [0x2006cfd]
+new Canister fancy 1
+[18:41:34]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:41:34]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:41:36]TGUI: fatfat (as the unknown at (160,145,2))
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006f65]
+new Canister fancy 1
+[18:41:38]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:41:38]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:41:40]TGUI: heavenlyblue (as Devin Holdeman at (161,146,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+new PortablePump fancy 1
+[18:41:41]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:41:41]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:43:04]TGUI: heavenlyblue (as Devin Holdeman at (158,161,2))
+Using: /obj/machinery/disposal [0x200714d]
+new DisposalUnit fancy 1
+[18:43:05]TGUI: heavenlyblue (as Devin Holdeman at (158,161,2)) in tgui-window-1
+Using: /obj/machinery/disposal [0x200714d]
+Action: handle-1 {}
+[18:43:05]TGUI: heavenlyblue (as Devin Holdeman at (158,161,2)) in tgui-window-1
+Using: /obj/machinery/disposal [0x200714d]
+Action: handle-1 {}
+[18:43:06]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:43:06]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:43:21]TGUI: fatfat (as the unknown at (158,162,2))
+Using: /obj/machinery/computer/security/telescreen [0x2007226]
+new CameraConsole fancy 1
+[18:43:23]TGUI: fatfat (as the unknown at (158,162,2)) in tgui-window-1
+Using: /obj/machinery/computer/security/telescreen [0x2007226]
+Action: switch_camera {"name":"Toxins Test Chamber"}
+[18:43:39]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:43:39]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:45:30]TGUI: heavenlyblue (as Devin Holdeman at (169,162,2))
+Using: /datum/tgui_modal [0x21013b84]
+new AlertModal fancy 1
+[18:45:31]TGUI: heavenlyblue (as Devin Holdeman at (169,162,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x21013b84]
+Action: choose {"choice":"Yes"}
+[18:45:31]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:45:33]TGUI: heavenlyblue (as Devin Holdeman at (169,159,2))
+Using: /datum/tgui_modal [0x21013b7b]
+new AlertModal fancy 1
+[18:45:33]TGUI: heavenlyblue (as Devin Holdeman at (169,159,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x21013b7b]
+Action: choose {"choice":"Yes"}
+[18:45:33]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:47:54]TGUI: heavenlyblue (as Devin Holdeman at (161,147,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+new PortablePump fancy 1
+[18:47:56]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:47:56]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:48:01]TGUI: heavenlyblue (as Devin Holdeman at (161,147,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+new PortablePump fancy 1
+[18:48:17]TGUI: heavenlyblue (as Devin Holdeman at (161,147,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: power {}
+[18:48:19]TGUI: heavenlyblue (as Devin Holdeman at (161,147,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: power {}
+[18:48:41]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:48:41]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:49:02]TGUI: heavenlyblue (as Devin Holdeman at (161,147,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+new PortablePump fancy 1
+[18:49:06]TGUI: heavenlyblue (as Devin Holdeman at (161,147,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: power {}
+[18:49:11]TGUI: heavenlyblue (as Devin Holdeman at (161,147,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: power {}
+[18:49:22]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:49:22]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:50:30]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+new PortablePump fancy 1
+[18:50:33]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: eject {}
+[18:50:34]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:50:34]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:50:35]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump/filled [0x20154a6]
+new PortablePump fancy 1
+[18:50:37]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump/filled [0x20154a6]
+Action: direction {}
+[18:50:37]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump/filled [0x20154a6]
+Action: pressure {"pressure":"max"}
+[18:50:38]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump/filled [0x20154a6]
+Action: power {}
+[18:50:42]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump/filled [0x20154a6]
+Action: direction {}
+[18:50:46]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump/filled [0x20154a6]
+Action: eject {}
+[18:50:47]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump/filled [0x20154a6]
+Action: direction {}
+[18:50:50]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump/filled [0x20154a6]
+Action: direction {}
+[18:50:56]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump/filled [0x20154a6]
+Action: power {}
+[18:50:56]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump/filled [0x20154a6]
+Action: power {}
+[18:50:58]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump/filled [0x20154a6]
+Action: pressure {"pressure":"reset"}
+[18:51:00]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump/filled [0x20154a6]
+Action: power {}
+[18:51:02]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump/filled [0x20154a6]
+Action: eject {}
+[18:51:03]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:51:03]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:51:07]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+new PortablePump fancy 1
+[18:51:14]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2))
+Using: /obj/item/weapon/tank/oxygen [0x20075ab]
+new Tank fancy 1
+[18:51:14]TGUI: heavenlyblue in tgui-window-2/initialize
+Using: /obj/item/weapon/tank/oxygen [0x20075ab]
+[18:51:15]TGUI: heavenlyblue in tgui-window-2/close (suspending)
+[18:51:15]TGUI: heavenlyblue in tgui-window-2/close (suspending)
+[18:51:16]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:51:16]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:51:17]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump/filled [0x20154a6]
+new PortablePump fancy 1
+[18:51:18]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump/filled [0x20154a6]
+Action: power {}
+[18:51:20]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump/filled [0x20154a6]
+Action: power {}
+[18:51:20]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump/filled [0x20154a6]
+Action: eject {}
+[18:51:21]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:51:21]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:51:23]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+new PortablePump fancy 1
+[18:51:24]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: power {}
+[18:51:28]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: power {}
+[18:51:28]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x2007231]
+Action: eject {}
+[18:51:29]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:51:29]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:51:33]TGUI: heavenlyblue (as Devin Holdeman at (160,146,2))
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006f65]
+new Canister fancy 1
+[18:51:34]TGUI: heavenlyblue (as Devin Holdeman at (160,146,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006f65]
+Action: valve {}
+[18:51:38]TGUI: heavenlyblue (as Devin Holdeman at (160,146,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006f65]
+Action: valve {}
+[18:51:39]TGUI: heavenlyblue (as Devin Holdeman at (160,146,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/canister/phoron [0x2006f65]
+Action: eject {}
+[18:51:39]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:51:39]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:51:49]TGUI: heavenlyblue (as Devin Holdeman at (161,147,2))
+Using: /obj/item/weapon/tank/phoron [0x2007934]
+new Tank fancy 1
+[18:51:50]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:51:50]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:51:52]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump/filled [0x20154a6]
+new PortablePump fancy 1
+[18:51:53]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump/filled [0x20154a6]
+Action: power {}
+[18:51:55]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump/filled [0x20154a6]
+Action: power {}
+[18:51:56]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump/filled [0x20154a6]
+Action: eject {}
+[18:51:58]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump/filled [0x20154a6]
+Action: direction {}
+[18:51:59]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump/filled [0x20154a6]
+Action: power {}
+[18:52:04]TGUI: heavenlyblue (as Devin Holdeman at (161,148,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump/filled [0x20154a6]
+Action: power {}
+[18:52:04]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:52:04]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:52:08]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2))
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+new PortablePump fancy 1
+[18:52:14]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+Action: power {}
+[18:52:16]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+Action: power {}
+[18:52:17]TGUI: heavenlyblue (as Devin Holdeman at (161,145,2)) in tgui-window-1
+Using: /obj/machinery/portable_atmospherics/powered/pump [0x20075e3]
+Action: eject {}
+[18:52:18]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:52:18]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:53:58]TGUI: heavenlyblue (as Devin Holdeman at (158,161,2))
+Using: /obj/machinery/disposal [0x200714d]
+new DisposalUnit fancy 1
+[18:53:59]TGUI: heavenlyblue (as Devin Holdeman at (158,161,2)) in tgui-window-1
+Using: /obj/machinery/disposal [0x200714d]
+Action: handle-1 {}
+[18:53:59]TGUI: heavenlyblue (as Devin Holdeman at (158,161,2)) in tgui-window-1
+Using: /obj/machinery/disposal [0x200714d]
+Action: handle-1 {}
+[18:54:00]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:54:00]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:54:42]TGUI: heavenlyblue (as Devin Holdeman at (161,161,2))
+Using: /datum/tgui_modal [0x21013ee5]
+new AlertModal fancy 1
+[18:54:43]TGUI: heavenlyblue (as Devin Holdeman at (161,161,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x21013ee5]
+Action: choose {"choice":"Yes"}
+[18:54:43]TGUI: heavenlyblue in tgui-window-1/close (suspending)
+[18:56:14]TGUI: heavenlyblue (as Devin Holdeman at (162,206,2))
+Using: /datum/tgui_modal [0x2100b46e]
+new AlertModal fancy 1
+[18:56:15]TGUI: heavenlyblue (as Devin Holdeman at (162,206,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x2100b46e]
+Action: choose {"choice":"Yes"}
+[18:56:15]TGUI: heavenlyblue in tgui-window-1/close (suspending)

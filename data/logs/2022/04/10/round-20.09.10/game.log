@@ -1,0 +1,60 @@
+[20:09:10] Server '' starting up on 192.168.0.4:55508
+[20:09:51]ADMIN: fatfat/(Ulric Schrader) created a /obj/item/weapon/gun/projectile/automatic/drozd
+[20:09:52]GAME: DJ Station loaded at (64,57,3)
+[20:09:52]GAME: Broken Breacher loaded at (82,52,4)
+[20:09:53]GAME: iss loaded at (118,81,3)
+[20:09:53]GAME: agrosphere loaded at (115,138,4)
+[20:09:54]GAME: robostation loaded at (151,125,4)
+[20:09:54]GAME: Secrete Lab loaded at (130,212,3)
+[20:09:55]GAME: Abandoned Lab loaded at (144,136,3)
+[20:09:59]ADMIN: fatfat/(Ulric Schrader) created a /mob/living/carbon/human
+[20:10:18]ADMIN: fatfat/(Ulric Schrader) will begin the game as soon as possible.
+[20:10:59]MODE: Current master mode is extended
+[20:10:59]DEBUG: Next event of severity RoundStart in 0 minutes.
+[20:10:59]DEBUG: Starting event 'Forgotten Toilets' of severity RoundStart.
+[20:10:59]DEBUG: Next event of severity RoundStart in 0 minutes.
+[20:10:59]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[20:10:59]GAME: ANTAG LIST:
+no antagonists this moment
+[20:11:00]GAME: RoundStart Event: All toilets have been deleted.
+[20:11:00]DEBUG: Event 'Forgotten Toilets' has completed at 12:01.
+[20:11:00]DEBUG: Event 'Roundstart Nothing' has completed at 12:01.
+[20:11:00]DEBUG: Next event of severity Mundane in 15.6 minutes.
+[20:11:00]DEBUG: Next event of severity Moderate in 53.582 minutes.
+[20:11:00]DEBUG: Next event of severity Major in 61.5883 minutes.
+[20:11:05]ADMIN: fatfat/(Ulric Schrader) stuffed fatfat into unknown.
+[20:11:13]SAY: *no key*/(DET5) : [Research Director's Office]: Analyzing...
+[20:11:17]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[20:11:17]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[20:11:20]ADMIN: fatfat/(unknown) deadmined themself.
+[20:11:23]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[20:11:35]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[20:11:43]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[20:11:43]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[20:11:45]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[20:11:47]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[20:11:50]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[20:11:52]ADMIN: fatfat/(unknown) re-admined themself.
+[20:11:56]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[20:12:06]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[20:12:20]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[20:12:28]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[20:12:30]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[20:12:30]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[20:12:32]GAME: Explosion with size (5) in area Entry Shuttles Hallway
+[20:12:32]GAME: Explosion with size (5) in area Entry Shuttles Hallway
+[20:12:32]GAME: Explosion with size (5) in area Entry Shuttles Hallway
+[20:12:32]GAME: Explosion with size (5) in area Entry Shuttles Hallway
+[20:12:32]GAME: Explosion with size (5) in area Entry Shuttles Hallway
+[20:12:38]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[20:12:38]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[20:12:44]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[20:12:50]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[20:12:54]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[20:13:04]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[20:13:06]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[20:13:28]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[20:13:30]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[20:13:42]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[20:13:55]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[20:14:00] Graceful shutdown

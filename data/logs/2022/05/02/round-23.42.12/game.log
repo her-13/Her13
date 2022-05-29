@@ -1,0 +1,26 @@
+[23:42:12] Server '' starting up on 26.166.93.76:55775
+[23:42:15]GAME: Derelict Teleporter loaded at (44,119,4)
+[23:42:15]GAME: NASA satellite loaded at (22,84,4)
+[23:42:15]GAME: Abandoned Cargo Shuttle loaded at (26,205,3)
+[23:42:15]GAME: Broken Breacher loaded at (23,148,4)
+[23:42:15]GAME: Derelict Station loaded at (121,135,3)
+[23:42:16]GAME: ghost_ship_1 loaded at (158,192,4)
+[23:42:16]GAME: escape_pod loaded at (238,127,4)
+[23:42:48]ADMIN: fatfat/(FatFat) has started the game.
+[23:42:51]MODE: Current master mode is extended
+[23:42:51]DEBUG: Next event of severity RoundStart in 0 minutes.
+[23:42:51]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[23:42:51]DEBUG: Next event of severity RoundStart in 0 minutes.
+[23:42:51]GAME: RoundStart Event: Selected areas is nothing
+[23:42:51]DEBUG: Starting event 'Anti meat' of severity RoundStart.
+[23:42:51]DEBUG: Next event of severity RoundStart in 0 minutes.
+[23:42:51]DEBUG: Starting event 'Forgotten Sec. Equimp.' of severity RoundStart.
+[23:42:51]GAME: ANTAG LIST:
+no antagonists this moment
+[23:42:52]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[23:42:52]DEBUG: Event 'Anti meat' has completed at 12:00.
+[23:42:52]DEBUG: Event 'Forgotten Sec. Equimp.' has completed at 12:00.
+[23:42:52]DEBUG: Next event of severity Mundane in 15.904 minutes.
+[23:42:52]DEBUG: Next event of severity Moderate in 38.576 minutes.
+[23:42:52]DEBUG: Next event of severity Major in 50.3533 minutes.
+[23:43:53] Graceful shutdown

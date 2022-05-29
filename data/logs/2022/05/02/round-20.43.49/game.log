@@ -1,0 +1,33 @@
+[20:43:49] Server '' starting up on 26.166.93.76:60985
+[20:43:51]GAME: planetarium loaded at (167,118,4)
+[20:43:51]GAME: NASA satellite loaded at (94,139,3)
+[20:43:51]GAME: Derelict Teleporter loaded at (180,155,3)
+[20:43:51]GAME: escape_pod loaded at (29,132,4)
+[20:43:51]GAME: robostation loaded at (73,137,4)
+[20:43:51]GAME: cloning_lab loaded at (137,56,3)
+[20:43:51]GAME: Abandoned Cargo Shuttle loaded at (150,192,3)
+[20:44:17]ADMIN: fatfat/(FatFat) has started the game.
+[20:44:19]MODE: Current master mode is extended
+[20:44:20]DEBUG: Next event of severity RoundStart in 0 minutes.
+[20:44:20]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[20:44:20]DEBUG: Next event of severity RoundStart in 0 minutes.
+[20:44:20]GAME: RoundStart Event: Selected areas is nothing
+[20:44:20]DEBUG: Starting event 'Chewed Cables' of severity RoundStart.
+[20:44:20]DEBUG: Next event of severity RoundStart in 0 minutes.
+[20:44:20]DEBUG: Starting event 'Accounting Got It Wrong' of severity RoundStart.
+[20:44:20]GAME: ANTAG LIST:
+no antagonists this moment
+[20:44:20]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[20:44:20]DEBUG: Event 'Chewed Cables' has completed at 12:00.
+[20:44:20]GAME: RoundStart Event: Medical Account and Security Account salaries has been swapped.
+[20:44:20]GAME: RoundStart Event: Science Account and Cargo Account salaries has been swapped.
+[20:44:20]GAME: RoundStart Event: NSS Exodus Station Account and Cargo Account salaries has been swapped.
+[20:44:20]DEBUG: Event 'Accounting Got It Wrong' has completed at 12:00.
+[20:44:20]DEBUG: Next event of severity Mundane in 12.568 minutes.
+[20:44:20]DEBUG: Next event of severity Moderate in 48.742 minutes.
+[20:44:20]DEBUG: Next event of severity Major in 56.8517 minutes.
+[20:44:43]ADMIN: fatfat/(Bruce Houston) created a /obj/effect/portal/tsci_wormhole
+[20:44:45]ADMIN: fatfat/(Bruce Houston) created a /obj/effect/portal/tsci_wormhole
+[20:44:56]ADMIN: fatfat/(Bruce Houston) modified wormhole's target to 100
+[20:46:15]ADMIN: fatfat/(Bruce Houston) modified wormhole's render_target to 
+[20:47:30] Graceful shutdown

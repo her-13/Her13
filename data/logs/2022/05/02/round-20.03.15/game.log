@@ -1,0 +1,19 @@
+[20:03:15] Server '' starting up on 26.166.93.76:61164
+[20:03:18]GAME: iss loaded at (13,43,4)
+[20:03:18]GAME: NT Ships Squad loaded at (58,44,3)
+[20:03:18]GAME: listening_post loaded at (122,121,4)
+[20:03:18]GAME: delivery_shuttle loaded at (187,17,4)
+[20:03:18]GAME: syndicate_fighter loaded at (97,145,3)
+[20:03:18]GAME: Space Toilet loaded at (27,159,3)
+[20:03:18]GAME: Broken Breacher loaded at (145,174,3)
+[20:03:46]ADMIN: fatfat/(FatFat) has started the game.
+[20:03:50]MODE: Current master mode is extended
+[20:03:50]DEBUG: Next event of severity RoundStart in 0 minutes.
+[20:03:50]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[20:03:50]GAME: ANTAG LIST:
+no antagonists this moment
+[20:03:50]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[20:03:50]DEBUG: Next event of severity Mundane in 17.402 minutes.
+[20:03:50]DEBUG: Next event of severity Moderate in 53.378 minutes.
+[20:03:50]DEBUG: Next event of severity Major in 69.1683 minutes.
+[20:04:12] Graceful shutdown

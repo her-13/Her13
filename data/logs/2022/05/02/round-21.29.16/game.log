@@ -1,0 +1,29 @@
+[21:29:16] Server '' starting up on 26.166.93.76:49610
+[21:29:18]GAME: Space Toilet loaded at (139,129,3)
+[21:29:18]GAME: planetarium loaded at (16,93,3)
+[21:29:19]GAME: Secrete Lab loaded at (55,91,4)
+[21:29:19]GAME: iss loaded at (184,189,3)
+[21:29:19]GAME: cloning_lab loaded at (199,137,3)
+[21:29:19]GAME: NASA satellite loaded at (159,83,3)
+[21:29:19]GAME: Tree Asteroid loaded at (87,37,4)
+[21:29:41]ADMIN: fatfat/(FatFat) has started the game.
+[21:29:44]MODE: Current master mode is extended
+[21:29:44]DEBUG: Next event of severity RoundStart in 0 minutes.
+[21:29:44]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[21:29:44]DEBUG: Next event of severity RoundStart in 0 minutes.
+[21:29:44]GAME: RoundStart Event: Selected areas is nothing
+[21:29:44]DEBUG: Starting event 'Lasertag ED-209' of severity RoundStart.
+[21:29:44]GAME: ANTAG LIST:
+no antagonists this moment
+[21:29:44]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[21:29:44]DEBUG: Event 'Lasertag ED-209' has completed at 12:00.
+[21:29:44]DEBUG: Next event of severity Mundane in 12.826 minutes.
+[21:29:44]DEBUG: Next event of severity Moderate in 43.066 minutes.
+[21:29:44]DEBUG: Next event of severity Major in 67.6533 minutes.
+[21:29:45]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[21:29:56]ADMIN: fatfat/(Levi Wentzel) created a /obj/effect/portal/tsci_wormhole/hub
+[21:29:57]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[21:29:59]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[21:30:01]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[21:30:05]ADMIN: fatfat/(Levi Wentzel) deleted В Хаб at (8,6,1)
+[21:30:09] Graceful shutdown

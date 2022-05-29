@@ -1,0 +1,136 @@
+[17:35:55] Server '' starting up on 192.168.0.5:51948
+[17:36:24]GAME: escape_pod loaded at (33,125,3)
+[17:36:24]GAME: teleporter loaded at (52,88,3)
+[17:36:24]GAME: NT Ships Squad loaded at (161,59,4)
+[17:36:24]GAME: Derelict Teleporter loaded at (183,168,3)
+[17:36:24]GAME: cloning_lab loaded at (25,158,3)
+[17:36:24]GAME: DJ Station loaded at (39,15,3)
+[17:36:24]GAME: Broken Breacher loaded at (146,17,3)
+[17:55:18]ADMIN: fatfat/(Maddox Nehling) created a /obj/item/weapon/screwdriver/power
+[17:55:35]ADMIN: fatfat/(Maddox Nehling) created a /obj/item/clothing/mask/gas/voice/space_ninja
+[17:55:41]ADMIN: fatfat/(Maddox Nehling) created a /mob/living/carbon/human
+[17:55:44]ADMIN: fatfat/(Maddox Nehling) stuffed fatfat into unknown.
+[17:56:06]ADMIN: fatfat/(unknown) modified ninja mask's icon to 1.dmi
+[17:56:12]ADMIN: fatfat/(unknown) modified ninja mask's icon_state to glaz
+[17:58:15]ADMIN: fatfat/(unknown) has started the game.
+[17:58:18]MODE: Current master mode is extended
+[17:58:20]DEBUG: Next event of severity RoundStart in 0 minutes.
+[17:58:20]DEBUG: Starting event 'Forgotten Cleaners' of severity RoundStart.
+[17:58:20]DEBUG: Next event of severity RoundStart in 0 minutes.
+[17:58:20]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[17:58:20]DEBUG: Next event of severity RoundStart in 0 minutes.
+[17:58:20]GAME: RoundStart Event: Selected areas is Heads of Staff Meeting Room, Captain's Office, Head of Personnel's Office, Teleporter, AI Upload Chamber, Cyborg Station, Messaging Server Room, Vault and Bridge
+[17:58:20]DEBUG: Starting event 'Bridge Mess' of severity RoundStart.
+[17:58:20]GAME: ANTAG LIST:
+no antagonists this moment
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]GAME: RoundStart Event: All cleaners have been deleted.
+[17:58:20]DEBUG: Event 'Forgotten Cleaners' has completed at 12:03.
+[17:58:20]DEBUG: Event 'Roundstart Nothing' has completed at 12:03.
+[17:58:20]GAME: RoundStart Event: All items in Heads of Staff Meeting Room are scattered.
+[17:58:20]GAME: RoundStart Event: All items in Captain's Office are scattered.
+[17:58:20]GAME: RoundStart Event: All items in Head of Personnel's Office are scattered.
+[17:58:20]GAME: RoundStart Event: All items in Teleporter are scattered.
+[17:58:20]GAME: RoundStart Event: All items in AI Upload Chamber are scattered.
+[17:58:20]GAME: RoundStart Event: All items in Cyborg Station are scattered.
+[17:58:20]GAME: RoundStart Event: All items in Messaging Server Room are scattered.
+[17:58:20]GAME: RoundStart Event: All items in Vault are scattered.
+[17:58:20]GAME: RoundStart Event: All items in Bridge are scattered.
+[17:58:20]DEBUG: Event 'Bridge Mess' has completed at 12:03.
+[17:58:20]DEBUG: Next event of severity Mundane in 13.654 minutes.
+[17:58:20]DEBUG: Next event of severity Moderate in 47.344 minutes.
+[17:58:20]DEBUG: Next event of severity Major in 57.5467 minutes.
+[17:58:21]ADMIN: fatfat/(unknown) healed / revived fatfat/(unknown)
+[17:58:25]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[17:58:36]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[17:58:38]SAY: *no key*/(Renault) : [Captain's Office]: Ack-Ack
+[17:58:52]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[17:58:54]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[17:58:56]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[17:58:56]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[17:59:08]ADMIN: fatfat/(unknown) modified Hand Drill's icon to Nar.dmi
+[17:59:10]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[17:59:20]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[17:59:26]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[17:59:28]ADMIN: fatfat/(unknown) modified Hand Drill's resize to 0.1
+[17:59:40]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[17:59:40]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[17:59:42]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[17:59:44]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[17:59:50]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[17:59:55]ADMIN: fatfat/(unknown) created a /obj/structure/reagent_dispensers/kvasstank
+[18:00:00]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[18:00:05]ADMIN: fatfat/(unknown) modified KBAC's icon to Nar.dmi
+[18:00:06]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[18:00:08]SAY: *no key*/(Experiment 97d) : [Wizard's Den]: Eh?
+[18:00:10]ADMIN: fatfat/(unknown) modified KBAC's resize to 0.1
+[18:00:14]SAY: *no key*/(DET5) : [Research Director's Office]: ED-209 protect me
+[18:00:14]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[18:00:20]SAY: *no key*/(Betsy) : [Hydroponics]: MOOOOOO
+[18:00:21]ADMIN: fatfat/(unknown) modified KBAC's pixel_x to -30
+[18:00:24]SAY: *no key*/(DET5) : [Research Director's Office]: Boom...
+[18:00:24]ADMIN: fatfat/(unknown) modified KBAC's pixel_x to -1000
+[18:00:28]ADMIN: fatfat/(unknown) modified KBAC's pixel_x to -500
+[18:00:28]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[18:00:32]ADMIN: fatfat/(unknown) modified KBAC's pixel_y to -500
+[18:00:40]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[18:00:44]SAY: *no key*/(DET5) : [Research Director's Office]: Successfully
+[18:00:50]ADMIN: fatfat/(unknown) modified KBAC's icon to Nar.dmi
+[18:00:50]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:01:05]ADMIN: fatfat/(unknown) modified KBAC's pixel_x to 0
+[18:01:07]ADMIN: fatfat/(unknown) modified KBAC's pixel_y to 0
+[18:01:10]SAY: *no key*/(DET5) : [Research Director's Office]: Not enough time
+[18:01:10]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[18:01:12]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[18:01:15]ADMIN: fatfat/(unknown) modified KBAC's pixel_x to -10
+[18:01:20]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[18:01:21]ADMIN: fatfat/(unknown) modified KBAC's pixel_x to 30
+[18:01:24]SAY: *no key*/(DET5) : [Research Director's Office]: Director, where are researches?
+[18:01:24]ADMIN: fatfat/(unknown) modified KBAC's pixel_x to -50
+[18:01:28]ADMIN: fatfat/(unknown) modified KBAC's pixel_y to -30
+[18:01:30]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:01:30]SAY: *no key*/(mouse (602)) : [Incinerator]: Squeek?
+[18:01:32]ADMIN: fatfat/(unknown) modified KBAC's pixel_y to -90
+[18:01:34]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[18:01:34]ADMIN: fatfat/(unknown) modified KBAC's pixel_y to -120
+[18:01:37]ADMIN: fatfat/(unknown) modified KBAC's pixel_y to -200
+[18:01:38]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[18:01:42]ADMIN: fatfat/(unknown) modified KBAC's pixel_x to -200
+[18:01:50]ADMIN: fatfat/(unknown) modified KBAC's pixel_x to -300
+[18:01:53]ADMIN: fatfat/(unknown) modified KBAC's pixel_w to -250
+[18:01:54]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[18:01:58]ADMIN: fatfat/(unknown) modified KBAC's pixel_x to -250
+[18:02:00]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[18:02:02]ADMIN: fatfat/(unknown) modified KBAC's pixel_w to 0
+[18:02:08]ADMIN: fatfat/(unknown) modified KBAC's pixel_y to -250
+[18:02:10]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[18:02:30]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[18:02:32]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[18:02:37]ADMIN: fatfat/(unknown) modified KBAC's name to Нар-Си
+[18:02:42]SAY: *no key*/(Dusty) : [Chief Medical Officer's office]: Meow!
+[18:02:42]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[18:05:52] Graceful shutdown

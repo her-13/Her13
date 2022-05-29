@@ -1,0 +1,51 @@
+[17:55:01] Base SHA: fdbccba9556539bad21f346ada389159d11af49e
+
+[17:55:04] Unmanaged z-level 9! maxz = 9, z_list.len = 7 in unsorted.dm:1510 :
+proc name: stack trace (/proc/stack_trace)
+  source file: unsorted.dm,1510
+  usr: (src)
+  src: null
+  call stack:
+stack trace("Unmanaged z-level 9! maxz = 9,...")
+Mapping (/datum/controller/subsystem/mapping): level trait(9, "Station")
+process ghost teleport locs()
+Mapping (/datum/controller/subsystem/mapping): Initialize(393028)
+Master (/datum/controller/master): Initialize(null, null)
+
+[17:55:29] pick() from empty list in observer.dm:77 :
+proc name: atom init (/mob/dead/observer/atom_init)
+  source file: observer.dm,77
+  usr: (src)
+  src: the ghost (/mob/dead/observer)
+  src.loc: null
+  call stack:
+the ghost (/mob/dead/observer): atom init(0)
+Atoms (/datum/controller/subsystem/atoms): InitAtom(the ghost (/mob/dead/observer), /list (/list))
+the ghost (/mob/dead/observer): New(0)
+the ghost (/mob/dead/observer): New(null)
+FatFat (/mob/dead/new_player): Topic("src=\[0x3000008];lobby_observe...", /list (/list))
+FatFat (/client): Topic("src=\[0x3000008];lobby_observe...", /list (/list), FatFat (/mob/dead/new_player))
+
+[17:55:29] pick() from empty list in observer.dm:77 :
+proc name: atom init (/mob/dead/observer/atom_init)
+  source file: observer.dm,77
+  usr: (src)
+  src: the ghost (/mob/dead/observer)
+  src.loc: null
+  call stack:
+the ghost (/mob/dead/observer): atom init(1)
+Atoms (/datum/controller/subsystem/atoms): InitAtom(the ghost (/mob/dead/observer), /list (/list))
+the ghost (/mob/dead/observer): New(1)
+FatFat (/mob/dead/new_player): Topic("src=\[0x3000008];lobby_observe...", /list (/list))
+FatFat (/client): Topic("src=\[0x3000008];lobby_observe...", /list (/list), FatFat (/mob/dead/new_player))
+
+[17:55:29] Cannot read null.loc in new_player.dm:126 :
+proc name: Topic (/mob/dead/new_player/Topic)
+  source file: new_player.dm,126
+  usr: (src)
+  src: FatFat (/mob/dead/new_player)
+  src.loc: Grass patch (1,1,1) (/turf/simulated/floor/grass)
+  call stack:
+FatFat (/mob/dead/new_player): Topic("src=\[0x3000008];lobby_observe...", /list (/list))
+FatFat (/client): Topic("src=\[0x3000008];lobby_observe...", /list (/list), FatFat (/mob/dead/new_player))
+

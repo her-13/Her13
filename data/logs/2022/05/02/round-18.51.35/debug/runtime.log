@@ -1,0 +1,22 @@
+[18:51:35] Base SHA: fdbccba9556539bad21f346ada389159d11af49e
+
+[18:52:30] Cannot read null.loc in new_player.dm:126 :
+proc name: Topic (/mob/dead/new_player/Topic)
+  source file: new_player.dm,126
+  usr: (src)
+  src: FatFat (/mob/dead/new_player)
+  src.loc: Grass patch (1,1,1) (/turf/simulated/floor/grass)
+  call stack:
+FatFat (/mob/dead/new_player): Topic("src=\[0x300000a];lobby_observe...", /list (/list))
+FatFat (/client): Topic("src=\[0x300000a];lobby_observe...", /list (/list), FatFat (/mob/dead/new_player))
+
+[18:52:49] Cannot read null.loc in new_player.dm:126 :
+proc name: Topic (/mob/dead/new_player/Topic)
+  source file: new_player.dm,126
+  usr: (src)
+  src: the new player (/mob/dead/new_player)
+  src.loc: Grass patch (1,1,1) (/turf/simulated/floor/grass)
+  call stack:
+the new player (/mob/dead/new_player): Topic("src=\[0x300000c];lobby_observe...", /list (/list))
+FatFat (/client): Topic("src=\[0x300000c];lobby_observe...", /list (/list), the new player (/mob/dead/new_player))
+

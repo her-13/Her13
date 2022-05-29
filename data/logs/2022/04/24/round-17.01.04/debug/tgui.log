@@ -1,0 +1,34 @@
+[17:01:26]TGUI: fatfat in browseroutput/initialize
+[17:01:33]TGUI: fatfat (as FatFat at (8,174,1))
+Using: /datum/tgui_modal [0x21000930]
+new AlertModal fancy 1
+[17:01:33]TGUI: fatfat in tgui-window-1/initialize
+Using: /datum/tgui_modal [0x21000930]
+[17:01:34]TGUI: fatfat (as FatFat at (8,174,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x21000930]
+Action: choose {"choice":"Yes"}
+[17:01:34]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:02:20]TGUI: fatfat in browseroutput/initialize
+[17:02:27]TGUI: fatfat (as Ayden Cox at (57,140,2))
+Using: /datum/tgui_modal [0x21013a20]
+new AlertModal fancy 1
+[17:02:27]TGUI: fatfat in tgui-window-1/initialize
+Using: /datum/tgui_modal [0x21013a20]
+[17:02:28]TGUI: fatfat (as Ayden Cox at (57,140,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x21013a20]
+Action: choose {"choice":"Yes"}
+[17:02:28]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:02:30]TGUI: fatfat (as Ayden Cox at (60,141,2))
+Using: /datum/tgui_modal [0x210139ec]
+new AlertModal fancy 1
+[17:02:31]TGUI: fatfat (as Ayden Cox at (60,141,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x210139ec]
+Action: choose {"choice":"Ok"}
+[17:02:31]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:03:03]TGUI: fatfat (as Ayden Cox at (57,140,2))
+Using: /datum/tgui_modal [0x2100624f]
+new AlertModal fancy 1
+[17:03:04]TGUI: fatfat (as Ayden Cox at (57,140,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x2100624f]
+Action: choose {"choice":"Yes"}
+[17:03:04]TGUI: fatfat in tgui-window-1/close (suspending)

@@ -1,0 +1,24 @@
+[01:23:43] Server '' starting up on 26.166.93.76:49854
+[01:23:45]GAME: robostation loaded at (129,64,4)
+[01:23:45]GAME: NT Ships Squad loaded at (69,37,4)
+[01:23:45]GAME: NASA satellite loaded at (175,55,3)
+[01:23:45]GAME: DJ Station loaded at (147,183,3)
+[01:23:46]GAME: ghost_ship_1 loaded at (199,123,4)
+[01:23:46]GAME: planetarium loaded at (77,202,4)
+[01:23:46]GAME: delivery_shuttle loaded at (226,33,4)
+[01:24:08]ADMIN: fatfat/(FatFat) has started the game.
+[01:24:12]MODE: Current master mode is extended
+[01:24:12]DEBUG: Next event of severity RoundStart in 0 minutes.
+[01:24:12]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[01:24:12]DEBUG: Next event of severity RoundStart in 0 minutes.
+[01:24:12]GAME: RoundStart Event: Selected areas is nothing
+[01:24:12]DEBUG: Starting event 'Anti meat' of severity RoundStart.
+[01:24:12]GAME: ANTAG LIST:
+no antagonists this moment
+[01:24:12]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[01:24:12]DEBUG: Event 'Anti meat' has completed at 12:00.
+[01:24:12]DEBUG: Next event of severity Mundane in 15.178 minutes.
+[01:24:12]DEBUG: Next event of severity Moderate in 53.262 minutes.
+[01:24:12]DEBUG: Next event of severity Major in 52.755 minutes.
+[01:24:24]ADMIN: fatfat/(Hungry Gibson) jumped to (7,28,1) in Space
+[01:26:02] Graceful shutdown

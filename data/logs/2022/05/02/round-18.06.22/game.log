@@ -1,0 +1,23 @@
+[18:06:22] Server '' starting up on 26.166.93.76:57656
+[18:06:25]GAME: Secrete Lab loaded at (119,55,3)
+[18:06:25]GAME: Broken Breacher loaded at (196,95,3)
+[18:06:25]GAME: syndicate_fighter loaded at (99,66,3)
+[18:06:25]GAME: agrosphere loaded at (149,92,4)
+[18:06:25]GAME: Tree Asteroid loaded at (206,160,4)
+[18:06:25]GAME: Abandoned Lab loaded at (50,180,4)
+[18:06:25]GAME: Abandoned Cargo Shuttle loaded at (188,65,3)
+[18:06:58]ADMIN: fatfat/(FatFat) has started the game.
+[18:07:02]MODE: Current master mode is extended
+[18:07:03]DEBUG: Next event of severity RoundStart in 0 minutes.
+[18:07:03]DEBUG: Starting event 'Forgotten Watertanks' of severity RoundStart.
+[18:07:03]DEBUG: Next event of severity RoundStart in 0 minutes.
+[18:07:03]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[18:07:03]GAME: ANTAG LIST:
+no antagonists this moment
+[18:07:03]GAME: RoundStart Event: All watertank have been deleted.
+[18:07:03]DEBUG: Event 'Forgotten Watertanks' has completed at 12:00.
+[18:07:03]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[18:07:03]DEBUG: Next event of severity Mundane in 14.754 minutes.
+[18:07:03]DEBUG: Next event of severity Moderate in 38.526 minutes.
+[18:07:03]DEBUG: Next event of severity Major in 56.22 minutes.
+[18:07:21] Graceful shutdown

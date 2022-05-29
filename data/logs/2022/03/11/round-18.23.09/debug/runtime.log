@@ -1,0 +1,413 @@
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+  usr: null
+  src: /dmm_suite (/dmm_suite)
+  call stack:
+/dmm_suite (/dmm_suite): parse grid("\n/turf/environment/space,\n/a...", 1, 255, 2)
+/dmm_suite (/dmm_suite): load map impl(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+/dmm_suite (/dmm_suite): load map(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+Default Template Name (/datum/map_template): loadMap(2)
+Mapping (/datum/controller/subsystem/mapping): LoadGroup(/list (/list), "Station", "boxstation", /list (/list), /list (/list), /list (/list), 0)
+Mapping (/datum/controller/subsystem/mapping): loadWorld()
+Mapping (/datum/controller/subsystem/mapping): Initialize(409905)
+Master (/datum/controller/master): Initialize(null, null)
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+  usr: null
+  src: /dmm_suite (/dmm_suite)
+  call stack:
+/dmm_suite (/dmm_suite): parse grid("\n/turf/environment/space,\n/a...", 1, 254, 2)
+/dmm_suite (/dmm_suite): load map impl(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+/dmm_suite (/dmm_suite): load map(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+Default Template Name (/datum/map_template): loadMap(2)
+Mapping (/datum/controller/subsystem/mapping): LoadGroup(/list (/list), "Station", "boxstation", /list (/list), /list (/list), /list (/list), 0)
+Mapping (/datum/controller/subsystem/mapping): loadWorld()
+Mapping (/datum/controller/subsystem/mapping): Initialize(409905)
+Master (/datum/controller/master): Initialize(null, null)
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+  usr: null
+  src: /dmm_suite (/dmm_suite)
+  call stack:
+/dmm_suite (/dmm_suite): parse grid("\n/turf/environment/space,\n/a...", 1, 253, 2)
+/dmm_suite (/dmm_suite): load map impl(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+/dmm_suite (/dmm_suite): load map(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+Default Template Name (/datum/map_template): loadMap(2)
+Mapping (/datum/controller/subsystem/mapping): LoadGroup(/list (/list), "Station", "boxstation", /list (/list), /list (/list), /list (/list), 0)
+Mapping (/datum/controller/subsystem/mapping): loadWorld()
+Mapping (/datum/controller/subsystem/mapping): Initialize(409905)
+Master (/datum/controller/master): Initialize(null, null)
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+  usr: null
+  src: /dmm_suite (/dmm_suite)
+  call stack:
+/dmm_suite (/dmm_suite): parse grid("\n/turf/environment/space,\n/a...", 1, 252, 2)
+/dmm_suite (/dmm_suite): load map impl(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+/dmm_suite (/dmm_suite): load map(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+Default Template Name (/datum/map_template): loadMap(2)
+Mapping (/datum/controller/subsystem/mapping): LoadGroup(/list (/list), "Station", "boxstation", /list (/list), /list (/list), /list (/list), 0)
+Mapping (/datum/controller/subsystem/mapping): loadWorld()
+Mapping (/datum/controller/subsystem/mapping): Initialize(409905)
+Master (/datum/controller/master): Initialize(null, null)
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+  usr: null
+  src: /dmm_suite (/dmm_suite)
+  call stack:
+/dmm_suite (/dmm_suite): parse grid("\n/turf/environment/space,\n/a...", 1, 251, 2)
+/dmm_suite (/dmm_suite): load map impl(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+/dmm_suite (/dmm_suite): load map(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+Default Template Name (/datum/map_template): loadMap(2)
+Mapping (/datum/controller/subsystem/mapping): LoadGroup(/list (/list), "Station", "boxstation", /list (/list), /list (/list), /list (/list), 0)
+Mapping (/datum/controller/subsystem/mapping): loadWorld()
+Mapping (/datum/controller/subsystem/mapping): Initialize(409905)
+Master (/datum/controller/master): Initialize(null, null)
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+  usr: null
+  src: /dmm_suite (/dmm_suite)
+  call stack:
+/dmm_suite (/dmm_suite): parse grid("\n/turf/environment/space,\n/a...", 1, 250, 2)
+/dmm_suite (/dmm_suite): load map impl(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+/dmm_suite (/dmm_suite): load map(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+Default Template Name (/datum/map_template): loadMap(2)
+Mapping (/datum/controller/subsystem/mapping): LoadGroup(/list (/list), "Station", "boxstation", /list (/list), /list (/list), /list (/list), 0)
+Mapping (/datum/controller/subsystem/mapping): loadWorld()
+Mapping (/datum/controller/subsystem/mapping): Initialize(409905)
+Master (/datum/controller/master): Initialize(null, null)
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+  usr: null
+  src: /dmm_suite (/dmm_suite)
+  call stack:
+/dmm_suite (/dmm_suite): parse grid("\n/turf/environment/space,\n/a...", 1, 249, 2)
+/dmm_suite (/dmm_suite): load map impl(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+/dmm_suite (/dmm_suite): load map(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+Default Template Name (/datum/map_template): loadMap(2)
+Mapping (/datum/controller/subsystem/mapping): LoadGroup(/list (/list), "Station", "boxstation", /list (/list), /list (/list), /list (/list), 0)
+Mapping (/datum/controller/subsystem/mapping): loadWorld()
+Mapping (/datum/controller/subsystem/mapping): Initialize(409905)
+Master (/datum/controller/master): Initialize(null, null)
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+  usr: null
+  src: /dmm_suite (/dmm_suite)
+  call stack:
+/dmm_suite (/dmm_suite): parse grid("\n/turf/environment/space,\n/a...", 1, 248, 2)
+/dmm_suite (/dmm_suite): load map impl(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+/dmm_suite (/dmm_suite): load map(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+Default Template Name (/datum/map_template): loadMap(2)
+Mapping (/datum/controller/subsystem/mapping): LoadGroup(/list (/list), "Station", "boxstation", /list (/list), /list (/list), /list (/list), 0)
+Mapping (/datum/controller/subsystem/mapping): loadWorld()
+Mapping (/datum/controller/subsystem/mapping): Initialize(409905)
+Master (/datum/controller/master): Initialize(null, null)
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+  usr: null
+  src: /dmm_suite (/dmm_suite)
+  call stack:
+/dmm_suite (/dmm_suite): parse grid("\n/turf/environment/space,\n/a...", 1, 247, 2)
+/dmm_suite (/dmm_suite): load map impl(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+/dmm_suite (/dmm_suite): load map(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+Default Template Name (/datum/map_template): loadMap(2)
+Mapping (/datum/controller/subsystem/mapping): LoadGroup(/list (/list), "Station", "boxstation", /list (/list), /list (/list), /list (/list), 0)
+Mapping (/datum/controller/subsystem/mapping): loadWorld()
+Mapping (/datum/controller/subsystem/mapping): Initialize(409905)
+Master (/datum/controller/master): Initialize(null, null)
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+  usr: null
+  src: /dmm_suite (/dmm_suite)
+  call stack:
+/dmm_suite (/dmm_suite): parse grid("\n/turf/environment/space,\n/a...", 1, 246, 2)
+/dmm_suite (/dmm_suite): load map impl(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+/dmm_suite (/dmm_suite): load map(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+Default Template Name (/datum/map_template): loadMap(2)
+Mapping (/datum/controller/subsystem/mapping): LoadGroup(/list (/list), "Station", "boxstation", /list (/list), /list (/list), /list (/list), 0)
+Mapping (/datum/controller/subsystem/mapping): loadWorld()
+Mapping (/datum/controller/subsystem/mapping): Initialize(409905)
+Master (/datum/controller/master): Initialize(null, null)
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+  usr: null
+  src: /dmm_suite (/dmm_suite)
+  call stack:
+/dmm_suite (/dmm_suite): parse grid("\n/turf/environment/space,\n/a...", 1, 245, 2)
+/dmm_suite (/dmm_suite): load map impl(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+/dmm_suite (/dmm_suite): load map(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+Default Template Name (/datum/map_template): loadMap(2)
+Mapping (/datum/controller/subsystem/mapping): LoadGroup(/list (/list), "Station", "boxstation", /list (/list), /list (/list), /list (/list), 0)
+Mapping (/datum/controller/subsystem/mapping): loadWorld()
+Mapping (/datum/controller/subsystem/mapping): Initialize(409905)
+Master (/datum/controller/master): Initialize(null, null)
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+  usr: null
+  src: /dmm_suite (/dmm_suite)
+  call stack:
+/dmm_suite (/dmm_suite): parse grid("\n/turf/environment/space,\n/a...", 1, 244, 2)
+/dmm_suite (/dmm_suite): load map impl(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+/dmm_suite (/dmm_suite): load map(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+Default Template Name (/datum/map_template): loadMap(2)
+Mapping (/datum/controller/subsystem/mapping): LoadGroup(/list (/list), "Station", "boxstation", /list (/list), /list (/list), /list (/list), 0)
+Mapping (/datum/controller/subsystem/mapping): loadWorld()
+Mapping (/datum/controller/subsystem/mapping): Initialize(409905)
+Master (/datum/controller/master): Initialize(null, null)
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+  usr: null
+  src: /dmm_suite (/dmm_suite)
+  call stack:
+/dmm_suite (/dmm_suite): parse grid("\n/turf/environment/space,\n/a...", 1, 243, 2)
+/dmm_suite (/dmm_suite): load map impl(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+/dmm_suite (/dmm_suite): load map(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+Default Template Name (/datum/map_template): loadMap(2)
+Mapping (/datum/controller/subsystem/mapping): LoadGroup(/list (/list), "Station", "boxstation", /list (/list), /list (/list), /list (/list), 0)
+Mapping (/datum/controller/subsystem/mapping): loadWorld()
+Mapping (/datum/controller/subsystem/mapping): Initialize(409905)
+Master (/datum/controller/master): Initialize(null, null)
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+  usr: null
+  src: /dmm_suite (/dmm_suite)
+  call stack:
+/dmm_suite (/dmm_suite): parse grid("\n/turf/environment/space,\n/a...", 1, 242, 2)
+/dmm_suite (/dmm_suite): load map impl(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+/dmm_suite (/dmm_suite): load map(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+Default Template Name (/datum/map_template): loadMap(2)
+Mapping (/datum/controller/subsystem/mapping): LoadGroup(/list (/list), "Station", "boxstation", /list (/list), /list (/list), /list (/list), 0)
+Mapping (/datum/controller/subsystem/mapping): loadWorld()
+Mapping (/datum/controller/subsystem/mapping): Initialize(409905)
+Master (/datum/controller/master): Initialize(null, null)
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+  usr: null
+  src: /dmm_suite (/dmm_suite)
+  call stack:
+/dmm_suite (/dmm_suite): parse grid("\n/turf/environment/space,\n/a...", 1, 241, 2)
+/dmm_suite (/dmm_suite): load map impl(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+/dmm_suite (/dmm_suite): load map(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+Default Template Name (/datum/map_template): loadMap(2)
+Mapping (/datum/controller/subsystem/mapping): LoadGroup(/list (/list), "Station", "boxstation", /list (/list), /list (/list), /list (/list), 0)
+Mapping (/datum/controller/subsystem/mapping): loadWorld()
+Mapping (/datum/controller/subsystem/mapping): Initialize(409905)
+Master (/datum/controller/master): Initialize(null, null)
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+  usr: null
+  src: /dmm_suite (/dmm_suite)
+  call stack:
+/dmm_suite (/dmm_suite): parse grid("\n/turf/environment/space,\n/a...", 1, 240, 2)
+/dmm_suite (/dmm_suite): load map impl(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+/dmm_suite (/dmm_suite): load map(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+Default Template Name (/datum/map_template): loadMap(2)
+Mapping (/datum/controller/subsystem/mapping): LoadGroup(/list (/list), "Station", "boxstation", /list (/list), /list (/list), /list (/list), 0)
+Mapping (/datum/controller/subsystem/mapping): loadWorld()
+Mapping (/datum/controller/subsystem/mapping): Initialize(409905)
+Master (/datum/controller/master): Initialize(null, null)
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+  usr: null
+  src: /dmm_suite (/dmm_suite)
+  call stack:
+/dmm_suite (/dmm_suite): parse grid("\n/turf/environment/space,\n/a...", 1, 239, 2)
+/dmm_suite (/dmm_suite): load map impl(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+/dmm_suite (/dmm_suite): load map(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+Default Template Name (/datum/map_template): loadMap(2)
+Mapping (/datum/controller/subsystem/mapping): LoadGroup(/list (/list), "Station", "boxstation", /list (/list), /list (/list), /list (/list), 0)
+Mapping (/datum/controller/subsystem/mapping): loadWorld()
+Mapping (/datum/controller/subsystem/mapping): Initialize(409905)
+Master (/datum/controller/master): Initialize(null, null)
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+  usr: null
+  src: /dmm_suite (/dmm_suite)
+  call stack:
+/dmm_suite (/dmm_suite): parse grid("\n/turf/environment/space,\n/a...", 1, 238, 2)
+/dmm_suite (/dmm_suite): load map impl(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+/dmm_suite (/dmm_suite): load map(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+Default Template Name (/datum/map_template): loadMap(2)
+Mapping (/datum/controller/subsystem/mapping): LoadGroup(/list (/list), "Station", "boxstation", /list (/list), /list (/list), /list (/list), 0)
+Mapping (/datum/controller/subsystem/mapping): loadWorld()
+Mapping (/datum/controller/subsystem/mapping): Initialize(409905)
+Master (/datum/controller/master): Initialize(null, null)
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+  usr: null
+  src: /dmm_suite (/dmm_suite)
+  call stack:
+/dmm_suite (/dmm_suite): parse grid("\n/turf/environment/space,\n/a...", 1, 237, 2)
+/dmm_suite (/dmm_suite): load map impl(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+/dmm_suite (/dmm_suite): load map(maps/boxstation/boxstation.dmm, 1, 1, 2, 1, null)
+Default Template Name (/datum/map_template): loadMap(2)
+Mapping (/datum/controller/subsystem/mapping): LoadGroup(/list (/list), "Station", "boxstation", /list (/list), /list (/list), /list (/list), 0)
+Mapping (/datum/controller/subsystem/mapping): loadWorld()
+Mapping (/datum/controller/subsystem/mapping): Initialize(409905)
+Master (/datum/controller/master): Initialize(null, null)
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+
+[18:23:11] list index out of bounds in reader_optimized.dm:252 :
+proc name: parse grid (/dmm_suite/proc/parse_grid)
+  source file: reader_optimized.dm,252
+

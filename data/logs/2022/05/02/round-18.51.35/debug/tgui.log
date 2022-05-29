@@ -1,0 +1,31 @@
+[18:52:23]TGUI: fatfat in browseroutput/initialize
+[18:52:29]TGUI: fatfat (as FatFat at (1,1,1))
+Using: /datum/tgui_modal [0x210014a3]
+new AlertModal fancy 1
+[18:52:29]TGUI: fatfat in tgui-window-1/initialize
+Using: /datum/tgui_modal [0x210014a3]
+[18:52:30]TGUI: fatfat (as FatFat at (1,1,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x210014a3]
+Action: choose {"choice":"Yes"}
+[18:52:30]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:52:46]TGUI: fatfat (as the new player at (1,1,1))
+Using: /datum/tgui_modal [0x21014734]
+new AlertModal fancy 1
+[18:52:47]TGUI: fatfat (as the new player at (1,1,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x21014734]
+Action: choose {"choice":"No"}
+[18:52:47]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:52:48]TGUI: fatfat (as the new player at (1,1,1))
+Using: /datum/tgui_modal [0x21014733]
+new AlertModal fancy 1
+[18:52:49]TGUI: fatfat (as the new player at (1,1,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x21014733]
+Action: choose {"choice":"Yes"}
+[18:52:49]TGUI: fatfat in tgui-window-1/close (suspending)
+[18:53:01]TGUI: fatfat (as Brennan Hardie at (5,11,1))
+Using: /datum/tgui_modal [0x21014761]
+new AlertModal fancy 1
+[18:53:02]TGUI: fatfat (as Brennan Hardie at (5,10,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x21014761]
+Action: choose {"choice":"Ghost"}
+[18:53:02]TGUI: fatfat in tgui-window-1/close (suspending)

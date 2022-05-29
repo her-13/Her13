@@ -1,0 +1,27 @@
+[14:11:45] Server '' starting up on 26.166.93.76:56241
+[14:11:48]GAME: Tree Asteroid loaded at (209,113,3)
+[14:11:48]GAME: Space Toilet loaded at (88,159,4)
+[14:11:48]GAME: planetarium loaded at (122,132,4)
+[14:11:48]GAME: Clown Shuttle loaded at (155,174,4)
+[14:11:48]GAME: robostation loaded at (133,43,3)
+[14:11:48]GAME: Derelict Teleporter loaded at (184,190,3)
+[14:11:48]GAME: Abandoned Lab loaded at (17,25,4)
+[14:12:11]ADMIN: fatfat/(FatFat) has started the game.
+[14:12:14]MODE: Current master mode is extended
+[14:12:14]DEBUG: Next event of severity RoundStart in 0 minutes.
+[14:12:14]DEBUG: Starting event 'Leaked Pipe' of severity RoundStart.
+[14:12:14]DEBUG: Next event of severity RoundStart in 0 minutes.
+[14:12:14]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[14:12:14]DEBUG: Next event of severity RoundStart in 0 minutes.
+[14:12:14]GAME: RoundStart Event: Selected areas is nothing
+[14:12:14]DEBUG: Starting event 'Old Morgue' of severity RoundStart.
+[14:12:14]GAME: ANTAG LIST:
+no antagonists this moment
+[14:12:15]GAME: RoundStart Event: Water was spawned in all toilet rooms.
+[14:12:15]DEBUG: Event 'Leaked Pipe' has completed at 12:00.
+[14:12:15]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[14:12:15]DEBUG: Event 'Old Morgue' has completed at 12:00.
+[14:12:15]DEBUG: Next event of severity Mundane in 14.168 minutes.
+[14:12:15]DEBUG: Next event of severity Moderate in 44.654 minutes.
+[14:12:15]DEBUG: Next event of severity Major in 64.05 minutes.
+[14:13:37] Graceful shutdown

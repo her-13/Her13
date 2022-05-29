@@ -1,0 +1,31 @@
+[14:39:09] Base SHA: a34f4e7d104f62b64b106412fc78cff780518897
+
+[16:21:21] Cannot read "100".vars in modifyvariables.dm:329 :
+proc name: modify variables (/client/proc/modify_variables)
+  source file: modifyvariables.dm,329
+  usr: the unknown (/mob/living/carbon/human)
+  src: FatFat (/client)
+  usr.loc: the floor (139,157,2) (/turf/simulated/floor)
+  call stack:
+FatFat (/client): modify variables("100", null, 0)
+FatFat (/client): mod list(/list (/list))
+FatFat (/client): modify variables(the athletic shorts (/obj/item/clothing/under/shorts/grey), "armor", 1)
+FatFat (/client): view var Topic("_src_=vars;datumedit=\[0x200dd...", /list (/list), null)
+FatFat (/client): Topic("_src_=vars;datumedit=\[0x200dd...", /list (/list), null)
+
+[16:44:03] Cannot execute null.fracture(). in organ_external.dm:521 :
+proc name: fracture (/obj/item/organ/external/proc/fracture)
+  source file: organ_external.dm,521
+  usr: the unknown (/mob/living/carbon/human)
+  src: the right leg (/obj/item/organ/external/r_leg)
+  usr.loc: the floor (84,141,2) (/turf/simulated/floor)
+  src.loc: null
+  call stack:
+the right leg (/obj/item/organ/external/r_leg): fracture()
+Smash (/obj/effect/proc_holder/spell/aoe_turf/hulk_smash): cast(/list (/list), the unknown (/mob/living/carbon/human))
+Smash (/obj/effect/proc_holder/spell/aoe_turf/hulk_smash): perform(/list (/list), 1, the unknown (/mob/living/carbon/human))
+Smash (/obj/effect/proc_holder/spell/aoe_turf/hulk_smash): choose targets(the unknown (/mob/living/carbon/human))
+Smash (/obj/effect/proc_holder/spell/aoe_turf/hulk_smash): Click()
+Smash (/datum/action/spell_action): Trigger()
+Smash (/atom/movable/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=16;icon-y=16;left=1;scr...")
+

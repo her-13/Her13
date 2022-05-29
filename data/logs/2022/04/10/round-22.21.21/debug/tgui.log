@@ -1,0 +1,83 @@
+[22:21:52]TGUI: fatfat in browseroutput/initialize
+[22:22:22]TGUI: fatfat (as FatFat at (8,174,1))
+Using: /datum/tgui_modal [0x2100b016]
+new AlertModal fancy 1
+[22:22:22]TGUI: fatfat in tgui-window-1/initialize
+Using: /datum/tgui_modal [0x2100b016]
+[22:22:24]TGUI: fatfat (as FatFat at (8,174,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x2100b016]
+Action: choose {"choice":"Yes"}
+[22:22:24]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:23:22]TGUI: fatfat (as Tyson Donkin at (60,155,2))
+Using: /datum/orbit_menu [0x21023008]
+new Orbit fancy 1
+[22:23:23]TGUI: fatfat (as Tyson Donkin at (60,155,2)) in tgui-window-1
+Using: /datum/orbit_menu [0x21023008]
+Action: orbit {"ref":"[0x300002c]"}
+[22:23:24]TGUI: fatfat (as Tyson Donkin at (174,104,2)) in tgui-window-1
+Using: /datum/orbit_menu [0x21023008]
+Action: orbit {"ref":"[0x3000033]"}
+[22:23:24]TGUI: fatfat (as Tyson Donkin at (63,139,6)) in tgui-window-1
+Using: /datum/orbit_menu [0x21023008]
+Action: orbit {"ref":"[0x300004d]"}
+[22:23:24]TGUI: fatfat (as Tyson Donkin at (132,57,6)) in tgui-window-1
+Using: /datum/orbit_menu [0x21023008]
+Action: orbit {"ref":"[0x2003be7]"}
+[22:23:25]TGUI: fatfat (as Tyson Donkin at (94,98,2)) in tgui-window-1
+Using: /datum/orbit_menu [0x21023008]
+Action: orbit {"ref":"[0x2005b8c]"}
+[22:23:26]TGUI: fatfat (as Tyson Donkin at (132,127,2)) in tgui-window-1
+Using: /datum/orbit_menu [0x21023008]
+Action: orbit {"ref":"[0x2002041]"}
+[22:23:28]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:23:28]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:23:46]TGUI: fatfat (as Tyson Donkin at (77,198,6))
+Using: /datum/orbit_menu [0x21023008]
+new Orbit fancy 1
+[22:23:49]TGUI: fatfat (as Tyson Donkin at (77,198,6)) in tgui-window-1
+Using: /datum/orbit_menu [0x21023008]
+Action: orbit {"ref":"[0x3000006]"}
+[22:23:50]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:23:50]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:24:15]TGUI: fatfat (as Tyson Donkin at (84,44,1))
+Using: /datum/tgui_modal [0x2101279d]
+new AlertModal fancy 1
+[22:24:15]TGUI: fatfat (as Tyson Donkin at (84,44,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x2101279d]
+Action: choose {"choice":"Yes"}
+[22:24:15]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:24:18]TGUI: fatfat (as Tyson Donkin at (83,44,1))
+Using: /datum/tgui_modal [0x21012bba]
+new AlertModal fancy 1
+[22:24:18]TGUI: fatfat (as Tyson Donkin at (83,44,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x21012bba]
+Action: choose {"choice":"Yes"}
+[22:24:18]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:24:25]TGUI: fatfat (as Tyson Donkin at (82,43,1))
+Using: /datum/tgui_modal [0x21012bba]
+new AlertModal fancy 1
+[22:24:26]TGUI: fatfat (as Tyson Donkin at (82,43,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x21012bba]
+Action: choose {"choice":"Yes"}
+[22:24:26]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:24:26]TGUI: fatfat (as Tyson Donkin at (82,43,1))
+Using: /datum/tgui_modal [0x21012bba]
+new AlertModal fancy 1
+[22:24:28]TGUI: fatfat (as Tyson Donkin at (82,43,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x21012bba]
+Action: choose {"choice":"Emergency"}
+[22:24:28]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:24:28]TGUI: fatfat (as Tyson Donkin at (82,43,1))
+Using: /datum/tgui_modal [0x21012bba]
+new AlertModal fancy 1
+[22:24:29]TGUI: fatfat (as Tyson Donkin at (82,43,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x21012bba]
+Action: choose {"choice":"Yes"}
+[22:24:29]TGUI: fatfat in tgui-window-1/close (suspending)
+[22:25:13]TGUI: fatfat (as Tyson Donkin at (79,44,1))
+Using: /datum/tgui_modal [0x21009199]
+new AlertModal fancy 1
+[22:25:14]TGUI: fatfat (as Tyson Donkin at (79,44,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x21009199]
+Action: choose {"choice":"No"}
+[22:25:14]TGUI: fatfat in tgui-window-1/close (suspending)

@@ -1,0 +1,19 @@
+[17:59:16] Server '' starting up on 26.166.93.76:55687
+[17:59:19]GAME: Secrete Lab loaded at (168,184,4)
+[17:59:19]GAME: Broken Breacher loaded at (50,179,4)
+[17:59:19]GAME: listening_post loaded at (65,32,4)
+[17:59:19]GAME: ghost_ship_1 loaded at (100,129,4)
+[17:59:19]GAME: agrosphere loaded at (128,64,4)
+[17:59:19]GAME: cloning_lab loaded at (60,120,3)
+[17:59:19]GAME: Derelict Teleporter loaded at (47,171,3)
+[17:59:38]ADMIN: fatfat/(FatFat) will begin the game as soon as possible.
+[17:59:44]MODE: Current master mode is extended
+[17:59:44]DEBUG: Next event of severity RoundStart in 0 minutes.
+[17:59:44]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[17:59:44]GAME: ANTAG LIST:
+no antagonists this moment
+[17:59:45]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[17:59:45]DEBUG: Next event of severity Mundane in 16.014 minutes.
+[17:59:45]DEBUG: Next event of severity Moderate in 47.28 minutes.
+[17:59:45]DEBUG: Next event of severity Major in 61.0667 minutes.
+[18:01:19] Graceful shutdown

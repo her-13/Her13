@@ -1,0 +1,22 @@
+[17:01:04] Server '' starting up on 192.168.0.5:54107
+[17:01:39]GAME: agrosphere loaded at (184,58,3)
+[17:01:40]GAME: Tree Asteroid loaded at (198,130,4)
+[17:01:40]GAME: teleporter loaded at (36,131,4)
+[17:01:40]GAME: NT Ships Squad loaded at (146,195,3)
+[17:01:42]GAME: Derelict Station loaded at (39,56,3)
+[17:01:42]GAME: DJ Station loaded at (129,160,4)
+[17:01:42]GAME: planetarium loaded at (125,86,4)
+[17:01:47]ADMIN: fatfat/(Ayden Cox) created a /obj/structure/reagent_dispensers/kvasstank
+[17:02:03]ADMIN: fatfat/(Ayden Cox) modified KBAC's icon to icons/obj/magic_terror.dmi
+[17:02:28]ADMIN: fatfat/(Ayden Cox) deleted KBAC at (58,141,2)
+[17:02:31]ADMIN: fatfat/(Ayden Cox) checked antagonists.
+[17:02:39]ADMIN: fatfat/(Ayden Cox) created a /obj/structure/reagent_dispensers/kvasstank
+[17:02:47]ADMIN: fatfat/(Ayden Cox) modified KBAC's icon to icons/obj/magic_terror.dmi
+[17:02:55]ADMIN: fatfat/(Ayden Cox) modified KBAC's pixel_x to -10
+[17:02:56]ADMIN: fatfat/(Ayden Cox) modified KBAC's pixel_w to -15
+[17:03:02]ADMIN: fatfat/(Ayden Cox) created a /mob/living/carbon/human
+[17:03:04]ADMIN: fatfat/(Ayden Cox) stuffed fatfat into unknown.
+[17:03:17]ADMIN: fatfat/(unknown) modified KBAC's layer to 11
+[17:04:10]ADMIN: fatfat/(unknown) created a /obj/item/weapon/reagent_containers/glass/bottle/cold
+[17:04:12]GAME: fatfat/(unknown) splashed  on the floor, location (57,140,2)
+[17:04:37] Graceful shutdown

@@ -1,0 +1,21 @@
+[17:52:14] Server '' starting up on 26.166.93.76:62772
+[17:52:17]GAME: cloning_lab loaded at (77,132,4)
+[17:52:17]GAME: delivery_shuttle loaded at (227,64,4)
+[17:52:17]GAME: syndicate_fighter loaded at (179,219,4)
+[17:52:17]GAME: agrosphere loaded at (84,207,4)
+[17:52:17]GAME: planetarium loaded at (38,26,4)
+[17:52:17]GAME: escape_pod loaded at (18,103,4)
+[17:52:17]GAME: Abandoned Lab loaded at (135,108,3)
+[17:53:10]ADMIN: fatfat/(FatFat) has started the game.
+[17:53:11]SAY: *no key*/(Runtime) : [Space]: Зафиксирована аномалия #126. Пожалуйста, отойдите подальше.
+[17:53:14]MODE: Current master mode is extended
+[17:53:14]DEBUG: Next event of severity RoundStart in 0 minutes.
+[17:53:14]GAME: RoundStart Event: Selected areas is nothing
+[17:53:14]DEBUG: Starting event 'Break Light' of severity RoundStart.
+[17:53:14]GAME: ANTAG LIST:
+no antagonists this moment
+[17:53:15]DEBUG: Event 'Break Light' has completed at 12:00.
+[17:53:15]DEBUG: Next event of severity Mundane in 13.842 minutes.
+[17:53:15]DEBUG: Next event of severity Moderate in 45.194 minutes.
+[17:53:15]DEBUG: Next event of severity Major in 63.5717 minutes.
+[17:54:50] Graceful shutdown

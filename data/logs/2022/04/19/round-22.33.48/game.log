@@ -1,0 +1,431 @@
+[22:33:48] Server '' starting up on 192.168.0.4:51797
+[22:34:20]GAME: delivery_shuttle loaded at (56,122,3)
+[22:34:20]GAME: Space Toilet loaded at (230,81,3)
+[22:34:20]GAME: Clown Shuttle loaded at (59,210,4)
+[22:34:20]GAME: Derelict Teleporter loaded at (169,187,3)
+[22:34:20]GAME: agrosphere loaded at (99,169,3)
+[22:34:20]GAME: Secrete Lab loaded at (46,61,3)
+[22:34:20]GAME: DJ Station loaded at (194,105,4)
+[22:35:05]ADMIN: fatfat/(Patrick Dennis) has started the game.
+[22:35:08]MODE: Current master mode is extended
+[22:35:08]DEBUG: Next event of severity RoundStart in 0 minutes.
+[22:35:08]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[22:35:08]DEBUG: Next event of severity RoundStart in 0 minutes.
+[22:35:08]DEBUG: Starting event 'Forgotten Fueltanks' of severity RoundStart.
+[22:35:08]GAME: ANTAG LIST:
+no antagonists this moment
+[22:35:09]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]GAME: RoundStart Event: All fueltanks have been deleted.
+[22:35:09]DEBUG: Event 'Forgotten Fueltanks' has completed at 12:00.
+[22:35:09]DEBUG: Next event of severity Mundane in 15.236 minutes.
+[22:35:09]DEBUG: Next event of severity Moderate in 53.348 minutes.
+[22:35:09]DEBUG: Next event of severity Major in 67.3633 minutes.
+[22:35:14]ADMIN: fatfat/(Patrick Dennis) created a /obj/vehicle/space/spacebike
+[22:35:18]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:35:18]ADMIN: fatfat/(Patrick Dennis) created a /mob/living/carbon/human
+[22:35:21]ADMIN: fatfat/(Patrick Dennis) stuffed fatfat into unknown.
+[22:35:33]ADMIN: fatfat/(unknown) modified space-bike's icon to 1.dmi
+[22:35:34]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[22:35:34]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[22:35:38]ADMIN: fatfat/(unknown) modified space-bike's bike_icon to pig
+[22:35:44]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:35:46]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:35:58]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[22:36:10]SAY: *no key*/(DET5) : [Research Director's Office]: Boom...
+[22:36:10]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:36:14]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[22:36:16]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[22:36:22]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[22:36:24]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:36:32]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:36:32]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:36:32]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[22:36:34]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:36:38]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[22:36:40]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[22:36:56]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:36:56]SAY: *no key*/(Commander Clucky) : [Hydroponics]: BWAAAAARK BWAK BWAK BWAK!
+[22:37:00]SAY: *no key*/(DET5) : [Research Director's Office]: ED-209 protect me
+[22:37:00]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:37:06]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[22:37:12]ADMIN: fatfat/(unknown) modified space-bike's overlays to /list
+[22:37:18]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[22:37:24]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[22:37:26]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:37:31]ADMIN: fatfat/(unknown) modified space-bike's overlays to /list
+[22:37:34]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[22:37:34]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:37:42]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[22:37:46]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[22:37:56]SAY: *no key*/(DET5) : [Research Director's Office]: Director, where are researches?
+[22:38:00]SAY: *no key*/(Betsy) : [Hydroponics]: MOOOOOO
+[22:38:02]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[22:38:04]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:38:18]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[22:38:20]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:38:48]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:38:50]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss
+[22:39:08]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:39:18]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:39:22]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:39:24]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:39:28]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:39:30]SAY: *no key*/(mouse (893)) : [Medbay Maintenance]: Squeek?
+[22:39:32]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[22:39:32]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss
+[22:39:34]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:39:38]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:39:44]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[22:39:50]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[22:39:54]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[22:39:56]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:40:04]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[22:40:06]SAY: *no key*/(grey baby slime (90)) : [Xenobiology Lab]: Blop...
+[22:40:06]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:40:06]SAY: *no key*/(Wall-E) : [Quartermaster's Office]: Buzz.
+[22:40:10]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:40:10]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:40:14]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:40:16]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[22:40:16]SAY: *no key*/(SyndiCat) : [Syndicate Forward Operating Base]: Esp!
+[22:40:22]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[22:40:24]SAY: *no key*/(DET5) : [Research Director's Office]: Not enough time
+[22:40:34]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[22:40:38]SAY: *no key*/(DET5) : [Research Director's Office]: ...this is a joke
+[22:40:38]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:40:44]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:40:50]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[22:40:52]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:40:54]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:41:00]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[22:41:06]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[22:41:10]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:41:14]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:41:20]SAY: *no key*/(DET5) : [Research Director's Office]: Boom...
+[22:41:24]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[22:41:26]SAY: *no key*/(Betsy) : [Hydroponics]: Moo
+[22:41:28]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:41:30]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:41:32]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:41:32]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:41:39]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[22:41:39]SAY: *no key*/(Poly) : [Chief Engineer's office]: ....
+[22:41:51]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[22:41:51]SAY: *no key*/(Betsy) : [Hydroponics]: Moo
+[22:41:53]SAY: *no key*/(Runtime) : [Secrete Lab]: Esp!
+[22:41:59]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:42:03]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:42:11]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:42:21]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:42:23]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:42:25]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:42:37]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:42:37]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[22:42:39]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:42:43]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:42:43]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:42:43]SAY: *no key*/(mouse (832)) : [Engineering Maintenance]: SQUEEK!
+[22:42:47]SAY: *no key*/(Betsy) : [Hydroponics]: Moo?
+[22:42:51]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[22:42:55]SAY: *no key*/(Poly) : [Chief Engineer's office]: ....
+[22:42:59]SAY: *no key*/(Runtime) : [Secrete Lab]: Esp!
+[22:42:59]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:43:07]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[22:43:19]SAY: *no key*/(DET5) : [Research Director's Office]: Beep
+[22:43:25]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:43:25]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:43:29]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:43:35]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[22:43:53]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:43:59]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[22:44:01]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:44:07]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:44:17]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[22:44:23]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[22:44:27]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:44:33]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[22:44:39]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:44:39]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[22:44:39]SAY: *no key*/(Ian) : [Head of Personnel's Office]: YAP
+[22:44:53]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[22:44:55]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:44:57]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[22:44:59]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:44:59]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:44:59]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[22:44:59]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[22:45:10]GAME: Roundstart logout report
+
+
+[22:45:15]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[22:45:17]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:45:25]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:45:27]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:45:27]SAY: *no key*/(SyndiCat) : [Syndicate Forward Operating Base]: Esp!
+[22:45:33]SAY: *no key*/(DET5) : [Research Director's Office]: Successfully
+[22:45:41]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[22:46:01]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:46:03]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:46:15]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:46:15]SAY: *no key*/(DET5) : [Research Director's Office]: One...null...Beep
+[22:46:21]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:46:21]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:46:29]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:46:33]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:46:39]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:46:45]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:46:51]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:46:59]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:47:03]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:47:07]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:47:07]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[22:47:13]SAY: *no key*/(Ian) : [Head of Personnel's Office]: AUUUUUU
+[22:47:15]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[22:47:25]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[22:47:27]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:47:29]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[22:47:41]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:47:45]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:47:45]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[22:47:45]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[22:47:45]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:47:53]SAY: *no key*/(DET5) : [Research Director's Office]: One...null...Beep
+[22:47:53]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:48:03]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[22:48:05]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[22:48:07]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:48:09]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[22:48:12]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss
+[22:48:12]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:48:17]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[22:48:21]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[22:48:35]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:48:35]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[22:48:36]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:48:37]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:48:42]SAY: *no key*/(Poly) : [Chief Engineer's office]: ....
+[22:48:50]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[22:48:52]SAY: *no key*/(DET5) : [Research Director's Office]: One...null...Beep
+[22:49:00]SAY: *no key*/(Runtime) : [Secrete Lab]: Meow!
+[22:49:00]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[22:49:10]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:49:20]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[22:49:22]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:49:24]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:49:28]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:49:34]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:49:38]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:49:46]SAY: *no key*/(DET5) : [Research Director's Office]: Beep
+[22:50:06]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[22:50:06]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[22:50:14]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:50:24]SAY: *no key*/(Ian) : [Head of Personnel's Office]: Bark!
+[22:50:27]DEBUG: Next event of severity Mundane in 17.114 minutes.
+[22:50:27]DEBUG: Starting event 'Nothing' of severity Mundane.
+[22:50:28]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[22:50:29]DEBUG: Event 'Nothing' has completed at 12:16.
+[22:50:30]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:50:40]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:50:42]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:50:44]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:50:46]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[22:50:48]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[22:50:54]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:50:58]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[22:51:00]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:51:02]SAY: *no key*/(DET5) : [Research Director's Office]: Z-z-z-zero
+[22:51:10]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[22:51:12]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[22:51:12]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[22:51:14]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:51:24]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[22:51:28]SAY: *no key*/(DET5) : [Research Director's Office]: Z-z-z-zero
+[22:51:30]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[22:51:38]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[22:51:40]SAY: *no key*/(DET5) : [Research Director's Office]: Boom...
+[22:51:42]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[22:51:44]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:51:56]SAY: *no key*/(DET5) : [Research Director's Office]: Beep
+[22:51:58]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:52:02]SAY: *no key*/(Poly) : [Chief Engineer's office]: ....
+[22:52:02]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:52:04]SAY: *no key*/(grey baby slime (405)) : [Xenobiology Lab]: Lonely...
+[22:52:10]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:52:12]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:52:14]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[22:52:18]SAY: *no key*/(Commander Clucky) : [Hydroponics]: BWAAAAARK BWAK BWAK BWAK!
+[22:52:34]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:52:34]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:52:46]SAY: *no key*/(DET5) : [Research Director's Office]: Science time
+[22:52:46]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:52:54]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[22:52:56]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss
+[22:52:56]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:53:00]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[22:53:02]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:53:02]SAY: *no key*/(grey baby slime (90)) : [Xenobiology Lab]: Rawr...
+[22:53:04]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[22:53:22]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:53:28]SAY: *no key*/(DET5) : [Research Director's Office]: La la la...beep
+[22:53:32]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:53:36]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:53:40]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[22:53:44]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:54:00]SAY: *no key*/(Runtime) : [Secrete Lab]: HSSSSS
+[22:54:02]SAY: *no key*/(Dusty) : [Chief Medical Officer's office]: Esp!
+[22:54:06]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[22:54:10]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[22:54:12]SAY: *no key*/(Poly) : [Chief Engineer's office]: ....
+[22:54:14]SAY: *no key*/(Lizzy) : [Cargo Maintenance]: Hiss
+[22:54:18]SAY: *no key*/(DET5) : [Research Director's Office]: Beep
+[22:54:24]SAY: *no key*/(grey baby slime (405)) : [Xenobiology Lab]: Blop...
+[22:54:26]SAY: *no key*/(DET5) : [Research Director's Office]: Science time
+[22:54:30]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:54:42]SAY: *no key*/(DET5) : [Research Director's Office]: Boom...
+[22:54:44]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:54:46]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[22:54:48]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[22:55:06]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[22:55:11]ADMIN: fatfat/(unknown) healed / revived fatfat/(unknown)
+[22:55:22]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[22:55:38]SAY: *no key*/(DET5) : [Research Director's Office]: One...two...three...more...
+[22:55:50]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[22:55:54]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[22:55:54]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:56:00]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[22:56:04]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[22:56:10]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[22:56:18]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:56:20]SAY: *no key*/(DET5) : [Research Director's Office]: Successfully
+[22:56:24]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[22:56:26]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[22:56:26]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:56:38]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:56:42]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[22:56:46]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:56:56]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:57:04]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:57:12]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:57:12]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[22:57:16]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[22:57:22]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:57:22]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:57:24]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[22:57:26]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:57:44]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[22:58:20]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:58:24]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:58:24]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[22:58:30]SAY: *no key*/(Poly) : [Chief Engineer's office]: Check the singlo, you chucklefucks!
+[22:58:32]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[22:58:32]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:58:34]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:58:40]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:58:42]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:58:42]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[22:58:44]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[22:58:46]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[22:58:48]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[22:58:48]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[22:58:50]SAY: *no key*/(Renault) : [Captain's Office]: Geckers
+[22:58:58]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[22:59:08]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[22:59:08]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[22:59:22]SAY: *no key*/(DET5) : [Research Director's Office]: ED-209 protect me
+[22:59:24]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[22:59:24]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[22:59:26]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:59:42]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[22:59:52]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[22:59:56]SAY: *no key*/(DET5) : [Research Director's Office]: One...two...three...more...
+[23:00:00]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[23:00:12]SAY: *no key*/(Commander Clucky) : [Hydroponics]: BWAAAAARK BWAK BWAK BWAK!
+[23:00:14]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[23:00:34]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[23:00:36]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[23:00:44]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[23:00:50]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[23:00:54]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[23:00:56]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[23:01:00]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[23:01:00]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[23:01:08]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[23:01:10]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[23:01:20]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[23:01:20]SAY: *no key*/(Experiment 97d) : [Wizard's Den]: Eh?
+[23:01:24]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[23:01:30]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[23:01:44]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[23:01:48]SAY: *no key*/(grey baby slime (90)) : [Xenobiology Lab]: Rawr...
+[23:01:48]SAY: *no key*/(Poly) : [Chief Engineer's office]: ....
+[23:01:54]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[23:01:56]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[23:02:01]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> dances around</span>
+[23:02:09]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[23:02:17]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[23:02:21]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[23:02:36]SAY: *no key*/(Wall-E) : [Quartermaster's Office]: Beep-Boop
+[23:02:46]SAY: *no key*/(DET5) : [Research Director's Office]: Beep
+[23:02:48]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[23:03:02]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[23:03:06]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[23:03:24]SAY: *no key*/(grey baby slime (405)) : [Xenobiology Lab]: I want to eat...
+[23:03:24]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[23:03:34]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[23:03:34]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[23:03:36]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[23:03:52]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[23:03:54]SAY: *no key*/(Experiment 97d) : [Wizard's Den]: Eh?
+[23:03:56]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[23:03:58]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[23:04:02]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[23:04:28]SAY: *no key*/(Commander Clucky) : [Hydroponics]: Bwaak bwak.
+[23:04:32]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[23:04:36]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[23:04:38]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[23:04:42]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[23:04:54]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[23:04:56]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[23:05:02]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[23:05:04]SAY: *no key*/(Poly) : [Chief Engineer's office]: ....
+[23:05:06]SAY: *no key*/(DET5) : [Research Director's Office]: One...null...Beep
+[23:05:18]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[23:05:18]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[23:05:20]SAY: *no key*/(DET5) : [Research Director's Office]: Beep-beep
+[23:05:22]SAY: *no key*/(DET5) : [Research Director's Office]: Beeeepsky
+[23:05:26]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[23:05:28]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[23:05:42]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[23:05:50]EMOTE: *no key*/(Ian) : <span class='emote'><B>Ian</B> chases its tail</span>
+[23:06:00]SAY: *no key*/(grey baby slime (90)) : [Xenobiology Lab]: Where is the food?
+[23:06:04]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[23:06:10]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[23:06:13] Graceful shutdown

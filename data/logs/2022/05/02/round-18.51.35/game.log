@@ -1,0 +1,36 @@
+[18:51:35] Server '' starting up on 26.166.93.76:50860
+[18:51:38]GAME: Abandoned Cargo Shuttle loaded at (90,34,4)
+[18:51:38]GAME: ghost_ship_2 loaded at (82,24,3)
+[18:51:38]GAME: planetarium loaded at (187,17,4)
+[18:51:38]GAME: agrosphere loaded at (20,182,3)
+[18:51:38]GAME: Broken Breacher loaded at (34,60,4)
+[18:51:38]GAME: Abandoned Ship loaded at (152,74,4)
+[18:51:38]GAME: teleporter loaded at (212,230,4)
+[18:52:36]GAME: fatfat/(FatFat) used abandon mob.
+[18:52:41]ADMIN: fatfat/(new player) has started the game.
+[18:52:44]MODE: Current master mode is extended
+[18:52:44]MODE: Extended start because `minimum_player_count = 0`
+[18:52:44]DEBUG: Next event of severity RoundStart in 0 minutes.
+[18:52:44]DEBUG: Starting event 'Forgottens Tanks' of severity RoundStart.
+[18:52:44]DEBUG: Next event of severity RoundStart in 0 minutes.
+[18:52:44]DEBUG: Starting event 'Engine Mess' of severity RoundStart.
+[18:52:44]DEBUG: Next event of severity RoundStart in 0 minutes.
+[18:52:44]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[18:52:44]GAME: ANTAG LIST:
+no antagonists this moment
+[18:52:45]GAME: RoundStart Event: the tank storage unit has reduced of oxygen tanks in (170,82,4)
+[18:52:45]DEBUG: Event 'Forgottens Tanks' has completed at 12:00.
+[18:52:45]GAME: RoundStart Event: EM Acceleration Chamber was moved from (0,0,0) to (0,0,0)
+[18:52:45]GAME: RoundStart Event: EM Containment Grid was moved from (0,0,0) to (0,0,0)
+[18:52:45]GAME: RoundStart Event: EM Containment Grid was moved from (0,0,0) to (0,0,0)
+[18:52:45]GAME: RoundStart Event: EM Containment Grid was moved from (0,0,0) to (0,0,0)
+[18:52:45]GAME: RoundStart Event: Particle Focusing EM Lens was moved from (0,0,0) to (0,0,0)
+[18:52:45]GAME: RoundStart Event: Alpha Particle Generation Array was moved from (0,0,0) to (0,0,0)
+[18:52:45]DEBUG: Event 'Engine Mess' has completed at 12:00.
+[18:52:45]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[18:52:45]DEBUG: Next event of severity Mundane in 17.65 minutes.
+[18:52:45]DEBUG: Next event of severity Moderate in 50.574 minutes.
+[18:52:45]DEBUG: Next event of severity Major in 68.8267 minutes.
+[18:52:53]GAME: fatfat/(new player) used abandon mob.
+[18:53:07]GAME: fatfat/(Brennan Hardie) used abandon mob.
+[18:53:27] Graceful shutdown

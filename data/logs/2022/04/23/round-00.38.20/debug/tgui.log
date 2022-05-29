@@ -1,0 +1,17 @@
+[00:39:40]TGUI: fatfat in browseroutput/initialize
+[00:39:48]TGUI: fatfat (as FatFat at (8,174,1))
+Using: /datum/tgui_modal [0x21013d3d]
+new AlertModal fancy 1
+[00:39:48]TGUI: fatfat in tgui-window-1/initialize
+Using: /datum/tgui_modal [0x21013d3d]
+[00:39:49]TGUI: fatfat (as FatFat at (8,174,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x21013d3d]
+Action: choose {"choice":"Yes"}
+[00:39:49]TGUI: fatfat in tgui-window-1/close (suspending)
+[00:44:23]TGUI: fatfat (as Cletus Richardson at (56,140,2))
+Using: /datum/tgui_modal [0x21008fb8]
+new AlertModal fancy 1
+[00:44:24]TGUI: fatfat (as Cletus Richardson at (56,140,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x21008fb8]
+Action: choose {"choice":"Yes"}
+[00:44:24]TGUI: fatfat in tgui-window-1/close (suspending)

@@ -1,0 +1,118 @@
+[00:38:20] Server '' starting up on 192.168.0.5:55646
+[00:38:50]GAME: cloning_lab loaded at (197,34,3)
+[00:38:51]GAME: Secrete Lab loaded at (206,93,4)
+[00:38:51]GAME: Clown Shuttle loaded at (160,211,3)
+[00:38:51]GAME: ghost_ship_2 loaded at (150,135,3)
+[00:38:51]GAME: syndicate_fighter loaded at (73,191,3)
+[00:38:51]GAME: Space Toilet loaded at (89,189,4)
+[00:38:51]GAME: Tree Asteroid loaded at (88,222,4)
+[00:40:37]ADMIN: fatfat/(Cletus Richardson) used secret schoolgirl
+[00:40:37]ADMIN: fatfat/(Cletus Richardson) used secret schoolgirl
+[00:40:43]ADMIN: fatfat/(Cletus Richardson) used secret flicklights
+[00:40:48]ADMIN: fatfat/(Cletus Richardson) moved the centcom ferry
+[00:40:48]ADMIN: fatfat/(Cletus Richardson) used secret moveferry
+[00:40:54]ADMIN: fatfat/(Cletus Richardson) moved the centcom ferry
+[00:40:54]ADMIN: fatfat/(Cletus Richardson) used secret moveferry
+[00:40:54]ADMIN: fatfat/(Cletus Richardson) moved the alien dinghy
+[00:40:54]ADMIN: fatfat/(Cletus Richardson) used secret movealienship
+[00:41:01]ADMIN: fatfat/(Cletus Richardson) moved the alien dinghy
+[00:41:01]ADMIN: fatfat/(Cletus Richardson) used secret movealienship
+[00:41:07]ADMIN: fatfat/(Cletus Richardson) moved the centcom administration shuttle
+[00:41:07]ADMIN: fatfat/(Cletus Richardson) used secret moveadminshuttle
+[00:41:17]ADMIN: fatfat/(Cletus Richardson) creates the 250x250 asteroid on (106,128,2)
+[00:41:29]ADMIN: fatfat/(Cletus Richardson) used secret drop_asteroid
+[00:41:46]ADMIN: fatfat/(Cletus Richardson) jumped to coordinates 106, 128, 2
+[00:42:02]ADMIN: fatfat/(Cletus Richardson) creates the 10x10 asteroid on (119,151,2)
+[00:42:04]GAME: Default Template Name loaded at (114,146,2)
+[00:42:05]ADMIN: fatfat/(Cletus Richardson) used secret drop_asteroid
+[00:42:14]ADMIN: fatfat/(Cletus Richardson) creates the 50x50 asteroid on (120,109,2)
+[00:42:22]GAME: The nuclear authentication disk has been destroyed in (132,127,2). Moving it to (88,74,2).
+[00:42:23]GAME: Explosion with size (4) in area Engineering Break Room
+[00:42:23]GAME: Explosion with size (4) in area Engineering Maintenance
+[00:42:23]GAME: Explosion with size (4) in area Atmospherics
+[00:42:23]GAME: Explosion with size (4) in area Engineering Maintenance
+[00:42:23]GAME: Explosion with size (4) in area Atmospherics Maintenance
+[00:42:26]GAME: Default Template Name loaded at (95,84,2)
+[00:42:28]ADMIN: fatfat/(Cletus Richardson) used secret drop_asteroid
+[00:42:42]ADMIN: fatfat/(Cletus Richardson) creates the 40x40 asteroid on (126,186,2)
+[00:42:45]GAME: Default Template Name loaded at (106,166,2)
+[00:42:46]ADMIN: fatfat/(Cletus Richardson) used secret drop_asteroid
+[00:43:04]ADMIN: fatfat/(Cletus Richardson) creates the 30x30 asteroid on (163,49,2)
+[00:43:05]GAME: Default Template Name loaded at (148,34,2)
+[00:43:06]ADMIN: fatfat/(Cletus Richardson) used secret drop_asteroid
+[00:43:09]MODE: Current master mode is extended
+[00:43:09]DEBUG: Next event of severity RoundStart in 0 minutes.
+[00:43:09]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[00:43:09]GAME: ANTAG LIST:
+no antagonists this moment
+[00:43:09]DEBUG: Event 'Roundstart Nothing' has completed at 12:03.
+[00:43:09]DEBUG: Next event of severity Mundane in 12.488 minutes.
+[00:43:09]DEBUG: Next event of severity Moderate in 39.708 minutes.
+[00:43:09]DEBUG: Next event of severity Major in 65.0633 minutes.
+[00:43:21]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[00:43:23]SAY: *no key*/(DET5) : [Research Director's Office]: Beep
+[00:43:25]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[00:43:25]ADMIN: fatfat/(Cletus Richardson) creates the 60x60 asteroid on (171,116,2)
+[00:43:32]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[00:43:34]GAME: Explosion with size (4) in area Medbay Maintenance
+[00:43:34]GAME: Explosion with size (4) in area Medbay Maintenance
+[00:43:36]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[00:43:39]GAME: Default Template Name loaded at (141,86,2)
+[00:43:39]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[00:43:42]GAME: Explosion with size (4) in area Mine
+[00:43:42]GAME: Explosion with size (4) in area Mine
+[00:43:43]ADMIN: fatfat/(Cletus Richardson) used secret drop_asteroid
+[00:43:53]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[00:43:53]SAY: *no key*/(mouse (578)) : [Engineering]: Squeek?
+[00:44:05]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[00:44:07]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[00:44:09]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[00:44:09]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[00:44:15]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[00:44:15]SAY: *no key*/(cyber horror) : [Secrete Lab]: G@#!$ H@!#%, H!@%%@ @!E
+[00:44:17]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[00:44:20]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[00:44:22]ADMIN: fatfat/(Cletus Richardson) created a /mob/living/carbon/human
+[00:44:24]ADMIN: fatfat/(Cletus Richardson) stuffed fatfat into unknown.
+[00:44:26]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[00:44:34]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[00:44:34]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[00:44:34]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[00:44:48]SAY: *no key*/(Poly) : [Chief Engineer's office]: The things I have seen!
+[00:44:48]ADMIN: fatfat/(unknown) modified left arm's icon to 1.dmi
+[00:44:56]ADMIN: fatfat/(unknown) modified left arm's icon_state to pig
+[00:44:58]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[00:45:00]SAY: *no key*/(cyber horror) : [Secrete Lab]: KR@!!N
+[00:45:03]ADMIN: fatfat/(unknown) healed / revived fatfat/(unknown)
+[00:45:06]SAY: *no key*/(Poly) : [Chief Engineer's office]: The things I have seen!
+[00:45:12]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[00:45:13]ADMIN: fatfat/(unknown) modified left arm's righthand_file to overlay_pig.dmi
+[00:45:25]ADMIN: fatfat/(unknown) modified left arm's icon_state to pig
+[00:45:33]ADMIN: fatfat/(unknown) modified left arm's icon to overlay_pig.dmi
+[00:45:49]SAY: *no key*/(Poly) : [Chief Engineer's office]: The things I have seen!
+[00:45:49]ADMIN: fatfat/(unknown) modified unknown's icon to 1.dmi
+[00:45:51]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Rong a&#39;hu dong&#39;a sik?
+[00:45:55]SAY: *no key*/(Commander Clucky) : [Hydroponics]: BWAAAAARK BWAK BWAK BWAK!
+[00:45:57]ADMIN: fatfat/(unknown) modified unknown's icon_state to pig
+[00:45:59]SAY: *no key*/(cyber horror) : [Secrete Lab]: K!@@##L!@@ %!@#E
+[00:46:06]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[00:46:07]ADMIN: fatfat/(unknown) healed / revived fatfat/(unknown)
+[00:46:08]SAY: *no key*/(Боевой дрон) : [Mine]: Перевод под-под-подсистемы в боевой режим. Тревога аль-ф-фа.
+[00:46:10]SAY: *no key*/(Experiment 97d) : [Wizard's Den]: Eh?
+[00:46:12]SAY: *no key*/(Боевой дрон) : [Mine]: Обнар-р-р-ружены вражде-б-б-бные существа.
+[00:46:12]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[00:46:20]SAY: *no key*/(Poly) : [Chief Engineer's office]: The things I have seen!
+[00:46:29]ADMIN: fatfat/(unknown) modified unknown's layer to 3
+[00:46:30]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[00:46:31]ADMIN: fatfat/(unknown) modified unknown's layer to 0
+[00:46:36]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[00:46:38]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[00:46:46]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[00:46:50]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ohen nek&#39;ti ep esi.
+[00:46:54]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[00:47:00]SAY: *no key*/(Poly) : [Chief Engineer's office]: OH GOD ITS LOOSE CALL THE SHUTTLE
+[00:47:08]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[00:47:14]SAY: *no key*/(cyber horror) : [Secrete Lab]: H@!#$$P M@!$#
+[00:47:16]SAY: *no key*/(Боевой дрон) : [Mine]: Установлены па-раметр-рр-ры потенциальной уг-г-грозыы.
+[00:47:16]SAY: *no key*/(cyber horror) : [Secrete Lab]: GHAA!@@#
+[00:47:50] Graceful shutdown

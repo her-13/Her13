@@ -1,0 +1,19 @@
+[01:30:01] Server '' starting up on 26.166.93.76:50156
+[01:30:03]GAME: Tree Asteroid loaded at (41,143,3)
+[01:30:04]GAME: teleporter loaded at (98,163,4)
+[01:30:04]GAME: robostation loaded at (107,87,4)
+[01:30:04]GAME: Broken Breacher loaded at (189,185,3)
+[01:30:04]GAME: Abandoned Ship loaded at (68,52,3)
+[01:30:04]GAME: DJ Station loaded at (76,165,3)
+[01:30:04]GAME: Abandoned Cargo Shuttle loaded at (192,66,4)
+[01:30:32]ADMIN: fatfat/(FatFat) has started the game.
+[01:30:34]MODE: Current master mode is extended
+[01:30:34]DEBUG: Next event of severity RoundStart in 0 minutes.
+[01:30:34]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[01:30:34]GAME: ANTAG LIST:
+no antagonists this moment
+[01:30:35]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[01:30:35]DEBUG: Next event of severity Mundane in 17.322 minutes.
+[01:30:35]DEBUG: Next event of severity Moderate in 40.062 minutes.
+[01:30:35]DEBUG: Next event of severity Major in 61.2233 minutes.
+[01:31:12] Graceful shutdown

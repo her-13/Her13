@@ -1,0 +1,14 @@
+[20:58:02] Base SHA: fdbccba9556539bad21f346ada389159d11af49e
+
+[20:58:04] Unmanaged z-level 8! maxz = 9, z_list.len = 7 in unsorted.dm:1510 :
+proc name: stack trace (/proc/stack_trace)
+  source file: unsorted.dm,1510
+  usr: (src)
+  src: null
+  call stack:
+stack trace("Unmanaged z-level 8! maxz = 9,...")
+Mapping (/datum/controller/subsystem/mapping): level trait(8, "Station")
+process ghost teleport locs()
+Mapping (/datum/controller/subsystem/mapping): Initialize(502837)
+Master (/datum/controller/master): Initialize(null, null)
+

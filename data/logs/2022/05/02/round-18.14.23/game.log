@@ -1,0 +1,21 @@
+[18:14:23] Server '' starting up on 26.166.93.76:54989
+[18:14:26]GAME: ghost_ship_1 loaded at (183,113,3)
+[18:14:26]GAME: DJ Station loaded at (45,134,4)
+[18:14:26]GAME: planetarium loaded at (146,126,3)
+[18:14:26]GAME: Abandoned Cargo Shuttle loaded at (91,127,3)
+[18:14:26]GAME: NT Ships Squad loaded at (39,72,3)
+[18:14:27]GAME: Derelict Station loaded at (96,91,4)
+[18:14:27]GAME: Clown Shuttle loaded at (59,209,3)
+[18:14:52]GAME: fatfat/(FatFat) used abandon mob.
+[18:14:55]ADMIN: fatfat/(new player) has started the game.
+[18:14:59]MODE: Current master mode is extended
+[18:14:59]MODE: Extended start because `minimum_player_count = 0`
+[18:14:59]DEBUG: Next event of severity RoundStart in 0 minutes.
+[18:14:59]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[18:14:59]GAME: ANTAG LIST:
+no antagonists this moment
+[18:15:00]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[18:15:00]DEBUG: Next event of severity Mundane in 15.838 minutes.
+[18:15:00]DEBUG: Next event of severity Moderate in 52.628 minutes.
+[18:15:00]DEBUG: Next event of severity Major in 58.9667 minutes.
+[18:15:11] Graceful shutdown

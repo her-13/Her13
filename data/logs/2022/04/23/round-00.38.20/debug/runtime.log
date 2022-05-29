@@ -1,0 +1,134 @@
+[00:38:20] Base SHA: a34f4e7d104f62b64b106412fc78cff780518897
+
+[00:41:29] Cannot read null.x in drop_asteroid.dm:20 :
+proc name: drop asteroid (/client/proc/drop_asteroid)
+  source file: drop_asteroid.dm,20
+  usr: Cletus Richardson (/mob/dead/observer)
+  src: FatFat (/client)
+  usr.loc: the reinforced wall (107,125,2) (/turf/simulated/wall/r_wall)
+  call stack:
+FatFat (/client): drop asteroid()
+/datum/admins (/datum/admins): Secretsfun topic("drop_asteroid", /list (/list))
+/datum/admins (/datum/admins): Topic("src=\[0x21000800];secretsfun=d...", /list (/list))
+FatFat (/client): Topic("src=\[0x21000800];secretsfun=d...", /list (/list), /datum/admins (/datum/admins))
+
+[00:42:25] Cannot read null.release_method in artifact_unknown.dm:299 :
+proc name: Bumped (/obj/machinery/artifact/Bumped)
+  source file: artifact_unknown.dm,299
+  usr: 0
+  src: the alien artifact (/obj/machinery/artifact)
+  src.loc: Asteroid (120,111,2) (/turf/simulated/floor/plating/airless/asteroid)
+  call stack:
+the alien artifact (/obj/machinery/artifact): Bumped(the sparks (/obj/effect/effect/sparks))
+the sparks (/obj/effect/effect/sparks): Bump(the alien artifact (/obj/machinery/artifact), 1)
+the sparks (/obj/effect/effect/sparks): Bump(the alien artifact (/obj/machinery/artifact), 1)
+Asteroid (120,111,2) (/turf/simulated/floor/plating/airless/asteroid): Enter(the sparks (/obj/effect/effect/sparks), Asteroid (120,110,2) (/turf/simulated/floor/plating/airless/asteroid))
+the sparks (/obj/effect/effect/sparks): Move(Asteroid (120,111,2) (/turf/simulated/floor/plating/airless/asteroid), 1, 0, 0)
+the sparks (/obj/effect/effect/sparks): Move(Asteroid (120,111,2) (/turf/simulated/floor/plating/airless/asteroid), 1, 0, 0)
+the sparks (/obj/effect/effect/sparks): Move(Asteroid (120,111,2) (/turf/simulated/floor/plating/airless/asteroid), 1, 0, 0)
+/datum/effect/effect/system/sp... (/datum/effect/effect/system/spark_spread): start()
+
+[00:42:25] Cannot create objects of type /datum/dirt_cover. in humans.dm:33 :
+proc name: atom init (/obj/effect/decal/cleanable/blood/atom_init)
+  source file: humans.dm,33
+  usr: Cletus Richardson (/mob/dead/observer)
+  src: the blood (/obj/effect/decal/cleanable/blood/splatter)
+  usr.loc: Asteroid (120,113,2) (/turf/simulated/floor/plating/airless/asteroid)
+  src.loc: Mineral deposit (110,120,2) (/turf/simulated/mineral/random/caves)
+  call stack:
+the blood (/obj/effect/decal/cleanable/blood/splatter): atom init(1)
+Atoms (/datum/controller/subsystem/atoms): InitAtom(the blood (/obj/effect/decal/cleanable/blood/splatter), /list (/list))
+Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(/list (/list))
+initTemplateBounds(/list (/list))
+Default Template Name (/datum/map_template): load(the space (95,84,2) (/turf/environment/space), 0, 1)
+FatFat (/client): drop asteroid()
+/datum/admins (/datum/admins): Secretsfun topic("drop_asteroid", /list (/list))
+/datum/admins (/datum/admins): Topic("src=\[0x21000800];secretsfun=d...", /list (/list))
+FatFat (/client): Topic("src=\[0x21000800];secretsfun=d...", /list (/list), /datum/admins (/datum/admins))
+
+[00:42:25] Cannot create objects of type /datum/dirt_cover. in humans.dm:33 :
+proc name: atom init (/obj/effect/decal/cleanable/blood/atom_init)
+  source file: humans.dm,33
+  usr: Cletus Richardson (/mob/dead/observer)
+  src: the blood (/obj/effect/decal/cleanable/blood/splatter)
+  usr.loc: Asteroid (120,113,2) (/turf/simulated/floor/plating/airless/asteroid)
+  src.loc: Mineral deposit (110,120,2) (/turf/simulated/mineral/random/caves)
+  call stack:
+the blood (/obj/effect/decal/cleanable/blood/splatter): atom init(1)
+Atoms (/datum/controller/subsystem/atoms): InitAtom(the blood (/obj/effect/decal/cleanable/blood/splatter), /list (/list))
+Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(/list (/list))
+initTemplateBounds(/list (/list))
+Default Template Name (/datum/map_template): load(the space (95,84,2) (/turf/environment/space), 0, 1)
+FatFat (/client): drop asteroid()
+/datum/admins (/datum/admins): Secretsfun topic("drop_asteroid", /list (/list))
+/datum/admins (/datum/admins): Topic("src=\[0x21000800];secretsfun=d...", /list (/list))
+FatFat (/client): Topic("src=\[0x21000800];secretsfun=d...", /list (/list), /datum/admins (/datum/admins))
+
+[00:42:25] Cannot create objects of type /datum/dirt_cover. in humans.dm:33 :
+proc name: atom init (/obj/effect/decal/cleanable/blood/atom_init)
+  source file: humans.dm,33
+  usr: Cletus Richardson (/mob/dead/observer)
+  src: the blood (/obj/effect/decal/cleanable/blood/splatter)
+  usr.loc: Asteroid (120,113,2) (/turf/simulated/floor/plating/airless/asteroid)
+  src.loc: Mineral deposit (110,120,2) (/turf/simulated/mineral/random/caves)
+  call stack:
+the blood (/obj/effect/decal/cleanable/blood/splatter): atom init(1)
+Atoms (/datum/controller/subsystem/atoms): InitAtom(the blood (/obj/effect/decal/cleanable/blood/splatter), /list (/list))
+Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(/list (/list))
+initTemplateBounds(/list (/list))
+Default Template Name (/datum/map_template): load(the space (95,84,2) (/turf/environment/space), 0, 1)
+FatFat (/client): drop asteroid()
+/datum/admins (/datum/admins): Secretsfun topic("drop_asteroid", /list (/list))
+/datum/admins (/datum/admins): Topic("src=\[0x21000800];secretsfun=d...", /list (/list))
+FatFat (/client): Topic("src=\[0x21000800];secretsfun=d...", /list (/list), /datum/admins (/datum/admins))
+
+[00:42:25] Cannot create objects of type /datum/dirt_cover. in humans.dm:33 :
+proc name: atom init (/obj/effect/decal/cleanable/blood/atom_init)
+  source file: humans.dm,33
+  usr: Cletus Richardson (/mob/dead/observer)
+  src: the blood (/obj/effect/decal/cleanable/blood/splatter)
+  usr.loc: Asteroid (120,113,2) (/turf/simulated/floor/plating/airless/asteroid)
+  src.loc: Mineral deposit (110,120,2) (/turf/simulated/mineral/random/caves)
+  call stack:
+the blood (/obj/effect/decal/cleanable/blood/splatter): atom init(1)
+Atoms (/datum/controller/subsystem/atoms): InitAtom(the blood (/obj/effect/decal/cleanable/blood/splatter), /list (/list))
+Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(/list (/list))
+initTemplateBounds(/list (/list))
+Default Template Name (/datum/map_template): load(the space (95,84,2) (/turf/environment/space), 0, 1)
+FatFat (/client): drop asteroid()
+/datum/admins (/datum/admins): Secretsfun topic("drop_asteroid", /list (/list))
+/datum/admins (/datum/admins): Topic("src=\[0x21000800];secretsfun=d...", /list (/list))
+FatFat (/client): Topic("src=\[0x21000800];secretsfun=d...", /list (/list), /datum/admins (/datum/admins))
+
+[00:42:44] Cannot read null.release_method in artifact_unknown.dm:299 :
+proc name: Bumped (/obj/machinery/artifact/Bumped)
+  source file: artifact_unknown.dm,299
+  usr: 0
+  src: the alien artifact (/obj/machinery/artifact)
+  src.loc: Asteroid (125,188,2) (/turf/simulated/floor/plating/airless/asteroid)
+  call stack:
+the alien artifact (/obj/machinery/artifact): Bumped(the sparks (/obj/effect/effect/sparks))
+the sparks (/obj/effect/effect/sparks): Bump(the alien artifact (/obj/machinery/artifact), 1)
+the sparks (/obj/effect/effect/sparks): Bump(the alien artifact (/obj/machinery/artifact), 1)
+Asteroid (125,188,2) (/turf/simulated/floor/plating/airless/asteroid): Enter(the sparks (/obj/effect/effect/sparks), Asteroid (125,189,2) (/turf/simulated/floor/plating/airless/asteroid))
+the sparks (/obj/effect/effect/sparks): Move(Asteroid (125,188,2) (/turf/simulated/floor/plating/airless/asteroid), 2, 0, 0)
+the sparks (/obj/effect/effect/sparks): Move(Asteroid (125,188,2) (/turf/simulated/floor/plating/airless/asteroid), 2, 0, 0)
+the sparks (/obj/effect/effect/sparks): Move(Asteroid (125,188,2) (/turf/simulated/floor/plating/airless/asteroid), 2, 0, 0)
+/datum/effect/effect/system/sp... (/datum/effect/effect/system/spark_spread): start()
+
+[00:42:44] Cannot read null.release_method in artifact_unknown.dm:299 :
+proc name: Bumped (/obj/machinery/artifact/Bumped)
+  source file: artifact_unknown.dm,299
+  usr: 0
+  src: the alien artifact (/obj/machinery/artifact)
+  src.loc: Asteroid (126,189,2) (/turf/simulated/floor/plating/airless/asteroid)
+  call stack:
+the alien artifact (/obj/machinery/artifact): Bumped(the sparks (/obj/effect/effect/sparks))
+the sparks (/obj/effect/effect/sparks): Bump(the alien artifact (/obj/machinery/artifact), 1)
+the sparks (/obj/effect/effect/sparks): Bump(the alien artifact (/obj/machinery/artifact), 1)
+Asteroid (126,189,2) (/turf/simulated/floor/plating/airless/asteroid): Enter(the sparks (/obj/effect/effect/sparks), Asteroid (125,189,2) (/turf/simulated/floor/plating/airless/asteroid))
+the sparks (/obj/effect/effect/sparks): Move(Asteroid (126,189,2) (/turf/simulated/floor/plating/airless/asteroid), 4, 0, 0)
+the sparks (/obj/effect/effect/sparks): Move(Asteroid (126,189,2) (/turf/simulated/floor/plating/airless/asteroid), 4, 0, 0)
+the sparks (/obj/effect/effect/sparks): Move(Asteroid (126,189,2) (/turf/simulated/floor/plating/airless/asteroid), 4, 0, 0)
+/datum/effect/effect/system/sp... (/datum/effect/effect/system/spark_spread): start()
+

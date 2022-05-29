@@ -1,0 +1,30 @@
+[22:33:56] Server '' starting up on 26.166.93.76:57423
+[22:33:59]GAME: Abandoned Lab loaded at (80,42,4)
+[22:33:59]GAME: NASA satellite loaded at (220,205,3)
+[22:33:59]GAME: ghost_ship_1 loaded at (187,169,4)
+[22:33:59]GAME: Space Toilet loaded at (131,99,4)
+[22:33:59]GAME: agrosphere loaded at (68,146,4)
+[22:33:59]GAME: Clown Shuttle loaded at (29,85,3)
+[22:33:59]GAME: Derelict Teleporter loaded at (15,123,4)
+[22:34:44]ADMIN: fatfat/(FatFat) has started the game.
+[22:34:47]MODE: Current master mode is extended
+[22:34:47]DEBUG: Next event of severity RoundStart in 0 minutes.
+[22:34:47]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[22:34:47]DEBUG: Next event of severity RoundStart in 0 minutes.
+[22:34:47]GAME: RoundStart Event: Selected areas is nothing
+[22:34:47]DEBUG: Starting event 'Invasion In Mainteance' of severity RoundStart.
+[22:34:47]GAME: ANTAG LIST:
+no antagonists this moment
+[22:34:48]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[22:34:48]DEBUG: Event 'Invasion In Mainteance' has completed at 12:00.
+[22:34:48]DEBUG: Next event of severity Mundane in 14.706 minutes.
+[22:34:48]DEBUG: Next event of severity Moderate in 52.304 minutes.
+[22:34:48]DEBUG: Next event of severity Major in 63.0367 minutes.
+[22:35:19]ADMIN: fatfat/(Brick Sagan) jumped to (4,19,1) in Space
+[22:35:25]ADMIN: fatfat/(Brick Sagan) jumped to (4,19,1) in Space
+[22:35:29]ADMIN: fatfat/(Brick Sagan) jumped to (4,19,1) in Space
+[22:35:34]ADMIN: fatfat/(Brick Sagan) jumped to (4,19,1) in Space
+[22:35:38]ADMIN: fatfat/(Brick Sagan) jumped to (4,19,1) in Space
+[22:35:43]ADMIN: fatfat/(Brick Sagan) jumped to (4,19,1) in Space
+[22:35:49]ADMIN: fatfat/(Brick Sagan) jumped to (4,19,1) in Space
+[22:51:19] Graceful shutdown

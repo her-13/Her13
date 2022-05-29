@@ -1,0 +1,18 @@
+[17:54:48]TGUI: fatfat in browseroutput/initialize
+[17:54:55]TGUI: fatfat (as FatFat at (8,174,1))
+Using: /datum/tgui_modal [0x21022164]
+new AlertModal fancy 1
+[17:54:55]TGUI: fatfat in tgui-window-1/initialize
+Using: /datum/tgui_modal [0x21022164]
+[17:54:56]TGUI: fatfat (as FatFat at (8,174,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x21022164]
+Action: choose {"choice":"Yes"}
+[17:54:56]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:55:44]TGUI: fatfat (as Maddox Nehling at (55,140,2))
+Using: /datum/tgui_modal [0x210061d0]
+new AlertModal fancy 1
+[17:55:44]TGUI: fatfat (as Maddox Nehling at (55,140,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x210061d0]
+Action: choose {"choice":"Yes"}
+[17:55:44]TGUI: fatfat in tgui-window-1/close (suspending)
+[17:57:30]TGUI: fatfat in browseroutput/initialize

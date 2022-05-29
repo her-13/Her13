@@ -1,0 +1,24 @@
+[20:16:17] Base SHA: fdbccba9556539bad21f346ada389159d11af49e
+
+[20:16:19] Unmanaged z-level 8! maxz = 9, z_list.len = 7 in unsorted.dm:1510 :
+proc name: stack trace (/proc/stack_trace)
+  source file: unsorted.dm,1510
+  usr: (src)
+  src: null
+  call stack:
+stack trace("Unmanaged z-level 8! maxz = 9,...")
+Mapping (/datum/controller/subsystem/mapping): level trait(8, "Station")
+process ghost teleport locs()
+Mapping (/datum/controller/subsystem/mapping): Initialize(477782)
+Master (/datum/controller/master): Initialize(null, null)
+
+[20:17:30] Cannot read null.loc in new_player.dm:126 :
+proc name: Topic (/mob/dead/new_player/Topic)
+  source file: new_player.dm,126
+  usr: (src)
+  src: FatFat (/mob/dead/new_player)
+  src.loc: Grass patch (1,1,1) (/turf/simulated/floor/grass)
+  call stack:
+FatFat (/mob/dead/new_player): Topic("src=\[0x3000006];lobby_observe...", /list (/list))
+FatFat (/client): Topic("src=\[0x3000006];lobby_observe...", /list (/list), FatFat (/mob/dead/new_player))
+

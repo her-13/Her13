@@ -1,0 +1,29 @@
+[23:06:45] Server '' starting up on 26.166.93.76:56105
+[23:06:48]GAME: agrosphere loaded at (179,25,3)
+[23:06:48]GAME: Broken Breacher loaded at (168,187,3)
+[23:06:49]GAME: Derelict Station loaded at (55,110,4)
+[23:06:49]GAME: Clown Shuttle loaded at (176,36,4)
+[23:06:49]GAME: cloning_lab loaded at (149,121,3)
+[23:06:49]GAME: ghost_ship_2 loaded at (131,67,4)
+[23:06:49]GAME: delivery_shuttle loaded at (224,150,3)
+[23:07:01]ADMIN: fatfat/(FatFat) will begin the game as soon as possible.
+[23:07:18]MODE: Current master mode is extended
+[23:07:18]DEBUG: Next event of severity RoundStart in 0 minutes.
+[23:07:18]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[23:07:18]DEBUG: Next event of severity RoundStart in 0 minutes.
+[23:07:18]DEBUG: Starting event 'Forgotten Headset' of severity RoundStart.
+[23:07:18]GAME: ANTAG LIST:
+no antagonists this moment
+[23:07:18]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[23:07:18]GAME: RoundStart Event: the radio headset was removed from the unknown
+[23:07:18]GAME: RoundStart Event: the radio headset was removed from the unknown
+[23:07:18]GAME: RoundStart Event: the radio headset was removed from the unknown
+[23:07:18]GAME: RoundStart Event: the radio headset was removed from the unknown
+[23:07:18]GAME: RoundStart Event: the radio headset was removed from the unknown
+[23:07:18]GAME: RoundStart Event: the radio headset was removed from the unknown
+[23:07:18]GAME: RoundStart Event: the radio headset was removed from the unknown
+[23:07:18]DEBUG: Event 'Forgotten Headset' has completed at 12:00.
+[23:07:18]DEBUG: Next event of severity Mundane in 14.386 minutes.
+[23:07:18]DEBUG: Next event of severity Moderate in 49.452 minutes.
+[23:07:18]DEBUG: Next event of severity Major in 57.7683 minutes.
+[23:12:11] Graceful shutdown

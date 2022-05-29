@@ -1,0 +1,62 @@
+[19:02:27] Server '' starting up on 192.168.0.5:55397
+[19:03:08]GAME: delivery_shuttle loaded at (181,218,4)
+[19:03:10]GAME: Derelict Station loaded at (91,73,4)
+[19:03:10]GAME: agrosphere loaded at (171,157,3)
+[19:03:11]GAME: robostation loaded at (143,81,3)
+[19:03:11]GAME: Abandoned Ship loaded at (85,200,4)
+[19:03:11]GAME: escape_pod loaded at (22,169,3)
+[19:03:11]GAME: ghost_ship_1 loaded at (36,72,3)
+[19:03:39]ADMIN: fatfat/(Arnie Rowley) created a /mob/living/carbon/human
+[19:04:21]ADMIN: fatfat/(Arnie Rowley) has started the game.
+[19:04:25]MODE: Current master mode is extended
+[19:04:25]DEBUG: Next event of severity RoundStart in 0 minutes.
+[19:04:25]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[19:04:25]DEBUG: Next event of severity RoundStart in 0 minutes.
+[19:04:25]GAME: RoundStart Event: Selected areas is Vault
+[19:04:25]DEBUG: Starting event 'Clondike' of severity RoundStart.
+[19:04:25]DEBUG: Next event of severity RoundStart in 0 minutes.
+[19:04:25]GAME: RoundStart Event: Selected areas is Recycleroffice, Security lobby, Chief Engineer's office, Research Division, Recycleroffice, Quartermaster's Office, Telecoms Central Compartment, North Technical Storage, Medbay Storage, Chapel Mass Driver, Firing Range, Incinerator, Assembly Line, Auxiliary Tool Storage, Dormitories, Asteroid Shuttle Hallway, AI Satellite, Labor Shuttle Dock, EVA Storage, Cargo Bay, Theatre, Telecoms Control Room, Custodial Closet, Medbay Breaktime Room, Starboard Primary Hallway, Central Emergency Storage, Science Maintenance, Aft Port Solar Maintenance, Assembly Line, Bridge, Telecoms Control Room, Escape Shuttle Hallway, Bar, Garden, Detective's Office, Crematorium, Aft Primary Hallway, Play Room, Asteroid Shuttle Hallway, Engineering Break Room, Recycler, Morgue, Bar, Captain's Office, Escape Shuttle Hallway, Waste Disposal, Library, Research Director's Office, Execution, Mining office, Library, Cargo Maintenance, Entry Shuttles Hallway, Research and Development, Port Primary Hallway, Cyborg Station, Telescience Lab, Miscellaneous Research, Morgue, Prison Wing, Captain's Office, Aft Primary Hallway and Morgue
+[19:04:25]DEBUG: Starting event 'Break Light' of severity RoundStart.
+[19:04:25]GAME: ANTAG LIST:
+no antagonists this moment
+[19:04:26]DEBUG: Event 'Roundstart Nothing' has completed at 12:01.
+[19:04:26]GAME: RoundStart Event: "Clondike" replace 500 credit chip on /obj/item/stack/sheet/mineral/gold in (0,0,0)
+[19:04:26]GAME: RoundStart Event: "Clondike" replace 1000 credit chip on /obj/item/stack/sheet/mineral/gold in (0,0,0)
+[19:04:26]GAME: RoundStart Event: "Clondike" replace Silver coin on /obj/item/stack/sheet/mineral/gold in (0,0,0)
+[19:04:26]GAME: RoundStart Event: "Clondike" replace 200 credit chip on /obj/item/stack/sheet/mineral/gold in (0,0,0)
+[19:04:26]GAME: RoundStart Event: "Clondike" replace the yellow jumpsuit on /obj/item/stack/sheet/mineral/gold in (0,0,0)
+[19:04:26]GAME: RoundStart Event: "Clondike" replace 500 credit chip on /obj/item/stack/sheet/mineral/gold in (0,0,0)
+[19:04:26]GAME: RoundStart Event: "Clondike" replace 200 credit chip on /obj/item/stack/sheet/mineral/gold in (0,0,0)
+[19:04:26]GAME: RoundStart Event: "Clondike" replace 1000 credit chip on /obj/item/stack/sheet/mineral/gold in (0,0,0)
+[19:04:26]GAME: RoundStart Event: "Clondike" replace 200 credit chip on /obj/item/stack/sheet/mineral/gold in (0,0,0)
+[19:04:26]GAME: RoundStart Event: "Clondike" replace Silver coin on /obj/item/stack/sheet/mineral/gold in (0,0,0)
+[19:04:26]GAME: RoundStart Event: "Clondike" replace the championship belt on /obj/item/stack/sheet/mineral/gold in (0,0,0)
+[19:04:26]GAME: RoundStart Event: "Clondike" replace the replica katana on /obj/item/stack/sheet/mineral/gold in (0,0,0)
+[19:04:26]GAME: RoundStart Event: "Clondike" replace 500 credit chip on /obj/item/stack/sheet/mineral/gold in (0,0,0)
+[19:04:26]GAME: RoundStart Event: "Clondike" replace Silver coin on /obj/item/stack/sheet/mineral/gold in (0,0,0)
+[19:04:26]GAME: RoundStart Event: "Clondike" replace 500 credit chip on /obj/item/stack/sheet/mineral/gold in (0,0,0)
+[19:04:26]GAME: RoundStart Event: "Clondike" replace Silver coin on /obj/item/stack/sheet/mineral/gold in (0,0,0)
+[19:04:26]GAME: RoundStart Event: "Clondike" replace 200 credit chip on /obj/item/stack/sheet/mineral/gold in (0,0,0)
+[19:04:26]GAME: RoundStart Event: "Clondike" replace 500 credit chip on /obj/item/stack/sheet/mineral/gold in (0,0,0)
+[19:04:26]GAME: RoundStart Event: "Clondike" replace 1000 credit chip on /obj/item/stack/sheet/mineral/gold in (0,0,0)
+[19:04:26]GAME: RoundStart Event: "Clondike" replace Silver coin on /obj/item/stack/sheet/mineral/gold in (0,0,0)
+[19:04:26]GAME: RoundStart Event: "Clondike" replace 200 credit chip on /obj/item/stack/sheet/mineral/gold in (0,0,0)
+[19:04:26]GAME: RoundStart Event: "Clondike" replace 200 credit chip on /obj/item/stack/sheet/mineral/gold in (0,0,0)
+[19:04:26]DEBUG: Event 'Clondike' has completed at 12:01.
+[19:04:26]DEBUG: Event 'Break Light' has completed at 12:01.
+[19:04:26]DEBUG: Next event of severity Mundane in 16.25 minutes.
+[19:04:26]DEBUG: Next event of severity Moderate in 44.082 minutes.
+[19:04:26]DEBUG: Next event of severity Major in 69.235 minutes.
+[19:04:28]ADMIN: fatfat/(Arnie Rowley) stuffed fatfat into unknown.
+[19:04:31]SAY: *no key*/(Боевой дрон) : [Mine]: Поиск враж-ж-ждебных единиц...
+[19:04:40]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[19:04:46]SAY: *no key*/(Poly) : [Chief Engineer's office]: Wire the solars, you lazy bums!
+[19:04:48]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[19:04:48]SAY: *no key*/(Poly) : [Chief Engineer's office]: WHO TOOK THE DAMN HARDSUITS?
+[19:04:58]SAY: *no key*/(Боевой дрон) : [Mine]: ТРЕВОГА!
+[19:05:00]SAY: *no key*/(Poly) : [Chief Engineer's office]: Poly wanna cracker!
+[19:05:04]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[19:05:06]SAY: *no key*/(Experiment 69T) : [Wizard's Den]: Ahi set mep&#39;a teth.
+[19:05:08]SAY: *no key*/(DET5) : [Research Director's Office]: Science time
+[19:05:20]SAY: *no key*/(Poly) : [Chief Engineer's office]: I have lived many lives!
+[20:24:34] Graceful shutdown

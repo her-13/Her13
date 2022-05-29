@@ -1,0 +1,23 @@
+[16:38:45] Server '' starting up on 26.166.93.76:49455
+[16:38:48]GAME: Broken Breacher loaded at (129,30,4)
+[16:38:48]GAME: iss loaded at (50,196,3)
+[16:38:48]GAME: ghost_ship_1 loaded at (39,34,3)
+[16:38:48]GAME: Derelict Teleporter loaded at (199,134,3)
+[16:38:48]GAME: ghost_ship_2 loaded at (120,97,4)
+[16:38:48]GAME: teleporter loaded at (101,46,3)
+[16:38:48]GAME: agrosphere loaded at (48,208,4)
+[16:39:24]ADMIN: fatfat/(FatFat) has started the game.
+[16:39:27]MODE: Current master mode is extended
+[16:39:27]DEBUG: Next event of severity RoundStart in 0 minutes.
+[16:39:27]DEBUG: Starting event 'Forgotten Sec. Equimp.' of severity RoundStart.
+[16:39:27]DEBUG: Next event of severity RoundStart in 0 minutes.
+[16:39:27]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[16:39:27]GAME: ANTAG LIST:
+no antagonists this moment
+[16:39:27]DEBUG: Event 'Forgotten Sec. Equimp.' has completed at 12:00.
+[16:39:27]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[16:39:27]DEBUG: Next event of severity Mundane in 16.888 minutes.
+[16:39:27]DEBUG: Next event of severity Moderate in 47.372 minutes.
+[16:39:27]DEBUG: Next event of severity Major in 51.2883 minutes.
+[16:39:35]ADMIN: fatfat/(Bronte Sandys) jumped to coordinates 100, 100, 1
+[16:42:35] Graceful shutdown

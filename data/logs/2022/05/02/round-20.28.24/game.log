@@ -1,0 +1,21 @@
+[20:28:24] Server '' starting up on 26.166.93.76:63981
+[20:28:27]GAME: NT Ships Squad loaded at (119,133,3)
+[20:28:27]GAME: teleporter loaded at (84,151,3)
+[20:28:27]GAME: DJ Station loaded at (98,184,4)
+[20:28:27]GAME: cloning_lab loaded at (69,103,4)
+[20:28:27]GAME: listening_post loaded at (98,184,3)
+[20:28:27]GAME: Abandoned Ship loaded at (167,98,3)
+[20:28:27]GAME: robostation loaded at (149,161,4)
+[20:28:55]ADMIN: fatfat/(FatFat) has started the game.
+[20:28:57]MODE: Current master mode is extended
+[20:28:57]DEBUG: Next event of severity RoundStart in 0 minutes.
+[20:28:57]DEBUG: Starting event 'Roundstart Nothing' of severity RoundStart.
+[20:28:57]GAME: ANTAG LIST:
+no antagonists this moment
+[20:28:58]DEBUG: Event 'Roundstart Nothing' has completed at 12:00.
+[20:28:58]DEBUG: Next event of severity Mundane in 12.074 minutes.
+[20:28:58]DEBUG: Next event of severity Moderate in 48.18 minutes.
+[20:28:58]DEBUG: Next event of severity Major in 68.8333 minutes.
+[20:29:10]ADMIN: fatfat/(Santiago Brandenburg) created a /obj/effect/portal/hub
+[20:29:23]ADMIN: fatfat/(Santiago Brandenburg) created a /obj/effect/portal/hub
+[20:29:28] Graceful shutdown

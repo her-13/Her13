@@ -1,0 +1,45 @@
+[21:05:18]TGUI: fatfat in browseroutput/initialize
+[21:05:53]TGUI: fatfat (as FatFat at (8,174,1))
+Using: /datum/tgui_modal [0x21000d54]
+new AlertModal fancy 1
+[21:05:53]TGUI: fatfat in tgui-window-1/initialize
+Using: /datum/tgui_modal [0x21000d54]
+[21:05:54]TGUI: fatfat (as FatFat at (8,174,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x21000d54]
+Action: choose {"choice":"Yes"}
+[21:05:54]TGUI: fatfat in tgui-window-1/close (suspending)
+[21:08:19]TGUI: fatfat (as Zeke Hunter at (52,141,2))
+Using: /datum/tgui_modal [0x2100536a]
+new AlertModal fancy 1
+[21:08:20]TGUI: fatfat (as Zeke Hunter at (52,141,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x2100536a]
+Action: choose {"choice":"Yes"}
+[21:08:20]TGUI: fatfat in tgui-window-1/close (suspending)
+[21:10:21]TGUI: fatfat (as the unknown at (228,202,1))
+Using: /datum/tgui_modal [0x210229c6]
+new AlertModal fancy 1
+[21:10:22]TGUI: fatfat (as the unknown at (228,202,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x210229c6]
+Action: choose {"choice":"No"}
+[21:10:22]TGUI: fatfat in tgui-window-1/close (suspending)
+[21:10:22]TGUI: fatfat (as the unknown at (228,202,1))
+Using: /datum/tgui_modal [0x21022a62]
+new AlertModal fancy 1
+[21:10:23]TGUI: fatfat (as the unknown at (228,202,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x21022a62]
+Action: choose {"choice":"No"}
+[21:10:23]TGUI: fatfat in tgui-window-1/close (suspending)
+[21:10:29]TGUI: fatfat (as the unknown at (228,202,1))
+Using: /datum/tgui_modal [0x21022a13]
+new AlertModal fancy 1
+[21:10:30]TGUI: fatfat (as the unknown at (228,202,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x21022a13]
+Action: choose {"choice":"Yes"}
+[21:10:30]TGUI: fatfat in tgui-window-1/close (suspending)
+[21:10:37]TGUI: fatfat (as the unknown at (228,202,1))
+Using: /datum/tgui_modal [0x210229c7]
+new AlertModal fancy 1
+[21:10:38]TGUI: fatfat (as the unknown at (228,202,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x210229c7]
+Action: choose {"choice":"Yes"}
+[21:10:38]TGUI: fatfat in tgui-window-1/close (suspending)

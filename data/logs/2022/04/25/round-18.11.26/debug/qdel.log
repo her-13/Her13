@@ -1,0 +1,1414 @@
+GC: -- [0xd000734] | /image was unable to be GC'd --
+GC: -- [0x200ed1d] | /obj/item/organ/external/chest/homunculus was unable to be GC'd --
+GC: -- [0x202d4bb] | /obj/item/weapon/cartridge/captain was unable to be GC'd --
+GC: -- [0x202d4ba] | /obj/item/device/pda/captain was unable to be GC'd --
+Path: /obj/item/device/pda/captain
+	Failures: 1
+	qdel() Count: 1
+	Destroy() Cost: 0.1132ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 35.3339ms
+Path: /image
+	Failures: 1
+	qdel() Count: 6361
+	Destroy() Cost: 50.5831ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 23.3434ms
+Path: /obj/item/organ/external/chest/homunculus
+	Failures: 1
+	qdel() Count: 1
+	Destroy() Cost: 0.868599ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 20.0508ms
+Path: /obj/item/weapon/cartridge/captain
+	Failures: 1
+	qdel() Count: 1
+	Destroy() Cost: 0.0229004ms
+	Total Hard Deletes 1
+	Time Spent Hard Deleting: 0.5321ms
+Path: /datum/tgui_modal
+	qdel() Count: 8
+	Destroy() Cost: 205.33ms
+Path: /datum/timedevent
+	qdel() Count: 12282
+	Destroy() Cost: 167.643ms
+Path: /obj/item/weapon/flora/random
+	qdel() Count: 84
+	Destroy() Cost: 48.3891ms
+Path: /obj/effect/effect/sparks
+	qdel() Count: 143
+	Destroy() Cost: 36.3966ms
+Path: /datum/component/clickplace
+	qdel() Count: 130
+	Destroy() Cost: 32.7363ms
+Path: /datum/light_source
+	qdel() Count: 175
+	Destroy() Cost: 22.0367ms
+Path: /datum/runechat
+	qdel() Count: 256
+	Destroy() Cost: 15.6117ms
+Path: /datum/component/mechanic_desc
+	qdel() Count: 220
+	Destroy() Cost: 13.0345ms
+Path: /obj/item/stack/cable_coil/random
+	qdel() Count: 108
+	Destroy() Cost: 11.2332ms
+Path: /mob/dead/new_player
+	qdel() Count: 3
+	Destroy() Cost: 6.02953ms
+Path: /obj/effect/landmark
+	qdel() Count: 65
+	Destroy() Cost: 5.7882ms
+Path: /datum/hud
+	qdel() Count: 3
+	Destroy() Cost: 5.0592ms
+Path: /obj/effect/decal/cleanable/blood/drip
+	qdel() Count: 23
+	Destroy() Cost: 4.97884ms
+Path: /obj/effect/decal/point
+	qdel() Count: 30
+	Destroy() Cost: 4.7865ms
+Path: /obj/effect/spawner/lootdrop/maintenance
+	qdel() Count: 46
+	Destroy() Cost: 4.56171ms
+Path: /obj/effect/spawner/lootdrop/maintenance/two
+	qdel() Count: 36
+	Destroy() Cost: 3.7246ms
+Path: /obj/random/foods/donuts
+	qdel() Count: 66
+	Destroy() Cost: 3.61598ms
+Path: /obj/item/weapon/storage/backpack/captain
+	qdel() Count: 2
+	Destroy() Cost: 3.12482ms
+Path: /datum/component/twohanded
+	qdel() Count: 84
+	Destroy() Cost: 2.9767ms
+Path: /datum/component/tactical
+	qdel() Count: 84
+	Destroy() Cost: 2.85811ms
+Path: /datum/progressbar
+	qdel() Count: 26
+	Destroy() Cost: 2.6695ms
+Path: /atom/movable/screen/alert/tox_in_air
+	qdel() Count: 40
+	Destroy() Cost: 2.2904ms
+Path: /obj/random/scrap/sparse_weighted
+	qdel() Count: 22
+	Destroy() Cost: 2.1921ms
+Path: /obj/random/foods/food_trash
+	qdel() Count: 18
+	Destroy() Cost: 2.15669ms
+Path: /mob/dead/observer
+	qdel() Count: 2
+	Destroy() Cost: 2.1033ms
+Path: /obj/random/vending/snack
+	qdel() Count: 25
+	Destroy() Cost: 2.03471ms
+Path: /obj/random/vending/cola
+	qdel() Count: 22
+	Destroy() Cost: 1.8899ms
+Path: /datum/storage_ui/default
+	qdel() Count: 3
+	Destroy() Cost: 1.8517ms
+Path: /obj/random/scrap/moderate_weighted
+	qdel() Count: 34
+	Destroy() Cost: 1.8ms
+Path: /obj/effect/spawner/lootdrop/maintenance/three
+	qdel() Count: 16
+	Destroy() Cost: 1.74441ms
+Path: /obj/structure/sign/poster/contraband/random
+	qdel() Count: 15
+	Destroy() Cost: 1.7391ms
+Path: /datum/hud/ghost
+	qdel() Count: 1
+	Destroy() Cost: 1.6545ms
+Path: /obj/item/weapon/gun/energy/gun
+	qdel() Count: 1
+	Destroy() Cost: 1.577ms
+Path: /datum/reagent/aqueous_foam
+	qdel() Count: 126
+	Destroy() Cost: 1.54337ms
+Path: /obj/effect/spawner/lootdrop/maintenance/four
+	qdel() Count: 16
+	Destroy() Cost: 1.5011ms
+Path: /obj/item/weapon/storage/backpack/satchel
+	qdel() Count: 1
+	Destroy() Cost: 1.4971ms
+Path: /obj/item/clothing/under/rank/centcom_officer
+	qdel() Count: 1
+	Destroy() Cost: 1.4628ms
+Path: /obj/random/tools/tech_supply
+	qdel() Count: 23
+	Destroy() Cost: 1.45071ms
+Path: /obj/random/guns/projectile_handgun
+	qdel() Count: 12
+	Destroy() Cost: 1.4338ms
+Path: /datum/action/item_action
+	qdel() Count: 4
+	Destroy() Cost: 1.3439ms
+Path: /datum/mechanic_tip/clickplace
+	qdel() Count: 130
+	Destroy() Cost: 1.25108ms
+Path: /obj/item/clothing/under/rank/captain
+	qdel() Count: 2
+	Destroy() Cost: 1.25011ms
+Path: /obj/structure/sign/poster/random
+	qdel() Count: 7
+	Destroy() Cost: 1.1941ms
+Path: /obj/random/scrap/dense_weighted
+	qdel() Count: 16
+	Destroy() Cost: 1.1869ms
+Path: /obj/item/clothing/glasses/sunglasses
+	qdel() Count: 3
+	Destroy() Cost: 1.14238ms
+Path: /obj/effect/decal/cleanable/blood/splatter
+	qdel() Count: 10
+	Destroy() Cost: 1.12453ms
+Path: /obj/effect/landmark/cops_spawn
+	qdel() Count: 12
+	Destroy() Cost: 0.977997ms
+Path: /obj/item/device/radio/headset/ert
+	qdel() Count: 1
+	Destroy() Cost: 0.9391ms
+Path: /datum/signal
+	qdel() Count: 110
+	Destroy() Cost: 0.904401ms
+Path: /obj/item/weapon/storage/belt/utility
+	qdel() Count: 1
+	Destroy() Cost: 0.8465ms
+Path: /datum/combo_handler
+	qdel() Count: 8
+	Destroy() Cost: 0.802602ms
+Path: /obj/random/melee
+	qdel() Count: 16
+	Destroy() Cost: 0.801402ms
+Path: /obj/effect/landmark/dealer_spawn
+	qdel() Count: 4
+	Destroy() Cost: 0.7889ms
+Path: /obj/random/cloth/helmet
+	qdel() Count: 10
+	Destroy() Cost: 0.757301ms
+Path: /datum/component/rite/spawn_item
+	qdel() Count: 11
+	Destroy() Cost: 0.7451ms
+Path: /obj/random/cloth/armor
+	qdel() Count: 10
+	Destroy() Cost: 0.725096ms
+Path: /datum/tgui
+	qdel() Count: 38
+	Destroy() Cost: 0.719598ms
+Path: /obj/effect/spawner/lootdrop/glowstick
+	qdel() Count: 3
+	Destroy() Cost: 0.717098ms
+Path: /datum/component/swiping
+	qdel() Count: 5
+	Destroy() Cost: 0.705002ms
+Path: /obj/item/clothing/shoes/brown
+	qdel() Count: 2
+	Destroy() Cost: 0.662697ms
+Path: /obj/effect/landmark/latejoin
+	qdel() Count: 10
+	Destroy() Cost: 0.627899ms
+Path: /obj/item/weapon/storage/box/ids
+	qdel() Count: 1
+	Destroy() Cost: 0.617801ms
+Path: /obj/effect/landmark/start/assistant/test_subject
+	qdel() Count: 25
+	Destroy() Cost: 0.600366ms
+Path: /obj/structure/sign/poster/official/random
+	qdel() Count: 4
+	Destroy() Cost: 0.590002ms
+Path: /datum/mechanic_tip/twohanded/required
+	qdel() Count: 84
+	Destroy() Cost: 0.549196ms
+Path: /obj/effect/decal/cleanable/greenglow
+	qdel() Count: 2
+	Destroy() Cost: 0.5418ms
+Path: /obj/effect/goliath_tentacle
+	qdel() Count: 24
+	Destroy() Cost: 0.521501ms
+Path: /obj/random/guns/projectile_assault
+	qdel() Count: 6
+	Destroy() Cost: 0.515903ms
+Path: /obj/item/clothing/head/caphat
+	qdel() Count: 2
+	Destroy() Cost: 0.507823ms
+Path: /obj/item/weapon/storage/box/survival
+	qdel() Count: 1
+	Destroy() Cost: 0.5078ms
+Path: /atom/movable/screen/storage
+	qdel() Count: 12
+	Destroy() Cost: 0.476301ms
+Path: /obj/item/weapon/reagent_containers/glass/beaker/noreact
+	qdel() Count: 2
+	Destroy() Cost: 0.4719ms
+Path: /obj/random/misc/book
+	qdel() Count: 5
+	Destroy() Cost: 0.465298ms
+Path: /obj/item/device/pda
+	qdel() Count: 1
+	Destroy() Cost: 0.457898ms
+Path: /datum/thrownthing
+	qdel() Count: 6
+	Destroy() Cost: 0.4539ms
+Path: /obj/effect/spawner/lootdrop/gloves
+	qdel() Count: 2
+	Destroy() Cost: 0.425101ms
+Path: /obj/item/weapon/card/id
+	qdel() Count: 7
+	Destroy() Cost: 0.4056ms
+Path: /obj/random/guns/energy_weapon
+	qdel() Count: 8
+	Destroy() Cost: 0.404303ms
+Path: /atom/movable/screen/plane_master/rendering_plate/above_game_world
+	qdel() Count: 4
+	Destroy() Cost: 0.400925ms
+Path: /obj/item/device/radio/headset/heads/captain
+	qdel() Count: 1
+	Destroy() Cost: 0.3856ms
+Path: /obj/random/tools/tool
+	qdel() Count: 6
+	Destroy() Cost: 0.375999ms
+Path: /obj/random/tools/toolbox
+	qdel() Count: 2
+	Destroy() Cost: 0.375202ms
+Path: /obj/item/clothing/shoes/boots/swat
+	qdel() Count: 1
+	Destroy() Cost: 0.3738ms
+Path: /atom/movable/screen/fullscreen/brute
+	qdel() Count: 4
+	Destroy() Cost: 0.3733ms
+Path: /obj/item/weapon/reagent_containers/food/snacks/soap
+	qdel() Count: 1
+	Destroy() Cost: 0.335999ms
+Path: /obj/effect/goliath_tentacle/original
+	qdel() Count: 8
+	Destroy() Cost: 0.3177ms
+Path: /obj/effect/landmark/abductor/console
+	qdel() Count: 4
+	Destroy() Cost: 0.312201ms
+Path: /datum/recipe/microwave/human
+	qdel() Count: 20
+	Destroy() Cost: 0.297401ms
+Path: /obj/effect/landmark/start/wizard
+	qdel() Count: 7
+	Destroy() Cost: 0.295706ms
+Path: /obj/item/organ/external/head/homunculus
+	qdel() Count: 1
+	Destroy() Cost: 0.2701ms
+Path: /obj/item/ammo_casing/energy/laser
+	qdel() Count: 1
+	Destroy() Cost: 0.267ms
+Path: /datum/religion_rites/standing/spawn_item/banana_ore
+	qdel() Count: 1
+	Destroy() Cost: 0.2625ms
+Path: /obj/item/clothing/gloves/swat
+	qdel() Count: 1
+	Destroy() Cost: 0.2541ms
+Path: /obj/effect/landmark/start/station_engineer
+	qdel() Count: 5
+	Destroy() Cost: 0.241895ms
+Path: /obj/effect/overlay/blurb
+	qdel() Count: 3
+	Destroy() Cost: 0.2378ms
+Path: /obj/item/weapon/melee/chainofcommand
+	qdel() Count: 2
+	Destroy() Cost: 0.237296ms
+Path: /atom/movable/screen/movable/action_button
+	qdel() Count: 4
+	Destroy() Cost: 0.2327ms
+Path: /obj/effect/landmark/start/medical_doctor
+	qdel() Count: 6
+	Destroy() Cost: 0.221118ms
+Path: /obj/random/foods/drink_can
+	qdel() Count: 3
+	Destroy() Cost: 0.215904ms
+Path: /obj/effect/gibspawner/human
+	qdel() Count: 2
+	Destroy() Cost: 0.203999ms
+Path: /obj/effect/temp_visual/sparkles
+	qdel() Count: 1
+	Destroy() Cost: 0.1985ms
+Path: /obj/random/misc/all
+	qdel() Count: 2
+	Destroy() Cost: 0.191597ms
+Path: /obj/effect/decal/cleanable/blood
+	qdel() Count: 1
+	Destroy() Cost: 0.1888ms
+Path: /obj/item/device/encryptionkey/ert
+	qdel() Count: 1
+	Destroy() Cost: 0.1882ms
+Path: /obj/effect/landmark/start/scientist
+	qdel() Count: 6
+	Destroy() Cost: 0.181812ms
+Path: /obj/effect/landmark/start/velocity_officer
+	qdel() Count: 3
+	Destroy() Cost: 0.178003ms
+Path: /obj/structure/lattice
+	qdel() Count: 2
+	Destroy() Cost: 0.174001ms
+Path: /obj/effect/landmark/start/security_officer
+	qdel() Count: 6
+	Destroy() Cost: 0.167603ms
+Path: /atom/movable/screen/plane_master/floor
+	qdel() Count: 4
+	Destroy() Cost: 0.162933ms
+Path: /obj/effect/landmark/start/atmospheric_technician
+	qdel() Count: 3
+	Destroy() Cost: 0.159106ms
+Path: /obj/effect/gibspawner/robot
+	qdel() Count: 1
+	Destroy() Cost: 0.1584ms
+Path: /obj/item/weapon/storage/backpack
+	qdel() Count: 1
+	Destroy() Cost: 0.154498ms
+Path: /obj/item/projectile/beam
+	qdel() Count: 1
+	Destroy() Cost: 0.1495ms
+Path: /datum/modval_modifier
+	qdel() Count: 13
+	Destroy() Cost: 0.144197ms
+Path: /obj/effect/landmark/start/chemist
+	qdel() Count: 2
+	Destroy() Cost: 0.137695ms
+Path: /datum/component/rite/consent
+	qdel() Count: 5
+	Destroy() Cost: 0.1375ms
+Path: /obj/effect/landmark/start/security_cadet
+	qdel() Count: 3
+	Destroy() Cost: 0.134375ms
+Path: /atom/movable/screen
+	qdel() Count: 9
+	Destroy() Cost: 0.132996ms
+Path: /obj/effect/landmark/start/cargo_technician
+	qdel() Count: 3
+	Destroy() Cost: 0.132983ms
+Path: /obj/random/foods/food_with_garbage
+	qdel() Count: 1
+	Destroy() Cost: 0.130798ms
+Path: /obj/effect/landmark/corpse/engineer/rig
+	qdel() Count: 1
+	Destroy() Cost: 0.124603ms
+Path: /obj/structure/disposalholder
+	qdel() Count: 1
+	Destroy() Cost: 0.1235ms
+Path: /datum/reagents
+	qdel() Count: 5
+	Destroy() Cost: 0.1196ms
+Path: /obj/machinery/door/firedoor
+	qdel() Count: 1
+	Destroy() Cost: 0.119198ms
+Path: /atom/movable/screen/plane_master/ghost_illusion
+	qdel() Count: 4
+	Destroy() Cost: 0.11919ms
+Path: /obj/random/meds/chemical_bottle
+	qdel() Count: 1
+	Destroy() Cost: 0.117901ms
+Path: /obj/item/organ/external/groin/homunculus
+	qdel() Count: 1
+	Destroy() Cost: 0.117799ms
+Path: /obj/effect/landmark/start/botanist
+	qdel() Count: 4
+	Destroy() Cost: 0.117603ms
+Path: /obj/random/tools/powercell
+	qdel() Count: 2
+	Destroy() Cost: 0.116399ms
+Path: /obj/effect/landmark/start/technical_assistant
+	qdel() Count: 3
+	Destroy() Cost: 0.116162ms
+Path: /obj/item/weapon/weldingtool
+	qdel() Count: 1
+	Destroy() Cost: 0.115401ms
+Path: /obj/effect/temp_visual/pulse
+	qdel() Count: 1
+	Destroy() Cost: 0.114601ms
+Path: /obj/item/ammo_casing/energy/stun
+	qdel() Count: 1
+	Destroy() Cost: 0.1128ms
+Path: /datum/callback
+	qdel() Count: 18
+	Destroy() Cost: 0.112102ms
+Path: /obj/item/weapon/reagent_containers/hypospray/autoinjector
+	qdel() Count: 1
+	Destroy() Cost: 0.1103ms
+Path: /obj/item/organ/internal/lungs
+	qdel() Count: 1
+	Destroy() Cost: 0.1063ms
+Path: /atom/movable/screen/plane_master/ghost
+	qdel() Count: 4
+	Destroy() Cost: 0.106034ms
+Path: /obj/item/organ/external/r_leg/homunculus
+	qdel() Count: 1
+	Destroy() Cost: 0.105901ms
+Path: /obj/item/weapon/tank/emergency_oxygen
+	qdel() Count: 1
+	Destroy() Cost: 0.105099ms
+Path: /obj/item/organ/internal/heart
+	qdel() Count: 1
+	Destroy() Cost: 0.100099ms
+Path: /atom/movable/screen/plane_master/game_world
+	qdel() Count: 4
+	Destroy() Cost: 0.100016ms
+Path: /obj/effect/proc_holder/spell/targeted/hypnosis
+	qdel() Count: 1
+	Destroy() Cost: 0.0996002ms
+Path: /obj/item/weapon/pen
+	qdel() Count: 2
+	Destroy() Cost: 0.099501ms
+Path: /obj/item/device/analyzer
+	qdel() Count: 1
+	Destroy() Cost: 0.0988998ms
+Path: /obj/item/clothing/mask/breath
+	qdel() Count: 1
+	Destroy() Cost: 0.0984985ms
+Path: /datum/religion_rites/instant/spawn_item/cult/talisman
+	qdel() Count: 1
+	Destroy() Cost: 0.0962006ms
+Path: /datum/reagent/space_cleaner
+	qdel() Count: 4
+	Destroy() Cost: 0.0955998ms
+Path: /obj/effect/proc_holder/spell/targeted/collective_mind
+	qdel() Count: 1
+	Destroy() Cost: 0.0936981ms
+Path: /atom/movable/screen/plane_master/rendering_plate/non_game
+	qdel() Count: 4
+	Destroy() Cost: 0.0911083ms
+Path: /obj/effect/landmark/start/research_assistant
+	qdel() Count: 3
+	Destroy() Cost: 0.089917ms
+Path: /datum/radio_frequency
+	qdel() Count: 1
+	Destroy() Cost: 0.0893002ms
+Path: /obj/effect/landmark/start/cyborg
+	qdel() Count: 3
+	Destroy() Cost: 0.0887939ms
+Path: /obj/effect/spawner/lootdrop/maintenance/six
+	qdel() Count: 1
+	Destroy() Cost: 0.0874ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/conjure/wall
+	qdel() Count: 1
+	Destroy() Cost: 0.0840027ms
+Path: /obj/effect/proc_holder/spell/targeted/trigger/blind
+	qdel() Count: 1
+	Destroy() Cost: 0.0832001ms
+Path: /obj/item/weapon/screwdriver
+	qdel() Count: 1
+	Destroy() Cost: 0.0826996ms
+Path: /datum/religion_rites/standing/spawn_item/call_animal
+	qdel() Count: 1
+	Destroy() Cost: 0.0817993ms
+Path: /obj/effect/landmark/start/captain
+	qdel() Count: 1
+	Destroy() Cost: 0.0809814ms
+Path: /obj/effect/landmark/start/head_of_personnel
+	qdel() Count: 1
+	Destroy() Cost: 0.0808105ms
+Path: /datum/mood_event/mild_pain
+	qdel() Count: 5
+	Destroy() Cost: 0.0801ms
+Path: /datum/religion_rites/standing/spawn_item/banana
+	qdel() Count: 1
+	Destroy() Cost: 0.0794006ms
+Path: /atom/movable/screen/plane_master/lighting
+	qdel() Count: 4
+	Destroy() Cost: 0.0793915ms
+Path: /obj/effect/landmark/start/shaft_miner
+	qdel() Count: 3
+	Destroy() Cost: 0.0793701ms
+Path: /obj/effect/landmark/start/medical_intern
+	qdel() Count: 3
+	Destroy() Cost: 0.0775879ms
+Path: /obj/item/weapon/card/id/centcom/ert
+	qdel() Count: 1
+	Destroy() Cost: 0.0768997ms
+Path: /obj/effect/landmark/start/recycler
+	qdel() Count: 3
+	Destroy() Cost: 0.076709ms
+Path: /obj/effect/proc_holder/spell/no_target/larva_evolve
+	qdel() Count: 1
+	Destroy() Cost: 0.0743011ms
+Path: /atom/movable/screen/fullscreen/oxy
+	qdel() Count: 2
+	Destroy() Cost: 0.0734001ms
+Path: /atom/movable/screen/plane_master/gravpulse
+	qdel() Count: 4
+	Destroy() Cost: 0.0731783ms
+Path: /obj/effect/landmark/start/xenoarchaeologist
+	qdel() Count: 3
+	Destroy() Cost: 0.0730957ms
+Path: /obj/effect/proc_holder/spell/no_target/syndi_drone
+	qdel() Count: 1
+	Destroy() Cost: 0.0730011ms
+Path: /atom/movable/screen/plane_master/blackness
+	qdel() Count: 4
+	Destroy() Cost: 0.0726723ms
+Path: /atom/movable/screen/plane_master/rendering_plate/master
+	qdel() Count: 4
+	Destroy() Cost: 0.0705584ms
+Path: /datum/religion_rites/standing/spawn_item/talisman
+	qdel() Count: 1
+	Destroy() Cost: 0.0694992ms
+Path: /obj/effect/landmark/start/new_player
+	qdel() Count: 1
+	Destroy() Cost: 0.0694008ms
+Path: /datum/religion_rites/standing/consent/sacrifice
+	qdel() Count: 1
+	Destroy() Cost: 0.0694ms
+Path: /obj/effect/landmark/start/internal_affairs_agent
+	qdel() Count: 2
+	Destroy() Cost: 0.0688965ms
+Path: /obj/effect/landmark/start/clown
+	qdel() Count: 1
+	Destroy() Cost: 0.0658936ms
+Path: /obj/effect/landmark/start/warden
+	qdel() Count: 1
+	Destroy() Cost: 0.0657959ms
+Path: /obj/effect/spawner/lootdrop/maintenance/five
+	qdel() Count: 1
+	Destroy() Cost: 0.065403ms
+Path: /atom/movable/screen/plane_master/parallax_white
+	qdel() Count: 4
+	Destroy() Cost: 0.0652851ms
+Path: /obj/item/organ/external/r_arm/homunculus
+	qdel() Count: 1
+	Destroy() Cost: 0.0649994ms
+Path: /atom/movable/screen/plane_master/rendering_plate/game_world
+	qdel() Count: 4
+	Destroy() Cost: 0.0649879ms
+Path: /datum/religion_rites/standing/spawn_item/create_sword
+	qdel() Count: 1
+	Destroy() Cost: 0.0641998ms
+Path: /obj/effect/landmark/start/head_of_security
+	qdel() Count: 1
+	Destroy() Cost: 0.0638916ms
+Path: /atom/movable/screen/plane_master/area
+	qdel() Count: 4
+	Destroy() Cost: 0.0635187ms
+Path: /obj/effect/landmark/start/chef
+	qdel() Count: 2
+	Destroy() Cost: 0.0627197ms
+Path: /obj/effect/proc_holder/spell/targeted/shadowling_hivemind_ascendant
+	qdel() Count: 1
+	Destroy() Cost: 0.0626984ms
+Path: /atom/movable/screen/plane_master/above_lighting
+	qdel() Count: 4
+	Destroy() Cost: 0.0617947ms
+Path: /atom/movable/screen/plane_master/parallax
+	qdel() Count: 4
+	Destroy() Cost: 0.0616911ms
+Path: /obj/item/weapon/crowbar
+	qdel() Count: 1
+	Destroy() Cost: 0.0615997ms
+Path: /atom/movable/screen/plane_master/rendering_plate
+	qdel() Count: 4
+	Destroy() Cost: 0.0606112ms
+Path: /atom/movable/screen/plane_master/point
+	qdel() Count: 4
+	Destroy() Cost: 0.0603773ms
+Path: /datum/religion_rites/instant/spawn_item/cult/soulstone
+	qdel() Count: 1
+	Destroy() Cost: 0.0589005ms
+Path: /obj/item/weapon/wirecutters
+	qdel() Count: 1
+	Destroy() Cost: 0.0585999ms
+Path: /atom/movable/screen/plane_master/game_world_above
+	qdel() Count: 4
+	Destroy() Cost: 0.0582214ms
+Path: /obj/item/organ/external/l_arm/homunculus
+	qdel() Count: 1
+	Destroy() Cost: 0.0572006ms
+Path: /datum/religion_rites/instant/spawn_item/cult/constructshell
+	qdel() Count: 1
+	Destroy() Cost: 0.0565002ms
+Path: /atom/movable/plane_master_controller/game
+	qdel() Count: 4
+	Destroy() Cost: 0.0558336ms
+Path: /obj/item/organ/external/l_leg/homunculus
+	qdel() Count: 1
+	Destroy() Cost: 0.0557007ms
+Path: /obj/random/misc/toy
+	qdel() Count: 1
+	Destroy() Cost: 0.0551987ms
+Path: /datum/bodypart_controller
+	qdel() Count: 7
+	Destroy() Cost: 0.054602ms
+Path: /atom/movable/screen/close
+	qdel() Count: 3
+	Destroy() Cost: 0.0544006ms
+Path: /obj/item/weapon/wrench
+	qdel() Count: 1
+	Destroy() Cost: 0.0541ms
+Path: /atom/movable/screen/plane_master/camera_static
+	qdel() Count: 4
+	Destroy() Cost: 0.0537384ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/conjure/the_traps
+	qdel() Count: 1
+	Destroy() Cost: 0.0528992ms
+Path: /datum/religion_rites/instant/spawn_item/cult
+	qdel() Count: 1
+	Destroy() Cost: 0.0524994ms
+Path: /obj/item/device/encryptionkey
+	qdel() Count: 2
+	Destroy() Cost: 0.0524006ms
+Path: /obj/item/organ/internal/liver
+	qdel() Count: 1
+	Destroy() Cost: 0.0521988ms
+Path: /datum/religion_rites/standing/consent/synthconversion
+	qdel() Count: 1
+	Destroy() Cost: 0.0516006ms
+Path: /obj/effect/proc_holder/spell/targeted/area_teleport/teleport
+	qdel() Count: 1
+	Destroy() Cost: 0.0513ms
+Path: /obj/effect/proc_holder/spell/targeted/emplosion/disable_tech
+	qdel() Count: 1
+	Destroy() Cost: 0.051001ms
+Path: /datum/religion_rites/standing/spawn_item
+	qdel() Count: 1
+	Destroy() Cost: 0.0503998ms
+Path: /obj/effect/landmark/start/roboticist
+	qdel() Count: 2
+	Destroy() Cost: 0.0494873ms
+Path: /datum/religion_rites/instant/spawn_item
+	qdel() Count: 1
+	Destroy() Cost: 0.0494003ms
+Path: /obj/effect/landmark/start/geneticist
+	qdel() Count: 2
+	Destroy() Cost: 0.0490723ms
+Path: /obj/effect/landmark/start/xenobiologist
+	qdel() Count: 2
+	Destroy() Cost: 0.0488281ms
+Path: /obj/effect/landmark/start/paramedic
+	qdel() Count: 2
+	Destroy() Cost: 0.0488037ms
+Path: /atom/movable/screen/plane_master/fullscreen
+	qdel() Count: 4
+	Destroy() Cost: 0.046887ms
+Path: /obj/item/organ/internal/brain
+	qdel() Count: 1
+	Destroy() Cost: 0.0459991ms
+Path: /obj/effect/proc_holder/spell/targeted/blindness_smoke
+	qdel() Count: 1
+	Destroy() Cost: 0.0458008ms
+Path: /obj/effect/proc_holder/spell/targeted/annihilate
+	qdel() Count: 1
+	Destroy() Cost: 0.0453003ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/conjure/construct/lesser
+	qdel() Count: 1
+	Destroy() Cost: 0.0449982ms
+Path: /atom/movable/screen/plane_master/singularity
+	qdel() Count: 4
+	Destroy() Cost: 0.0441765ms
+Path: /datum/reagent/water
+	qdel() Count: 2
+	Destroy() Cost: 0.0434074ms
+Path: /datum/religion_rites/standing/consent/clownconversion
+	qdel() Count: 1
+	Destroy() Cost: 0.0416ms
+Path: /obj/effect/proc_holder/spell/no_target/syndi_drone/boost
+	qdel() Count: 1
+	Destroy() Cost: 0.0406982ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/conjure/floor
+	qdel() Count: 1
+	Destroy() Cost: 0.0401978ms
+Path: /datum/religion_rites/standing/consent
+	qdel() Count: 1
+	Destroy() Cost: 0.0393005ms
+Path: /obj/random/foods/food_snack
+	qdel() Count: 1
+	Destroy() Cost: 0.0393ms
+Path: /obj/effect/proc_holder/spell/targeted/barnyardcurse
+	qdel() Count: 1
+	Destroy() Cost: 0.0389999ms
+Path: /datum/reagent/toxin
+	qdel() Count: 3
+	Destroy() Cost: 0.0385998ms
+Path: /obj/effect/proc_holder/spell/targeted/inflict_handler/blind
+	qdel() Count: 2
+	Destroy() Cost: 0.0384003ms
+Path: /obj/random/foods/food_without_garbage
+	qdel() Count: 1
+	Destroy() Cost: 0.0380001ms
+Path: /datum/mechanic_tip/swiping
+	qdel() Count: 5
+	Destroy() Cost: 0.0379963ms
+Path: /datum/religion_rites/standing/consent/invite
+	qdel() Count: 1
+	Destroy() Cost: 0.0375992ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/conjure/creature
+	qdel() Count: 1
+	Destroy() Cost: 0.0374023ms
+Path: /obj/item/weapon/stock_parts/cell
+	qdel() Count: 1
+	Destroy() Cost: 0.0368ms
+Path: /obj/effect/landmark/start/detective
+	qdel() Count: 1
+	Destroy() Cost: 0.0360107ms
+Path: /obj/effect/landmark/start
+	qdel() Count: 1
+	Destroy() Cost: 0.0353027ms
+Path: /obj/effect/proc_holder/spell/targeted/genetic/blind
+	qdel() Count: 2
+	Destroy() Cost: 0.0347977ms
+Path: /obj/effect/proc_holder/spell/targeted/emplosion
+	qdel() Count: 1
+	Destroy() Cost: 0.0341995ms
+Path: /obj/effect/landmark/start/janitor
+	qdel() Count: 1
+	Destroy() Cost: 0.0341064ms
+Path: /obj/effect/landmark/start/quartermaster
+	qdel() Count: 1
+	Destroy() Cost: 0.0328125ms
+Path: /obj/effect/landmark/start/forensic_technician
+	qdel() Count: 1
+	Destroy() Cost: 0.0324951ms
+Path: /obj/item/projectile/beam/stun
+	qdel() Count: 1
+	Destroy() Cost: 0.0324001ms
+Path: /datum/atom_hud/alternate_appearance/basic/see_ghosts
+	qdel() Count: 1
+	Destroy() Cost: 0.0322022ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/conjure/construct
+	qdel() Count: 1
+	Destroy() Cost: 0.0320984ms
+Path: /datum/browser
+	qdel() Count: 1
+	Destroy() Cost: 0.0319996ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/conjure/timestop
+	qdel() Count: 1
+	Destroy() Cost: 0.0315002ms
+Path: /obj/effect/landmark/start/chief_engineer
+	qdel() Count: 1
+	Destroy() Cost: 0.0312988ms
+Path: /obj/effect/proc_holder/spell/targeted/heal
+	qdel() Count: 1
+	Destroy() Cost: 0.030899ms
+Path: /datum/mood_event/dirty_clothes
+	qdel() Count: 3
+	Destroy() Cost: 0.0305973ms
+Path: /obj/effect/proc_holder/spell/targeted/shadowling_hivemind
+	qdel() Count: 1
+	Destroy() Cost: 0.0304993ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/conjure/spawn_animal
+	qdel() Count: 1
+	Destroy() Cost: 0.0301025ms
+Path: /obj/effect/proc_holder/spell/targeted/area_teleport
+	qdel() Count: 1
+	Destroy() Cost: 0.0300003ms
+Path: /obj/effect/landmark/start/mime
+	qdel() Count: 1
+	Destroy() Cost: 0.0298096ms
+Path: /obj/effect/proc_holder/spell/no_target/syndi_drone/smoke
+	qdel() Count: 1
+	Destroy() Cost: 0.0296997ms
+Path: /obj/effect/proc_holder/spell/targeted/enthrall
+	qdel() Count: 1
+	Destroy() Cost: 0.0296021ms
+Path: /obj/effect/proc_holder/spell/targeted/turf_teleport
+	qdel() Count: 1
+	Destroy() Cost: 0.0294983ms
+Path: /obj/effect/landmark/start/assistant/waiter
+	qdel() Count: 1
+	Destroy() Cost: 0.0290039ms
+Path: /obj/effect/landmark/start/barber
+	qdel() Count: 1
+	Destroy() Cost: 0.0288086ms
+Path: /obj/effect/proc_holder/spell/targeted/inflict_handler/magic_missile
+	qdel() Count: 1
+	Destroy() Cost: 0.0287003ms
+Path: /obj/item/organ/internal/kidneys
+	qdel() Count: 1
+	Destroy() Cost: 0.0278ms
+Path: /obj/effect/proc_holder/spell/targeted/forcewall
+	qdel() Count: 1
+	Destroy() Cost: 0.0276001ms
+Path: /obj/effect/proc_holder/spell/targeted/glare
+	qdel() Count: 1
+	Destroy() Cost: 0.0274017ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/hulk_mill
+	qdel() Count: 1
+	Destroy() Cost: 0.027298ms
+Path: /obj/effect/proc_holder/spell/targeted/communicate
+	qdel() Count: 1
+	Destroy() Cost: 0.0270996ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/clown_joke
+	qdel() Count: 1
+	Destroy() Cost: 0.0267975ms
+Path: /obj/effect/landmark/start/virologist
+	qdel() Count: 1
+	Destroy() Cost: 0.026709ms
+Path: /obj/effect/landmark/start/chief_medical_officer
+	qdel() Count: 1
+	Destroy() Cost: 0.0264893ms
+Path: /obj/effect/proc_holder/spell/targeted/ethereal_jaunt/phaseshift
+	qdel() Count: 1
+	Destroy() Cost: 0.0261002ms
+Path: /obj/effect/landmark/start/bartender
+	qdel() Count: 1
+	Destroy() Cost: 0.0260986ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/conjure/smoke
+	qdel() Count: 1
+	Destroy() Cost: 0.026001ms
+Path: /obj/effect/landmark/start/psychiatrist
+	qdel() Count: 1
+	Destroy() Cost: 0.026001ms
+Path: /obj/effect/proc_holder/spell/targeted/shadowlingAscendantTransmit
+	qdel() Count: 1
+	Destroy() Cost: 0.0259003ms
+Path: /obj/effect/landmark/start/librarian
+	qdel() Count: 1
+	Destroy() Cost: 0.0258789ms
+Path: /obj/effect/proc_holder/spell/targeted/smoke
+	qdel() Count: 1
+	Destroy() Cost: 0.0257996ms
+Path: /obj/effect/landmark/start/research_director
+	qdel() Count: 1
+	Destroy() Cost: 0.0255127ms
+Path: /obj/effect/proc_holder/spell/targeted/communicate/fastener
+	qdel() Count: 1
+	Destroy() Cost: 0.0252991ms
+Path: /obj/effect/landmark/start/chaplain
+	qdel() Count: 1
+	Destroy() Cost: 0.0251953ms
+Path: /atom/movable/screen/alert/oxy
+	qdel() Count: 1
+	Destroy() Cost: 0.0249001ms
+Path: /obj/effect/proc_holder/spell/targeted/reviveThrall
+	qdel() Count: 1
+	Destroy() Cost: 0.0247986ms
+Path: /obj/effect/proc_holder/spell/targeted/xeno_whisp
+	qdel() Count: 1
+	Destroy() Cost: 0.0243011ms
+Path: /obj/effect/proc_holder/spell/targeted/trigger
+	qdel() Count: 1
+	Destroy() Cost: 0.0240997ms
+Path: /obj/item/organ/internal/eyes
+	qdel() Count: 1
+	Destroy() Cost: 0.0234985ms
+Path: /datum/component/slippery
+	qdel() Count: 1
+	Destroy() Cost: 0.0231995ms
+Path: /datum/mood_event/goodroom
+	qdel() Count: 1
+	Destroy() Cost: 0.0231003ms
+Path: /obj/effect/proc_holder/spell/targeted/shadowling_phase_shift
+	qdel() Count: 1
+	Destroy() Cost: 0.022699ms
+Path: /obj/effect/proc_holder/spell/targeted/spacetime_dist
+	qdel() Count: 1
+	Destroy() Cost: 0.0216003ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/conjure/summonEdSwarm
+	qdel() Count: 1
+	Destroy() Cost: 0.0215027ms
+Path: /obj/effect/proc_holder/spell/no_target/mime_speak
+	qdel() Count: 1
+	Destroy() Cost: 0.0214996ms
+Path: /obj/effect/proc_holder/spell/targeted/mind_transfer
+	qdel() Count: 1
+	Destroy() Cost: 0.0214005ms
+Path: /obj/item/weapon/card/id/gold
+	qdel() Count: 1
+	Destroy() Cost: 0.0211014ms
+Path: /obj/effect/proc_holder/spell/targeted/turf_teleport/blink
+	qdel() Count: 1
+	Destroy() Cost: 0.0210999ms
+Path: /obj/item/device/encryptionkey/heads/captain
+	qdel() Count: 1
+	Destroy() Cost: 0.0209991ms
+Path: /obj/effect/proc_holder/spell/targeted/ethereal_jaunt/shadow_walk
+	qdel() Count: 1
+	Destroy() Cost: 0.0206985ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/conjure/carp
+	qdel() Count: 1
+	Destroy() Cost: 0.020401ms
+Path: /obj/effect/proc_holder/spell/targeted/forcewall/mimewall
+	qdel() Count: 1
+	Destroy() Cost: 0.0203995ms
+Path: /obj/effect/proc_holder/spell/targeted/shadowling_regenarmor
+	qdel() Count: 1
+	Destroy() Cost: 0.0202972ms
+Path: /obj/effect/proc_holder/spell/targeted/screech
+	qdel() Count: 1
+	Destroy() Cost: 0.0200012ms
+Path: /obj/effect/proc_holder/spell/no_target
+	qdel() Count: 1
+	Destroy() Cost: 0.0190002ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/hulk_gas
+	qdel() Count: 1
+	Destroy() Cost: 0.0188995ms
+Path: /obj/effect/proc_holder/spell/targeted/projectile
+	qdel() Count: 1
+	Destroy() Cost: 0.0188019ms
+Path: /obj/effect/proc_holder/spell/targeted/inflict_handler/fireball
+	qdel() Count: 1
+	Destroy() Cost: 0.0187012ms
+Path: /obj/effect/proc_holder/spell/targeted/ethereal_jaunt/wizard
+	qdel() Count: 1
+	Destroy() Cost: 0.0186996ms
+Path: /obj/effect/proc_holder/spell/targeted/zombie_findbrains
+	qdel() Count: 1
+	Destroy() Cost: 0.0186981ms
+Path: /obj/effect/proc_holder/spell/no_target/scribe_rune
+	qdel() Count: 1
+	Destroy() Cost: 0.0186981ms
+Path: /obj/effect/proc_holder/spell/dumbfire/fireball
+	qdel() Count: 1
+	Destroy() Cost: 0.0186005ms
+Path: /obj/effect/proc_holder/spell/targeted
+	qdel() Count: 1
+	Destroy() Cost: 0.0184998ms
+Path: /obj/effect/proc_holder/spell/targeted/transfer_plasma
+	qdel() Count: 1
+	Destroy() Cost: 0.018399ms
+Path: /obj/effect/proc_holder/spell/targeted/heal/damage
+	qdel() Count: 1
+	Destroy() Cost: 0.0183014ms
+Path: /obj/effect/proc_holder/spell/no_target/weeds
+	qdel() Count: 1
+	Destroy() Cost: 0.0182007ms
+Path: /obj/effect/proc_holder/spell/in_hand/res_touch
+	qdel() Count: 1
+	Destroy() Cost: 0.0181976ms
+Path: /obj/effect/proc_holder/spell/dumbfire
+	qdel() Count: 1
+	Destroy() Cost: 0.0181ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/conjure
+	qdel() Count: 1
+	Destroy() Cost: 0.0179016ms
+Path: /obj/effect/proc_holder/spell/in_hand/tesla
+	qdel() Count: 1
+	Destroy() Cost: 0.0179016ms
+Path: /obj/effect/proc_holder/spell/targeted/inflict_handler/disintegrate
+	qdel() Count: 1
+	Destroy() Cost: 0.0177994ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/repulse
+	qdel() Count: 1
+	Destroy() Cost: 0.0177002ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/conjure/lesserforcewall
+	qdel() Count: 1
+	Destroy() Cost: 0.0175018ms
+Path: /obj/effect/proc_holder/spell/targeted/explosion/fireball
+	qdel() Count: 1
+	Destroy() Cost: 0.0175003ms
+Path: /obj/effect/proc_holder/spell/targeted/summonitem
+	qdel() Count: 1
+	Destroy() Cost: 0.0174988ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/veil
+	qdel() Count: 1
+	Destroy() Cost: 0.0174988ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/conjure/soulstone
+	qdel() Count: 1
+	Destroy() Cost: 0.0173981ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/knock
+	qdel() Count: 1
+	Destroy() Cost: 0.0173981ms
+Path: /obj/effect/proc_holder/spell/targeted/ethereal_jaunt
+	qdel() Count: 1
+	Destroy() Cost: 0.0173004ms
+Path: /obj/effect/proc_holder/spell/no_target/charge/religion
+	qdel() Count: 1
+	Destroy() Cost: 0.0173004ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/hulk_eat
+	qdel() Count: 1
+	Destroy() Cost: 0.0171997ms
+Path: /obj/effect/proc_holder/spell/in_hand/fireball
+	qdel() Count: 1
+	Destroy() Cost: 0.0171997ms
+Path: /obj/effect/proc_holder/spell/targeted/projectile/magic_missile
+	qdel() Count: 1
+	Destroy() Cost: 0.0171021ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/hulk_dash
+	qdel() Count: 1
+	Destroy() Cost: 0.0171021ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/drainLife
+	qdel() Count: 1
+	Destroy() Cost: 0.017099ms
+Path: /obj/effect/proc_holder/spell/in_hand/arcane_barrage
+	qdel() Count: 1
+	Destroy() Cost: 0.017099ms
+Path: /obj/effect/proc_holder/spell/no_target/grease
+	qdel() Count: 1
+	Destroy() Cost: 0.0170013ms
+Path: /obj/effect/proc_holder/spell/no_target/resin
+	qdel() Count: 1
+	Destroy() Cost: 0.0170013ms
+Path: /obj/effect/proc_holder/spell/no_target/charge
+	qdel() Count: 1
+	Destroy() Cost: 0.0169983ms
+Path: /obj/effect/proc_holder/spell/no_target/infection
+	qdel() Count: 1
+	Destroy() Cost: 0.0169983ms
+Path: /obj/effect/proc_holder/spell/targeted/inflict_handler
+	qdel() Count: 1
+	Destroy() Cost: 0.0169006ms
+Path: /obj/effect/proc_holder/spell/no_target/spawn_bible
+	qdel() Count: 1
+	Destroy() Cost: 0.0169006ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/glacial_blast
+	qdel() Count: 1
+	Destroy() Cost: 0.0168976ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/unearthly_screech
+	qdel() Count: 1
+	Destroy() Cost: 0.0167999ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/hulk_lazor
+	qdel() Count: 1
+	Destroy() Cost: 0.0167999ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/HulkHONK
+	qdel() Count: 1
+	Destroy() Cost: 0.0167999ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/flashfreeze
+	qdel() Count: 1
+	Destroy() Cost: 0.0167023ms
+Path: /obj/effect/proc_holder/spell/no_target/hide
+	qdel() Count: 1
+	Destroy() Cost: 0.0167023ms
+Path: /obj/effect/proc_holder/spell/targeted/lighting_shock
+	qdel() Count: 1
+	Destroy() Cost: 0.0166992ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/hulk_smash
+	qdel() Count: 1
+	Destroy() Cost: 0.0166992ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/hulk_spit
+	qdel() Count: 1
+	Destroy() Cost: 0.0166992ms
+Path: /obj/effect/proc_holder/spell/aoe_turf
+	qdel() Count: 1
+	Destroy() Cost: 0.0166992ms
+Path: /obj/effect/proc_holder/spell/no_target/food
+	qdel() Count: 1
+	Destroy() Cost: 0.0166992ms
+Path: /obj/effect/proc_holder/spell/no_target/infection/obcurse
+	qdel() Count: 1
+	Destroy() Cost: 0.0166992ms
+Path: /obj/effect/proc_holder/spell/in_hand
+	qdel() Count: 1
+	Destroy() Cost: 0.0166992ms
+Path: /obj/effect/proc_holder/spell/blessing
+	qdel() Count: 1
+	Destroy() Cost: 0.0166016ms
+Path: /obj/effect/proc_holder/spell/no_target/memorize_rune
+	qdel() Count: 1
+	Destroy() Cost: 0.0165985ms
+Path: /obj/effect/proc_holder/spell/targeted/genetic/mutate
+	qdel() Count: 1
+	Destroy() Cost: 0.0165009ms
+Path: /obj/effect/proc_holder/spell/aoe_turf/hulk_jump
+	qdel() Count: 1
+	Destroy() Cost: 0.0165009ms
+Path: /obj/effect/proc_holder/spell/no_target/rot
+	qdel() Count: 1
+	Destroy() Cost: 0.0165009ms
+Path: /obj/effect/proc_holder/spell/in_hand/heal
+	qdel() Count: 1
+	Destroy() Cost: 0.0164978ms
+Path: /obj/effect/proc_holder/spell/targeted/explosion
+	qdel() Count: 1
+	Destroy() Cost: 0.0164001ms
+Path: /obj/effect/proc_holder/spell/no_target/evolve_to_queen
+	qdel() Count: 1
+	Destroy() Cost: 0.0164001ms
+Path: /obj/effect/proc_holder/spell/targeted/gnomecurse
+	qdel() Count: 1
+	Destroy() Cost: 0.016301ms
+Path: /obj/effect/proc_holder/spell/no_target/lay_egg
+	qdel() Count: 1
+	Destroy() Cost: 0.0162994ms
+Path: /obj/effect/proc_holder/spell/no_target/air_plant
+	qdel() Count: 1
+	Destroy() Cost: 0.0162994ms
+Path: /obj/effect/proc_holder/spell/turf
+	qdel() Count: 1
+	Destroy() Cost: 0.0161987ms
+Path: /obj/effect/proc_holder/spell/targeted/genetic
+	qdel() Count: 1
+	Destroy() Cost: 0.0158997ms
+Path: /obj/effect/proc_holder/spell/turf/fireball
+	qdel() Count: 1
+	Destroy() Cost: 0.0158997ms
+Path: /atom/movable/screen/alert/lowpressure
+	qdel() Count: 1
+	Destroy() Cost: 0.0156ms
+Path: /datum/wires/radio
+	qdel() Count: 2
+	Destroy() Cost: 0.0153011ms
+Path: /datum/quirk/child_of_nature
+	qdel() Count: 1
+	Destroy() Cost: 0.0149002ms
+Path: /datum/mood_event/fed
+	qdel() Count: 1
+	Destroy() Cost: 0.0139ms
+Path: /datum/mood_event/moderate_pain
+	qdel() Count: 1
+	Destroy() Cost: 0.0135ms
+Path: /datum/gas_mixture
+	qdel() Count: 2
+	Destroy() Cost: 0.0132997ms
+Path: /datum/quirk/light_step
+	qdel() Count: 1
+	Destroy() Cost: 0.0122004ms
+Path: /datum/quirk/multitasking
+	qdel() Count: 1
+	Destroy() Cost: 0.0115995ms
+Path: /datum/map_config
+	qdel() Count: 1
+	Destroy() Cost: 0.00990009ms
+Path: /datum/quality/quirkieish
+	qdel() Count: 1
+	Destroy() Cost: 0.00970078ms
+Path: /datum/religion_rites/instant/chaplain/death_alarm
+	qdel() Count: 1
+	Destroy() Cost: 0.0095993ms
+Path: /datum/quality/negativeish
+	qdel() Count: 1
+	Destroy() Cost: 0.00909996ms
+Path: /datum
+	qdel() Count: 1
+	Destroy() Cost: 0.00878906ms
+Path: /datum/mood_event/suffocation
+	qdel() Count: 1
+	Destroy() Cost: 0.00860004ms
+Path: /datum/quirk/strong_mind
+	qdel() Count: 1
+	Destroy() Cost: 0.00810051ms
+Path: /datum/quality/clumsy
+	qdel() Count: 1
+	Destroy() Cost: 0.00710106ms
+Path: /datum/recipe/grill/human
+	qdel() Count: 1
+	Destroy() Cost: 0.00679016ms
+Path: /datum/reagent/fuel
+	qdel() Count: 1
+	Destroy() Cost: 0.00650024ms
+Path: /datum/mechanic_tip/slippery
+	qdel() Count: 1
+	Destroy() Cost: 0.00620117ms
+Path: /datum/quirk/alcohol_tolerance
+	qdel() Count: 1
+	Destroy() Cost: 0.00619984ms
+Path: /datum/aspect/death
+	qdel() Count: 1
+	Destroy() Cost: 0.00610046ms
+Path: /datum/religion_rites/standing/revive_animal
+	qdel() Count: 1
+	Destroy() Cost: 0.00579987ms
+Path: /datum/quirk/high_pain_threshold
+	qdel() Count: 1
+	Destroy() Cost: 0.00559998ms
+Path: /datum/quality/positiveish
+	qdel() Count: 1
+	Destroy() Cost: 0.00550079ms
+Path: /datum/quirk/deafness
+	qdel() Count: 1
+	Destroy() Cost: 0.0053997ms
+Path: /datum/quirk/fast_equip
+	qdel() Count: 1
+	Destroy() Cost: 0.00529957ms
+Path: /datum/reagent/inaprovaline
+	qdel() Count: 1
+	Destroy() Cost: 0.0052002ms
+Path: /datum/quirk/freerunning
+	qdel() Count: 1
+	Destroy() Cost: 0.0050993ms
+Path: /datum/religion_rites/instant/chaplain
+	qdel() Count: 1
+	Destroy() Cost: 0.00500031ms
+Path: /datum/religion_rites/standing/legacy/charge
+	qdel() Count: 1
+	Destroy() Cost: 0.00500031ms
+Path: /datum/aspect/lightbending/light
+	qdel() Count: 1
+	Destroy() Cost: 0.00500031ms
+Path: /datum/quirk/nervous
+	qdel() Count: 1
+	Destroy() Cost: 0.00489998ms
+Path: /datum/quirk/nyctophobia
+	qdel() Count: 1
+	Destroy() Cost: 0.00489998ms
+Path: /datum/quirk/low_pain_threshold
+	qdel() Count: 1
+	Destroy() Cost: 0.00479984ms
+Path: /datum/quirk/nearsighted
+	qdel() Count: 1
+	Destroy() Cost: 0.00469971ms
+Path: /datum/quirk/stress_eater
+	qdel() Count: 1
+	Destroy() Cost: 0.00469971ms
+Path: /datum/quirk/mute
+	qdel() Count: 1
+	Destroy() Cost: 0.00469971ms
+Path: /datum/quirk/blindness
+	qdel() Count: 1
+	Destroy() Cost: 0.00469971ms
+Path: /datum/quirk/epileptic
+	qdel() Count: 1
+	Destroy() Cost: 0.00459957ms
+Path: /datum/quirk/daltonism
+	qdel() Count: 1
+	Destroy() Cost: 0.00459957ms
+Path: /datum/quirk/cough
+	qdel() Count: 1
+	Destroy() Cost: 0.00450039ms
+Path: /datum/quirk/light_drinker
+	qdel() Count: 1
+	Destroy() Cost: 0.00450039ms
+Path: /datum/quirk/fatness
+	qdel() Count: 1
+	Destroy() Cost: 0.00450039ms
+Path: /datum/quirk/genetic_degradation
+	qdel() Count: 1
+	Destroy() Cost: 0.00440025ms
+Path: /datum/quirk/tourette
+	qdel() Count: 1
+	Destroy() Cost: 0.00440025ms
+Path: /datum/quirk/no_taste
+	qdel() Count: 1
+	Destroy() Cost: 0.00440025ms
+Path: /datum/religion_rites/instant/cult/drain_torture
+	qdel() Count: 1
+	Destroy() Cost: 0.00410004ms
+Path: /datum/religion_rites/pedestals/cult/narsie
+	qdel() Count: 1
+	Destroy() Cost: 0.00410004ms
+Path: /datum/religion_rites/instant/cult/sacrifice
+	qdel() Count: 1
+	Destroy() Cost: 0.00400085ms
+Path: /datum/religion_sect/preset/chaplain/puritanism
+	qdel() Count: 1
+	Destroy() Cost: 0.00400085ms
+Path: /datum/religion_rites/instant
+	qdel() Count: 1
+	Destroy() Cost: 0.00390015ms
+Path: /datum/aspect/science
+	qdel() Count: 1
+	Destroy() Cost: 0.00390015ms
+Path: /datum/aspect/greed
+	qdel() Count: 1
+	Destroy() Cost: 0.00390015ms
+Path: /datum/aspect/lightbending/darkness
+	qdel() Count: 1
+	Destroy() Cost: 0.00380096ms
+Path: /datum/religion_rites/standing/swap/devaluation
+	qdel() Count: 1
+	Destroy() Cost: 0.00379944ms
+Path: /datum/religion_rites/instant/cult/convert
+	qdel() Count: 1
+	Destroy() Cost: 0.00370026ms
+Path: /datum/aspect/weapon
+	qdel() Count: 1
+	Destroy() Cost: 0.00370026ms
+Path: /datum/aspect/conjure
+	qdel() Count: 1
+	Destroy() Cost: 0.00360107ms
+Path: /datum/aspect/technology
+	qdel() Count: 1
+	Destroy() Cost: 0.00360107ms
+Path: /datum/aspect/lightbending
+	qdel() Count: 1
+	Destroy() Cost: 0.00360107ms
+Path: /datum/religion_rites/pedestals
+	qdel() Count: 1
+	Destroy() Cost: 0.00359955ms
+Path: /datum/religion_rites/standing/illuminate
+	qdel() Count: 1
+	Destroy() Cost: 0.00359955ms
+Path: /datum/aspect/chaos
+	qdel() Count: 1
+	Destroy() Cost: 0.00359955ms
+Path: /datum/religion_rites/standing/legacy
+	qdel() Count: 1
+	Destroy() Cost: 0.00350037ms
+Path: /datum/aspect/food
+	qdel() Count: 1
+	Destroy() Cost: 0.00350037ms
+Path: /datum/aspect/resources
+	qdel() Count: 1
+	Destroy() Cost: 0.00350037ms
+Path: /datum/religion_rites/standing/food
+	qdel() Count: 1
+	Destroy() Cost: 0.00349884ms
+Path: /datum/aspect/rescue
+	qdel() Count: 1
+	Destroy() Cost: 0.00349884ms
+Path: /datum/religion_rites/instant/cult/raise_torture
+	qdel() Count: 1
+	Destroy() Cost: 0.00340118ms
+Path: /datum/religion_rites/standing
+	qdel() Count: 1
+	Destroy() Cost: 0.00340118ms
+Path: /datum/religion_rites/instant/cult/emp
+	qdel() Count: 1
+	Destroy() Cost: 0.00339966ms
+Path: /datum/religion_rites/standing/pray
+	qdel() Count: 1
+	Destroy() Cost: 0.00339966ms
+Path: /datum/religion_rites/standing/spook
+	qdel() Count: 1
+	Destroy() Cost: 0.00339966ms
+Path: /datum/religion_rites/instant/impose_stun
+	qdel() Count: 1
+	Destroy() Cost: 0.00330048ms
+Path: /datum/religion_rites/pedestals/cult/cult_portal
+	qdel() Count: 1
+	Destroy() Cost: 0.00330048ms
+Path: /datum/religion_rites/standing/honk
+	qdel() Count: 1
+	Destroy() Cost: 0.00330048ms
+Path: /datum/aspect/wacky
+	qdel() Count: 1
+	Destroy() Cost: 0.00330048ms
+Path: /datum/religion_rites/standing/swap
+	qdel() Count: 1
+	Destroy() Cost: 0.00329895ms
+Path: /datum/religion_sect/preset/chaplain/bloodgods
+	qdel() Count: 1
+	Destroy() Cost: 0.00329895ms
+Path: /datum/aspect/mystic
+	qdel() Count: 1
+	Destroy() Cost: 0.00329895ms
+Path: /datum/religion_rites/instant/cult/create_slave
+	qdel() Count: 1
+	Destroy() Cost: 0.00319977ms
+Path: /datum/religion_rites/pedestals/cult/make_skeleton
+	qdel() Count: 1
+	Destroy() Cost: 0.00319977ms
+Path: /datum/religion_rites/standing/animation
+	qdel() Count: 1
+	Destroy() Cost: 0.00319977ms
+Path: /datum/religion_sect/custom/chaplain
+	qdel() Count: 1
+	Destroy() Cost: 0.00319977ms
+Path: /datum/religion_sect/preset/chaplain/technophile
+	qdel() Count: 1
+	Destroy() Cost: 0.00310059ms
+Path: /datum/religion_rites/instant/cult/summon_acolyt
+	qdel() Count: 1
+	Destroy() Cost: 0.00309906ms
+Path: /datum/religion_rites/instant/cult/give_forcearmor
+	qdel() Count: 1
+	Destroy() Cost: 0.00309906ms
+Path: /datum/religion_rites/pedestals/cult
+	qdel() Count: 1
+	Destroy() Cost: 0.00309906ms
+Path: /datum/religion_rites/standing/swap/upgrade
+	qdel() Count: 1
+	Destroy() Cost: 0.00309906ms
+Path: /datum/religion_rites/instant/communicate
+	qdel() Count: 1
+	Destroy() Cost: 0.0030014ms
+Path: /datum/religion_rites/instant/cult/brainswap
+	qdel() Count: 1
+	Destroy() Cost: 0.00299988ms
+Path: /datum/religion_rites/instant/cult/upgrade_tome
+	qdel() Count: 1
+	Destroy() Cost: 0.00299988ms
+Path: /datum/religion_rites/instant/impose_blind
+	qdel() Count: 1
+	Destroy() Cost: 0.00299988ms
+Path: /datum/religion_rites/instant/impose_deaf
+	qdel() Count: 1
+	Destroy() Cost: 0.00299988ms
+Path: /datum/religion_rites/instant/cult
+	qdel() Count: 1
+	Destroy() Cost: 0.0029007ms
+Path: /datum/religion_sect/preset/chaplain/clown
+	qdel() Count: 1
+	Destroy() Cost: 0.0029007ms

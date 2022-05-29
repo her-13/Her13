@@ -1,0 +1,31 @@
+[19:28:24]TGUI: fatfat in browseroutput/initialize
+[19:28:39]TGUI: fatfat (as FatFat at (8,174,1))
+Using: /datum/tgui_modal [0x21000930]
+new AlertModal fancy 1
+[19:28:39]TGUI: fatfat in tgui-window-1/initialize
+Using: /datum/tgui_modal [0x21000930]
+[19:28:40]TGUI: fatfat (as FatFat at (8,174,1)) in tgui-window-1
+Using: /datum/tgui_modal [0x21000930]
+Action: choose {"choice":"Yes"}
+[19:28:40]TGUI: fatfat in tgui-window-1/close (suspending)
+[19:30:37]TGUI: fatfat (as Cory Sloan at (60,141,2))
+Using: /datum/tgui_modal [0x2100920d]
+new AlertModal fancy 1
+[19:30:38]TGUI: fatfat (as Cory Sloan at (60,141,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x2100920d]
+Action: choose {"choice":"Yes"}
+[19:30:38]TGUI: fatfat in tgui-window-1/close (suspending)
+[19:31:14]TGUI: fatfat (as the unknown at (58,142,2))
+Using: /datum/tgui_modal [0x21024e4c]
+new AlertModal fancy 1
+[19:31:15]TGUI: fatfat (as the unknown at (58,142,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x21024e4c]
+Action: choose {"choice":"Yes"}
+[19:31:15]TGUI: fatfat in tgui-window-1/close (suspending)
+[19:32:22]TGUI: fatfat (as the unknown at (57,140,2))
+Using: /datum/tgui_modal [0x21024b8d]
+new AlertModal fancy 1
+[19:32:23]TGUI: fatfat (as the unknown at (57,140,2)) in tgui-window-1
+Using: /datum/tgui_modal [0x21024b8d]
+Action: choose {"choice":"Yes"}
+[19:32:23]TGUI: fatfat in tgui-window-1/close (suspending)
