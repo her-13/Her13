@@ -1,0 +1,13 @@
+#ignore misc BYOND files
+*.log
+*.int
+*.rsc
+*.dmb
+*.lk
+*.backup
+taucetistation.dmb
+Thumbs.db
+data/
+cfg/
+.vscode
+**/MapFXDrawer/*.png
