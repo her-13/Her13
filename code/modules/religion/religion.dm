@@ -4,8 +4,14 @@
 */
 
 // Create a religion. You must declare proc/setup_religions() of religion
-/proc/create_religion(type)
-	return new type
+var/global/list/religions
+
+/proc/create_religion(name, type)
+	if(LAZYACCESS(global.religions, name))
+		return global.religions[name]
+
+	LAZYSET(global.religions, name, new type)
+	return global.religions[name]
 
 /datum/religion
 	// The name of this religion.

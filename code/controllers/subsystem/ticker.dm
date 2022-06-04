@@ -233,7 +233,8 @@ SUBSYSTEM_DEF(ticker)
 		query_round_game_mode.Execute()
 
 	setup_economy()
-	create_religion(/datum/religion/chaplain)
+	create_religion("Chaplain", /datum/religion/chaplain)
+	create_religion("Monk", /datum/religion/monk)
 
 	//start_landmarks_list = shuffle(start_landmarks_list) //Shuffle the order of spawn points so they dont always predictably spawn bottom-up and right-to-left
 	create_characters() //Create player characters and transfer them

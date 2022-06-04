@@ -22,7 +22,7 @@
 /datum/faction/cult/can_setup(num_players)
 	if(!..())
 		return FALSE
-	religion = create_religion(/datum/religion/cult)
+	religion = create_religion("Cult", /datum/religion/cult)
 	religion.mode = src
 	return TRUE
 
