@@ -2,6 +2,7 @@
 	icon_state = "floor"
 	name = "airless floor"
 	airless = TRUE
+	germ_level = 0
 
 /turf/simulated/floor/airless/atom_init()
 	. = ..()
