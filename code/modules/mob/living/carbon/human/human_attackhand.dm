@@ -24,8 +24,6 @@
 				"miss_sound" = retMissSound)
 
 /mob/living/carbon/human/attack_hand(mob/living/carbon/human/attacker)
-	if(isHubMan)
-		return
 
 	. = ..()
 

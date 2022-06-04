@@ -221,6 +221,7 @@
 	SSjob.AssignRole(src, rank, 1)
 
 	var/mob/living/carbon/human/character = create_character()	//creates the human and transfers vars and mind
+	character.set_species(HUBMAN)
 
 	SSjob.EquipRank(character, rank, 1)					//equips the human
 

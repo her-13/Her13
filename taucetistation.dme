@@ -442,6 +442,7 @@
 #include "code\game\Event\CharacterSpawner.dm"
 #include "code\game\Event\chickenCurseLifring.dm"
 #include "code\game\Event\dragon.dm"
+#include "code\game\Event\homm_species.dm"
 #include "code\game\Event\Hub_wormhole.dm"
 #include "code\game\Event\ladder.dm"
 #include "code\game\Event\lepr_area.dm"

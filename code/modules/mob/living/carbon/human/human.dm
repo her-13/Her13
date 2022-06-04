@@ -19,7 +19,6 @@
 	var/gnomed = 0 // timer used by gnomecurse.dm
 	var/homm_species = 0
 	var/hulk_activator = null
-	var/isHubMan = TRUE
 
 	var/last_massage = 0
 	var/massages_done_right = 0
