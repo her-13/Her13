@@ -25,7 +25,10 @@
 	)
 
 	binding_rites = list(
-
+		/datum/religion_rites/standing/consent/invite,
+		/datum/religion_rites/instant/communicate,
+		/datum/religion_rites/instant/spawn_item/cult/talisman,
+		/datum/religion_rites/standing/illuminate,
 	)
 
 	bible_type = /obj/item/weapon/storage/bible
