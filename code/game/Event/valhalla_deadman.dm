@@ -5,17 +5,9 @@
 	universal_understand = TRUE
 	bodyparts = list()
 
-/mob/living/carbon/human/skeleton/valhalla/gib()
-	return
-
-/mob/living/carbon/human/skeleton/valhalla/dust()
-	return
-
-/mob/living/carbon/human/skeleton/valhalla/attack_hand(mob/living/carbon/human/attacker)
-	return
-
-/mob/living/carbon/human/skeleton/valhalla/attackby(obj/item/I, mob/user, params)
-	return
+/mob/living/carbon/human/skeleton/valhalla/atom_init()
+	..()
+	set_species(DEADMAN)
 
 // This is copypaste of death proc of human, but only necessary ones are left
 /mob/living/carbon/human/skeleton/valhalla/death()
