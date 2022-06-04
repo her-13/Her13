@@ -98,7 +98,10 @@
 
 // This proc is used to sacrifice all items on altar. Returns TRUE if at least something was sacrificed.
 /obj/structure/altar_of_gods/proc/sacrifice(mob/user)
-	if(!religion || !religion.aspects.len)
+	if(!religion)
+		to_chat(user, "<span class='warning'>First do a binding ceremony with your religious tool!</span>")
+		return FALSE
+	if(religion.has_aspects && !religion.aspects.len))
 		to_chat(user, "<span class ='warning'>First choose aspects in your religion!</span>")
 		return FALSE
 

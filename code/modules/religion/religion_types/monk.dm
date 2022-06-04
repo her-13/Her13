@@ -31,6 +31,8 @@
 		/datum/religion_rites/standing/illuminate,
 	)
 
+	has_aspects = FALSE
+
 	bible_type = /obj/item/weapon/storage/bible
 	religious_tool_type = /obj/item/weapon/storage/bible
 	area_type = /area/station/civilian/chapel
