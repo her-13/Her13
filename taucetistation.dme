@@ -2109,6 +2109,7 @@
 #include "code\modules\religion\altar_types\cult\altar_of_gods.dm"
 #include "code\modules\religion\religion_types\chaplain.dm"
 #include "code\modules\religion\religion_types\cult.dm"
+#include "code\modules\religion\religion_types\monk.dm"
 #include "code\modules\religion\rites\instant\death_alarm.dm"
 #include "code\modules\religion\rites\instant\instant.dm"
 #include "code\modules\religion\rites\instant\spawn_item.dm"

@@ -86,7 +86,7 @@
 	if(ready == "Нет")
 		selecting_job = FALSE
 		return
-	INVOKE_ASYNC(global.chaplain_religion, /datum/religion/chaplain.proc/create_by_chaplain, user)
+	global.monk_religion.add_member(user, HOLY_ROLE_HIGHPRIEST)
 	user.AddSpell(new /obj/effect/proc_holder/spell/in_hand/arcane_barrage)
 	user.mutations.Add(TK)
 	user.verbs += /mob/living/carbon/human/proc/remotesay

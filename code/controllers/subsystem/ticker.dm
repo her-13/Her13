@@ -234,6 +234,7 @@ SUBSYSTEM_DEF(ticker)
 
 	setup_economy()
 	create_religion(/datum/religion/chaplain)
+	create_religion(/datum/religion/monk)
 
 	//start_landmarks_list = shuffle(start_landmarks_list) //Shuffle the order of spawn points so they dont always predictably spawn bottom-up and right-to-left
 	create_characters() //Create player characters and transfer them
