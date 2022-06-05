@@ -10,7 +10,7 @@
 /obj/item/lootbox/attack_self(mob/user)
 	if(!isbusy) // cant open the box if we are already opening it
 		isbusy = TRUE
-		playsound(src, 'sound/effects/lootbox.ogg', 200)
+		playsound(src, 'sound/effects/lootbox.ogg', VOL_EFFECTS_MASTER, vol=200)
 		user.visible_message("<span class='notice'>[user] пытается открыть [src]!</span>")
 		if(do_after(user, 30, target = src)) // progress bar
 			// chance you get something good goes up if we have a clover

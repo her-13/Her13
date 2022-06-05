@@ -136,7 +136,7 @@
 	swooping &= ~SWOOP_INVULNERABLE
 	mouse_opacity = initial(mouse_opacity)
 	icon_state = "dragon"
-	playsound(loc, 'sound/effects/meteorimpact.ogg', 200, TRUE)
+	playsound(loc, 'sound/effects/meteorimpact.ogg', VOL_EFFECTS_MASTER, vol=200, TRUE)
 	for(var/mob/living/L in orange(1, src))
 		if(L.stat)
 			L.gib()
