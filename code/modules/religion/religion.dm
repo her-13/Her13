@@ -79,8 +79,6 @@
 	// Maybe I'll make this field protected and make getters and setters.
 	var/piety = 0
 
-	// Whether the religion even uses aspect system.
-	var/has_aspects = TRUE
 	// Chosen aspects, name = aspect
 	var/list/aspects = list()
 	// Spells that are determined by aspect combinations, are given to God.
