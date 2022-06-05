@@ -93,7 +93,7 @@
 	var/list/debug = list()
 
 /obj/effect/portal/hub/job_room/whitelist_room/atom_init()
-	..()
+	. = ..()
 	mod = threshold
 	for(var/P in portals)
 		debug += P
