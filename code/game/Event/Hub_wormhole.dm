@@ -6,7 +6,8 @@
 	icon_state = "bluespace_wormhole_enter"
 	failchance = 0
 
-/obj/effect/portal/hub/atom_init()
+/obj/effect/portal/hub/atom_init(mapload, turf/target, creator = null, lifespan = 300)
+	. = ..(lifespan=0)
 	possible_tile = get_area_turfs(get_area_by_type(A))
 	target = pick(possible_tile)
 
@@ -40,12 +41,12 @@
 	portals += src
 
 /obj/effect/portal/hub/job_room/Bumped(mob/M)
-	if(solo)
-		if(job_count > 0)
-			to_chat(M, "<span class='notice'>Эта профессия уникальна и уже занята</span>")
-			return
+	if(solo && job_count > 0)
+		to_chat(M, "<span class='notice'>Эта профессия уникальна и уже занята</span>")
+		return
+
 	job_count += 1
-		..()
+	return ..()
 
 //ЭРАФИЯ
 
