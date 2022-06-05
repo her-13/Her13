@@ -359,11 +359,13 @@
 	if(!abandon_allowed)
 		to_chat(usr, "<span class='notice'>Respawn is disabled.</span>")
 		return
+	//<her13-addition>
 	if(istype(usr,/mob/living/carbon/human/skeleton/valhalla))
 		old_mob = usr
 	if(stat != DEAD && !istype(usr,/mob/living/carbon/human/skeleton/valhalla) || !SSticker)
 		to_chat(usr, "<span class='notice'><B>You must be dead to use this!</B></span>")
 		return
+	//<her13-addition>
 	else
 		var/deathtime = world.time - src.timeofdeath
 		if(isobserver(src))
