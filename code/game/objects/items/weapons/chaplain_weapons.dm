@@ -246,7 +246,12 @@
 
 /obj/item/weapon/nullrod/staff/attack_self(mob/living/carbon/human/user)
 	if(user.mind && user.mind.holy_role >= HOLY_ROLE_HIGHPRIEST)
+		/*<her13-del>
+		if(user.my_religion.aspects.len == 0)
+		</her13-del>*/
+		//<her13-add>
 		if(user.my_religion.has_aspects && user.my_religion.aspects.len == 0)
+		//</her13-add>
 			to_chat(user, "<span class ='warning'>First choose aspects in your religion!</span>")
 			return
 		if(!brainmob && !searching)
