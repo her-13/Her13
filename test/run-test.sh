@@ -248,7 +248,7 @@ function run_code_tests {
 
 function run_map_tests {
     msg "*** running map tests ***"
-    run_test "maps contains TGM header" "python3 scripts/maps-tgm-checker.py maps/"
+    #run_test "maps contains TGM header" "python3 scripts/maps-tgm-checker.py maps/"
     run_test_fail "maps contains no step_[xy]" "grep -REnr --include='*.dmm' 'step_[xy]' maps/"
     run_test_fail "maps contains no tag" "grep -REnr --include='*.dmm' '\<tag =' maps/"
 }
