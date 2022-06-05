@@ -732,6 +732,7 @@
 
 /datum/reagent/consumable/ethanol/reaction_turf(turf/T, volume)
 	T.decrease_germ_level(min(volume * boozepwr, T.get_germ_level()))
+	return ..()
 
 /datum/reagent/consumable/ethanol/beer
 	name = "Beer"

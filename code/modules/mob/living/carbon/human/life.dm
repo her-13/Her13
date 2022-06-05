@@ -914,9 +914,9 @@
 				I.decrease_germ_level(3)
 			var/I_g_level = I.get_germ_level()
 			if(I_g_level > 1 && I_g_level > g_level)
-				I.increase_germ_level(1(I_g_level / INFECTION_LEVEL_ONE), I)
+				I.increase_germ_level((I_g_level / INFECTION_LEVEL_ONE), I)
 			else if(g_level > 0 && g_level > I_g_level && prob(20))
-				I.increase_germ_level(1(g_level / INFECTION_LEVEL_ONE), src)
+				I.increase_germ_level((g_level / INFECTION_LEVEL_ONE), src)
 
 	return 1
 
