@@ -37,8 +37,8 @@
 	var/global/list/portals = list()
 
 /obj/effect/portal/hub/job_room/atom_init()
-	..()
-	portals += src
+	. = ..()
+	src.portals += src
 
 /obj/effect/portal/hub/job_room/Bumped(mob/M)
 	if(solo && job_count > 0)
