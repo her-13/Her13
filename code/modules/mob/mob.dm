@@ -420,11 +420,11 @@
 	set name = "Observe"
 	set category = "OOC"
 	var/is_admin = FALSE
-
+//<her13-addition>
 	if(!(client in admins))
 		to_chat(src, "<span class='red'>Призраки только для членов админ-клуба.</span>")
 		return
-
+//<her13-addition>
 	if(client.holder && (client.holder.rights & R_ADMIN))
 		is_admin = TRUE
 	else if(stat != DEAD || isnewplayer(src) || jobban_isbanned(src, "Observer"))
