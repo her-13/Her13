@@ -323,7 +323,7 @@
 		if (virus2.len > 0)
 			if (prob(10) && get_infection_chance(src))
 				for(var/mob/living/carbon/M in view(1,src))
-					src.spread_disease_to(M, "Airborne")
+					spread_disease_to(M, "Airborne")
 
 /mob/living/carbon/human/get_breath_from_internal(volume_needed)
 	if(!internal)
