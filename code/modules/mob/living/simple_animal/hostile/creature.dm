@@ -74,7 +74,7 @@
 	..()
 	var/mob/living/L = target
 	if(isChickenCurse)
-		if(isliving(L)&&((istype(L,/mob/living/carbon/human))||(istype(L,/mob/living/simple_animal/hostile/beholder))))
+		if(isliving(L)&&((ishuman(L))||(istype(L,/mob/living/simple_animal/hostile/beholder))))
 			L.MyTrueNotChikenBody = target
 			var/mob/living/simple_animal/chicken/C = new/mob/living/simple_animal/chicken(L.loc)
 			if(L.mind)
