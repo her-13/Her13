@@ -1450,7 +1450,7 @@
 
 	var/datum/dirt_cover/dirt/dirt = new /datum/dirt_cover/dirt
 
-	if(istype(hit_atom, /mob/living/carbon/human))
+	if(ishuman(hit_atom))
 		var/mob/living/carbon/human/H = hit_atom
 		H.crawl_in_blood(dirt)
 	else
