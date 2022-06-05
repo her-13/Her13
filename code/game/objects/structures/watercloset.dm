@@ -721,7 +721,7 @@ ADD_TO_GLOBAL_LIST(/obj/structure/toilet, toilet_list)
 	density = 1
 
 /obj/structure/sink/fontain/atom_init()
-
+	..()
 	if(dir in list(EAST, WEST))
 		bound_width  = 2* world.icon_size
 		bound_height = 2 * world.icon_size

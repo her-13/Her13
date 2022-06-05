@@ -11,6 +11,7 @@
 	var/target
 	var/selecting_job = FALSE
 	var/arrive_sound
+	var/datum/species/homm_species = HUMAN
 
 /obj/structure/character_spawner/attack_hand(mob/living/carbon/human/user)
 	if(!selecting_job)
@@ -27,8 +28,8 @@
 	user.equipOutfit(outfit)
 	possible_tile = get_area_turfs(get_area_by_type(A))
 	target = pick(possible_tile)
-	user.isHubMan = FALSE
 	user.loc = target
+	user.set_species(homm_species)
 	selecting_job = FALSE
 	if(arrive_sound)
 		playsound(user,arrive_sound, VOL_EFFECTS_MASTER)
@@ -111,6 +112,7 @@
 	outfit = /datum/outfit/job/hub/lepr
 	A =/area/custom/start_homm/lepr
 	arrive_sound = 'sound/Event/headman.ogg'
+	homm_species = LEPR
 
 /obj/structure/character_spawner/lepr/attack_hand(mob/living/carbon/human/user) // only a human can become lepr
 	..()
