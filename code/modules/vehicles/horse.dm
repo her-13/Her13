@@ -12,7 +12,7 @@
 		pixel_y = -5
 
 /obj/vehicle/space/spacebike/horse/atom_init()
-	..()
+	. = ..()
 	turn_on()
 
 /obj/vehicle/space/spacebike/update_icon()

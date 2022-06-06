@@ -4,11 +4,11 @@ name: 'Check for merge conflicts'
 on:
   push:
     branches:
-      - master
+      - main
 jobs:
   triage:
     runs-on: ubuntu-latest
-    if: github.repository == 'TauCetiStation/TauCetiClassic'
+    if: github.repository == 'her-13/Her13'
     steps:
       - uses: mschilde/auto-label-merge-conflicts@2e8fcc76c6430272ec8bb64fb74ec1592156aa6a
         with:

@@ -24,11 +24,11 @@
 	C = new_overmind
 	if(!C)
 		return FALSE
-	var/mob/camera/treeofgreed/B = new(src.loc)
+	var/mob/camera/treeofgreed/B = new(loc)
 	B.key = C.key
 	B.tree_of_greed_core = src
-	src.overmind = B
-	src.overmind.setLoc(loc)
+	overmind = B
+	overmind.setLoc(loc)
 	return TRUE
 
 /// СТВОЛЫ ДРЕВА

@@ -49,10 +49,8 @@
 	var/extended_inventory = 0 //can we access the hidden inventory?
 	var/obj/item/weapon/coin/coin
 	var/obj/item/weapon/vending_refill/refill_canister = null		//The type of refill canisters used by this machine.
-
 	var/check_accounts = 1		// 1 = requires PIN and checks accounts.  0 = You slide an ID, it vends, SPACE COMMUNISM!
 	var/obj/item/weapon/spacecash/ewallet/ewallet
-	var/moneyIn = 0
 	var/datum/wires/vending/wires = null
 	var/scan_id = TRUE
 
@@ -185,30 +183,6 @@
 		coin = W
 		to_chat(user, "<span class='notice'>You insert the [W] into the [src]</span>")
 		return
-
-	else if(istype(W, /obj/item/stack/money))
-		var/obj/item/stack/money/M = W
-		if(M.amount < 0)
-			to_chat(usr, "<span class='notice'>Денег больше нет...</span>")
-			return
-		M.amount -= 1
-		if(M.denomination <= 0)
-			for(var/obj/item/clover/lucky/CL in user.contents)
-				if(istype(CL, /obj/item/clover/lucky))
-					if(prob(50))
-						M.denomination =-M.denomination
-						to_chat(user, "<span class='warning'>Ваша сказочная удача, позволила вам обмануть портал.</span>")
-						new /obj/effect/effect/luck(get_turf(user))
-					else
-						to_chat(user, "<span class='warning'>Всемирный Леприконский Банк опознал вашу фальшивую монету. Ну и ну! На этот портал наложен штраф. Слава ВЛБ.</span>")
-				else
-					to_chat(user, "<span class='warning'>Всемирный Леприконский Банк опознал вашу фальшивую монету. Ну и ну! На этот портал наложен штраф. Слава ВЛБ.</span>")
-		moneyIn += M.denomination
-		to_chat(user, "<span class='notice'>[M] отправлен в [src]</span>")
-		playsound(usr, 'sound/effects/coin_ins.ogg',VOL_EFFECTS_MASTER)
-		M.update_icon()
-		return
-
 	else if(iswrench(W))	//unwrenching vendomats
 		var/turf/T = user.loc
 		if(user.is_busy(src))
@@ -373,12 +347,16 @@
 			return
 
 	var/vendorname = name  //import the machine's name
-
+	/*<her13-del>
 	if(currently_vending)
-		check_money(currently_vending,user)
-		currently_vending = null
+		var/dat
+		dat += "<b>You have selected [currently_vending.product_name].<br>Please swipe your ID to pay for the article.</b><br>"
+		dat += "<a href='byond://?src=\ref[src];cancel_buying=1'>Cancel</a>"
+		var/datum/browser/popup = new(user, "window=vending", "[vendorname]", 450, 600)
+		popup.set_content(dat)
+		popup.open()
 		return
-
+	</her13-del>*/
 	var/dat
 	dat += "<div class='Section__title'>Products</div>"
 	dat += "<div class='Section'>"
@@ -490,18 +468,6 @@
 		return
 
 	updateUsrDialog()
-
-/obj/machinery/vending/proc/check_money(datum/data/vending_product/R,mob/user)
-	if(R.price > moneyIn)
-		to_chat(usr, "<span class='warning'>Не хватает денег.</span>")
-		updateUsrDialog()
-		return
-	else
-		vend(src.currently_vending, usr)
-		currently_vending = null
-		moneyIn -= R.price
-		updateUsrDialog()
-
 
 /obj/machinery/vending/proc/vend(datum/data/vending_product/R, mob/user)
 	if (!allowed(user) && !emagged && scan_id) //For SECURE VENDING MACHINES YEAH

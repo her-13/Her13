@@ -181,3 +181,66 @@
 	icon_state = "reagent_grinder"+num2text(!isnull(beaker))
 	return
 
+/obj/machinery/hydroponics/compost_pit
+	name = "Compost Pit"
+	icon = 'icons/obj/hydroponics/compost_pit.dmi'
+	icon_state = "compost_pit"
+	desc = "Wooden building with rotting food that turns into fertilizer compost"
+	density = TRUE
+	anchored = TRUE
+	unwrenchable = TRUE
+	var/time_composting = 30 SECOND
+	var/nutriment_count = 0
+
+/obj/machinery/hydroponics/compost_pit/attackby(obj/item/O, mob/user)
+	if(!istype(O, /obj/item/weapon/reagent_containers/food))
+		return
+
+	var/obj/item/weapon/reagent_containers/food/I = O
+
+	nutriment_count += min(5, I.reagents.get_reagent_amount("nutriment") * 10 * 2)
+
+	generate_compost(nutriment_count)
+
+	user.drop_item()
+	qdel(O)
+
+/obj/machinery/hydroponics/compost_pit/attack_hand(mob/user)
+	var/msg = "Nutriment count: [nutriment_count]"
+	to_chat(user, msg)
+
+/obj/machinery/hydroponics/compost_pit/proc/generate_compost()
+	addtimer(CALLBACK(src, .proc/drop_compost), time_composting)
+
+/obj/machinery/hydroponics/compost_pit/proc/drop_compost()
+	if(nutriment_count < 10)
+		return
+
+	while(nutriment_count >= 10)
+		var/obj/item/nutrient/compost/compost = new /obj/item/nutrient/compost(get_turf(src))
+		compost.pixel_x = -10 + rand(-3, 3)
+		compost.pixel_y = -10 + rand(-3, 3)
+		nutriment_count -= 10
+
+/obj/item/nutrient/compost
+	name = "compost"
+	icon = 'icons/obj/food.dmi'
+	icon_state = "badrecipe"
+	mutmod = 1
+	yieldmod = 1
+
+/obj/item/nutrient/compost/throw_impact(atom/hit_atom, datum/thrownthing/throwingdatum)
+
+	var/obj/effect/decal/cleanable/poop = new /obj/effect/decal/cleanable/vomit(loc)
+	poop.color = "#210c02"
+
+	var/datum/dirt_cover/dirt/dirt = new /datum/dirt_cover/dirt
+
+	if(ishuman(hit_atom))
+		var/mob/living/carbon/human/H = hit_atom
+		H.crawl_in_blood(dirt)
+	else
+		hit_atom.add_dirt_cover(dirt)
+
+	visible_message("<span class='rose'>\The [src.name] has been squashed.</span>", "<span class='rose'>You hear a squelch.</span>")
+	qdel(src)

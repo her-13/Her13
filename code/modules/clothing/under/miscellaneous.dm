@@ -796,33 +796,3 @@
 	desc = "Pair of old jeans combined with a red tank-top"
 	icon_state = "kung_suit"
 	w_class = SIZE_SMALL
-
-/obj/item/clothing/under/peasant
-	name = "Одежда Селюка"
-	desc = "Дырка на жопе. И не только на жопе. И не только дырка"
-	icon_state = "peasant"
-	item_state = "peasant"
-
-/obj/item/clothing/under/peasant_fem
-	name = "Одежда Селюка"
-	desc = "Дырка на жопе. И не только на жопе. И не только дырка"
-	icon_state = "peasant_fem"
-	item_state = "peasant_fem"
-
-/obj/item/clothing/under/smith
-	name = "Одежда Кузнеца"
-	desc = "Веет уютом"
-	icon_state = "smith"
-	item_state = "smith"
-
-/obj/item/clothing/under/innkeeper
-	name = "Одежда Трактирщика"
-	desc = "Веет уютом"
-	icon_state = "inn"
-	item_state = "inn"
-
-/obj/item/clothing/under/lepr
-	name = "Форма Жадности"
-	desc = "2/3 бюджета всей Эрафии , в этом костюме"
-	icon_state = "lepr"
-	item_state = "lepr"

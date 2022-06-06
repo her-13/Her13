@@ -101,11 +101,6 @@
 	..()
 	playsound(src, pick(SOUNDIN_CLOWNSTEP), VOL_EFFECTS_MASTER)
 
-/obj/item/clothing/shoes/lepr
-	name = "Ботинки Жадности"
-	desc = "С потайными местами для заначек"
-	icon_state = "lepr"
-
 /obj/item/clothing/shoes/jolly_gravedigger
 	name = "jolly gravedigger shoes"
 	desc = "Traditional funereal ceremony shoes originating from poor areas."
