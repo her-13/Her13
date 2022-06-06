@@ -47,3 +47,6 @@
 /datum/religion/monk/setup_religions()
 	global.monk_religion = src
 	all_religions += src
+
+	for(var/obj/structure/altar_of_gods/monk/M as anything in monk_altars)
+		M.attach_religion(src)

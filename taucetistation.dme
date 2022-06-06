@@ -1562,6 +1562,7 @@
 #include "code\modules\food\recipes_oven.dm"
 #include "code\modules\genetics\side_effects.dm"
 #include "code\modules\goonchat\browserOutput.dm"
+#include "code\modules\Her13Event\religion\altar.dm"
 #include "code\modules\Her13Event\religion\monk.dm"
 #include "code\modules\Her13Event\religion\religion.dm"
 #include "code\modules\holiday\holidays.dm"
