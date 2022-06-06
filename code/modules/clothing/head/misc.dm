@@ -367,6 +367,21 @@
 	name = "green hood"
 	icon_state = "green_hood"
 
+/obj/item/clothing/head/headman
+	name = "Шапка Старосты"
+	desc = "Вау, вот это шляпа"
+	icon_state = "headman_hat"
+	item_state = "headman_hat"
+
+
+/obj/item/clothing/head/inn
+	name = "Бандана Трактирщика"
+	desc = "На случай если вам не нравится лысина"
+	icon_state = "inn_hat"
+	item_state = "inn_hat"
+
+
+
 /obj/item/clothing/head/angel_nimb
 	name = "nimb"
 	desc = "Just a Nimb"
@@ -418,3 +433,16 @@
 	desc = "Stripe of red cloth.You can wear it on your head."
 	icon_state = "kung_headband"
 	item_state = "kung_headband"
+
+/obj/item/clothing/head/monk_helper
+	name = "Простой капюшон"
+	desc = "Отстегивающийся капюшон в средневековье! Очень прогрессивно"
+	flags = HEADCOVERSEYES | BLOCKHAIR
+	icon_state = "monk_helper"
+	item_state = "monk_helper"
+
+/obj/item/clothing/head/lepr
+	name = "Шляпа Жадности"
+	desc = "+2 к Удаче"
+	icon_state = "lepr"
+	item_state = "lepr"

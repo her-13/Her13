@@ -155,7 +155,7 @@
 		user.remove_from_mob(src)
 		user.put_in_hands(W)
 		qdel(src)
-		to_chat(user, "<span class='notice'> Здесь написано: <span class='emojify'>[targName]</span>.")
+		to_chat(user, "<span class='notice'> Здесь написано: <span class='emojify'>[targName]</span>.</span>")
 		return
 
 /obj/item/weapon/melee/whip

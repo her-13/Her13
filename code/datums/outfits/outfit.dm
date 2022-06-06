@@ -163,9 +163,14 @@
 	H.species.species_equip(H, src)	// replaces human outfit on species outfit
 
 	//Start with uniform,suit,backpack for additional slots
+	/*<her13-del>
+	if(uniform_f && H.use_skirt)
+		uniform = uniform_f
+	<her13-del>*/
+	//<her13-add>
 	if(uniform_f && H.gender == FEMALE)
 		uniform = uniform_f
-
+	//<her13-add>
 	var/list/slot2type = list(
 		"[SLOT_BACK]"        = back,
 		"[SLOT_WEAR_MASK]"   = mask,
