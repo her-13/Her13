@@ -29,6 +29,7 @@
 		/datum/religion_rites/instant/communicate,
 		/datum/religion_rites/instant/spawn_item/cult/talisman,
 		/datum/religion_rites/standing/illuminate,
+		/datum/religion_rites/standing/pray,
 	)
 
 	has_aspects = FALSE
