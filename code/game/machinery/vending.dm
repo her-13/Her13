@@ -49,7 +49,6 @@
 	var/extended_inventory = 0 //can we access the hidden inventory?
 	var/obj/item/weapon/coin/coin
 	var/obj/item/weapon/vending_refill/refill_canister = null		//The type of refill canisters used by this machine.
-
 	var/check_accounts = 1		// 1 = requires PIN and checks accounts.  0 = You slide an ID, it vends, SPACE COMMUNISM!
 	var/obj/item/weapon/spacecash/ewallet/ewallet
 	var/datum/wires/vending/wires = null
@@ -348,6 +347,16 @@
 			return
 
 	var/vendorname = name  //import the machine's name
+	/*<her13-del>
+	if(currently_vending)
+		var/dat
+		dat += "<b>You have selected [currently_vending.product_name].<br>Please swipe your ID to pay for the article.</b><br>"
+		dat += "<a href='byond://?src=\ref[src];cancel_buying=1'>Cancel</a>"
+		var/datum/browser/popup = new(user, "window=vending", "[vendorname]", 450, 600)
+		popup.set_content(dat)
+		popup.open()
+		return
+	</her13-del>*/
 	var/dat
 	dat += "<div class='Section__title'>Products</div>"
 	dat += "<div class='Section'>"
