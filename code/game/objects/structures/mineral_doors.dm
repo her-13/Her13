@@ -280,58 +280,6 @@
 	sheetType = /obj/item/stack/sheet/wood
 	operating_sound = 'sound/effects/doorcreaky.ogg'
 
-
-// VILAGE
-
-/obj/structure/mineral_door/wood/peasant
-	name = "Дверь Крестьянина"
-	req_one_access = list(access_peasant)
-
-/obj/structure/mineral_door/metal/barraks
-	name = "Дверь Барраков"
-	req_access = list(access_knight)
-
-/obj/structure/mineral_door/wood/mon
-	name = "Дверь Монастыря"
-	req_one_access = list(access_helper)
-
-/obj/structure/mineral_door/wood/doctor
-	name = "Дверь Больницы"
-	req_one_access = list(access_plague)
-
-/obj/structure/mineral_door/wood/inn
-	name = "Дверь Трактира"
-	req_one_access = list(access_innkeeper)
-
-/obj/structure/mineral_door/wood/headman
-	name = "Дверь Старосты"
-	req_one_access = list(access_headman)
-
-/obj/structure/mineral_door/metal/headman
-	name = "Оружейная"
-	req_access = list(access_headman)
-
-/obj/structure/mineral_door/wood/inn1
-	name = "Комната 1"
-	req_access = list(access_innkeeper,access_inn1)
-
-/obj/structure/mineral_door/wood/inn2
-	name = "Комната 2"
-	req_access = list(access_innkeeper,access_inn2)
-
-/obj/structure/mineral_door/wood/inn3
-	name = "Комната 3"
-	req_access = list(access_innkeeper,access_inn3)
-
-/obj/structure/mineral_door/wood/monk
-	name = "Дверь Монаха"
-	req_one_access = list(access_monk)
-
-/obj/structure/mineral_door/wood/hero
-	name = "Дверь Лорда"
-	req_one_access = list(access_hero)
-
-
 /obj/structure/mineral_door/wood/attackby(obj/item/weapon/W, mob/user)
 	if(istype(W, /obj/item/weapon/fireaxe))
 		if(user.is_busy())
