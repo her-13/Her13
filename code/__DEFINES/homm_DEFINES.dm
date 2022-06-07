@@ -1,7 +1,7 @@
-//ะภัÛ
+//ะ ะะกะซ
 #define HUBMAN         "Hubman"
 #define DEADMAN        "Deadman"
 #define LEPR           "Lepr"
 
-//ลยลอา
+//ะ•ะ’ะ•ะะข
 #define EVENT_LEVEL_HOMM 5
