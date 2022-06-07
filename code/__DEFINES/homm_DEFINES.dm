@@ -2,3 +2,6 @@
 #define HUBMAN         "Hubman"
 #define DEADMAN        "Deadman"
 #define LEPR           "Lepr"
+
+//ебемр
+#define EVENT_LEVEL_HOMM 5
