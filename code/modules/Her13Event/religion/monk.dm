@@ -50,3 +50,7 @@
 
 	for(var/obj/structure/altar_of_gods/monk/M as anything in monk_altars)
 		M.attach_religion(src)
+
+
+	sect = new /datum/religion_sect/preset/monk/oracle
+	sect.on_select(null, src)

@@ -6,6 +6,8 @@ ADD_TO_GLOBAL_LIST(/obj/structure/altar_of_gods/monk, global.monk_altars)
 	name = "Алтарь"
 	desc = "Здесь вы молитесь Ораклу."
 
+	chosen_aspect = TRUE
+
 /obj/structure/altar_of_gods/monk/atom_init()
 	. = ..()
 	if(global.monk_religion)
