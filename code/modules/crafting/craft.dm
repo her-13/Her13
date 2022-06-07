@@ -96,7 +96,9 @@
 					return ", missing tool."
 				var/list/parts = del_reqs(R, user)
 				var/atom/movable/I = new R.result (get_turf(user.loc))
+				//<her13-add>
 				I.atom_init_late()
+				//</her13-add> // По какой-то причине , объекты при крафте не делают свой atom_init. Теперь делают.
 				I.CheckParts(parts, R)
 				return 0
 			return "."

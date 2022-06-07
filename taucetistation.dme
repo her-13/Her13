@@ -447,6 +447,7 @@
 #include "code\game\Event\homm_item.dm"
 #include "code\game\Event\homm_mob.dm"
 #include "code\game\Event\homm_outfit.dm"
+#include "code\game\Event\homm_recipes.dm"
 #include "code\game\Event\homm_species.dm"
 #include "code\game\Event\homm_struct.dm"
 #include "code\game\Event\Hub_wormhole.dm"
