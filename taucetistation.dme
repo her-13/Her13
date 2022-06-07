@@ -1565,6 +1565,7 @@
 #include "code\modules\Her13Event\religion\altar.dm"
 #include "code\modules\Her13Event\religion\monk.dm"
 #include "code\modules\Her13Event\religion\religion.dm"
+#include "code\modules\Her13Event\religion\religion_sects.dm"
 #include "code\modules\holiday\holidays.dm"
 #include "code\modules\holiday\special_holidays.dm"
 #include "code\modules\holiday\months\april.dm"
