@@ -2,46 +2,46 @@
 /obj/item/clothing/under/peasant
 	name = "Одежда Селюка"
 	desc = "Дырка на жопе. И не только на жопе. И не только дырка"
+	icon_custom = 'icons/Events/clothes/peasant.dmi'
 	icon_state = "peasant"
-	item_state = "peasant"
 
 /obj/item/clothing/under/peasant_fem
 	name = "Одежда Селюка"
 	desc = "Дырка на жопе. И не только на жопе. И не только дырка"
+	icon_custom = 'icons/Events/clothes/peasant_fem.dmi'
 	icon_state = "peasant_fem"
-	item_state = "peasant_fem"
 
 /obj/item/clothing/under/smith
 	name = "Одежда Кузнеца"
-	desc = "Веет уютом"
+	desc = "Жестко воняет потом"
+	icon_custom = 'icons/Events/clothes/smith.dmi'
 	icon_state = "smith"
-	item_state = "smith"
 
 /obj/item/clothing/under/innkeeper
 	name = "Одежда Трактирщика"
 	desc = "Веет уютом"
+	icon_custom = 'icons/Events/clothes/inn.dmi'
 	icon_state = "inn"
-	item_state = "inn"
 
 /obj/item/clothing/under/lepr
 	name = "Форма Жадности"
 	desc = "2/3 бюджета всей Эрафии , в этом костюме"
+	icon_custom = 'icons/Events/clothes/lepr.dmi'
 	icon_state = "lepr"
-	item_state = "lepr"
 
 // СУИТЫ
 
 /obj/item/clothing/suit/monk_helper
 	name = "Роба"
 	desc = "Роба помощника монаха"
+	icon_custom = 'icons/Events/clothes/suit/helper.dmi'
 	icon_state = "monk_helper"
-	item_state = "monk_helper"
 
 /obj/item/clothing/suit/headman
 	name = "Пальто Старосты"
 	desc = "Самая приличная одежда на несколько десятков километров"
+	icon_custom = 'icons/Events/clothes/suit/headman.dmi'
 	icon_state = "headman_coat"
-	item_state = "headman_coat"
 	body_parts_covered = UPPER_TORSO|LOWER_TORSO|LEGS|ARMS
 	flags_inv = HIDESHOES|HIDEJUMPSUIT
 	armor = list(melee = 10, bullet = 10, laser = 10, energy = 10, bomb = 10, bio = 0, rad = 0)
@@ -49,20 +49,30 @@
 /obj/item/clothing/suit/wizrobe/monk
 	name = "Пси-Роба"
 	desc = "Святая!"
+	icon_custom = 'icons/Events/clothes/suit/monk.dmi'
 	icon_state = "monk"
-	item_state = "monk"
 	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
 	armor = list(melee = 40, bullet = 40, laser = 40,energy = 40, bomb = 40, bio = 40, rad = 40)
 
 /obj/item/clothing/suit/armor/milita
 	name = "Доспех Ополчения"
 	desc = "Не такой крепкий как у рыцарей, но зато твой."
+	icon_custom = 'icons/Events/clothes/suit/milita.dmi'
 	icon_state = "milita_armor"
-	item_state = "milita_armor"
 	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
 	pierce_protection = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
 	armor = list(melee = 30, bullet = 10, laser = 25, energy = 20, bomb = 35, bio = 0, rad = 0)
 	flags_inv = HIDEJUMPSUIT
+
+/obj/item/clothing/suit/armor/knight
+	name = "Рыцарские доспехи"
+	desc = "Сине-белые. Цвета надела,к которому вы приставлены"
+	icon_custom = 'icons/Events/clothes/suit/knight.dmi'
+	icon_state = "crusader"
+	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
+	pierce_protection = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
+	armor = list(melee = 50, bullet = 30, laser = 20, energy = 20, bomb = 25, bio = 0, rad = 10)
+	siemens_coefficient = 1.2
 
 
 //ШЛЯПЫ
@@ -70,44 +80,54 @@
 	name = "Простой капюшон"
 	desc = "Отстегивающийся капюшон в средневековье! Очень прогрессивно"
 	flags = HEADCOVERSEYES | BLOCKHAIR
+	icon_custom = 'icons/Events/clothes/hats/helper.dmi'
 	icon_state = "monk_helper"
-	item_state = "monk_helper"
 
 /obj/item/clothing/head/lepr
 	name = "Шляпа Жадности"
 	desc = "+2 к Удаче"
+	icon_custom = 'icons/Events/clothes/hats/lepr.dmi'
 	icon_state = "lepr"
-	item_state = "lepr"
 
 
 /obj/item/clothing/head/headman
 	name = "Шапка Старосты"
 	desc = "Вау, вот это шляпа"
+	icon_custom = 'icons/Events/clothes/hats/headman.dmi'
 	icon_state = "headman_hat"
-	item_state = "headman_hat"
-
 
 /obj/item/clothing/head/inn
 	name = "Бандана Трактирщика"
 	desc = "На случай если вам не нравится лысина"
+	icon_custom = 'icons/Events/clothes/hats/inn.dmi'
 	icon_state = "inn_hat"
-	item_state = "inn_hat"
 
 /obj/item/clothing/head/wizard/monk
 	name = "Пси-Роба"
 	desc = "Святая!"
+	icon_custom = 'icons/Events/clothes/hats/monk.dmi'
 	icon_state = "monk"
-	item_state = "monk"
 	flags = HEADCOVERSEYES | BLOCKHAIR
 	armor = list(melee = 40, bullet = 40, laser = 40,energy = 40, bomb = 40, bio = 40, rad = 40)
 
 /obj/item/clothing/head/helmet/milita
 	name = "Шлем Ополчения"
 	desc = "Солидная защита для головы."
+	icon_custom = 'icons/Events/clothes/hats/milita.dmi'
 	icon_state = "milita"
-	item_state = "milita"
 	flags = HEADCOVERSEYES
 	armor = list(melee = 30, bullet = 15, laser = 5,energy = 5, bomb = 5, bio = 2, rad = 0)
+	flags_inv = HIDEEARS
+	siemens_coefficient = 0.3
+
+/obj/item/clothing/head/helmet/lord
+	name = "Корона"
+	desc = "Кто тут главный?"
+	icon_custom = 'icons/Events/clothes/hats/lord.dmi'
+	icon_state = "lord_hat"
+	item_state = "lord_hat"
+	flags = HEADCOVERSEYES
+	armor = list(melee = 50, bullet = 50, laser = 50,energy = 50, bomb = 50, bio = 50, rad = 50)
 	flags_inv = HIDEEARS
 	siemens_coefficient = 0.3
 
@@ -115,20 +135,21 @@
 /obj/item/clothing/shoes/lepr
 	name = "Ботинки Жадности"
 	desc = "С потайными местами для заначек"
+	icon_custom = 'icons/Events/clothes/shoes/lepr.dmi'
 	icon_state = "lepr"
 
 //МАСКИ
 /obj/item/clothing/mask/milita
 	name = "Горжет"
 	desc = "Сразу видно - ополченец."
+	icon_custom = 'icons/Events/clothes/mask/milita.dmi'
 	icon_state = "milita"
-	item_state = "milita"
 
 /obj/item/clothing/mask/lord
 	name = "Плащ Лорда"
-	desc = "Знак вашего статуса"
+	desc = "Символ вашего статуса"
+	icon_custom = 'icons/Events/clothes/mask/lord.dmi'
 	icon_state = "lord"
-	item_state = "lord"
 
 //Инструмены и все похожее
 /obj/item/pillory_tablet
