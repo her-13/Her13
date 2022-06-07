@@ -1,6 +1,6 @@
 var/global/list/obj/structure/altar_of_gods/monk/monk_altars
 
-ADD_TO_GLOBAL_LIST(/obj/structure/altar_of_gods/monk, global.monk_altars)
+ADD_TO_GLOBAL_LIST(/obj/structure/altar_of_gods/monk, monk_altars)
 
 /obj/structure/altar_of_gods/monk
 	name = "Алтарь"
