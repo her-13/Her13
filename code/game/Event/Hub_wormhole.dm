@@ -9,7 +9,7 @@
 /obj/effect/portal/hub/atom_init(mapload, turf/target, creator = null, lifespan = 300)
 	. = ..(lifespan=0)
 	possible_tile = get_area_turfs(get_area_by_type(A))
-	target = pick(possible_tile)
+	src.target = pick(possible_tile)
 
 /obj/effect/portal/hub/human
 	A =/area/custom/human_hub
