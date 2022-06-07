@@ -45,6 +45,9 @@ var/global/list/ignore_vision_inside = list(
 
 // Is initiated in setup_religions(). Used to save all info about chaplain's religion.
 var/global/datum/religion/chaplain/chaplain_religion
+//<her13-add>
+var/global/datum/religion/monk/monk_religion
+//</her13-add>
 // Cultists religion. You/I can change it?
 var/global/datum/religion/cult/cult_religion
 var/global/list/datum/religion/all_religions = list()

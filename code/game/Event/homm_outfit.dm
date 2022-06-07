@@ -113,6 +113,7 @@
 	head = /obj/item/clothing/head/wizard/monk
 	l_pocket_back = /obj/item/weapon/paper/village_law
 	l_hand = /obj/item/weapon/nullrod
+	r_hand = /obj/item/weapon/storage/bible
 	back = null
 	id = /obj/item/weapon/card/id/key/monk
 
