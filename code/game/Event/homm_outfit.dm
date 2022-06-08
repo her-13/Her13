@@ -94,7 +94,7 @@
 /datum/outfit/job/hub/knight
 	name = OUTFIT_JOB_NAME("Knight")
 	uniform =/obj/item/clothing/under/color/grey
-	suit = /obj/item/clothing/suit/armor/crusader
+	suit = /obj/item/clothing/suit/armor/knight
 	shoes = /obj/item/clothing/shoes/boots
 	gloves = /obj/item/clothing/gloves/combat
 	head = /obj/item/clothing/head/helmet/crusader
@@ -120,10 +120,10 @@
 /datum/outfit/job/hub/human_hero
 	name = OUTFIT_JOB_NAME("Human Hero")
 	uniform =/obj/item/clothing/under/color/grey
-	suit = /obj/item/clothing/suit/armor/crusader
+	suit = /obj/item/clothing/suit/armor/knight
 	shoes = /obj/item/clothing/shoes/boots
 	gloves = /obj/item/clothing/gloves/combat
-	head = /obj/item/clothing/head/byzantine_hat
+	head = /obj/item/clothing/head/helmet/lord
 	mask = /obj/item/clothing/mask/lord
 	l_pocket_back = /obj/item/weapon/paper/village_law
 	r_hand = /obj/item/toy/flag

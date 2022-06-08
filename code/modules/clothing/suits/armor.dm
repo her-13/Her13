@@ -390,8 +390,8 @@
 	siemens_coefficient = 0.7
 
 /obj/item/clothing/suit/armor/crusader
-	name = "Рыцарские доспехи"
-	desc = "Сине-белые. Цвета надела,к которому вы приставлены"
+	name = "crusader tabard"
+	desc = "It's a chainmail with some cloth draped over. Non nobis domini and stuff."
 	icon_state = "crusader"
 	item_state = "armor"
 	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS

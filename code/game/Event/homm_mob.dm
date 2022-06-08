@@ -1,6 +1,7 @@
 /mob/living/simple_animal/hostile/troglodit
 	name = "Троглодит"
 	desc = "Это его пещера"
+	icon = 'icons/Events/mob/troglodit.dmi'
 	icon_state = "troglodit"
 	icon_dead = "troglodit_dead"
 	faction = "Nigon"
@@ -21,6 +22,7 @@
 /mob/living/simple_animal/hostile/beholder
 	name = "Злобоглаз"
 	desc = "Он сглазит тебя"
+	icon = 'icons/Events/mob/beholder.dmi'
 	icon_state = "beholder"
 	icon_living = "beholder"
 	icon_dead = "beholder_dead"
@@ -90,6 +92,7 @@
 /mob/living/simple_animal/hostile/gorgona
 	name = "Горгона"
 	desc = "Не нужно ждать доброго от коровы с каменной кожей."
+	icon = 'icons/Events/mob/gorgona.dmi'
 	icon_state = "gorgona"
 	icon_dead = "gorgona_dead"
 	speak = list("МУУУУ")
@@ -151,6 +154,7 @@
 /mob/living/simple_animal/hostile/dragonfly
 	name = "Змий"
 	desc = "Летающий шланг. Опасен"
+	icon = 'icons/Events/mob/dragonfly.dmi'
 	icon_state = "dragonfly"
 	icon_dead = "dragonfly_dead"
 	speak = list("ВЖЖЖЖЖ")

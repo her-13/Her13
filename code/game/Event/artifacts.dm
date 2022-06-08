@@ -14,7 +14,7 @@
 /obj/item/shakal_skull
 	name = "Проклятый Череп Шакала"
 	desc = "Не трогай его"
-	icon = 'icons/obj/items.dmi'
+	icon = 'icons/Events/item/shakal_skull.dmi'
 	icon_state = "skull_shakal"
 	item_state = ""
 
