@@ -89,7 +89,6 @@
 	icon_custom = 'icons/Events/clothes/hats/lepr.dmi'
 	icon_state = "lepr"
 
-
 /obj/item/clothing/head/headman
 	name = "Шапка Старосты"
 	desc = "Вау, вот это шляпа"
@@ -114,7 +113,11 @@
 	name = "Шлем Ополчения"
 	desc = "Солидная защита для головы."
 	icon_custom = 'icons/Events/clothes/hats/milita.dmi'
+	icon = 'icons/Events/clothes/hats/milita.dmi'
+	righthand_file = 'icons/Events/clothes/hats/milita.dmi'
+	lefthand_file  = 'icons/Events/clothes/hats/milita.dmi'
 	icon_state = "milita"
+	item_state = "milita"
 	flags = HEADCOVERSEYES
 	armor = list(melee = 30, bullet = 15, laser = 5,energy = 5, bomb = 5, bio = 2, rad = 0)
 	flags_inv = HIDEEARS
@@ -124,6 +127,7 @@
 	name = "Корона"
 	desc = "Кто тут главный?"
 	icon_custom = 'icons/Events/clothes/hats/lord.dmi'
+	icon = 'icons/Events/clothes/hats/lord.dmi'
 	icon_state = "lord_hat"
 	item_state = "lord_hat"
 	flags = HEADCOVERSEYES
