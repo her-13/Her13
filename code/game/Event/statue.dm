@@ -1,7 +1,7 @@
 /obj/structure/statue
 	anchored = TRUE
 	layer = 11
-	icon = 'icons/mob/human.dmi'
+	icon = 'icons/Events/structure/statue.dmi'
 	desc = "Внешний вид профессии"
 
 // ЭРАФИЯ

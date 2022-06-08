@@ -115,6 +115,7 @@
 
 /area/custom/valhalla
 	name = "Valhalla"
+	icon = 'icons/Events/turf/area.dmi'
 	icon_state = "valhalla"
 	ambience = list(
 		'sound/ambience/valhala.ogg',)
