@@ -31,7 +31,12 @@ var/global/list/wood_icons = list("wood","wood-broken")
 	//Note to coders, the 'intact' var can no longer be used to determine if the floor is a plating or not.
 	//Use the is_plating(), is_plasteel_floor() and is_light_floor() procs instead. --Errorage
 	name = "floor"
+	/*<her13-del>
 	icon = 'icons/turf/floors.dmi'
+	</her13-del>*/
+	//<her13-add>
+	icon = 'icons/Events/turf/floors.dmi'
+	//</her13-add>
 	icon_state = "floor"
 
 	var/icon_regular_floor = "floor" //used to remember what icon the tile should have by default

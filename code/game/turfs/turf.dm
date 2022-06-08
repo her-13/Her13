@@ -1,5 +1,10 @@
 /turf
+	/*<her13-del>
 	icon = 'icons/turf/floors.dmi'
+	</her13-del>*/
+	//<her13-add>
+	icon = 'icons/Events/turf/floors.dmi'
+	//</her13-add>
 	level = 1.0
 	var/turf/basetype = /turf/environment/space
 	//for floors, use is_plating(), is_plasteel_floor() and is_light_floor()
