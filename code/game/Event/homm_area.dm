@@ -18,8 +18,11 @@
 
 /area/custom/neutral
 	name = "Нейтралы"
-	icon_state = "cult-heaven"
 	icon_state = "green"
+
+/area/custom/necropolis
+	name = "Некрополис"
+	icon_state = "cult-heaven"
 
 // ЭРАФИЯ ЗОНЫ ХАБОРВ
 
@@ -124,3 +127,12 @@
 /area/custom/lepr_exit
 	name = "Выход на повехность."
 	icon_state = "green"
+
+//НЕКРОПОЛИС ЗОНЫ ХАБОВ
+
+/area/custom/lich
+	name = "LichHub"
+
+//НЕКРОПОЛИС СТАРТОВЫЕ ЗОНЫ
+/area/custom/start_homm/lich
+	name = "LichStart"

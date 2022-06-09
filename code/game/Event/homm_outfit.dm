@@ -141,3 +141,13 @@
 	gloves = /obj/item/clothing/gloves/latex
 	head = /obj/item/clothing/head/lepr
 	l_hand = /obj/item/weapon/cane
+
+//НЕКРОПОЛИС
+
+/datum/outfit/job/hub/lich
+	name = OUTFIT_JOB_NAME("Лич")
+	uniform =/obj/item/clothing/under/lich
+	shoes = /obj/item/clothing/shoes/sandal
+	head = /obj/item/clothing/head/lich
+	l_hand = /obj/item/lich_staff
+	back = null

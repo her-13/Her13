@@ -146,3 +146,9 @@
 		var/client/newTree = user.client
 		TR.create_overmind(newTree)
 		selecting_job = FALSE
+
+//НЕКРОПОЛИС
+/obj/structure/character_spawner/lich
+	outfit = /datum/outfit/job/hub/lich
+	A =/area/custom/start_homm/lich
+	homm_species = SKELETON

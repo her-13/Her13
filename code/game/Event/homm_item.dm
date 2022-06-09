@@ -29,6 +29,16 @@
 	icon_custom = 'icons/Events/clothes/lepr.dmi'
 	icon_state = "lepr"
 
+/obj/item/clothing/under/lich
+	name = "Одеяние Лича"
+	desc = "Изящно висит на голых костях"
+	icon_custom = 'icons/Events/clothes/lich.dmi'
+	icon = 'icons/Events/clothes/lich.dmi'
+	icon_state = "lich"
+	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
+	armor = list(melee = 40, bullet = 40, laser = 40,energy = 40, bomb = 40, bio = 40, rad = 40)
+
+
 // СУИТЫ
 
 /obj/item/clothing/suit/monk_helper
@@ -104,6 +114,15 @@
 	icon_custom = 'icons/Events/clothes/hats/inn.dmi'
 	icon_state = "inn_hat"
 
+/obj/item/clothing/head/lich
+	name = "Корона Лича"
+	desc = "Тяга к роскоши остается даже после смерти"
+	icon_custom = 'icons/Events/clothes/hats/lich.dmi'
+	icon = 'icons/Events/clothes/hats/lich.dmi'
+	icon_state = "lich"
+	armor = list(melee = 40, bullet = 40, laser = 40,energy = 40, bomb = 40, bio = 40, rad = 40)
+
+
 /obj/item/clothing/head/wizard/monk
 	name = "Пси-Роба"
 	desc = "Святая!"
@@ -160,6 +179,18 @@
 	icon_state = "lord"
 
 //Инструмены и все похожее
+
+/obj/item/lich_staff
+	name = "Посох Лича"
+	desc = "Дает власть над смертью"
+	icon_custom = 'icons/Events/item/lich_staff.dmi'
+	icon = 'icons/Events/item/lich_staff.dmi'
+	righthand_file = 'icons/Events/item/lich_staff.dmi'
+	lefthand_file  = 'icons/Events/item/lich_staff.dmi'
+	icon_state = "lich_staff"
+	item_state = "lich_staff"
+	force = 15
+
 /obj/item/pillory_tablet
 	name = "Преступление"
 	icon = 'icons/obj/structures/scrap/bonfire.dmi'
