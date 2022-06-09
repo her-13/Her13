@@ -50,6 +50,7 @@
 	name = "Пси-Роба"
 	desc = "Святая!"
 	icon_custom = 'icons/Events/clothes/suit/monk.dmi'
+	icon = 'icons/Events/clothes/suit/monk.dmi'
 	icon_state = "monk"
 	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
 	armor = list(melee = 40, bullet = 40, laser = 40,energy = 40, bomb = 40, bio = 40, rad = 40)
@@ -58,6 +59,7 @@
 	name = "Доспех Ополчения"
 	desc = "Не такой крепкий как у рыцарей, но зато твой."
 	icon_custom = 'icons/Events/clothes/suit/milita.dmi'
+	icon = 'icons/Events/clothes/suit/milita.dmi'
 	icon_state = "milita_armor"
 	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
 	pierce_protection = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
@@ -68,6 +70,7 @@
 	name = "Рыцарские доспехи"
 	desc = "Сине-белые. Цвета надела,к которому вы приставлены"
 	icon_custom = 'icons/Events/clothes/suit/knight.dmi'
+	icon = 'icons/Events/clothes/suit/knight.dmi'
 	icon_state = "crusader"
 	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
 	pierce_protection = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
@@ -105,6 +108,7 @@
 	name = "Пси-Роба"
 	desc = "Святая!"
 	icon_custom = 'icons/Events/clothes/hats/monk.dmi'
+	icon = 'icons/Events/clothes/hats/monk.dmi'
 	icon_state = "monk"
 	flags = HEADCOVERSEYES | BLOCKHAIR
 	armor = list(melee = 40, bullet = 40, laser = 40,energy = 40, bomb = 40, bio = 40, rad = 40)
