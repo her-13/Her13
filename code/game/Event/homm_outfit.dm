@@ -151,3 +151,9 @@
 	head = /obj/item/clothing/head/lich
 	l_hand = /obj/item/lich_staff
 	back = null
+
+/datum/outfit/job/hub/skeleton
+	name = OUTFIT_JOB_NAME("Скелет")
+	uniform = null
+	shoes = /obj/item/clothing/shoes/sandal
+	back = null

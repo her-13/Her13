@@ -3,30 +3,35 @@
 	name = "Одежда Селюка"
 	desc = "Дырка на жопе. И не только на жопе. И не только дырка"
 	icon_custom = 'icons/Events/clothes/peasant.dmi'
+	icon = 'icons/Events/clothes/peasant.dmi'
 	icon_state = "peasant"
 
 /obj/item/clothing/under/peasant_fem
 	name = "Одежда Селюка"
 	desc = "Дырка на жопе. И не только на жопе. И не только дырка"
 	icon_custom = 'icons/Events/clothes/peasant_fem.dmi'
+	icon = 'icons/Events/clothes/peasant_fem.dmi'
 	icon_state = "peasant_fem"
 
 /obj/item/clothing/under/smith
 	name = "Одежда Кузнеца"
 	desc = "Жестко воняет потом"
 	icon_custom = 'icons/Events/clothes/smith.dmi'
+	icon = 'icons/Events/clothes/smith.dmi'
 	icon_state = "smith"
 
 /obj/item/clothing/under/innkeeper
 	name = "Одежда Трактирщика"
 	desc = "Веет уютом"
 	icon_custom = 'icons/Events/clothes/inn.dmi'
+	icon = 'icons/Events/clothes/inn.dmi'
 	icon_state = "inn"
 
 /obj/item/clothing/under/lepr
 	name = "Форма Жадности"
 	desc = "2/3 бюджета всей Эрафии , в этом костюме"
 	icon_custom = 'icons/Events/clothes/lepr.dmi'
+	icon = 'icons/Events/clothes/lepr.dmi'
 	icon_state = "lepr"
 
 /obj/item/clothing/under/lich
@@ -45,12 +50,14 @@
 	name = "Роба"
 	desc = "Роба помощника монаха"
 	icon_custom = 'icons/Events/clothes/suit/helper.dmi'
+	icon = 'icons/Events/clothes/suit/helper.dmi'
 	icon_state = "monk_helper"
 
 /obj/item/clothing/suit/headman
 	name = "Пальто Старосты"
 	desc = "Самая приличная одежда на несколько десятков километров"
 	icon_custom = 'icons/Events/clothes/suit/headman.dmi'
+	icon = 'icons/Events/clothes/suit/headman.dmi'
 	icon_state = "headman_coat"
 	body_parts_covered = UPPER_TORSO|LOWER_TORSO|LEGS|ARMS
 	flags_inv = HIDESHOES|HIDEJUMPSUIT
@@ -94,24 +101,28 @@
 	desc = "Отстегивающийся капюшон в средневековье! Очень прогрессивно"
 	flags = HEADCOVERSEYES | BLOCKHAIR
 	icon_custom = 'icons/Events/clothes/hats/helper.dmi'
+	icon = 'icons/Events/clothes/hats/helper.dmi'
 	icon_state = "monk_helper"
 
 /obj/item/clothing/head/lepr
 	name = "Шляпа Жадности"
 	desc = "+2 к Удаче"
 	icon_custom = 'icons/Events/clothes/hats/lepr.dmi'
+	icon = 'icons/Events/clothes/hats/lepr.dmi'
 	icon_state = "lepr"
 
 /obj/item/clothing/head/headman
 	name = "Шапка Старосты"
 	desc = "Вау, вот это шляпа"
 	icon_custom = 'icons/Events/clothes/hats/headman.dmi'
+	icon = 'icons/Events/clothes/hats/headman.dmi'
 	icon_state = "headman_hat"
 
 /obj/item/clothing/head/inn
 	name = "Бандана Трактирщика"
 	desc = "На случай если вам не нравится лысина"
 	icon_custom = 'icons/Events/clothes/hats/inn.dmi'
+	icon = 'icons/Events/clothes/hats/inn.dmi'
 	icon_state = "inn_hat"
 
 /obj/item/clothing/head/lich
@@ -163,6 +174,7 @@
 	name = "Ботинки Жадности"
 	desc = "С потайными местами для заначек"
 	icon_custom = 'icons/Events/clothes/shoes/lepr.dmi'
+	icon = 'icons/Events/clothes/shoes/lepr.dmi'
 	icon_state = "lepr"
 
 //МАСКИ
@@ -170,12 +182,14 @@
 	name = "Горжет"
 	desc = "Сразу видно - ополченец."
 	icon_custom = 'icons/Events/clothes/mask/milita.dmi'
+	icon = 'icons/Events/clothes/mask/milita.dmi'
 	icon_state = "milita"
 
 /obj/item/clothing/mask/lord
 	name = "Плащ Лорда"
 	desc = "Символ вашего статуса"
 	icon_custom = 'icons/Events/clothes/mask/lord.dmi'
+	icon = 'icons/Events/clothes/mask/lord.dmi'
 	icon_state = "lord"
 
 //Инструмены и все похожее

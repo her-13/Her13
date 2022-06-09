@@ -134,5 +134,9 @@
 	name = "LichHub"
 
 //НЕКРОПОЛИС СТАРТОВЫЕ ЗОНЫ
+
 /area/custom/start_homm/lich
 	name = "LichStart"
+
+/area/custom/start_homm/skeleton
+	name = "SkeletonStart"

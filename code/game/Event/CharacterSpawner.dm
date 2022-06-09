@@ -34,6 +34,41 @@
 	if(arrive_sound)
 		playsound(user,arrive_sound, VOL_EFFECTS_MASTER)
 
+
+/obj/structure/hell_spawner //То что призывает игроков из Ада. Не только для нежити , но я для големов и тому подобное.
+	name = "СТАРТ"
+	desc = "Нажми на меня чтобы вернуться в игру, за призываемого юнита"
+	anchored = TRUE
+	icon = 'icons/turf/areas.dmi'
+	icon_state = "start"
+	layer = 12
+	var/outfit = null
+	var/ready = null
+	var/target
+	var/selecting_job = FALSE
+	var/arrive_sound
+	var/datum/species/homm_species = SKELETON
+
+/obj/structure/hell_spawner/attack_hand(mob/living/carbon/human/user)
+	if(!selecting_job)
+		selecting_job = TRUE
+		ready = tgui_alert(user, "Готовы войти в игру? Убедитесь что прочитали все подсказки и закончили выбор своей внешности.",, list("Да","Нет"))
+	else
+		return
+	if(ready == "Нет")
+		selecting_job = FALSE
+		return
+	for(var/obj/item/W in user)
+		user.drop_from_inventory(W)
+		qdel(W)
+	user.equipOutfit(outfit)
+	user.loc = target
+	user.set_species(homm_species)
+	selecting_job = FALSE
+	qdel(src) //одноразовые
+	if(arrive_sound)
+		playsound(user,arrive_sound, VOL_EFFECTS_MASTER)
+
 // ЭРАФИЯ
 
 /obj/structure/character_spawner/peasant
@@ -151,4 +186,16 @@
 /obj/structure/character_spawner/lich
 	outfit = /datum/outfit/job/hub/lich
 	A =/area/custom/start_homm/lich
-	homm_species = SKELETON
+
+/obj/structure/hell_spawner/coffin
+	name = "Скелет"
+	desc = ""
+	outfit = /datum/outfit/job/hub/skeleton
+	var/obj/structure/coffin/myCoffin
+
+/obj/structure/hell_spawner/coffin/attack_hand(mob/living/carbon/human/user)
+	..()
+	if(ready == "Нет")
+		selecting_job = FALSE
+		return
+	myCoffin.icon_state = myCoffin.open_state

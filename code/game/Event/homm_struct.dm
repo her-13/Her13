@@ -241,3 +241,25 @@
 	name = "Дверь Лорда"
 	req_one_access = list(access_hero)
 
+
+//Гробы для Некрополиса
+/obj/structure/coffin
+	name = "Простой гроб"
+	desc = "Человек в этом гробу, явно ничем особым не выделялся"
+	icon = 'icons/Events/structure/coffin.dmi'
+	icon_state = "coffin"
+	anchored = TRUE
+	layer = 1
+	density = TRUE
+	var/isSingleUse = 0
+	var/obj/structure/hell_spawner/coffin/typeOfCorpse = /obj/structure/hell_spawner/coffin
+	var/tar
+	var/icon/open_state = "coffin_open"
+
+/obj/structure/coffin/attackby(obj/item/I, mob/user)
+	if(istype(I, /obj/item/lich_staff)&&!isSingleUse)
+		tar = pick(get_area_turfs(get_area_by_type(/area/custom/valhalla)))
+		typeOfCorpse = new typeOfCorpse(tar)
+		typeOfCorpse.myCoffin =  src
+		typeOfCorpse.target = src.loc
+		isSingleUse = 1
