@@ -1210,7 +1210,7 @@
 
 	if(ishuman(src)) // so he can see the tree of greed
 		var/mob/living/carbon/human/HU = src
-		if(HU.homm_species == "lepr")
+		if(HU.get_species() == LEPR)
 			see_invisible = 34
 
 	if(istype(wear_mask, /obj/item/clothing/mask/gas/voice/space_ninja))

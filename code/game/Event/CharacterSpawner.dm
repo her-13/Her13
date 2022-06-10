@@ -11,7 +11,7 @@
 	var/target
 	var/selecting_job = FALSE
 	var/arrive_sound
-	var/datum/species/homm_species = HUMAN
+	var/homm_species = HUMAN
 
 /obj/structure/character_spawner/attack_hand(mob/living/carbon/human/user)
 	if(!selecting_job)
@@ -124,7 +124,6 @@
 	user.AddSpell(new /obj/effect/proc_holder/spell/aoe_turf/lepr_escape)
 	user.AddSpell(new /obj/effect/proc_holder/spell/targeted/lepr_hivemind)
 	user.see_invisible = 34 // so he can see the tree of greed
-	user.homm_species = "lepr"
 	cameranet.cameras += user
 	cameranet.addCamera(user)
 	cameranet.updateVisibility(user, 0)

@@ -140,7 +140,7 @@
 	for(var/mob/living/carbon/human/c in range(16, locate(x + 8, y + 8, z)))
 		if(c)
 			var/mob/living/carbon/human/H = c
-			if(H.homm_species == "lepr")
+			if(H.get_species() == LEPR)
 				cameras += c
 
 	for(var/turf/t in range(10, locate(x + 8, y + 8, z)))

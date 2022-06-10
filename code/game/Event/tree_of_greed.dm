@@ -228,7 +228,7 @@
 
 	var/list/candidates = list()
 	for(var/mob/living/carbon/human/user in mob_list)
-		if(user.homm_species == "lepr")
+		if(user.get_species() == LEPR)
 			candidates += user
 	if(!candidates)
 		to_chat(src, "<span class='notice'><b>Лепреконов нету!</b></span>")
@@ -331,7 +331,7 @@
 			to_chat(M, "<span class='nicegreen'><b>\[Голос Рынка\]</b><i> [name]</i>: [text]</span>")
 		if(ishuman(M))
 			var/mob/living/carbon/human/H = M
-			if(H.homm_species == "lepr")
+			if(H.get_species() == LEPR)
 				to_chat(M, "<span class='nicegreen'><b>\[Голос Рынка\]</b><i> [name]</i>: [text]</span>")
 
 
@@ -355,6 +355,6 @@
 				to_chat(M, "<span class='nicegreen'><b>\[Голос Рынка\]</b><i> [user.name]</i>: [text]</span>")
 			if(ishuman(M))
 				var/mob/living/carbon/human/H = M
-				if(H.homm_species == "lepr")
+				if(H.get_species() == LEPR)
 					to_chat(M, "<span class='nicegreen'><b>\[Голос Рынка\]</b><i> [user.name]</i>: [text]</span>")
 
