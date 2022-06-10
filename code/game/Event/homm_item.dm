@@ -224,18 +224,18 @@
 
 /obj/item/lich_staff/attack(mob/living/carbon/human/H, mob/user)
 	if(owner == null)
-		to_chat(user, "<span class='warning'><b>Сначала привяжите посох к себе.</b>")
+		to_chat(user, "<span class='warning'><b>Сначала привяжите посох к себе.</b></span>")
 		return
 	if(user.mind != owner)
-		to_chat(user, "<span class='warning'>[name] не будет подчиняться вам</span>")
+		to_chat(user, "<span class='warning'>[name] не будет подчиняться вам</span></span>")
 		return
 	if(!ishuman(H))//If target is not a human.
 		return ..()
 	if(H.stat == CONSCIOUS)
-		to_chat(user, "<span class='warning'><b>Зомбирование не удалось!</b>:</span> Сначала доведите состояние жертвы до критической отметки.")
+		to_chat(user, "<span class='warning'><b>Зомбирование не удалось!</b></span> Сначала доведите состояние жертвы до критической отметки.")
 		return
 	if(H.client == null)
-		to_chat(user, "<span class='warning'><b>Зомбирование не удалось!</b>:</span> В этой оболочке нет души.")
+		to_chat(user, "<span class='warning'><b>Зомбирование не удалось!</b></span> В этой оболочке нет души.")
 		return
 	H.set_species(HOMM_ZOMBIE)
 
