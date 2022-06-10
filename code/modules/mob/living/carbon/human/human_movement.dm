@@ -1,7 +1,4 @@
 /mob/living/carbon/human/movement_delay()
-	if(get_species() == LEPR)
-		cameranet.updatePortableCamera(src)
-
 	if(iszombie(src))
 		return zombie_movement_delay()
 	if(ischangeling(src))
