@@ -256,10 +256,11 @@
 	var/tar
 	var/icon/open_state = "coffin_open"
 
-/obj/structure/coffin/attackby(obj/item/I, mob/user)
+/obj/structure/coffin/attackby(obj/item/I, mob/user) //Не забыть добавить проверку на то что пользователь палки должен быть Личом(Привязывать посох как книгу мага к владельцу)
 	if(istype(I, /obj/item/lich_staff)&&!isSingleUse)
 		tar = pick(get_area_turfs(get_area_by_type(/area/custom/valhalla)))
 		typeOfCorpse = new typeOfCorpse(tar)
 		typeOfCorpse.myCoffin =  src
 		typeOfCorpse.target = src.loc
 		isSingleUse = 1
+		to_chat(user, "<span class='warning'> Тело осквернено. Осталось подождать пока душа вернеться из загробного мира</span>")

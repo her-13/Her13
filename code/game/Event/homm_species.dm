@@ -13,3 +13,10 @@
 
 /datum/species/human/lepr
 	name = LEPR
+
+/datum/species/skeleton/homm_zombie // Почему от скелета? Чтобы не обьяснять снова про отрубание-присоединение конечностей.
+	name = HOMM_ZOMBIE
+	icobase = 'icons/Events/race/zombie.dmi'
+	deform = 'icons/Events/race/zombie.dmi'
+	brute_mod = 0.80
+	burn_mod = 1.2

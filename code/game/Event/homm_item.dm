@@ -43,6 +43,13 @@
 	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
 	armor = list(melee = 40, bullet = 40, laser = 40,energy = 40, bomb = 40, bio = 40, rad = 40)
 
+/obj/item/clothing/under/zombie_pants
+	name = "Штаны"
+	desc = "Живые крестьяне думают, что ничего дырявее их портков не существуют. Мертвые крестьяне понимают что они ошибались."
+	icon_custom = 'icons/Events/clothes/zombie_pants.dmi'
+	icon = 'icons/Events/clothes/zombie_pants.dmi'
+	icon_state = "pants"
+
 
 // СУИТЫ
 
@@ -204,6 +211,17 @@
 	icon_state = "lich_staff"
 	item_state = "lich_staff"
 	force = 15
+
+/obj/item/lich_staff/attack(mob/living/carbon/human/H, mob/user)//Не забыть добавить проверку на то что пользователь палки должен быть Личом
+	if(!ishuman(H))//If target is not a human.
+		return ..()
+	if(H.stat == CONSCIOUS)
+		to_chat(user, "<span class='warning'><b>Зомбирование не удалось!</b>:</span> Сначала доведите состояние жертвы до критической отметки.")
+		return
+	if(H.client == null)
+		to_chat(user, "<span class='warning'><b>Зомбирование не удалось!</b>:</span> В этой оболочке нет души.")
+		return
+	H.set_species(HOMM_ZOMBIE)
 
 /obj/item/pillory_tablet
 	name = "Преступление"

@@ -154,6 +154,6 @@
 
 /datum/outfit/job/hub/skeleton
 	name = OUTFIT_JOB_NAME("Скелет")
-	uniform = null
+	uniform = /obj/item/clothing/under/zombie_pants
 	shoes = /obj/item/clothing/shoes/sandal
 	back = null
