@@ -51,14 +51,14 @@
 	shoes = /obj/item/clothing/shoes/leather
 	head = /obj/item/clothing/head/monk_helper
 	l_hand = /obj/item/weapon/staff/broom/monk
-	l_pocket_back = /obj/item/weapon/paper/village_law
+	l_pocket_back = /obj/item/weapon/paper/scroll/village_law
 	id = /obj/item/weapon/card/id/key/helper
 
 
 /datum/outfit/job/hub/plague_doctor
 	name = OUTFIT_JOB_NAME("Plague Doctor")
 	uniform = /obj/item/clothing/under/pants/black
-	l_pocket_back = /obj/item/weapon/paper/village_law
+	l_pocket_back = /obj/item/weapon/paper/scroll/village_law
 	head = /obj/item/clothing/head/plaguedoctorhat
 	mask = /obj/item/clothing/mask/gas/plaguedoctor
 	suit = /obj/item/clothing/suit/bio_suit/plaguedoctorsuit
@@ -76,7 +76,7 @@
 	gloves = /obj/item/clothing/gloves/latex
 	suit = /obj/item/clothing/suit/headman
 	head =/obj/item/clothing/head/headman
-	r_hand =/obj/item/weapon/paper/village_law
+	r_hand =/obj/item/weapon/paper/scroll/village_law
 	id = /obj/item/weapon/card/id/key/headman
 	back = /obj/item/weapon/storage/backpack/satchel
 
@@ -86,7 +86,7 @@
 	shoes = /obj/item/clothing/shoes/boots/work
 	id = /obj/item/weapon/card/id/key/innkeeper
 	back = /obj/item/weapon/storage/backpack/satchel
-	l_pocket_back = /obj/item/weapon/paper/village_law
+	l_pocket_back = /obj/item/weapon/paper/scroll/village_law
 	r_hand = /obj/item/weapon/reagent_containers/glass/rag
 	l_hand = /obj/item/weapon/melee/classic_baton
 	head =/obj/item/clothing/head/inn
@@ -99,7 +99,7 @@
 	gloves = /obj/item/clothing/gloves/combat
 	head = /obj/item/clothing/head/helmet/crusader
 	l_hand = /obj/item/weapon/claymore/religion
-	l_pocket_back = /obj/item/weapon/paper/village_law
+	l_pocket_back = /obj/item/weapon/paper/scroll/village_law
 	back = null
 	id = /obj/item/weapon/card/id/key/knight
 
@@ -111,7 +111,7 @@
 	shoes = /obj/item/clothing/shoes/sandal
 	gloves = /obj/item/clothing/gloves/combat
 	head = /obj/item/clothing/head/wizard/monk
-	l_pocket_back = /obj/item/weapon/paper/village_law
+	l_pocket_back = /obj/item/weapon/paper/scroll/village_law
 	l_hand = /obj/item/weapon/nullrod
 	r_hand = /obj/item/weapon/storage/bible
 	back = null
@@ -125,7 +125,7 @@
 	gloves = /obj/item/clothing/gloves/combat
 	head = /obj/item/clothing/head/helmet/lord
 	mask = /obj/item/clothing/mask/lord
-	l_pocket_back = /obj/item/weapon/paper/village_law
+	l_pocket_back = /obj/item/weapon/paper/scroll/village_law
 	r_hand = /obj/item/toy/flag
 	back = null
 	id = /obj/item/weapon/card/id/key/hhero

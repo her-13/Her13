@@ -281,6 +281,29 @@
 	origin_tech = "combat=4"
 	attack_verb = list("выпорол")
 
+/obj/item/weapon/pen/feather
+	name = "Письменное перо"
+	desc = "Вырвано у чернильного гуся, совсем не нужно заправлять."
+	icon_custom = 'icons/Events/item/pen.dmi'
+	icon = 'icons/Events/item/pen.dmi'
+	righthand_file = 'icons/Events/item/pen.dmi'
+	lefthand_file  = 'icons/Events/item/pen.dmi'
+	icon_state = "pen"
+	colour = "black"
+
+/obj/item/weapon/paper/scroll
+	name = "Бумага"
+	icon_custom = 'icons/Events/item/paper.dmi'
+	icon = 'icons/Events/item/paper.dmi'
+	righthand_file = 'icons/Events/item/paper.dmi'
+	lefthand_file  = 'icons/Events/item/paper.dmi'
+	icon_state = "paper"
+
+/obj/item/weapon/paper/scroll/update_icon()
+	if(info)
+		icon_state = "paper_f"
+		return
+	icon_state = "paper"
 
 // КЛЮЧИ
 /obj/item/weapon/card/id/key
