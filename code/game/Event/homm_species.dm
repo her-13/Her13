@@ -20,3 +20,22 @@
 	deform = 'icons/Events/race/zombie.dmi'
 	brute_mod = 0.80
 	burn_mod = 1.2
+	flesh_color = "#ffc896"
+	blood_datum_path = /datum/dirt_cover/red_blood
+	damage_mask = TRUE
+	flags = list(
+	 NO_BREATHE = TRUE
+	,NO_BLOOD = TRUE
+	,NO_DNA = TRUE
+	,NO_SCAN = TRUE
+	,VIRUS_IMMUNE = TRUE
+	,NO_FINGERPRINT = TRUE
+	,NO_BLOOD_TRAILS = FALSE
+	,NO_PAIN = TRUE
+	,RAD_IMMUNE = TRUE
+	,NO_EMBED = TRUE
+	,NO_MINORCUTS = FALSE
+	,NO_EMOTION = TRUE
+	,NO_VOMIT = TRUE
+	,NO_FAT = TRUE
+	)

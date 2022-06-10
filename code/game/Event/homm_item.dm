@@ -212,7 +212,7 @@
 	item_state = "lich_staff"
 	force = 15
 
-/obj/item/lich_staff/attack(mob/living/carbon/human/H, mob/user)//Не забыть добавить проверку на то что пользователь палки должен быть Личом
+/obj/item/lich_staff/attack(mob/living/carbon/human/H, mob/user)//Не забыть добавить проверку на то что пользователь палки должен быть Личом(Привязывать посох как книгу мага к владельцу)
 	if(!ishuman(H))//If target is not a human.
 		return ..()
 	if(H.stat == CONSCIOUS)

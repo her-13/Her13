@@ -291,7 +291,11 @@
 	if((species.name == VOX || species.name == VOX_ARMALIS) && prob(20))
 		speech_sound = sound('sound/voice/shriek1.ogg')
 		sound_vol = 50
-
+	//<her13-add>
+	else if(species.name == HOMM_ZOMBIE)
+		speech_sound = sound('sound/Event/zombie-speak.ogg')
+		sound_vol = 50
+	//</her13-add>
 	else if(species.name == ABOMINATION)
 		speech_sound = sound('sound/voice/abomination.ogg')
 		sound_vol = 50
