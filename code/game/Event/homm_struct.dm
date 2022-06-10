@@ -268,6 +268,7 @@
 		tar = pick(get_area_turfs(get_area_by_type(/area/custom/valhalla)))
 		typeOfCorpse = new typeOfCorpse(tar)
 		typeOfCorpse.myCoffin =  src
+		typeOfCorpse.myMaster = user
 		typeOfCorpse.target = src.loc
 		isSingleUse = 1
 		to_chat(user, "<span class='warning'> Тело осквернено. Осталось подождать пока душа вернеться из загробного мира</span>")

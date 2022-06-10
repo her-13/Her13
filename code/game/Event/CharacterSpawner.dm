@@ -192,6 +192,7 @@
 	desc = ""
 	outfit = /datum/outfit/job/hub/skeleton
 	var/obj/structure/coffin/myCoffin
+	var/mob/myMaster
 
 /obj/structure/hell_spawner/coffin/attack_hand(mob/living/carbon/human/user)
 	..()
@@ -199,3 +200,5 @@
 		selecting_job = FALSE
 		return
 	myCoffin.icon_state = myCoffin.open_state
+	to_chat(user, "<span class='warning'>Теперь ты живой мертвец.[myMaster.name] твой мастер. Служи и выполняй все приказы мастера.</span>")
+
