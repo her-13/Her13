@@ -5,6 +5,22 @@
 	oxy_mod = 0
 	tox_mod = 0
 	clone_mod = 0
+	flags = list(
+	 NO_BREATHE = TRUE
+	,NO_BLOOD = TRUE
+	,NO_DNA = TRUE
+	,NO_SCAN = TRUE
+	,VIRUS_IMMUNE = TRUE
+	,NO_FINGERPRINT = TRUE
+	,NO_BLOOD_TRAILS = TRUE
+	,NO_PAIN = TRUE
+	,RAD_IMMUNE = TRUE
+	,NO_EMBED = TRUE
+	,NO_MINORCUTS = TRUE
+	,NO_EMOTION = TRUE
+	,NO_VOMIT = TRUE
+	,NO_FAT = TRUE
+	)
 
 /datum/species/skeleton/deadman // Тоже самое что Хабовец, но в виде скелета
 	name = DEADMAN
