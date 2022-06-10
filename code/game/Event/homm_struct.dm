@@ -260,7 +260,7 @@
 	if(istype(I, /obj/item/lich_staff)&&!isSingleUse)
 		var/obj/item/lich_staff/L = I
 		if(L.owner == null)
-			to_chat(user, "<span class='warning'><b>Сначала привяжите посох к себе.</b>")
+			to_chat(user, "<span class='warning'><b>Сначала привяжите посох к себе.</b></span>")
 			return
 		if(user.mind != L.owner)
 			to_chat(user, "<span class='warning'>[I.name] не будет подчиняться вам</span>")

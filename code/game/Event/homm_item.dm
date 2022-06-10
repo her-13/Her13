@@ -227,7 +227,7 @@
 		to_chat(user, "<span class='warning'><b>Сначала привяжите посох к себе.</b></span>")
 		return
 	if(user.mind != owner)
-		to_chat(user, "<span class='warning'>[name] не будет подчиняться вам</span></span>")
+		to_chat(user, "<span class='warning'>[name] не будет подчиняться вам</span>")
 		return
 	if(!ishuman(H))//If target is not a human.
 		return ..()
