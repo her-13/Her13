@@ -72,14 +72,14 @@
 	if(my_master)
 		my_master.my_golem = null
 		my_master = null
-//<her13-addition>
+	//<her13-add>
 	if(!(client in admins) && mind)
 		var/list/turf/possible_tile = get_area_turfs(/area/custom/valhalla)
 		var/target = pick(possible_tile)
 		var/mob/living/carbon/human/deadman = new /mob/living/carbon/human/skeleton/valhalla(target)
 		mind.transfer_to(deadman)
 		deadman.equipOutfit(/datum/outfit/job/deadman)
-//<her13-addition>
+	//</her13-add>
 
 
 

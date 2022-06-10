@@ -110,11 +110,11 @@
 		if(!SSmapping.station_loaded)
 			to_chat(src, "<span class='red'>There is no station yet, please wait.</span>")
 			return
-		//<her13-addition>
+		//<her13-add>
 		if(!(my_client in admins))
 			to_chat(src, "<span class='red'>Призраки только для членов админ-клуба.</span>")
 			return
-		//<her13-addition>
+		//</her13-add>
 		if(tgui_alert(src,"Are you sure you wish to observe? You will have to wait 30 minutes before being able to respawn!","Player Setup", list("Yes","No")) == "Yes")
 			if(!client)
 				return
@@ -223,9 +223,9 @@
 	SSjob.AssignRole(src, rank, 1)
 
 	var/mob/living/carbon/human/character = create_character()	//creates the human and transfers vars and mind
-	//<her13-addition>
+	//<her13-add>
 	character.set_species(HUBMAN)
-	//<her13-addition>
+	//</her13-add>
 
 	SSjob.EquipRank(character, rank, 1)					//equips the human
 

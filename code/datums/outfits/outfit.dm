@@ -170,7 +170,7 @@
 	//<her13-add>
 	if(uniform_f && H.gender == FEMALE)
 		uniform = uniform_f
-	//<her13-add>
+	//</her13-add>
 	var/list/slot2type = list(
 		"[SLOT_BACK]"        = back,
 		"[SLOT_WEAR_MASK]"   = mask,
