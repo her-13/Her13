@@ -131,18 +131,6 @@
 	src.y = y
 	src.z = z
 
-	for(var/obj/machinery/vending/lepr/LP in range(16, locate(x + 8, y + 8, z)))
-		if(LP)
-			cameras += LP
-	for(var/obj/structure/tree_of_greed/tr in range(16, locate(x + 8, y + 8, z)))
-		if(tr)
-			cameras += tr
-	for(var/mob/living/carbon/human/c in range(16, locate(x + 8, y + 8, z)))
-		if(c)
-			var/mob/living/carbon/human/H = c
-			if(H.get_species() == LEPR)
-				cameras += c
-
 	for(var/turf/t in range(10, locate(x + 8, y + 8, z)))
 		if(t.x >= x && t.y >= y && t.x < x + 16 && t.y < y + 16)
 			turfs[t] = t

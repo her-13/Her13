@@ -16,8 +16,6 @@
 
 /datum/species/human/lepr/on_gain(mob/living/carbon/human/H)
 	. = ..()
-	RegisterSignal(H, list(COMSIG_MOVABLE_MOVED, COMSIG_MOVABLE_LOC_MOVED), .proc/update_cameras)
-
 	H.mutations.Add(SMALLSIZE)
 	H.regenerate_icons()
 
@@ -26,9 +24,7 @@
 
 	H.see_invisible = 34 // so he can see the tree of greed
 
-	cameranet.cameras += H
-	cameranet.addCamera(H)
-	cameranet.updateVisibility(H, 0)
+	H.AddComponent(/datum/component/camerabearer, "tree")
 
 /datum/species/human/lepr/on_loose(mob/living/carbon/human/H, new_species)
 	H.mutations.Remove(SMALLSIZE)
@@ -41,13 +37,6 @@
 
 	H.see_invisible = SEE_INVISIBLE_LIVING
 
-	cameranet.cameras -= H
-	cameranet.removeCamera(H)
-	cameranet.updateVisibility(H, 0)
-
-	UnregisterSignal(H, list(COMSIG_MOVABLE_MOVED, COMSIG_MOVABLE_LOC_MOVED))
+	qdel(H.GetComponent(/datum/component/camerabearer))
 
 	return ..()
-
-/datum/species/human/lepr/proc/update_cameras(datum/source)
-	cameranet.updatePortableCamera(source)

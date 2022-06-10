@@ -48,9 +48,11 @@
 /obj/structure/tree_of_greed/atom_init()
 	. = ..()
 	trees_of_greed_list += src
-	cameranet.cameras += src
-	cameranet.addCamera(src)
-	cameranet.updateVisibility(src, 0)
+	AddComponent(/datum/component/camerabearer, "tree")
+
+/obj/structure/tree_of_greed/Destroy()
+	trees_of_greed_list -= src
+	return ..()
 
 /obj/structure/tree_of_greed/necropolis
 	location_name = "Некрополис"
@@ -124,7 +126,7 @@
 	if(src)
 		T = get_turf(T)
 		loc = T
-		cameranet.visibility(src)
+		global.cameranets["tree"].visibility(src)
 		if(client)
 			client.eye = src
 		update_parallax_contents()

@@ -462,6 +462,7 @@
 #include "code\game\Event\tree_of_greed.dm"
 #include "code\game\Event\valhalla_deadman.dm"
 #include "code\game\Event\vilage.dm"
+#include "code\game\Event\components\camerabearer.dm"
 #include "code\game\gamemodes\factions.dm"
 #include "code\game\gamemodes\game_mode.dm"
 #include "code\game\gamemodes\misc_faction_procs.dm"

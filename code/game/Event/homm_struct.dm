@@ -56,15 +56,13 @@
 	. = ..()
 	lepr_vends_list += src // global list
 	serial_number = "MoneyScammer-[rand(1, 1000)]"
-	cameranet.cameras += src
-	cameranet.addCamera(src)
-	cameranet.updateVisibility(src, 0)
+
+	AddComponent(/datum/component/camerabearer, "tree")
 
 /obj/machinery/vending/lepr/Destroy()
-	. = ..()
-	cameranet.cameras -= src
-	cameranet.removeCamera(src)
-
+	lepr_vends_list -= src
+	qdel(GetComponent(/datum/component/camerabearer))
+	return ..()
 
 /obj/machinery/vending/lepr/attackby(obj/item/W, mob/user)
 	if(tree_of_greed_approval || istype(src, /obj/machinery/vending/lepr/ILB))
