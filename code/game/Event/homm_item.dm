@@ -211,8 +211,24 @@
 	icon_state = "lich_staff"
 	item_state = "lich_staff"
 	force = 15
+	var/datum/mind/owner
 
-/obj/item/lich_staff/attack(mob/living/carbon/human/H, mob/user)//Не забыть добавить проверку на то что пользователь палки должен быть Личом(Привязывать посох как книгу мага к владельцу)
+/obj/item/lich_staff/attack_self(mob/user)
+	if(!owner)
+		to_chat(user, "<span class='notice'>Вы привязали посох к себе.</span>")
+		owner = user.mind
+		return
+	if(user.mind != owner)
+		to_chat(user, "<span class='warning'>[name] не будет подчиняться вам</span>")
+		return
+
+/obj/item/lich_staff/attack(mob/living/carbon/human/H, mob/user)
+	if(owner == null)
+		to_chat(user, "<span class='warning'><b>Сначала привяжите посох к себе.</b>")
+		return
+	if(user.mind != owner)
+		to_chat(user, "<span class='warning'>[name] не будет подчиняться вам</span>")
+		return
 	if(!ishuman(H))//If target is not a human.
 		return ..()
 	if(H.stat == CONSCIOUS)

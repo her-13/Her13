@@ -256,8 +256,15 @@
 	var/tar
 	var/icon/open_state = "coffin_open"
 
-/obj/structure/coffin/attackby(obj/item/I, mob/user) //Не забыть добавить проверку на то что пользователь палки должен быть Личом(Привязывать посох как книгу мага к владельцу)
+/obj/structure/coffin/attackby(obj/item/I, mob/user)
 	if(istype(I, /obj/item/lich_staff)&&!isSingleUse)
+		var/obj/item/lich_staff/L = I
+		if(L.owner == null)
+			to_chat(user, "<span class='warning'><b>Сначала привяжите посох к себе.</b>")
+			return
+		if(user.mind != L.owner)
+			to_chat(user, "<span class='warning'>[I.name] не будет подчиняться вам</span>")
+			return
 		tar = pick(get_area_turfs(get_area_by_type(/area/custom/valhalla)))
 		typeOfCorpse = new typeOfCorpse(tar)
 		typeOfCorpse.myCoffin =  src
