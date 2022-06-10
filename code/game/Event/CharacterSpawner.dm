@@ -114,22 +114,6 @@
 	arrive_sound = 'sound/Event/headman.ogg'
 	homm_species = LEPR
 
-/obj/structure/character_spawner/lepr/attack_hand(mob/living/carbon/human/user) // only a human can become lepr
-	..()
-	if(ready == "Нет")
-		selecting_job = FALSE
-		return
-	user.mutations.Add(SMALLSIZE)
-	user.regenerate_icons()
-	user.AddSpell(new /obj/effect/proc_holder/spell/aoe_turf/lepr_escape)
-	user.AddSpell(new /obj/effect/proc_holder/spell/targeted/lepr_hivemind)
-	user.see_invisible = 34 // so he can see the tree of greed
-	cameranet.cameras += user
-	cameranet.addCamera(user)
-	cameranet.updateVisibility(user, 0)
-
-
-
 /obj/structure/character_spawner/tree_of_greed
 
 /obj/structure/character_spawner/tree_of_greed/attack_hand(mob/living/carbon/human/user)
