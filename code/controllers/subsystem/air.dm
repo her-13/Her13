@@ -15,8 +15,12 @@ SUBSYSTEM_DEF(air)
 	init_order    = SS_INIT_AIR
 	priority      = SS_PRIORITY_AIR
 	wait          = SS_WAIT_AIR
-
+	/*<her13-del>
 	flags = SS_BACKGROUND
+	</her13-del>*/
+	//<her13-add>
+	flags = SS_NO_INIT
+	//</her13-add>
 	runlevels = RUNLEVEL_GAME | RUNLEVEL_POSTGAME
 
 	msg_lobby = "Забываем про атмос..."
