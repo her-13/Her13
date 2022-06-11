@@ -270,8 +270,11 @@
 /obj/item/weapon/melee/whip
 	name = "Плетка"
 	desc = "Для серьезных преступлений"
-	icon_state = "chain"
-	item_state = "chain"
+	icon_custom = 'icons/Events/item/whip.dmi'
+	icon = 'icons/Events/item/whip.dmi'
+	righthand_file = 'icons/Events/item/whip.dmi'
+	lefthand_file  = 'icons/Events/item/whip.dmi'
+	icon_state = "whip"
 	flags = CONDUCT
 	slot_flags = SLOT_FLAGS_BELT
 	force = 1
