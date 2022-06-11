@@ -292,7 +292,7 @@
 		speech_sound = sound('sound/voice/shriek1.ogg')
 		sound_vol = 50
 	//<her13-add>
-	else if(species.name == HUMAN || species.name == HUBMAN ||species.name == LEPR ||species.name == DEADMAN)
+	else if(species.name == HUMAN || species.name == HUBMAN ||species.name == LEPR)
 		if(gender == FEMALE)
 			speech_sound = sound('sound/Event/fem.ogg')
 		else
@@ -303,6 +303,9 @@
 		speech_sound = sound(pick('sound/Event/zombie-speak.ogg','sound/Event/zombie-speak-1.ogg','sound/Event/zombie-speak-2.ogg','sound/Event/zombie-speak-3.ogg','sound/Event/zombie-speak-4.ogg','sound/Event/zombie-speak-5.ogg'))
 		sound_vol = 50
 
+	else if(species.name == SKELETON || species.name == LICH ||species.name == DEADMAN )
+		speech_sound = sound(pick('sound/Event/skeleton-speak.ogg','sound/Event/skeleton-speak-1.ogg','sound/Event/skeleton-speak-2.ogg','sound/Event/skeleton-speak-3.ogg','sound/Event/skeleton-speak-4.ogg'))
+		sound_vol = 50
 	//</her13-add>
 	else if(species.name == ABOMINATION)
 		speech_sound = sound('sound/voice/abomination.ogg')
