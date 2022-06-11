@@ -575,8 +575,14 @@ Note that amputating the affected organ does in fact remove the infection from t
 
 		if(HULK in owner.mutations)
 			img_eyes_s.color = "#ff0000"
+		/*<her13-del>
 		else if(species.name == SHADOWLING || iszombie(owner))
 			img_eyes_s.color = null
+		</her13-del>*/
+		//<her13-add>
+		else if(species.name == SHADOWLING || species.name == LICH || species.name == ZOMBIE_KNIGHT ||  iszombie(owner))
+			img_eyes_s.color = null
+		//</her13-add>
 		else
 			img_eyes_s.color = rgb(owner.r_eyes, owner.g_eyes, owner.b_eyes)
 

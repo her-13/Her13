@@ -299,7 +299,7 @@
 			speech_sound = sound('sound/Event/male.ogg')
 		sound_vol = 50
 
-	else if(species.name == HOMM_ZOMBIE)
+	else if(species.name == HOMM_ZOMBIE || species.name == ZOMBIE_KNIGHT )
 		speech_sound = sound(pick('sound/Event/zombie-speak.ogg','sound/Event/zombie-speak-1.ogg','sound/Event/zombie-speak-2.ogg','sound/Event/zombie-speak-3.ogg','sound/Event/zombie-speak-4.ogg','sound/Event/zombie-speak-5.ogg'))
 		sound_vol = 50
 

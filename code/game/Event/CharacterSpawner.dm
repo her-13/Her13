@@ -186,6 +186,7 @@
 /obj/structure/character_spawner/lich
 	outfit = /datum/outfit/job/hub/lich
 	A =/area/custom/start_homm/lich
+	homm_species = LICH
 
 /obj/structure/hell_spawner/coffin
 	name = "Скелет"
