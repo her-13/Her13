@@ -166,6 +166,17 @@
 		currently_vending = null
 		return
 
+/obj/structure/knight_statue
+	name = "Статуя"
+	desc = "Интересно , кто это?"
+	icon = 'icons/Events/structure/statue_knight.dmi'
+	icon_state = "statue"
+	can_buckle = TRUE
+	anchored = TRUE
+	density = 1
+	layer = 11
+
+
 /obj/structure/pillory
 	name = "Позорный столб"
 	desc = "Какой позор.."
