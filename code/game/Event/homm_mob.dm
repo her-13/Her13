@@ -185,6 +185,8 @@
 	health = 35
 	melee_damage = 7
 	attacktext = "бьет"
+	universal_speak = 1
+	universal_understand = 1
 
 /mob/living/simple_animal/wraith/atom_init()
 	..()
