@@ -29,7 +29,7 @@
 
 /obj/item/clothing/under/knight
 	name = "Одежда Рыцаря"
-	desc = "Веет уютом"
+	desc = ""
 	icon_custom = 'icons/Events/clothes/knight.dmi'
 	icon = 'icons/Events/clothes/knight.dmi'
 	icon_state = "knightunder"
