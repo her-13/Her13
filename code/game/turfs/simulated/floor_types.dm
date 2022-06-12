@@ -217,6 +217,10 @@
 /turf/simulated/floor/beach/water/waterpool
 	icon_state = "seadeep"
 
+/turf/simulated/floor/beach/water/deep
+	icon_state = "seadeep"
+	density = 1
+
 /turf/simulated/floor/beach/water/waterpool/green
 	icon_state = "green_water"
 	light_color = "#244e24"
