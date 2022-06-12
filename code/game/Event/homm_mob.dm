@@ -185,6 +185,7 @@
 	health = 35
 	melee_damage = 7
 	attacktext = "бьет"
+	attack_sound = list('sound/Event/wraith.ogg')
 	universal_speak = 1
 	universal_understand = 1
 
