@@ -7,7 +7,6 @@ var/global/datum/cameranet/cameranet = new()
 /datum/cameranet
 	var/name = "Camera Net" // Name to show for VV and stat()
 
-	// REWORKED TO CONTAIN ALL THE LEPRECONS AND TREES OF GREED INSTEAD OF CAMERAS
 	// The cameras on the map, no matter if they work or not. Updated in obj/machinery/camera.dm by New() and Destroy().
 	var/list/cameras = list()
 	var/cameras_unsorted = 1

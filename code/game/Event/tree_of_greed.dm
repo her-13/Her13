@@ -52,6 +52,7 @@
 
 /obj/structure/tree_of_greed/Destroy()
 	trees_of_greed_list -= src
+	qdel(GetComponent(/datum/component/camerabearer))
 	return ..()
 
 /obj/structure/tree_of_greed/necropolis
