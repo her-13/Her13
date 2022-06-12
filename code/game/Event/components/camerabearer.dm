@@ -38,5 +38,5 @@ var/global/list/datum/cameranet/cameranets
 		return N
 
 	N = new
-	global.cameranets[net_name] = N
+	LAZYSET(global.cameranets, net_name, N)
 	return N
