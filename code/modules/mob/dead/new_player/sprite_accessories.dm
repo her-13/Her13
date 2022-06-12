@@ -25,9 +25,13 @@
 
 	// Determines if the accessory will be skipped or included in random hair generations
 	var/gender = NEUTER
-
+	//<her13-del>
+	// var/list/species_allowed = list(HUMAN,PODMAN)
+	//</her13-del>
 	// Restrict some styles to specific species
-	var/list/species_allowed = list(HUMAN, PODMAN)
+	//<her13-addition>
+	var/list/species_allowed = list(HUMAN,PODMAN,HUBMAN)
+	//<her13-addition>
 
 	// Whether or not the accessory can be affected by colouration
 	var/do_colouration = 1
@@ -48,7 +52,7 @@
 /datum/sprite_accessory/hair/bald
 	name = "Bald"
 	icon_state = "bald"
-	species_allowed = list(HUMAN, UNATHI, DIONA, PODMAN)
+	species_allowed = list(HUMAN, UNATHI, DIONA, PODMAN, HUBMAN)
 
 /datum/sprite_accessory/hair/short
 	name = "Short Hair"	  // try to capatilize the names please~
@@ -864,7 +868,7 @@
 	name = "Shaved"
 	icon_state = "bald"
 	gender = NEUTER
-	species_allowed = list(HUMAN, UNATHI, TAJARAN, SKRELL, VOX, IPC, DIONA, PODMAN)
+	species_allowed = list(HUMAN, UNATHI, TAJARAN, SKRELL, VOX, IPC, DIONA, PODMAN, HUBMAN)
 
 /datum/sprite_accessory/facial_hair/watson
 	name = "Watson Mustache"

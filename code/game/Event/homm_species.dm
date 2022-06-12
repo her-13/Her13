@@ -11,6 +11,8 @@
 	,NO_DNA = TRUE
 	,NO_SCAN = TRUE
 	,VIRUS_IMMUNE = TRUE
+	,HAS_SKIN_COLOR = TRUE
+	,HAS_HAIR_COLOR = TRUE
 	,NO_FINGERPRINT = TRUE
 	,NO_BLOOD_TRAILS = TRUE
 	,NO_PAIN = TRUE
@@ -63,6 +65,20 @@
 	,NO_VOMIT = TRUE
 	,NO_FAT = TRUE
 	)
+
+	has_bodypart = list(
+		 BP_CHEST  = /obj/item/organ/external/chest/skeleton/homm_zombie
+		,BP_GROIN  = /obj/item/organ/external/groin/skeleton/homm_zombie
+		,BP_HEAD   = /obj/item/organ/external/head/skeleton/homm_zombie
+		,BP_L_ARM  = /obj/item/organ/external/l_arm/skeleton/homm_zombie
+		,BP_R_ARM  = /obj/item/organ/external/r_arm/skeleton/homm_zombie
+		,BP_L_LEG  = /obj/item/organ/external/l_leg/skeleton/homm_zombie
+		,BP_R_LEG  = /obj/item/organ/external/r_leg/skeleton/homm_zombie
+		)
+
+/datum/species/skeleton/homm_zombie/handle_post_spawn(mob/living/carbon/human/H)
+	H.status_flags &= ~(CANSTUN | CANPARALYSE)
+	return
 
 /datum/species/skeleton/homm_zombie/knight
 	name = ZOMBIE_KNIGHT
