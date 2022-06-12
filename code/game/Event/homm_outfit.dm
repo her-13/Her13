@@ -93,7 +93,7 @@
 
 /datum/outfit/job/hub/knight
 	name = OUTFIT_JOB_NAME("Knight")
-	uniform =/obj/item/clothing/under/color/grey
+	uniform =/obj/item/clothing/under/knight
 	suit = /obj/item/clothing/suit/armor/knight
 	shoes = /obj/item/clothing/shoes/boots
 	gloves = /obj/item/clothing/gloves/combat
@@ -119,7 +119,7 @@
 
 /datum/outfit/job/hub/human_hero
 	name = OUTFIT_JOB_NAME("Human Hero")
-	uniform =/obj/item/clothing/under/color/grey
+	uniform =/obj/item/clothing/under/knight
 	suit = /obj/item/clothing/suit/armor/knight
 	shoes = /obj/item/clothing/shoes/boots
 	gloves = /obj/item/clothing/gloves/combat

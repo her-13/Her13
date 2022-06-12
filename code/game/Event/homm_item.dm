@@ -27,6 +27,13 @@
 	icon = 'icons/Events/clothes/inn.dmi'
 	icon_state = "inn"
 
+/obj/item/clothing/under/knight
+	name = "Одежда Рыцаря"
+	desc = "Веет уютом"
+	icon_custom = 'icons/Events/clothes/knight.dmi'
+	icon = 'icons/Events/clothes/knight.dmi'
+	icon_state = "knightunder"
+
 /obj/item/clothing/under/lepr
 	name = "Форма Жадности"
 	desc = "2/3 бюджета всей Эрафии , в этом костюме"
