@@ -70,7 +70,11 @@ var/global/datum/cameranet/cameranet = new()
 // Updates the chunks that the turf is located in. Use this when obstacles are destroyed or	when doors open.
 
 /datum/cameranet/proc/updateVisibility(atom/A, opacity_check = 1)
-
+	//<her13-add>
+	if(src == global.cameranet)
+		for(var/net_name in global.cameranets)
+			global.cameranets[net_name].updateVisibility(src)
+	//</her13-add>
 	if(!SSticker || (opacity_check && !A.opacity))
 		return
 	majorChunkChange(A, 2)
