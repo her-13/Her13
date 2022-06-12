@@ -73,7 +73,7 @@ var/global/datum/cameranet/cameranet = new()
 	//<her13-add>
 	if(src == global.cameranet)
 		for(var/net_name in global.cameranets)
-			global.cameranets[net_name].updateVisibility(src)
+			global.cameranets[net_name].updateVisibility(A, opacity_check)
 	//</her13-add>
 	if(!SSticker || (opacity_check && !A.opacity))
 		return
