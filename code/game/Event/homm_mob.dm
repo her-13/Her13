@@ -175,12 +175,12 @@
 	var/mob/living/L = target
 	L.reagents.add_reagent("stoxin", 5)
 
-mob/living/simple_animal/wraith
+/mob/living/simple_animal/wraith
 	name = "Привидение"
 	desc = "Неупокоенная душа"
 	icon = 'icons/Events/mob/wraith.dmi'
 	icon_state = "wraith_opaque"
-	speed = 4
+	speed = 1
 	maxHealth = 35
 	health = 35
 	melee_damage = 7
