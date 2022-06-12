@@ -185,3 +185,13 @@
 	health = 35
 	melee_damage = 7
 	attacktext = "бьет"
+
+/mob/living/simple_animal/wraith/atom_init()
+	..()
+	update_icon()
+
+/mob/living/simple_animal/wraith/update_icon()
+	var/image/eye = image(icon, icon_state = "eye")
+	eye.plane = ABOVE_LIGHTING_PLANE
+	add_overlay(eye)
+	..()
