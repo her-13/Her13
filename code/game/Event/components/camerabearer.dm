@@ -13,7 +13,7 @@ var/global/list/datum/cameranet/cameranets
 	camera.replace_networks(list(net_name))
 	cameranet.removeCamera(camera)
 
-	net = init_net()
+	net = init_net(net_name)
 	net.cameras += camera
 	net.addCamera(camera)
 
