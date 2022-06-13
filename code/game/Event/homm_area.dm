@@ -133,6 +133,9 @@
 /area/custom/lich
 	name = "LichHub"
 
+/area/custom/zombie_knight
+	name = "ZombieKnightHub"
+
 //НЕКРОПОЛИС СТАРТОВЫЕ ЗОНЫ
 
 /area/custom/start_homm/lich
@@ -140,3 +143,6 @@
 
 /area/custom/start_homm/skeleton
 	name = "SkeletonStart"
+
+/area/custom/start_homm/zombie_knight
+	name = "ZombieKnightStart"

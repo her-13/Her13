@@ -108,6 +108,17 @@
 	armor = list(melee = 50, bullet = 30, laser = 20, energy = 20, bomb = 25, bio = 0, rad = 10)
 	siemens_coefficient = 1.2
 
+/obj/item/clothing/suit/armor/death_knight
+	name = "Черные доспехи"
+	desc = "Совсем не отражает свет"
+	icon_custom = 'icons/Events/clothes/suit/death_knight.dmi'
+	icon = 'icons/Events/clothes/suit/death_knight.dmi'
+	icon_state = "armor"
+	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
+	pierce_protection = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
+	armor = list(melee = 50, bullet = 30, laser = 20, energy = 20, bomb = 25, bio = 0, rad = 10)
+	siemens_coefficient = 1.2
+
 
 //ШЛЯПЫ
 /obj/item/clothing/head/monk_helper
@@ -182,6 +193,18 @@
 	armor = list(melee = 50, bullet = 50, laser = 50,energy = 50, bomb = 50, bio = 50, rad = 50)
 	flags_inv = HIDEEARS
 	siemens_coefficient = 0.3
+
+/obj/item/clothing/head/helmet/death_knight
+	name = "Черный Шлем"
+	desc = "Стильные рога"
+	icon_custom = 'icons/Events/clothes/hats/death_knight.dmi'
+	icon = 'icons/Events/clothes/hats/death_knight.dmi'
+	icon_state = "helmet"
+	item_state = "helmet"
+	armor = list(melee = 50, bullet = 30, laser = 20, energy = 20, bomb = 20, bio = 0, rad = 10)
+	siemens_coefficient = 1.2
+	flags = HEADCOVERSEYES|HEADCOVERSMOUTH|BLOCKHAIR
+	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES
 
 //БОТИНКИ
 /obj/item/clothing/shoes/lepr

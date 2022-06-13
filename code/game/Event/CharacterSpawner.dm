@@ -203,3 +203,8 @@
 	myCoffin.icon_state = myCoffin.open_state
 	to_chat(user, "<span class='warning'>Теперь ты живой мертвец.[myMaster.name] твой мастер. Служи и выполняй все приказы мастера.</span>")
 
+/obj/structure/character_spawner/death_knight
+	outfit = /datum/outfit/job/hub/death_knight
+	A =/area/custom/start_homm/zombie_knight
+	homm_species = ZOMBIE_KNIGHT
+

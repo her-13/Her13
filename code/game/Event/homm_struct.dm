@@ -111,7 +111,7 @@
 	/obj/item/weapon/reagent_containers/glass/bottle/inaprovaline = 50,
 	/obj/item/weapon/reagent_containers/glass/bottle/peridaxon = 250,
 	/obj/item/weapon/reagent_containers/glass/bottle/kyphotorin = 500,
-	/obj/item/weapon/reagent_containers/glass/bottle/adminordrazine = 100,
+	/obj/item/weapon/reagent_containers/glass/bottle/adminordrazine = 1000,
 	)
 
 
