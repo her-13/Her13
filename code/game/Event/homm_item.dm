@@ -297,6 +297,20 @@
 		to_chat(user, "<span class='notice'> Здесь написано: <span class='emojify'>[targName]</span>.</span>")
 		return
 
+/obj/item/skeleton_sword
+	name = "Старый меч"
+	icon_custom = 'icons/Events/item/skeleton_sword.dmi'
+	icon = 'icons/Events/item/skeleton_sword.dmi'
+	righthand_file = 'icons/Events/item/skeleton_sword.dmi'
+	lefthand_file  = 'icons/Events/item/skeleton_sword.dmi'
+	icon_state = "sword"
+	slot_flags = SLOT_FLAGS_BELT
+	force = 15
+
+/obj/item/skeleton_sword/attack(mob/living/carbon/M, mob/living/carbon/user)
+	playsound(src, pick('sound/Event/sword.ogg','sound/Event/sword1.ogg','sound/Event/sword2.ogg'), VOL_EFFECTS_MASTER)
+	return ..()
+
 /obj/item/weapon/melee/whip
 	name = "Плетка"
 	desc = "Для серьезных преступлений"

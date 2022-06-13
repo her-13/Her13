@@ -156,6 +156,7 @@
 	name = OUTFIT_JOB_NAME("Скелет")
 	uniform = /obj/item/clothing/under/zombie_pants
 	shoes = /obj/item/clothing/shoes/sandal
+	r_hand = /obj/item/skeleton_sword
 	back = null
 
 /datum/outfit/job/hub/death_knight
