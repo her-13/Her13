@@ -157,3 +157,12 @@
 	uniform = /obj/item/clothing/under/zombie_pants
 	shoes = /obj/item/clothing/shoes/sandal
 	back = null
+
+/datum/outfit/job/hub/death_knight
+	name = OUTFIT_JOB_NAME("Черный Рыцарь")
+	uniform =/obj/item/clothing/under/knight
+	suit = /obj/item/clothing/suit/armor/death_knight
+	shoes = /obj/item/clothing/shoes/boots
+	gloves = /obj/item/clothing/gloves/combat
+	head = /obj/item/clothing/head/helmet/death_knight
+	back = null
