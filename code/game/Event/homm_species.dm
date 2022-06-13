@@ -43,8 +43,8 @@
 	name = HOMM_ZOMBIE
 	icobase = 'icons/Events/race/zombie.dmi'
 	deform = 'icons/Events/race/zombie.dmi'
-	brute_mod = 0.80
-	burn_mod = 1.2
+	brute_mod = 1
+	burn_mod = 1.5
 	speed_mod = -0.2
 	flesh_color = "#ffc896"
 	blood_datum_path = /datum/dirt_cover/red_blood
@@ -84,5 +84,4 @@
 	name = ZOMBIE_KNIGHT
 	eyes = "zombie_ms_s"
 	eyes_glowing = TRUE
-	brute_mod = 0.70
-	burn_mod = 1.1
+	burn_mod = 1.2

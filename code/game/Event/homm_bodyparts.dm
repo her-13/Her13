@@ -11,8 +11,6 @@
 	if((brute <= 0) && (burn <= 0))
 		return 0
 
-	playsound(BP.owner, pick(SOUNDIN_BONEBREAK), VOL_EFFECTS_MASTER, null, FALSE, null, -2)
-
 	var/lose_bone_chance = 100
 	if(brute < BP.min_broken_damage || burn < BP.min_broken_damage)
 		lose_bone_chance = 5
@@ -31,7 +29,7 @@
 	name = "Грудак зомби"
 	leaves_stump = FALSE
 	force = 8
-	min_broken_damage = 35
+	min_broken_damage = 20
 	controller_type = /datum/bodypart_controller/skeleton/homm_zombie
 
 /obj/item/organ/external/head/skeleton/homm_zombie
@@ -39,14 +37,14 @@
 	vital = FALSE
 	leaves_stump = FALSE
 	force = 8
-	min_broken_damage = 35
+	min_broken_damage = 20
 	controller_type = /datum/bodypart_controller/skeleton/homm_zombie
 
 /obj/item/organ/external/groin/skeleton/homm_zombie
 	name = "Пах зомби"
 	leaves_stump = FALSE
 	force = 8
-	min_broken_damage = 30
+	min_broken_damage = 15
 	controller_type = /datum/bodypart_controller/skeleton/homm_zombie
 
 	cannot_amputate = FALSE
@@ -56,26 +54,26 @@
 	name = "Левая рука зомби"
 	leaves_stump = FALSE
 	force = 8
-	min_broken_damage = 30
+	min_broken_damage = 15
 	controller_type = /datum/bodypart_controller/skeleton/homm_zombie
 
 /obj/item/organ/external/r_arm/skeleton/homm_zombie
 	name = "Правая рука зомби"
 	leaves_stump = FALSE
 	force = 8
-	min_broken_damage = 30
+	min_broken_damage = 15
 	controller_type = /datum/bodypart_controller/skeleton/homm_zombie
 
 /obj/item/organ/external/r_leg/skeleton/homm_zombie
 	name = "Правая нога зомби"
 	leaves_stump = FALSE
 	force = 8
-	min_broken_damage = 30
+	min_broken_damage = 15
 	controller_type = /datum/bodypart_controller/skeleton/homm_zombie
 
 /obj/item/organ/external/l_leg/skeleton/homm_zombie
 	name = "Левая нога зомби"
 	leaves_stump = FALSE
 	force = 8
-	min_broken_damage = 30
+	min_broken_damage = 15
 	controller_type = /datum/bodypart_controller/skeleton/homm_zombie

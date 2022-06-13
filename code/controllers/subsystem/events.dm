@@ -42,6 +42,9 @@ SUBSYSTEM_DEF(events)
 	return ..()
 
 /datum/controller/subsystem/events/fire()
+	//<her13-add>
+	return
+	//</her13-add>
 	for(var/datum/event/E in active_events)
 		E.process()
 
