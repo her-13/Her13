@@ -26,6 +26,8 @@
 
 /datum/species/skeleton/deadman // Тоже самое что Хабовец, но в виде скелета
 	name = DEADMAN
+	icobase = 'icons/Events/race/skeleton.dmi'
+	deform = 'icons/Events/race/skeleton.dmi'
 	brute_mod = 0
 	burn_mod = 0
 
@@ -34,6 +36,8 @@
 
 /datum/species/skeleton/undead
 	name = HOMM_SKELTON
+	icobase = 'icons/Events/race/skeleton.dmi'
+	deform = 'icons/Events/race/skeleton.dmi'
 	var/escape_spell = new /obj/effect/proc_holder/spell/aoe_turf/undead_escape
 
 /datum/species/skeleton/undead/on_gain(mob/living/carbon/human/H)
@@ -46,8 +50,6 @@
 
 /datum/species/skeleton/undead/lich
 	name = LICH
-	icobase = 'icons/Events/race/lich.dmi'
-	deform = 'icons/Events/race/lich.dmi'
 	eyes = "zombie_ms_s"
 	eyes_glowing = TRUE
 
