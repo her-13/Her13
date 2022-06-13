@@ -148,17 +148,13 @@
 		//<her13-add>
 		var/mob/living/carbon/human/U = M
 		if(U.species.name == HOMM_SKELTON || U.species.name == LICH ||U.species.name == HOMM_ZOMBIE || U.species.name == ZOMBIE_KNIGHT )
-			var/mob/living/simple_animal/wraith/W = new /mob/living/simple_animal/wraith(get_turf(U))
-			U.mind.transfer_to(W)
-			for(var/datum/action/A in W.actions)
-				A.Remove(W)
-			var/obj/effect/proc_holder/spell/aoe_turf/undead_escape/newSpell = new /obj/effect/proc_holder/spell/aoe_turf/undead_escape
-			W.AddSpell(newSpell)
-			newSpell.MyBody = U
-			to_chat(user, "<span class='danger'>Вы изгоняете духа из тела!.</span>")
-			playsound(usr, 'sound/Event/wraith_leave.ogg', VOL_EFFECTS_MASTER)
-			new /obj/effect/temp_visual/religion/pulse(M.loc)
-			return
+			if(U.mind)
+				var/mob/living/simple_animal/wraith/W = new /mob/living/simple_animal/wraith(get_turf(U))
+				U.mind.transfer_to(W)
+				to_chat(user, "<span class='danger'>Вы изгоняете духа из тела!.</span>")
+				playsound(usr, 'sound/Event/wraith_leave.ogg', VOL_EFFECTS_MASTER)
+				new /obj/effect/temp_visual/religion/pulse(M.loc)
+				return
 
 		//</her13-add>
 		if(iscultist(M))

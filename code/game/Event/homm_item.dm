@@ -261,6 +261,9 @@
 		return
 	if(!ishuman(H))//If target is not a human.
 		return ..()
+	if(H.species.name == HOMM_SKELTON || H.species.name == LICH ||H.species.name == HOMM_ZOMBIE || H.species.name == ZOMBIE_KNIGHT)
+		to_chat(H, "<span class='warning'>Это существо уже живой мертвец</span>")
+		return
 	if(H.stat == CONSCIOUS)
 		to_chat(user, "<span class='warning'><b>Зомбирование не удалось!</b></span> Сначала доведите состояние жертвы до критической отметки.")
 		return
