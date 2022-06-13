@@ -36,9 +36,11 @@
 	var/escape_spell = new /obj/effect/proc_holder/spell/aoe_turf/undead_escape
 
 /datum/species/skeleton/undead/on_gain(mob/living/carbon/human/H)
+	..()
 	H.AddSpell(escape_spell)
 
 /datum/species/skeleton/undead/on_loose(mob/living/carbon/human/H)
+	..()
 	H.RemoveSpell(escape_spell)
 
 /datum/species/skeleton/undead/lich
