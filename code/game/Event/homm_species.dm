@@ -32,14 +32,23 @@
 /datum/species/human/lepr
 	name = LEPR
 
-/datum/species/skeleton/lich
+/datum/species/skeleton/undead
+	var/escape_spell = new /obj/effect/proc_holder/spell/aoe_turf/undead_escape
+
+/datum/species/skeleton/undead/on_gain(mob/living/carbon/human/H)
+	H.AddSpell(escape_spell)
+
+/datum/species/skeleton/undead/on_loose(mob/living/carbon/human/H)
+	H.RemoveSpell(escape_spell)
+
+/datum/species/skeleton/undead/lich
 	name = LICH
 	icobase = 'icons/Events/race/lich.dmi'
 	deform = 'icons/Events/race/lich.dmi'
 	eyes = "zombie_ms_s"
 	eyes_glowing = TRUE
 
-/datum/species/skeleton/homm_zombie // Почему от скелета? Чтобы не обьяснять снова про отрубание-присоединение конечностей.
+/datum/species/skeleton/undead/homm_zombie // Почему от скелета? Чтобы не обьяснять снова про отрубание-присоединение конечностей.
 	name = HOMM_ZOMBIE
 	icobase = 'icons/Events/race/zombie.dmi'
 	deform = 'icons/Events/race/zombie.dmi'
@@ -76,11 +85,11 @@
 		,BP_R_LEG  = /obj/item/organ/external/r_leg/skeleton/homm_zombie
 		)
 
-/datum/species/skeleton/homm_zombie/handle_post_spawn(mob/living/carbon/human/H)
+/datum/species/skeleton/undead/homm_zombie/handle_post_spawn(mob/living/carbon/human/H)
 	H.status_flags &= ~(CANSTUN | CANPARALYSE)
 	return
 
-/datum/species/skeleton/homm_zombie/knight
+/datum/species/skeleton/undead/homm_zombie/knight
 	name = ZOMBIE_KNIGHT
 	eyes = "zombie_ms_s"
 	eyes_glowing = TRUE
