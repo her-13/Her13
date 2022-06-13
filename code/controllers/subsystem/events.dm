@@ -45,12 +45,14 @@ SUBSYSTEM_DEF(events)
 	//<her13-add>
 	return
 	//</her13-add>
+	/*<her13-del>
 	for(var/datum/event/E in active_events)
 		E.process()
 
 	for(var/i in EVENT_LEVEL_MUNDANE to EVENT_LEVEL_HOMM)
 		var/datum/event_container/EC = event_containers[i]
 		EC.process()
+	<her13-del>*/
 
 /datum/controller/subsystem/events/proc/start_roundstart_event()
 	var/datum/event_container/feature/EC = event_containers[EVENT_LEVEL_FEATURE]
