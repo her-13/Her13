@@ -47,7 +47,7 @@
 	var/target
 	var/selecting_job = FALSE
 	var/arrive_sound
-	var/datum/species/homm_species = SKELETON
+	var/datum/species/homm_species = HOMM_SKELTON
 
 /obj/structure/hell_spawner/attack_hand(mob/living/carbon/human/user)
 	if(!selecting_job)

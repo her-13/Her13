@@ -33,6 +33,7 @@
 	name = LEPR
 
 /datum/species/skeleton/undead
+	name = HOMM_SKELTON
 	var/escape_spell = new /obj/effect/proc_holder/spell/aoe_turf/undead_escape
 
 /datum/species/skeleton/undead/on_gain(mob/living/carbon/human/H)

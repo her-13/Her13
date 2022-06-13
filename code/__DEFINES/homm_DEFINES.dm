@@ -2,6 +2,7 @@
 #define HUBMAN         "Hubman"
 #define DEADMAN        "Deadman"
 #define LEPR           "Lepr"
+#define HOMM_SKELTON   "Homm Skeleton"
 #define HOMM_ZOMBIE    "Homm Zombie"
 #define LICH           "Lich"
 #define ZOMBIE_KNIGHT  "Zombie Knight"
