@@ -325,7 +325,7 @@
 /obj/item/weapon/staff/broom/monk
 	name = "Метла"
 	desc = "Ей можно убирать грязь. А когда демоны придут, им можно ударить по башке метлой."
-	force = 10
+	force = 5
 
 /obj/item/weapon/staff/broom/monk/afterattack(atom/target, mob/user)
 	if(istype(target,/obj/effect/decal/cleanable) && !user.is_busy(target))

@@ -27,6 +27,7 @@
 
 /obj/effect/proc_holder/spell/aoe_turf/undead_escape/cast(mob/user = usr)
 	if(!MyBody)
+		playsound(usr, 'sound/Event/wraith_leave.ogg', VOL_EFFECTS_MASTER)
 		MyBody = usr
 		var/mob/living/simple_animal/wraith/W = new /mob/living/simple_animal/wraith(get_turf(usr))
 		usr.mind.transfer_to(W)

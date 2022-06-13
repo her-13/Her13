@@ -156,6 +156,7 @@
 			W.AddSpell(newSpell)
 			newSpell.MyBody = U
 			to_chat(user, "<span class='danger'>Вы изгоняете духа из тела!.</span>")
+			playsound(usr, 'sound/Event/wraith_leave.ogg', VOL_EFFECTS_MASTER)
 			new /obj/effect/temp_visual/religion/pulse(M.loc)
 			return
 
