@@ -311,3 +311,10 @@
 				return
 			H.set_species(HOMM_SKELETON)
 			to_chat(H, "<span class='warning'>Теперь ты живой мертвец.[user] твой мастер. Служи и выполняй все приказы мастера.</span>")
+
+/obj/structure/closet/crate/wood
+	desc = "Добротный деревянный ящик."
+	name = "Деревянный ящик"
+	icon_state = "wood_crate"
+	icon_opened = "wood_crateopen"
+	icon_closed = "wood_crate"
