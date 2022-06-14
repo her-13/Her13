@@ -35,7 +35,7 @@
 	name = LEPR
 
 /datum/species/skeleton/undead
-	name = HOMM_SKELTON
+	name = HOMM_SKELETON
 	icobase = 'icons/Events/race/skeleton.dmi'
 	deform = 'icons/Events/race/skeleton.dmi'
 	var/escape_spell = new /obj/effect/proc_holder/spell/aoe_turf/undead_escape
