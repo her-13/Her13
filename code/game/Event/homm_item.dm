@@ -261,7 +261,7 @@
 		return
 	if(!ishuman(H))//If target is not a human.
 		return ..()
-	if(H.species.name == HOMM_SKELTON || H.species.name == LICH ||H.species.name == HOMM_ZOMBIE || H.species.name == ZOMBIE_KNIGHT)
+	if(H.species.name == HOMM_SKELETON || H.species.name == LICH ||H.species.name == HOMM_ZOMBIE || H.species.name == ZOMBIE_KNIGHT)
 		to_chat(H, "<span class='warning'>Это существо уже живой мертвец</span>")
 		return
 	if(H.stat == CONSCIOUS)
@@ -312,6 +312,7 @@
 
 /obj/item/skeleton_sword/attack(mob/living/carbon/M, mob/living/carbon/user)
 	playsound(src, pick('sound/Event/sword.ogg','sound/Event/sword1.ogg','sound/Event/sword2.ogg'), VOL_EFFECTS_MASTER)
+
 	return ..()
 
 /obj/item/weapon/melee/whip

@@ -137,7 +137,7 @@
 	user.visible_message("<span class='danger'>[user] заряжает [src] и целится в [M].</span>")
 
 	deconverting = TRUE
-	if(!do_after(user, 50, target = M))
+	if(!do_after(user, 80, target = M))
 		deconverting = FALSE
 		return
 	deconverting = FALSE
@@ -147,7 +147,7 @@
 	if(M.stat != DEAD)
 		//<her13-add>
 		var/mob/living/carbon/human/U = M
-		if(U.species.name == HOMM_SKELTON || U.species.name == LICH ||U.species.name == HOMM_ZOMBIE || U.species.name == ZOMBIE_KNIGHT )
+		if(U.species.name == HOMM_SKELETON || U.species.name == LICH ||U.species.name == HOMM_ZOMBIE || U.species.name == ZOMBIE_KNIGHT)
 			if(U.mind)
 				var/mob/living/simple_animal/wraith/W = new /mob/living/simple_animal/wraith(get_turf(U))
 				U.mind.transfer_to(W)

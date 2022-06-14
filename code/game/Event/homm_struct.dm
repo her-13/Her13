@@ -283,3 +283,31 @@
 		typeOfCorpse.target = src.loc
 		isSingleUse = 1
 		to_chat(user, "<span class='warning'> Тело осквернено. Осталось подождать пока душа вернеться из загробного мира</span>")
+
+/obj/structure/skeleton_transformer
+	name = "Преобразователь скелетов"
+	desc = "Позволяет превращать живых в мертвых"
+	icon = 'icons/obj/cult.dmi'
+	icon_state = "table2-idle"
+	can_buckle = TRUE
+	buckle_lying = TRUE
+
+
+
+/obj/structure/skeleton_transformer/attackby(obj/item/W, mob/user, params)
+	if(istype(W,/obj/item/lich_staff))
+		var/obj/item/lich_staff/L = W
+		if(!ishuman(buckled_mob))
+			to_chat(user, "<span class='warning'>[buckled_mob] не гуманоид</span>")
+			return
+		var/mob/living/carbon/human/H = buckled_mob
+		if(user.mind != L.owner)
+			to_chat(user, "<span class='warning'>[L] не будет подчиняться вам</span>")
+			return
+		playsound(src, pick('sound/Event/skeleton_trans.ogg'), VOL_EFFECTS_MASTER)
+		if(do_after(user, 50,target = H))
+			if(H.species.name == HOMM_SKELETON || H.species.name == LICH ||H.species.name == HOMM_ZOMBIE || H.species.name == ZOMBIE_KNIGHT)
+				to_chat(user, "<span class='warning'>Это существо уже живой мертвец</span>")
+				return
+			H.set_species(HOMM_SKELETON)
+			to_chat(H, "<span class='warning'>Теперь ты живой мертвец.[user] твой мастер. Служи и выполняй все приказы мастера.</span>")
