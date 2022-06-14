@@ -577,7 +577,7 @@
 "Xk" = (/obj/effect/decal/cleanable/dirt,/turf/simulated/floor/carpet/blue,/area/space)
 "Xv" = (/obj/structure/flora/ausbushes/ywflowers,/obj/item/clover,/turf/simulated/floor/grass,/area/space)
 "XE" = (/obj/machinery/kitchen_machine/grill/vilage,/turf/simulated/floor/wood,/area/space)
-"XG" = (/obj/effect/decal/remains/human,/turf/simulated/floor{dir = 5; icon_state = "stone1"},/area/space)
+"XG" = (/obj/effect/decal/remains/human{name = "Thror"},/turf/simulated/floor{dir = 5; icon_state = "stone1"},/area/space)
 "XI" = (/obj/structure/closet/secure_closet/personal/cabinet,/turf/simulated/shuttle/floor/cargo,/area/space)
 "XK" = (/obj/structure/flora/ausbushes/grassybush,/obj/structure/flora/ausbushes/sunnybush,/turf/simulated/floor/grass,/area/space)
 "XL" = (/obj/structure/fireplace,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/ash,/turf/simulated/floor{dir = 5; icon_state = "stone2"},/area/space)
