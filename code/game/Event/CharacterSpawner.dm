@@ -203,6 +203,48 @@
 	myCoffin.icon_state = myCoffin.open_state
 	to_chat(user, "<span class='warning'>Теперь ты живой мертвец.[myMaster.name] твой мастер. Служи и выполняй все приказы мастера.</span>")
 
+	var/new_name = sanitize(input(user, "Выберите имя.", "Создание персонажа") as null|text)
+	if(new_name)
+		user.real_name = new_name
+		user.name = new_name
+
+/* Uncomment this if you want to give skeletons a chance to choose their hair
+	var/new_facial = input(user, "Выберите цвет растительности на лице.", "Создание персонажа") as color
+	if(new_facial)
+		user.r_facial = hex2num(copytext(new_facial, 2, 4))
+		user.g_facial = hex2num(copytext(new_facial, 4, 6))
+		user.b_facial = hex2num(copytext(new_facial, 6, 8))
+
+	var/new_hair = input(user, "Выберите цвет прически.", "Создание персонажа") as color
+	if(new_hair)
+		user.r_hair = hex2num(copytext(new_hair, 2, 4))
+		user.g_hair = hex2num(copytext(new_hair, 4, 6))
+		user.b_hair = hex2num(copytext(new_hair, 6, 8))
+
+	// hair
+	var/list/all_hairs = subtypesof(/datum/sprite_accessory/hair)
+	var/list/hairs = list()
+
+	// loop through potential hairs
+	for(var/x in all_hairs)
+		var/datum/sprite_accessory/hair/hair = new x // create new hair datum based on type x
+		hairs.Add(hair.name) // add hair name to hairs
+		qdel(hair) // delete the hair after it's all done
+
+	//hair
+	var/new_hstyle = input(user, "Выберите прическу", "Внешность")  as null|anything in get_valid_styles_from_cache(hairs_cache, HUMAN)
+	if(new_hstyle)
+		user.h_style = new_hstyle
+
+	// facial hair
+	var/new_fstyle = input(user, "Выберите стиль растительности на лице", "Внешность")  as null|anything in get_valid_styles_from_cache(facial_hairs_cache, HUMAN)
+	if(new_fstyle)
+		user.f_style = new_fstyle
+
+	user.apply_recolor()
+	user.update_hair()
+	user.update_body()*/
+
 /obj/structure/character_spawner/death_knight
 	outfit = /datum/outfit/job/hub/death_knight
 	A =/area/custom/start_homm/zombie_knight
