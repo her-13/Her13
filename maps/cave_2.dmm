@@ -14,7 +14,7 @@
 "iy" = (/obj/structure/mineral_door/metal,/turf/simulated/floor{dir = 5; icon_state = "stone2"},/area/asteroid/mine/unexplored)
 "iO" = (/obj/effect/decal/cleanable/dirt,/turf/simulated/floor{dir = 5; icon_state = "stone1"},/area/space)
 "jb" = (/obj/structure/knight_statue,/turf/simulated/floor{dir = 5; icon_state = "stone2"},/area/asteroid/mine/unexplored)
-"kl" = (/obj/structure/knight_statue{desc = Охраняют покои того, чей сон не должен быть нарушен},/turf/simulated/floor{dir = 5; icon_state = "stone2"},/area/asteroid/mine/unexplored)
+"kl" = (/obj/structure/knight_statue{desc = "Охраняют покои того, чей сон не должен быть нарушен"},/turf/simulated/floor{dir = 5; icon_state = "stone2"},/area/asteroid/mine/unexplored)
 "kW" = (/turf/simulated/floor{dir = 5; icon_state = "stone1"},/area/space)
 "la" = (/obj/effect/decal/cleanable/dirt,/obj/structure/torch_holder,/turf/simulated/floor/plating/ironsand,/area/asteroid/mine/unexplored/safe)
 "ld" = (/obj/item/weapon/reagent_containers/food/drinks/bottle/wine,/turf/simulated/floor{dir = 5; icon_state = "stone2"},/area/space)
