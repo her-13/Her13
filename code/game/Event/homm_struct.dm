@@ -363,3 +363,8 @@
 						/obj/structure/flora/ausbushes/sunnybush,\
 						/obj/structure/flora/ausbushes/palebush\
 					)
+
+/turf/unsimulated/wall/fakeglass/custle
+	name = "window"
+	icon = 'icons/turf/walls/fakeglass_custle.dmi'
+	icon_state = "box"
