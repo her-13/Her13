@@ -98,6 +98,11 @@
 		var/turf/t = turf
 		if(t.obscured)
 			obscured -= t.obscured
+			for(var/mob/camera/treeofgreed/m in seenby)
+				if(!m)
+					continue
+				if(m.client)
+					m.client.images -= t.obscured
 
 	for(var/turf in visRemoved)
 		var/turf/t = turf
@@ -107,6 +112,12 @@
 				t.obscured.plane = CAMERA_STATIC_PLANE
 
 			obscured += t.obscured
+			for(var/mob/camera/treeofgreed/m in seenby)
+				if(!m)
+					seenby -= m
+					continue
+				if(m.client)
+					m.client.images += t.obscured
 
 // Create a new camera chunk, since the chunks are made as they are needed.
 
