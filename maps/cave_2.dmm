@@ -40,7 +40,7 @@
 "uw" = (/obj/effect/decal/cleanable/blood/writing{dir = 6},/turf/simulated/floor{dir = 5; icon_state = "stone1"},/area/asteroid/mine/unexplored)
 "vj" = (/obj/structure/bonfire,/turf/simulated/floor{dir = 5; icon_state = "stone2"},/area/space)
 "vt" = (/mob/living/simple_animal/hostile/dragon,/turf/simulated/floor/carpet,/area/space)
-"vv" = (/obj/structure/mineral_door/wood/gate{pixel_x = -8; pixel_y = -23},/turf/simulated/floor{dir = 5; icon_state = "stone1"},/area/space)
+"vv" = (/obj/structure/mineral_door/wood/gate/neutral{pixel_x = -8; pixel_y = -23},/turf/simulated/floor{dir = 5; icon_state = "stone1"},/area/space)
 "vQ" = (/turf/simulated/wall/mineral/custle,/area/asteroid/mine/unexplored/safe)
 "vY" = (/obj/effect/decal/remains/human/burned,/turf/simulated/floor{dir = 5; icon_state = "stone2"},/area/space)
 "wp" = (/turf/simulated/floor/plating/ironsand{icon_state = "ironsand2"},/area/asteroid/mine/unexplored/safe)
