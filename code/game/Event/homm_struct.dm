@@ -318,3 +318,48 @@
 	icon_state = "wood_crate"
 	icon_opened = "wood_crateopen"
 	icon_closed = "wood_crate"
+
+
+/obj/random/grass
+	name = "Random Grass"
+	desc = "This is a random grass."
+	icon = "icons/obj/flora/ausflora.dmi"
+	icon_state = "fullgrass_1"
+
+/obj/random/grass/item_to_spawn()
+		return pick(\
+						/obj/structure/flora/ausbushes/fullgrass,\
+						/obj/structure/flora/ausbushes/sparsegrass\
+					)
+
+/obj/random/flowers
+	name = "Random Flowers"
+	desc = "This is a random flowers."
+	icon = "icons/obj/flora/ausflora.dmi"
+	icon_state = "ywflowers_1"
+
+/obj/random/flowers/item_to_spawn()
+		return pick(\
+						/obj/structure/flora/ausbushes/brflowers,\
+						/obj/structure/flora/ausbushes/ppflowers,\
+						/obj/structure/flora/ausbushes/lavendergrass,\
+						/obj/structure/flora/ausbushes/ywflowers\
+					)
+
+/obj/random/bush
+	name = "Random Bush"
+	desc = "This is a random bush."
+	icon = "icons/obj/flora/ausflora.dmi"
+	icon_state = "genericbush_1"
+
+/obj/random/bush/item_to_spawn()
+		return pick(\
+						/obj/structure/flora/ausbushes/fernybush,\
+						/obj/structure/flora/ausbushes/genericbush,\
+						/obj/structure/flora/ausbushes/grassybush,\
+						/obj/structure/flora/ausbushes/leafybush,\
+						/obj/structure/flora/ausbushes/pointybush,\
+						/obj/structure/flora/ausbushes/stalkybush,\
+						/obj/structure/flora/ausbushes/sunnybush,\
+						/obj/structure/flora/ausbushes/palebush\
+					)
