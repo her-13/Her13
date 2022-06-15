@@ -323,7 +323,7 @@
 /obj/random/flora/grass
 	name = "Random Grass"
 	desc = "This is a random grass."
-	icon = "icons/obj/flora/ausflora.dmi"
+	icon = 'icons/obj/flora/ausflora.dmi'
 	icon_state = "fullgrass_1"
 
 /obj/random/flora/grass/item_to_spawn()
@@ -335,7 +335,7 @@
 /obj/random/flora/flowers
 	name = "Random Flowers"
 	desc = "This is a random flowers."
-	icon = "icons/obj/flora/ausflora.dmi"
+	icon = 'icons/obj/flora/ausflora.dmi'
 	icon_state = "ywflowers_1"
 
 /obj/random/flora/flowers/item_to_spawn()
@@ -349,7 +349,7 @@
 /obj/random/flora/bush
 	name = "Random Bush"
 	desc = "This is a random bush."
-	icon = "icons/obj/flora/ausflora.dmi"
+	icon = 'icons/obj/flora/ausflora.dmi'
 	icon_state = "genericbush_1"
 
 /obj/random/flora/bush/item_to_spawn()
