@@ -262,6 +262,9 @@
 	layer = 12
 	health = 1999
 
+/obj/structure/mineral_door/wood/gate/neutral
+	req_access = list()
+
 /obj/structure/mineral_door/wood/gate/atom_init()
 	. = ..()
 	if(dir in list(EAST, WEST))
