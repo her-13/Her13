@@ -95,6 +95,14 @@
 	sheet_type = /obj/item/stack/sheet/wood
 	canSmoothWith = list(/turf/simulated/wall/mineral/wood)
 
+/turf/simulated/wall/mineral/necropolis
+	name = "Стена"
+	desc = "Оплот Нежити"
+	icon = 'icons/turf/walls/has_false_walls/necropolis.dmi'
+	mineral = "iron"
+	sheet_type = /obj/item/stack/sheet/mineral/iron
+	canSmoothWith = list(/turf/simulated/wall/mineral/necropolis)
+
 /turf/simulated/wall/mineral/phoron
 	name = "phoron wall"
 	desc = "Стена с фороновой обшивкой. Определенно плохая идея."
