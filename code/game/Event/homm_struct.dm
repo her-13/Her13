@@ -252,6 +252,39 @@
 	name = "Дверь Лорда"
 	req_one_access = list(access_hero)
 
+/obj/structure/mineral_door/wood/gate
+	name = "Ворота"
+	icon = 'icons/Events/structure/gate.dmi'
+	icon_state = "gate"
+	operating_sound = 'sound/effects/doorcreaky.ogg'
+	req_access = list(access_knight)
+	opacity = FALSE
+	layer = 12
+	health = 1999
+
+/obj/structure/mineral_door/wood/gate/atom_init()
+	. = ..()
+	if(dir in list(EAST, WEST))
+		bound_width  = world.icon_size
+		bound_height = 2 * world.icon_size
+	else
+		bound_width  = 2 * world.icon_size
+		bound_height = world.icon_size
+
+/obj/structure/mineral_door/wood/gate/Move(NewLoc, Dir = 0, step_x = 0, step_y = 0)
+	. = ..()
+
+	if(moving_diagonally)
+		return .
+
+	if(dir in list(EAST, WEST))
+		bound_width  = world.icon_size
+		bound_height = 2 * world.icon_size
+	else
+		bound_width  = 2 * world.icon_size
+		bound_height = world.icon_size
+
+
 
 //Гробы для Некрополиса
 /obj/structure/coffin
