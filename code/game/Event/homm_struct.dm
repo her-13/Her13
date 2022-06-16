@@ -445,7 +445,6 @@
 	. = ..()
 	reagents.add_reagent("wine",1000)
 
-
 /obj/structure/reagent_dispensers/beer
 	name = "Бочка с пивом"
 	desc = ""
@@ -457,3 +456,21 @@
 /obj/structure/reagent_dispensers/beer/atom_init()
 	. = ..()
 	reagents.add_reagent("beer",1000)
+
+/obj/structure/reagent_dispensers/ale
+	name = "Бочка с элем"
+	desc = ""
+	icon = 'icons/Events/structure/reagent_dis.dmi'
+	icon_state = "beer"
+	possible_transfer_amounts = list(25,60,100)
+	amount_per_transfer_from_this = 25
+
+/obj/structure/reagent_dispensers/beer/atom_init()
+	. = ..()
+	reagents.add_reagent("ale",1000)
+
+/obj/structure/torch_holder/necr
+	name = "Зловещий факел"
+	desc = "Факел с зелёным пламенем."
+	icon_state = "necrtorch-holder1"
+	light_color = "#66ff61"

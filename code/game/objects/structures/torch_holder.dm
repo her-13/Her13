@@ -1,6 +1,6 @@
 /obj/structure/torch_holder
-	name = "torch holder"
-	desc = "A torch holder."
+	name = "Факел"
+	desc = "Горящая палка на подставке."
 	icon = 'icons/obj/lighting.dmi'
 	icon_state = "torch-holder1"
 	light_color = "#faa019"
