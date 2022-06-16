@@ -198,3 +198,8 @@
 	eye.plane = ABOVE_LIGHTING_PLANE
 	add_overlay(eye)
 	..()
+
+/mob/living/simple_animal/wraith/death()
+	..()
+	qdel(src)
+
