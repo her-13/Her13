@@ -315,6 +315,16 @@
 
 	return ..()
 
+/obj/item/skeleton_sword/tesak
+	name = "Ржавый тесак"
+	icon_custom = 'icons/Events/item/tesak.dmi'
+	icon = 'icons/Events/item/tesak.dmi'
+	righthand_file = 'icons/Events/item/tesak.dmi'
+	lefthand_file  = 'icons/Events/item/tesak.dmi'
+	icon_state = "sword"
+	slot_flags = SLOT_FLAGS_BELT
+	force = 10
+
 /obj/item/weapon/melee/whip
 	name = "Плетка"
 	desc = "Для серьезных преступлений"

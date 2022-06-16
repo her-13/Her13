@@ -1,5 +1,5 @@
 // ЛЕПРЕКОНСКИЕ ТОРГОВЫЕ АВТОМАТЫ
-/obj/machinery/vending/lepr //мед автомат
+/obj/machinery/vending/lepr
 	name = "Торговый Портал Лепреконов"
 	desc = "У него есть товар , если у тебя есть монеты."
 	icon = 'icons/obj/Events/portal_of_greed.dmi'
@@ -71,7 +71,6 @@
 	/obj/item/weapon/paper/scroll = 50,
 	/obj/item/weapon/pen/feather = 25,
 	/obj/vehicle/space/spacebike/horse = 1000,
-
 	)
 
 
