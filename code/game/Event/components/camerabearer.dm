@@ -17,6 +17,8 @@ var/global/list/datum/cameranet/cameranets
 	net.cameras += camera
 	net.addCamera(camera)
 
+	update_camera_pos()
+
 	RegisterSignal(A, list(COMSIG_MOVABLE_MOVED, COMSIG_MOVABLE_LOC_MOVED), .proc/update_camera_pos)
 
 /datum/component/camerabearer/Destroy()
