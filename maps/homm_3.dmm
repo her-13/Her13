@@ -583,7 +583,7 @@
 "Te" = (/obj/item/weapon/reagent_containers/glass/bucket,/turf/simulated/floor/grass,/area/space)
 "Ti" = (/obj/structure/flora/ausbushes/sparsegrass,/obj/structure/flora/ausbushes/brflowers,/obj/structure/flora/ausbushes/lavendergrass,/obj/structure/flora/junglebush/b,/turf/simulated/floor/grass,/area/space)
 "Tk" = (/turf/simulated/floor{dir = 5; icon_state = "wood_stairs"},/area/space)
-"Tn" = (/obj/structure/reagent_dispensers/beerkeg,/obj/effect/decal/cleanable/dirt,/obj/structure/torch_holder{dir = 1},/obj/structure/sign/poster/banner{pixel_y = 32},/turf/simulated/floor/wood,/area/space)
+"Tn" = (/obj/effect/decal/cleanable/dirt,/obj/structure/torch_holder{dir = 1},/obj/structure/sign/poster/banner{pixel_y = 32},/obj/structure/reagent_dispensers/beer,/turf/simulated/floor/wood,/area/space)
 "Ts" = (/obj/structure/flora/grass/both,/turf/environment/snow,/area/space)
 "TD" = (/obj/structure/flora/ausbushes/sunnybush,/obj/structure/flora/ausbushes/ppflowers,/turf/simulated/floor/grass,/area/space)
 "TE" = (/obj/structure/table,/obj/item/stack/medical/bruise_pack/rags,/obj/effect/decal/cleanable/dirt,/turf/simulated/floor{dir = 5; icon_state = "stone2"},/area/space)
