@@ -404,3 +404,28 @@
 	name = "window"
 	icon = 'icons/turf/walls/fakeglass_custle.dmi'
 	icon_state = "box"
+
+/obj/structure/reagent_dispensers/wine
+	name = "Бочка с винном"
+	desc = ""
+	icon = 'icons/Events/structure/reagent_dis.dmi'
+	icon_state = "wine"
+	possible_transfer_amounts = list(25,60,100)
+	amount_per_transfer_from_this = 25
+
+/obj/structure/reagent_dispensers/wine/atom_init()
+	. = ..()
+	reagents.add_reagent("wine",1000)
+
+
+/obj/structure/reagent_dispensers/beer
+	name = "Бочка с пивом"
+	desc = ""
+	icon = 'icons/Events/structure/reagent_dis.dmi'
+	icon_state = "beer"
+	possible_transfer_amounts = list(25,60,100)
+	amount_per_transfer_from_this = 25
+
+/obj/structure/reagent_dispensers/beer/atom_init()
+	. = ..()
+	reagents.add_reagent("beer",1000)
