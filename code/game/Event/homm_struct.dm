@@ -1,5 +1,5 @@
 // ЛЕПРЕКОНСКИЕ ТОРГОВЫЕ АВТОМАТЫ
-/obj/machinery/vending/lepr
+/obj/machinery/vending/lepr //мед автомат
 	name = "Торговый Портал Лепреконов"
 	desc = "У него есть товар , если у тебя есть монеты."
 	icon = 'icons/obj/Events/portal_of_greed.dmi'
@@ -24,14 +24,12 @@
 		/obj/item/weapon/reagent_containers/glass/bottle/peridaxon = 1000,
 		/obj/item/weapon/reagent_containers/glass/bottle/kyphotorin = 1000,
 		/obj/item/weapon/reagent_containers/glass/bottle/adminordrazine = 1000,
-		/obj/vehicle/space/spacebike/horse = 1000,
 	)
 
 	prices = list(
 	/obj/item/stack/money/gold = 100,
 	/obj/item/stack/money/silver = 10,
 	/obj/item/stack/money/bronz = 1,
-	/obj/item/weapon/reagent_containers/food/snacks/soap = 5,
 	/obj/item/uncurs_ointment = 1000,
 	/obj/item/stack/medical/advanced/bruise_pack = 250,
 	/obj/item/stack/medical/advanced/ointment = 250,
@@ -40,8 +38,39 @@
 	/obj/item/weapon/reagent_containers/glass/bottle/peridaxon = 500,
 	/obj/item/weapon/reagent_containers/glass/bottle/kyphotorin = 750,
 	/obj/item/weapon/reagent_containers/glass/bottle/adminordrazine = 2000,
-	/obj/vehicle/space/spacebike/horse = 750,
+	)
 
+/obj/machinery/vending/lepr/hoz_magaz
+	products = list(
+		/obj/item/stack/money/gold = 1000,
+		/obj/item/stack/money/silver = 1000,
+		/obj/item/stack/money/bronz = 1000,
+		/obj/item/weapon/reagent_containers/food/drinks/drinkingglass = 1000,
+		/obj/item/weapon/kitchen/utensil/fork = 1000,
+		/obj/item/weapon/kitchen/utensil/spoon = 1000,
+		/obj/item/weapon/kitchenknife/butch = 1000,
+		/obj/item/weapon/reagent_containers/food/condiment/peppermill = 1000,
+		/obj/item/weapon/reagent_containers/food/condiment/soysauce = 1000,
+		/obj/item/weapon/reagent_containers/food/condiment/sugar = 1000,
+		/obj/item/weapon/paper/scroll = 1000,
+		/obj/item/weapon/pen/feather = 1000,
+		/obj/vehicle/space/spacebike/horse = 1000,
+	)
+
+	prices = list(
+	/obj/item/stack/money/gold = 100,
+	/obj/item/stack/money/silver = 10,
+	/obj/item/stack/money/bronz = 1,
+	/obj/item/weapon/reagent_containers/food/drinks/drinkingglass = 15,
+	/obj/item/weapon/kitchen/utensil/fork = 5,
+	/obj/item/weapon/kitchen/utensil/spoon =  5,
+	/obj/item/weapon/kitchenknife/butch = 15,
+	/obj/item/weapon/reagent_containers/food/condiment/peppermill = 5,
+	/obj/item/weapon/reagent_containers/food/condiment/soysauce = 5,
+	/obj/item/weapon/reagent_containers/food/condiment/sugar = 5,
+	/obj/item/weapon/paper/scroll = 50,
+	/obj/item/weapon/pen/feather = 25,
+	/obj/vehicle/space/spacebike/horse = 1000,
 
 	)
 
