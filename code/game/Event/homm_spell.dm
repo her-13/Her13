@@ -42,3 +42,59 @@
 
 		else
 			to_chat(usr, "<span class='warning'>Вы должны стоять на своем теле, чтобы вселиться в него</span>")
+
+//////////////////////////////////////////////////////////////
+
+/obj/effect/proc_holder/spell/in_hand/death_cloud // for liches and bitches
+	name = "Облако Смерти"
+	desc = "Выстреливает облаком смерти в цель и вызывает рвотные позывы."
+	school = "evocation"
+	action_icon_state = "deathcloud"
+	summon_path = /obj/item/weapon/magic/deathcloud
+	charge_max = 180
+	clothes_req = 0
+
+/obj/item/weapon/magic/deathcloud
+	name = "Облако Смерти"
+	invoke = "LICHI HUICHI"
+	icon_state = "deathcloud"
+	s_fire = 'sound/magic/Deathcloud.ogg'
+	proj_path = /obj/item/projectile/magic/deathcloud
+
+/obj/item/projectile/magic/deathcloud
+	name = "Облако Смерти"
+	icon_state = "deathcloud"
+	damage = 0
+	damage_type = BRUTE
+	nodamage = 0
+
+/obj/item/projectile/magic/deathcloud/on_hit(atom/target, def_zone = BP_CHEST, blocked = 0)
+	new /obj/effect/effect/deathcloud(get_turf(target))
+	var/datum/effect/effect/system/smoke_spread/chem/S = new
+	create_reagents(30)
+	reagents.add_reagent("thermopsis", 30)
+	S.attach(get_turf(target))
+	S.set_up(reagents, 2, 0, get_turf(target))
+	S.color = "#013220" //dark green
+	S.start()
+	return ..()
+
+
+/obj/effect/effect/deathcloud
+	name = "Облако Смерти"
+	icon = 'icons/obj/Events/effect64x64.dmi'
+	icon_state = "deathcloud"
+	anchored = TRUE
+	density = FALSE
+	layer = 7
+	animate_movement = FALSE
+	pixel_x = -16
+	pixel_y = -16
+
+/obj/effect/effect/deathcloud/atom_init()
+	. = ..()
+	playsound(get_turf(src), 'sound/magic/Smoke.ogg', VOL_EFFECTS_MASTER)
+	addtimer(CALLBACK(src, .proc/anim_end), 2 SECONDS)
+
+/obj/effect/effect/deathcloud/proc/anim_end()
+	qdel(src)
