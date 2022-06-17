@@ -348,6 +348,12 @@
 		isSingleUse = 1
 		to_chat(user, "<span class='warning'> Тело осквернено. Осталось подождать пока душа вернеться из загробного мира</span>")
 
+/obj/structure/coffin/warroir
+	name = "Каменный гроб"
+	desc = "В таких лежат мертвые воины"
+	icon = 'icons/Events/structure/sarcophag.dmi'
+	typeOfCorpse = /obj/structure/hell_spawner/coffin/warrior
+
 /obj/structure/skeleton_transformer
 	name = "Преобразователь скелетов"
 	desc = "Позволяет превращать живых в мертвых"

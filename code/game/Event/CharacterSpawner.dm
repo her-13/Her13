@@ -214,6 +214,11 @@
 		user.real_name = new_name
 		user.name = new_name
 
+/obj/structure/hell_spawner/coffin/warrior
+	name = "Скелет-воин"
+	desc = ""
+	outfit = /datum/outfit/job/hub/skeleton/warrior
+
 /* Uncomment this if you want to give skeletons a chance to choose their hair
 	var/new_facial = input(user, "Выберите цвет растительности на лице.", "Создание персонажа") as color
 	if(new_facial)

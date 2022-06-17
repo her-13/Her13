@@ -164,6 +164,13 @@
 	r_hand = /obj/item/skeleton_sword/tesak
 	back = null
 
+/datum/outfit/job/hub/skeleton/warrior
+	name = OUTFIT_JOB_NAME("Скелет-воин")
+	uniform = /obj/item/clothing/under/zombie_pants
+	shoes = /obj/item/clothing/shoes/sandal
+	r_hand = /obj/item/skeleton_sword
+	back = null
+
 /datum/outfit/job/hub/death_knight
 	name = OUTFIT_JOB_NAME("Черный Рыцарь")
 	uniform =/obj/item/clothing/under/knight
