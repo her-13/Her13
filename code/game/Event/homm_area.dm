@@ -152,3 +152,10 @@
 	ambience = list(
 		'sound/ambience/necropolis.ogg',)
 	is_force_ambience = TRUE
+
+/area/custom/mavzol
+	name = "Mavzol"
+	ambience = list(
+		'sound/ambience/mavzoley.ogg',)
+	is_force_ambience = TRUE
+
