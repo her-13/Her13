@@ -57,6 +57,14 @@
 	icon = 'icons/Events/clothes/zombie_pants.dmi'
 	icon_state = "pants"
 
+/obj/item/clothing/under/toga
+	name = "Тога"
+	desc = "Простая и скромная"
+	icon_custom = 'icons/Events/clothes/toga.dmi'
+	icon = 'icons/Events/clothes/toga.dmi'
+	icon_state = "angeltoga"
+	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
+	armor = list(melee = 50, bullet = 50, laser = 50,energy = 50, bomb = 50, bio = 50, rad = 50)
 
 // СУИТЫ
 

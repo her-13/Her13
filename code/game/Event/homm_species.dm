@@ -99,3 +99,33 @@
 	eyes = "zombie_ms_s"
 	eyes_glowing = TRUE
 	burn_mod = 1.2
+
+/datum/species/human/angel
+	name = ANGEL
+	icobase = 'icons/Events/race/angel.dmi'
+	deform = 'icons/Events/race/angel.dmi'
+	tail = "wings"
+	brute_mod = 0.5
+	burn_mod = 0.5
+	oxy_mod = 0
+	tox_mod = 0
+	clone_mod = 0
+	blood_datum_path = /datum/dirt_cover/oil
+	flags = list(
+	 IS_WHITELISTED = TRUE
+	,HAS_LIPS = TRUE
+	,HAS_UNDERWEAR = FALSE
+	,HAS_TAIL = TRUE
+	,HAS_SKIN_COLOR = TRUE
+	,HAS_HAIR_COLOR = TRUE
+	,NO_MINORCUTS = TRUE
+	,FACEHUGGABLE = TRUE
+	,IS_SOCIAL = TRUE
+	,NO_VOMIT = TRUE
+	,BIOHAZZARD_IMMUNE = TRUE
+	,NO_BREATHE = TRUE
+	,NO_SCAN = TRUE
+	,NO_EMOTION = TRUE
+	,NO_PAIN = TRUE
+	,NO_FINGERPRINT = TRUE
+	)

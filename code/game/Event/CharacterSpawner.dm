@@ -141,6 +141,12 @@
 		return
 	new/obj/vehicle/space/spacebike/horse(user.loc)
 
+/obj/structure/hell_spawner/angel
+	name = "Ангел"
+	desc = ""
+	outfit = /datum/outfit/job/hub/angel
+	homm_species = ANGEL
+
 
 //НЕЙТРАЛЫ
 /obj/structure/character_spawner/lepr
@@ -249,4 +255,5 @@
 	outfit = /datum/outfit/job/hub/death_knight
 	A =/area/custom/start_homm/zombie_knight
 	homm_species = ZOMBIE_KNIGHT
+
 

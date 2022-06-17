@@ -130,7 +130,12 @@
 	back = null
 	id = /obj/item/weapon/card/id/key/hhero
 
-
+/datum/outfit/job/hub/angel
+	name = OUTFIT_JOB_NAME("Angel")
+	shoes = /obj/item/clothing/shoes/roman
+	uniform = null
+	r_hand = /obj/item/clothing/under/toga
+	back = null
 
 //НЕЙТРАЛЫ
 
