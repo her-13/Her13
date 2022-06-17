@@ -374,6 +374,9 @@
 				to_chat(user, "<span class='warning'>Это существо уже живой мертвец</span>")
 				return
 			H.set_species(HOMM_SKELETON)
+			for(var/obj/item/organ/external/BP in H.bodyparts) // Makes them stronger than common skeletons
+				BP.min_broken_damage += 15
+				BP.max_damage += 20
 			to_chat(H, "<span class='warning'>Теперь ты живой мертвец.[user] твой мастер. Служи и выполняй все приказы мастера.</span>")
 
 /obj/structure/closet/crate/wood
@@ -445,7 +448,6 @@
 	. = ..()
 	reagents.add_reagent("wine",1000)
 
-
 /obj/structure/reagent_dispensers/beer
 	name = "Бочка с пивом"
 	desc = ""
@@ -457,3 +459,21 @@
 /obj/structure/reagent_dispensers/beer/atom_init()
 	. = ..()
 	reagents.add_reagent("beer",1000)
+
+/obj/structure/reagent_dispensers/ale
+	name = "Бочка с элем"
+	desc = ""
+	icon = 'icons/Events/structure/reagent_dis.dmi'
+	icon_state = "beer"
+	possible_transfer_amounts = list(25,60,100)
+	amount_per_transfer_from_this = 25
+
+/obj/structure/reagent_dispensers/beer/atom_init()
+	. = ..()
+	reagents.add_reagent("ale",1000)
+
+/obj/structure/torch_holder/necr
+	name = "Зловещий факел"
+	desc = "Факел с зелёным пламенем."
+	icon_state = "necrtorch-holder1"
+	light_color = "#66ff61"

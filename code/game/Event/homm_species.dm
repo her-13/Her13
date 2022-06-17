@@ -53,6 +53,10 @@
 	eyes = "zombie_ms_s"
 	eyes_glowing = TRUE
 
+/datum/species/skeleton/undead/lich/on_gain(mob/living/carbon/human/H)
+	..()
+	H.AddSpell(new /obj/effect/proc_holder/spell/in_hand/death_cloud)
+
 /datum/species/skeleton/undead/homm_zombie // Почему от скелета? Чтобы не обьяснять снова про отрубание-присоединение конечностей.
 	name = HOMM_ZOMBIE
 	icobase = 'icons/Events/race/zombie.dmi'

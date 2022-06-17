@@ -290,7 +290,7 @@
 /turf/simulated/floor/grass
 	name = "Трава"
 	icon_state = "grass1"
-	light_color = "#ffbf00"
+	light_color = "#ffd350"
 	light_power = 2
 	light_range = 2
 	floor_type = /obj/item/stack/tile/grass
@@ -320,7 +320,7 @@
 	icon_state = "sett"
 	can_deconstruct = FALSE
 	explosion_resistance = 111
-	light_color = "#ffbf00"
+	light_color = "#ffd350"
 	light_power = 2
 	light_range = 2
 
@@ -334,6 +334,32 @@
 	light_power = 2
 	light_range = 2
 
+/turf/simulated/floor/necrgrass
+	name = "Трава"
+	icon_state = "necrgrass1"
+	light_color = "#a5a344"
+	light_power = 2
+	light_range = 2
+	floor_type = /obj/item/stack/tile/grass
+	can_deconstruct = FALSE
+	explosion_resistance = 111
+
+	footstep = FOOTSTEP_GRASS
+	barefootstep = FOOTSTEP_GRASS
+	clawfootstep = FOOTSTEP_GRASS
+	can_deconstruct = FALSE
+
+/turf/simulated/floor/necrgrass/atom_init()
+	icon_state = "necrgrass[pick("1","2","3","4")]"
+	..()
+	return INITIALIZE_HINT_LATELOAD
+
+/turf/simulated/floor/necrgrass/atom_init_late()
+	update_icon()
+	for(var/direction in cardinal)
+		if(istype(get_step(src,direction),/turf/simulated/floor))
+			var/turf/simulated/floor/FF = get_step(src,direction)
+			FF.update_icon() //so siding get updated properly
 
 /turf/simulated/floor/carpet
 	name = "carpet"
