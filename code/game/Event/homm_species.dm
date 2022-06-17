@@ -43,6 +43,7 @@
 /datum/species/skeleton/undead/on_gain(mob/living/carbon/human/H)
 	..()
 	H.AddSpell(escape_spell)
+	SEND_SIGNAL(H, COMSIG_ADD_MOOD_EVENT, "undead", /datum/mood_event/undead)
 
 /datum/species/skeleton/undead/on_loose(mob/living/carbon/human/H)
 	..()
