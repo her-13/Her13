@@ -259,3 +259,11 @@
 	corpseradio = /obj/item/device/radio/headset/headset_sec
 	corpseshoes = /obj/item/clothing/shoes/boots
 	corpseid = 0
+
+/obj/effect/landmark/corpse/vladimir
+	name = "Владимир Лич"
+	corpseuniform = /obj/item/clothing/under/lich/vladimir
+	corpseshoes = /obj/item/clothing/shoes/boots
+	corpsehelmet = /obj/item/clothing/head/lich/vladimir
+	corpseid = 0
+	specie = LICH
