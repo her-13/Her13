@@ -374,6 +374,9 @@
 				to_chat(user, "<span class='warning'>Это существо уже живой мертвец</span>")
 				return
 			H.set_species(HOMM_SKELETON)
+			for(var/obj/item/organ/external/BP in H.bodyparts) // Makes them stronger than common skeletons
+				BP.min_broken_damage += 15
+				BP.max_damage += 20
 			to_chat(H, "<span class='warning'>Теперь ты живой мертвец.[user] твой мастер. Служи и выполняй все приказы мастера.</span>")
 
 /obj/structure/closet/crate/wood
