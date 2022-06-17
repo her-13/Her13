@@ -50,6 +50,12 @@
 	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
 	armor = list(melee = 40, bullet = 40, laser = 40,energy = 40, bomb = 40, bio = 40, rad = 40)
 
+/obj/item/clothing/under/lich/vladimir
+	name = "Одеяние Валдимира Лича"
+	desc = "Легенды гласят о Личе , который пытался уравнять живых и мертвых."
+	icon_custom = 'icons/Events/clothes/vladimir.dmi'
+	icon = 'icons/Events/clothes/vladimir.dmi'
+
 /obj/item/clothing/under/zombie_pants
 	name = "Штаны"
 	desc = "Живые крестьяне думают, что ничего дырявее их портков не существуют. Мертвые крестьяне понимают что они ошибались."
@@ -166,6 +172,12 @@
 	icon_state = "lich"
 	armor = list(melee = 40, bullet = 40, laser = 40,energy = 40, bomb = 40, bio = 40, rad = 40)
 
+/obj/item/clothing/head/lich/vladimir
+	name = "Кепарик Владимира Лича"
+	desc = "И учение об этом равенстве он называл - Коммунизм"
+	icon_custom = 'icons/Events/clothes/hats/vladimir.dmi'
+	icon = 'icons/Events/clothes/hats/vladimir.dmi'
+	icon_state = "lich"
 
 /obj/item/clothing/head/wizard/monk
 	name = "Пси-Роба"
@@ -280,6 +292,22 @@
 		return
 	H.set_species(HOMM_ZOMBIE)
 	to_chat(H, "<span class='warning'>Теперь ты живой мертвец.[user] твой мастер. Служи и выполняй все приказы мастера.</span>")
+
+/obj/item/lich_staff/vladimir
+	name = "Посох Владимира Лича"
+	desc = "Уравнивает живых и мертвых в правах"
+	icon_custom = 'icons/Events/item/vladimir_staff.dmi'
+	icon = 'icons/Events/item/vladimir_staff.dmi'
+	righthand_file = 'icons/Events/item/vladimir_staff.dmi'
+	lefthand_file  = 'icons/Events/item/vladimir_staff.dmi'
+	icon_state = "lich_staff"
+	item_state = "lich_staff"
+
+/obj/item/lich_staff/vladimir/attack_self(mob/living/carbon/human/user)
+	if(!owner)
+		user.set_species(LICH)
+	..()
+
 
 /obj/item/pillory_tablet
 	name = "Преступление"
