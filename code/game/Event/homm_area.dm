@@ -146,3 +146,9 @@
 
 /area/custom/start_homm/zombie_knight
 	name = "ZombieKnightStart"
+
+/area/custom/necropolis
+	name = "Necropolis"
+	ambience = list(
+		'sound/ambience/necropolis.ogg',)
+	is_force_ambience = TRUE
