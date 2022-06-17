@@ -194,6 +194,15 @@
 		currently_vending = null
 		return
 
+/obj/structure/portret
+	name = "Владимир Лич"
+	desc = "До своего перерождения в лича"
+	icon = 'icons/Events/structure/vlich.dmi'
+	icon_state = "lenin"
+	anchored = TRUE
+	density = 0
+	layer = 11
+
 /obj/structure/knight_statue
 	name = "Статуя"
 	desc = "Интересно , кто это?"
