@@ -167,8 +167,11 @@
 /datum/outfit/job/hub/skeleton/warrior
 	name = OUTFIT_JOB_NAME("Скелет-воин")
 	uniform = /obj/item/clothing/under/zombie_pants
-	shoes = /obj/item/clothing/shoes/sandal
+	shoes = /obj/item/clothing/shoes/skeleton_war
+	head = /obj/item/clothing/head/helmet/skeleton_war
+	suit = /obj/item/clothing/suit/armor/skeleton_war
 	r_hand = /obj/item/skeleton_sword
+	l_hand = /obj/item/weapon/shield/buckler
 	back = null
 
 /datum/outfit/job/hub/death_knight
