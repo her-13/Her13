@@ -20,7 +20,7 @@
 	name = "Нейтралы"
 	icon_state = "green"
 
-/area/custom/necropolis
+/area/custom/necropolis_hub
 	name = "Некрополис"
 	icon_state = "cult-heaven"
 

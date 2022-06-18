@@ -32,7 +32,7 @@
 	desc = "Слишком разные чтобы описать одним предложением.."
 
 /obj/effect/portal/hub/necropolis
-	A =/area/custom/necropolis
+	A =/area/custom/necropolis_hub
 	name = "Некрополис"
 	desc = "Те кому надоело быть мертвым"
 

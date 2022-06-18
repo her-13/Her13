@@ -111,6 +111,17 @@
 	armor = list(melee = 30, bullet = 10, laser = 25, energy = 20, bomb = 35, bio = 0, rad = 0)
 	flags_inv = HIDEJUMPSUIT
 
+/obj/item/clothing/suit/armor/skeleton_war
+	name = "Старые доспехи"
+	desc = ""
+	icon_custom = 'icons/Events/clothes/suit/skeleton_war.dmi'
+	icon = 'icons/Events/clothes/suit/skeleton_war.dmi'
+	icon_state = "cuirass"
+	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
+	pierce_protection = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
+	armor = list(melee = 30, bullet = 10, laser = 25, energy = 20, bomb = 35, bio = 0, rad = 0)
+	flags_inv = HIDEJUMPSUIT
+
 /obj/item/clothing/suit/armor/knight
 	name = "Рыцарские доспехи"
 	desc = "Сине-белые. Цвета надела,к которому вы приставлены"
@@ -202,6 +213,19 @@
 	flags_inv = HIDEEARS
 	siemens_coefficient = 0.3
 
+/obj/item/clothing/head/helmet/skeleton_war
+	name = "Ржавый шлем"
+	desc = ""
+	icon_custom = 'icons/Events/clothes/hats/skeleton_war.dmi'
+	icon = 'icons/Events/clothes/hats/skeleton_war.dmi'
+	icon_state = "helmet"
+	item_state = "milita"
+	flags = HEADCOVERSEYES
+	armor = list(melee = 30, bullet = 15, laser = 5,energy = 5, bomb = 5, bio = 2, rad = 0)
+	flags_inv = HIDEEARS
+	siemens_coefficient = 0.3
+
+
 /obj/item/clothing/head/helmet/lord
 	name = "Корона"
 	desc = "Кто тут главный?"
@@ -233,6 +257,14 @@
 	icon_custom = 'icons/Events/clothes/shoes/lepr.dmi'
 	icon = 'icons/Events/clothes/shoes/lepr.dmi'
 	icon_state = "lepr"
+
+/obj/item/clothing/shoes/skeleton_war
+	name = "Ботинки"
+	desc = "Cтарые и вонючие"
+	icon_custom = 'icons/Events/clothes/shoes/skeleton_war.dmi'
+	icon = 'icons/Events/clothes/shoes/skeleton_war.dmi'
+	icon_state = "boots"
+
 
 //МАСКИ
 /obj/item/clothing/mask/milita
