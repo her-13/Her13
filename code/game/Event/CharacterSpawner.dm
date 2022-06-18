@@ -206,6 +206,7 @@
 	var/mob/myMaster
 
 /obj/structure/hell_spawner/coffin/attack_hand(mob/living/carbon/human/user)
+	arrive_sound = pick("sound/Event/undead_arrive.ogg","sound/Event/undead_arrive-1.ogg","sound/Event/undead_arrive-2.ogg")
 	..()
 	if(ready == "Нет")
 		selecting_job = FALSE
