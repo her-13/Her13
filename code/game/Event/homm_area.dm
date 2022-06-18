@@ -103,6 +103,9 @@
 /area/custom/start_homm/human_hero
 	name = "HumanHeroStart"
 
+/area/custom/start_homm/angel
+	name = "angel"
+
 //НЕЙТРАЛЫ ЗОНЫ ХАБОВ
 
 /area/custom/lepr

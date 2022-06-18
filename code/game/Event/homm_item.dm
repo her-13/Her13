@@ -378,6 +378,16 @@
 		to_chat(user, "<span class='notice'> Здесь написано: <span class='emojify'>[targName]</span>.</span>")
 		return
 
+/obj/item/angel_sword
+	name = "Ангельский меч"
+	icon_custom = 'icons/Events/item/angel_sword.dmi'
+	icon = 'icons/Events/item/angel_sword.dmi'
+	righthand_file = 'icons/Events/item/angel_sword.dmi'
+	lefthand_file  = 'icons/Events/item/angel_sword.dmi'
+	icon_state = "sword"
+	slot_flags = SLOT_FLAGS_BELT
+	force = 30
+
 /obj/item/skeleton_sword
 	name = "Старый меч"
 	icon_custom = 'icons/Events/item/skeleton_sword.dmi'

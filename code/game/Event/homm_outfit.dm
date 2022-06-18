@@ -135,6 +135,7 @@
 	shoes = /obj/item/clothing/shoes/roman
 	uniform = null
 	r_hand = /obj/item/clothing/under/toga
+	l_hand = /obj/item/angel_sword
 	back = null
 
 //НЕЙТРАЛЫ

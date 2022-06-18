@@ -148,6 +148,10 @@
 	homm_species = ANGEL
 
 
+/obj/structure/hell_spawner/angel/attack_hand(mob/living/carbon/human/user)
+	target = pick(get_area_turfs(get_area_by_type(/area/custom/start_homm/angel)))
+	..()
+
 //НЕЙТРАЛЫ
 /obj/structure/character_spawner/lepr
 	outfit = /datum/outfit/job/hub/lepr
