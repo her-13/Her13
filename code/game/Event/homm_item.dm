@@ -50,6 +50,16 @@
 	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
 	armor = list(melee = 40, bullet = 40, laser = 40,energy = 40, bomb = 40, bio = 40, rad = 40)
 
+/obj/item/clothing/under/arch_lich
+	name = "Одеяние Архилича"
+	desc = "Только матерые мертвецы отказываются от роскоши и богатсв. Нужно время чтобы понять бесполезность этих вещей в своей новой нежизни"
+	icon_custom = 'icons/Events/clothes/arc_lich.dmi'
+	icon = 'icons/Events/clothes/arc_lich.dmi'
+	icon_state = "necromancerrobe"
+	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS|HEAD
+	armor = list(melee = 50, bullet = 50, laser = 50,energy = 50, bomb = 50, bio = 50, rad = 50)
+	flags = BLOCKHAIR
+
 /obj/item/clothing/under/lich/vladimir
 	name = "Одеяние Валдимира Лича"
 	desc = "Легенды гласят о Личе , который пытался уравнять живых и мертвых."
@@ -69,7 +79,7 @@
 	icon_custom = 'icons/Events/clothes/toga.dmi'
 	icon = 'icons/Events/clothes/toga.dmi'
 	icon_state = "angeltoga"
-	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
+	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS|HEAD
 	armor = list(melee = 50, bullet = 50, laser = 50,energy = 50, bomb = 50, bio = 50, rad = 50)
 
 // СУИТЫ

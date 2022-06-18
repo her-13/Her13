@@ -136,6 +136,9 @@
 /area/custom/zombie_knight
 	name = "ZombieKnightHub"
 
+/area/custom/necro_hero
+	name = "NecroHeroHub"
+
 //НЕКРОПОЛИС СТАРТОВЫЕ ЗОНЫ
 
 /area/custom/start_homm/lich
@@ -146,6 +149,9 @@
 
 /area/custom/start_homm/zombie_knight
 	name = "ZombieKnightStart"
+
+/area/custom/start_homm/necro_hero
+	name = "NecroHeroStart"
 
 /area/custom/necropolis
 	name = "Necropolis"

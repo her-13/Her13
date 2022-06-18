@@ -261,4 +261,9 @@
 	A =/area/custom/start_homm/zombie_knight
 	homm_species = ZOMBIE_KNIGHT
 
+/obj/structure/character_spawner/NecroHeroSpawner
+	outfit = /datum/outfit/job/hub/arc_lich
+	A =/area/custom/start_homm/necro_hero
+	homm_species = LICH
+
 

@@ -181,4 +181,12 @@
 	shoes = /obj/item/clothing/shoes/boots
 	gloves = /obj/item/clothing/gloves/combat
 	head = /obj/item/clothing/head/helmet/death_knight
+	r_hand = /obj/item/skeleton_sword
+	back = null
+
+/datum/outfit/job/hub/arc_lich
+	name = OUTFIT_JOB_NAME("Архилич")
+	uniform =/obj/item/clothing/under/arch_lich
+	shoes = /obj/item/clothing/shoes/sandal
+	l_hand = /obj/item/lich_staff
 	back = null

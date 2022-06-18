@@ -162,3 +162,27 @@
 	name = "Лич"
 	desc = ""
 
+/obj/effect/portal/hub/job_room/lich/Bumped(mob/M)
+	if(job_count >= 4)
+		to_chat(M, "<span class='notice'> Лимит этой професии превышен</span>")
+		return
+	..()
+
+/obj/effect/portal/hub/job_room/death_knight
+	A = /area/custom/zombie_knight
+	name = "Рыцарь Смерти"
+	desc = ""
+
+/obj/effect/portal/hub/job_room/death_knight/Bumped(mob/M)
+	if(job_count >= 4)
+		to_chat(M, "<span class='notice'> Лимит этой професии превышен</span>")
+		return
+	..()
+
+
+/obj/effect/portal/hub/job_room/necro_hero
+	A = /area/custom/necro_hero
+	name = "Архилич"
+	desc = ""
+	solo = TRUE
+
