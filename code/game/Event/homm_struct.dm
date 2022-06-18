@@ -24,14 +24,12 @@
 		/obj/item/weapon/reagent_containers/glass/bottle/peridaxon = 1000,
 		/obj/item/weapon/reagent_containers/glass/bottle/kyphotorin = 1000,
 		/obj/item/weapon/reagent_containers/glass/bottle/adminordrazine = 1000,
-		/obj/vehicle/space/spacebike/horse = 1000,
 	)
 
 	prices = list(
 	/obj/item/stack/money/gold = 100,
 	/obj/item/stack/money/silver = 10,
 	/obj/item/stack/money/bronz = 1,
-	/obj/item/weapon/reagent_containers/food/snacks/soap = 5,
 	/obj/item/uncurs_ointment = 1000,
 	/obj/item/stack/medical/advanced/bruise_pack = 250,
 	/obj/item/stack/medical/advanced/ointment = 250,
@@ -40,9 +38,39 @@
 	/obj/item/weapon/reagent_containers/glass/bottle/peridaxon = 500,
 	/obj/item/weapon/reagent_containers/glass/bottle/kyphotorin = 750,
 	/obj/item/weapon/reagent_containers/glass/bottle/adminordrazine = 2000,
-	/obj/vehicle/space/spacebike/horse = 750,
+	)
 
+/obj/machinery/vending/lepr/hoz_magaz
+	products = list(
+		/obj/item/stack/money/gold = 1000,
+		/obj/item/stack/money/silver = 1000,
+		/obj/item/stack/money/bronz = 1000,
+		/obj/item/weapon/reagent_containers/food/drinks/drinkingglass = 1000,
+		/obj/item/weapon/kitchen/utensil/fork = 1000,
+		/obj/item/weapon/kitchen/utensil/spoon = 1000,
+		/obj/item/weapon/kitchenknife/butch = 1000,
+		/obj/item/weapon/reagent_containers/food/condiment/peppermill = 1000,
+		/obj/item/weapon/reagent_containers/food/condiment/soysauce = 1000,
+		/obj/item/weapon/reagent_containers/food/condiment/sugar = 1000,
+		/obj/item/weapon/paper/scroll = 1000,
+		/obj/item/weapon/pen/feather = 1000,
+		/obj/vehicle/space/spacebike/horse = 1000,
+	)
 
+	prices = list(
+	/obj/item/stack/money/gold = 100,
+	/obj/item/stack/money/silver = 10,
+	/obj/item/stack/money/bronz = 1,
+	/obj/item/weapon/reagent_containers/food/drinks/drinkingglass = 15,
+	/obj/item/weapon/kitchen/utensil/fork = 5,
+	/obj/item/weapon/kitchen/utensil/spoon =  5,
+	/obj/item/weapon/kitchenknife/butch = 15,
+	/obj/item/weapon/reagent_containers/food/condiment/peppermill = 5,
+	/obj/item/weapon/reagent_containers/food/condiment/soysauce = 5,
+	/obj/item/weapon/reagent_containers/food/condiment/sugar = 5,
+	/obj/item/weapon/paper/scroll = 50,
+	/obj/item/weapon/pen/feather = 25,
+	/obj/vehicle/space/spacebike/horse = 1000,
 	)
 
 
@@ -111,7 +139,7 @@
 	/obj/item/weapon/reagent_containers/glass/bottle/inaprovaline = 50,
 	/obj/item/weapon/reagent_containers/glass/bottle/peridaxon = 250,
 	/obj/item/weapon/reagent_containers/glass/bottle/kyphotorin = 500,
-	/obj/item/weapon/reagent_containers/glass/bottle/adminordrazine = 100,
+	/obj/item/weapon/reagent_containers/glass/bottle/adminordrazine = 1000,
 	)
 
 
@@ -165,6 +193,26 @@
 		check_money(currently_vending,user)
 		currently_vending = null
 		return
+
+/obj/structure/portret
+	name = "Владимир Лич"
+	desc = "До своего перерождения в лича"
+	icon = 'icons/Events/structure/vlich.dmi'
+	icon_state = "lenin"
+	anchored = TRUE
+	density = 0
+	layer = 11
+
+/obj/structure/knight_statue
+	name = "Статуя"
+	desc = "Интересно , кто это?"
+	icon = 'icons/Events/structure/statue_knight.dmi'
+	icon_state = "statue"
+	can_buckle = TRUE
+	anchored = TRUE
+	density = 1
+	layer = 11
+
 
 /obj/structure/pillory
 	name = "Позорный столб"
@@ -241,3 +289,206 @@
 	name = "Дверь Лорда"
 	req_one_access = list(access_hero)
 
+/obj/structure/mineral_door/wood/gate
+	name = "Ворота"
+	icon = 'icons/Events/structure/gate.dmi'
+	icon_state = "gate"
+	operating_sound = 'sound/effects/doorcreaky.ogg'
+	req_access = list(access_knight)
+	opacity = FALSE
+	layer = 12
+	health = 1999
+
+/obj/structure/mineral_door/wood/gate/neutral
+	req_access = list()
+
+/obj/structure/mineral_door/wood/gate/atom_init()
+	. = ..()
+	if(dir in list(EAST, WEST))
+		bound_width  = world.icon_size
+		bound_height = 2 * world.icon_size
+	else
+		bound_width  = 2 * world.icon_size
+		bound_height = world.icon_size
+
+/obj/structure/mineral_door/wood/gate/Move(NewLoc, Dir = 0, step_x = 0, step_y = 0)
+	. = ..()
+
+	if(moving_diagonally)
+		return .
+
+	if(dir in list(EAST, WEST))
+		bound_width  = world.icon_size
+		bound_height = 2 * world.icon_size
+	else
+		bound_width  = 2 * world.icon_size
+		bound_height = world.icon_size
+
+
+
+//Гробы для Некрополиса
+/obj/structure/coffin
+	name = "Простой гроб"
+	desc = "Человек в этом гробу, явно ничем особым не выделялся"
+	icon = 'icons/Events/structure/coffin.dmi'
+	icon_state = "coffin"
+	anchored = TRUE
+	layer = 1
+	density = TRUE
+	var/isSingleUse = 0
+	var/obj/structure/hell_spawner/coffin/typeOfCorpse = /obj/structure/hell_spawner/coffin
+	var/tar
+	var/icon/open_state = "coffin_open"
+
+/obj/structure/coffin/attackby(obj/item/I, mob/user)
+	if(istype(I, /obj/item/lich_staff)&&!isSingleUse)
+		var/obj/item/lich_staff/L = I
+		if(L.owner == null)
+			to_chat(user, "<span class='warning'><b>Сначала привяжите посох к себе.</b></span>")
+			return
+		if(user.mind != L.owner)
+			to_chat(user, "<span class='warning'>[I.name] не будет подчиняться вам</span>")
+			return
+		tar = pick(get_area_turfs(get_area_by_type(/area/custom/valhalla)))
+		typeOfCorpse = new typeOfCorpse(tar)
+		typeOfCorpse.myCoffin =  src
+		typeOfCorpse.myMaster = user
+		typeOfCorpse.target = src.loc
+		isSingleUse = 1
+		to_chat(user, "<span class='warning'> Тело осквернено. Осталось подождать пока душа вернеться из загробного мира</span>")
+
+/obj/structure/coffin/warroir
+	name = "Каменный гроб"
+	desc = "В таких лежат мертвые воины"
+	icon = 'icons/Events/structure/sarcophag.dmi'
+	typeOfCorpse = /obj/structure/hell_spawner/coffin/warrior
+
+/obj/structure/skeleton_transformer
+	name = "Преобразователь скелетов"
+	desc = "Позволяет превращать живых в мертвых"
+	icon = 'icons/obj/cult.dmi'
+	icon_state = "table2-idle"
+	can_buckle = TRUE
+	buckle_lying = TRUE
+
+
+
+/obj/structure/skeleton_transformer/attackby(obj/item/W, mob/user, params)
+	if(istype(W,/obj/item/lich_staff))
+		var/obj/item/lich_staff/L = W
+		if(!ishuman(buckled_mob))
+			to_chat(user, "<span class='warning'>[buckled_mob] не гуманоид</span>")
+			return
+		var/mob/living/carbon/human/H = buckled_mob
+		if(user.mind != L.owner)
+			to_chat(user, "<span class='warning'>[L] не будет подчиняться вам</span>")
+			return
+		playsound(src, pick('sound/Event/skeleton_trans.ogg'), VOL_EFFECTS_MASTER)
+		if(do_after(user, 50,target = H))
+			if(H.species.name == HOMM_SKELETON || H.species.name == LICH ||H.species.name == HOMM_ZOMBIE || H.species.name == ZOMBIE_KNIGHT)
+				to_chat(user, "<span class='warning'>Это существо уже живой мертвец</span>")
+				return
+			H.set_species(HOMM_SKELETON)
+			for(var/obj/item/organ/external/BP in H.bodyparts) // Makes them stronger than common skeletons
+				BP.min_broken_damage += 15
+				BP.max_damage += 20
+			to_chat(H, "<span class='warning'>Теперь ты живой мертвец.[user] твой мастер. Служи и выполняй все приказы мастера.</span>")
+
+/obj/structure/closet/crate/wood
+	desc = "Добротный деревянный ящик."
+	name = "Деревянный ящик"
+	icon_state = "wood_crate"
+	icon_opened = "wood_crateopen"
+	icon_closed = "wood_crate"
+
+
+/obj/random/flora/grass
+	name = "Random Grass"
+	desc = "This is a random grass."
+	icon = 'icons/obj/flora/ausflora.dmi'
+	icon_state = "fullgrass_1"
+
+/obj/random/flora/grass/item_to_spawn()
+		return pick(\
+						/obj/structure/flora/ausbushes/fullgrass,\
+						/obj/structure/flora/ausbushes/sparsegrass\
+					)
+
+/obj/random/flora/flowers
+	name = "Random Flowers"
+	desc = "This is a random flowers."
+	icon = 'icons/obj/flora/ausflora.dmi'
+	icon_state = "ywflowers_1"
+
+/obj/random/flora/flowers/item_to_spawn()
+		return pick(\
+						/obj/structure/flora/ausbushes/brflowers,\
+						/obj/structure/flora/ausbushes/ppflowers,\
+						/obj/structure/flora/ausbushes/lavendergrass,\
+						/obj/structure/flora/ausbushes/ywflowers\
+					)
+
+/obj/random/flora/bush
+	name = "Random Bush"
+	desc = "This is a random bush."
+	icon = 'icons/obj/flora/ausflora.dmi'
+	icon_state = "genericbush_1"
+
+/obj/random/flora/bush/item_to_spawn()
+		return pick(\
+						/obj/structure/flora/ausbushes/fernybush,\
+						/obj/structure/flora/ausbushes/genericbush,\
+						/obj/structure/flora/ausbushes/grassybush,\
+						/obj/structure/flora/ausbushes/leafybush,\
+						/obj/structure/flora/ausbushes/pointybush,\
+						/obj/structure/flora/ausbushes/stalkybush,\
+						/obj/structure/flora/ausbushes/sunnybush,\
+						/obj/structure/flora/ausbushes/palebush\
+					)
+
+/turf/unsimulated/wall/fakeglass/custle
+	name = "window"
+	icon = 'icons/turf/walls/fakeglass_custle.dmi'
+	icon_state = "box"
+
+/obj/structure/reagent_dispensers/wine
+	name = "Бочка с винном"
+	desc = ""
+	icon = 'icons/Events/structure/reagent_dis.dmi'
+	icon_state = "wine"
+	possible_transfer_amounts = list(25,60,100)
+	amount_per_transfer_from_this = 25
+
+/obj/structure/reagent_dispensers/wine/atom_init()
+	. = ..()
+	reagents.add_reagent("wine",1000)
+
+/obj/structure/reagent_dispensers/beer
+	name = "Бочка с пивом"
+	desc = ""
+	icon = 'icons/Events/structure/reagent_dis.dmi'
+	icon_state = "beer"
+	possible_transfer_amounts = list(25,60,100)
+	amount_per_transfer_from_this = 25
+
+/obj/structure/reagent_dispensers/beer/atom_init()
+	. = ..()
+	reagents.add_reagent("beer",1000)
+
+/obj/structure/reagent_dispensers/ale
+	name = "Бочка с элем"
+	desc = ""
+	icon = 'icons/Events/structure/reagent_dis.dmi'
+	icon_state = "beer"
+	possible_transfer_amounts = list(25,60,100)
+	amount_per_transfer_from_this = 25
+
+/obj/structure/reagent_dispensers/beer/atom_init()
+	. = ..()
+	reagents.add_reagent("ale",1000)
+
+/obj/structure/torch_holder/necr
+	name = "Зловещий факел"
+	desc = "Факел с зелёным пламенем."
+	icon_state = "necrtorch-holder1"
+	light_color = "#66ff61"

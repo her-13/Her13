@@ -31,6 +31,11 @@
 	name = "Нейтралы"
 	desc = "Слишком разные чтобы описать одним предложением.."
 
+/obj/effect/portal/hub/necropolis
+	A =/area/custom/necropolis_hub
+	name = "Некрополис"
+	desc = "Те кому надоело быть мертвым"
+
 /obj/effect/portal/hub/job_room
 	var/job_count = 0
 	var/solo = FALSE
@@ -149,3 +154,35 @@
 	A = /area/custom/lepr
 	name = "Лепрекон"
 	desc = ""
+
+//НЕКРОПОЛИС
+
+/obj/effect/portal/hub/job_room/lich
+	A = /area/custom/lich
+	name = "Лич"
+	desc = ""
+
+/obj/effect/portal/hub/job_room/lich/Bumped(mob/M)
+	if(job_count >= 4)
+		to_chat(M, "<span class='notice'> Лимит этой професии превышен</span>")
+		return
+	..()
+
+/obj/effect/portal/hub/job_room/death_knight
+	A = /area/custom/zombie_knight
+	name = "Рыцарь Смерти"
+	desc = ""
+
+/obj/effect/portal/hub/job_room/death_knight/Bumped(mob/M)
+	if(job_count >= 4)
+		to_chat(M, "<span class='notice'> Лимит этой професии превышен</span>")
+		return
+	..()
+
+
+/obj/effect/portal/hub/job_room/necro_hero
+	A = /area/custom/necro_hero
+	name = "Архилич"
+	desc = ""
+	solo = TRUE
+
