@@ -388,6 +388,11 @@
 	slot_flags = SLOT_FLAGS_BELT
 	force = 30
 
+/obj/item/angel_sword/attack(mob/living/carbon/M, mob/living/carbon/user)
+	playsound(src, pick('sound/Event/sword.ogg','sound/Event/sword1.ogg','sound/Event/sword2.ogg'), VOL_EFFECTS_MASTER)
+
+	return ..()
+
 /obj/item/skeleton_sword
 	name = "Старый меч"
 	icon_custom = 'icons/Events/item/skeleton_sword.dmi'
