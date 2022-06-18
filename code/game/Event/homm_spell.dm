@@ -19,7 +19,7 @@
 
 /obj/effect/proc_holder/spell/aoe_turf/undead_escape
 	name = "Выход из тела"
-	desc = "Позволяет вам выйти из тела ввиде духа."
+	desc = "Позволяет вам выйти из тела в виде духа."
 	clothes_req = 0
 	charge_max = 250
 	action_icon_state = "spell_default"
@@ -38,6 +38,7 @@
 			usr.mind.transfer_to(MyBody)
 			for(var/obj/effect/proc_holder/spell/aoe_turf/undead_escape/U in MyBody.spell_list)
 				U.MyBody = null
+			MyBody = null
 			qdel(usr)
 
 		else
