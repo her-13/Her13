@@ -47,7 +47,7 @@
 
 /datum/species/skeleton/undead/on_loose(mob/living/carbon/human/H)
 	..()
-	H.RemoveSpell(escape_spell)
+	H.ClearSpells()
 
 /datum/species/skeleton/undead/lich
 	name = LICH
@@ -57,6 +57,11 @@
 /datum/species/skeleton/undead/lich/on_gain(mob/living/carbon/human/H)
 	..()
 	H.AddSpell(new /obj/effect/proc_holder/spell/in_hand/death_cloud)
+
+/datum/species/skeleton/undead/lich/on_loose(mob/living/carbon/human/H)
+	..()
+	H.ClearSpells()
+
 
 /datum/species/skeleton/undead/homm_zombie // Почему от скелета? Чтобы не обьяснять снова про отрубание-присоединение конечностей.
 	name = HOMM_ZOMBIE
@@ -134,3 +139,11 @@
 	,NO_PAIN = TRUE
 	,NO_FINGERPRINT = TRUE
 	)
+
+/datum/species/human/angel/on_gain(mob/living/carbon/human/H)
+	..()
+	H.AddSpell(new /obj/effect/proc_holder/spell/targeted/flying)
+
+/datum/species/human/angel/on_loose(mob/living/carbon/human/H)
+	..()
+	H.ClearSpells()
