@@ -151,6 +151,7 @@
 /obj/structure/hell_spawner/angel/attack_hand(mob/living/carbon/human/user)
 	target = pick(get_area_turfs(get_area_by_type(/area/custom/start_homm/angel)))
 	..()
+	global.monk_religion.add_member(user, HOLY_ROLE_HIGHPRIEST)
 
 //НЕЙТРАЛЫ
 /obj/structure/character_spawner/lepr
