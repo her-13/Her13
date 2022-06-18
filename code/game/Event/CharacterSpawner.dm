@@ -198,6 +198,9 @@
 	A =/area/custom/start_homm/lich
 	homm_species = LICH
 
+/obj/structure/character_spawner/lich/attack_hand(mob/living/carbon/human/user)
+	arrive_sound = pick("sound/Event/lich.ogg","sound/Event/lich-1.ogg","sound/Event/lich-2.ogg")
+	..()
 /obj/structure/hell_spawner/coffin
 	name = "Скелет"
 	desc = ""
@@ -265,6 +268,10 @@
 	outfit = /datum/outfit/job/hub/death_knight
 	A =/area/custom/start_homm/zombie_knight
 	homm_species = ZOMBIE_KNIGHT
+
+/obj/structure/character_spawner/death_knight/attack_hand(mob/living/carbon/human/user)
+	arrive_sound = pick("sound/Event/dk.ogg","sound/Event/dk-1.ogg","sound/Event/dk-2.ogg")
+	..()
 
 /obj/structure/character_spawner/NecroHeroSpawner
 	outfit = /datum/outfit/job/hub/arc_lich
