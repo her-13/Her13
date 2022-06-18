@@ -23,22 +23,20 @@
 	clothes_req = 0
 	charge_max = 250
 	action_icon_state = "spell_default"
-	var/mob/living/carbon/human/MyBody = null
 
 /obj/effect/proc_holder/spell/aoe_turf/undead_escape/cast(mob/user = usr)
-	if(!MyBody)
+	var/mob/living/H = usr
+	if(!H.MyBody)
 		playsound(usr, 'sound/Event/wraith_leave.ogg', VOL_EFFECTS_MASTER)
-		MyBody = usr
 		var/mob/living/simple_animal/wraith/W = new /mob/living/simple_animal/wraith(get_turf(usr))
-		usr.mind.transfer_to(W)
+		W.MyBody = H
+		H.mind.transfer_to(W)
 
-	if(MyBody)
+	if(H.MyBody)
 		var/turf/T = get_turf(usr)
-		if(MyBody in T.contents)
-			usr.mind.transfer_to(MyBody)
-			for(var/obj/effect/proc_holder/spell/aoe_turf/undead_escape/U in MyBody.spell_list)
-				U.MyBody = null
-			MyBody = null
+		if(H.MyBody in T.contents)
+			H.mind.transfer_to(H.MyBody)
+			H.MyBody = null
 			qdel(usr)
 
 		else
