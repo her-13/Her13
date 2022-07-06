@@ -126,7 +126,7 @@
 	head = /obj/item/clothing/head/helmet/lord
 	mask = /obj/item/clothing/mask/lord
 	l_pocket_back = /obj/item/weapon/paper/scroll/village_law
-	r_hand = /obj/item/toy/flag
+	r_hand = /obj/item/flag
 	back = null
 	id = /obj/item/weapon/card/id/key/hhero
 

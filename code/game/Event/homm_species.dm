@@ -33,6 +33,18 @@
 
 /datum/species/human/lepr
 	name = LEPR
+	var/lepr_escp = new /obj/effect/proc_holder/spell/aoe_turf/lepr_escape
+	var/lepr_hive = new /obj/effect/proc_holder/spell/targeted/lepr_hivemind
+
+/datum/species/human/lepr/on_gain(mob/living/carbon/human/H)
+	..()
+	H.AddSpell(lepr_escp)
+	H.AddSpell(lepr_hive)
+
+/datum/species/human/lepr/on_loose(mob/living/carbon/human/H)
+	..()
+	H.RemoveSpell(lepr_escp)
+	H.RemoveSpell(lepr_hive)
 
 /datum/species/skeleton/undead
 	name = HOMM_SKELETON
@@ -47,20 +59,21 @@
 
 /datum/species/skeleton/undead/on_loose(mob/living/carbon/human/H)
 	..()
-	H.ClearSpells()
+	H.RemoveSpell(escape_spell)
 
 /datum/species/skeleton/undead/lich
 	name = LICH
 	eyes = "zombie_ms_s"
 	eyes_glowing = TRUE
+	var/lich_spell = new /obj/effect/proc_holder/spell/in_hand/death_cloud
 
 /datum/species/skeleton/undead/lich/on_gain(mob/living/carbon/human/H)
 	..()
-	H.AddSpell(new /obj/effect/proc_holder/spell/in_hand/death_cloud)
+	H.AddSpell(lich_spell)
 
 /datum/species/skeleton/undead/lich/on_loose(mob/living/carbon/human/H)
 	..()
-	H.ClearSpells()
+	H.RemoveSpell(lich_spell)
 
 
 /datum/species/skeleton/undead/homm_zombie // Почему от скелета? Чтобы не обьяснять снова про отрубание-присоединение конечностей.
@@ -139,11 +152,12 @@
 	,NO_PAIN = TRUE
 	,NO_FINGERPRINT = TRUE
 	)
+	var/flying = new /obj/effect/proc_holder/spell/targeted/flying
 
 /datum/species/human/angel/on_gain(mob/living/carbon/human/H)
 	..()
-	H.AddSpell(new /obj/effect/proc_holder/spell/targeted/flying)
+	H.AddSpell(flying)
 
 /datum/species/human/angel/on_loose(mob/living/carbon/human/H)
 	..()
-	H.ClearSpells()
+	H.RemoveSpell(flying)

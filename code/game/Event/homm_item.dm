@@ -459,6 +459,16 @@
 		return
 	icon_state = "paper"
 
+
+/obj/item/flag
+	name = "Флаг"
+	desc = "Флаг цвета вашей фракции"
+	force = 40
+	icon = 'icons/obj/weapons.dmi'
+	icon_state = "flag"
+	item_state = "flag"
+	w_class = SIZE_NORMAL
+
 // КЛЮЧИ
 /obj/item/weapon/card/id/key
 	desc = "Ключик"

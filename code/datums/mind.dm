@@ -602,6 +602,14 @@
 	spell.action.Grant(current)
 	return
 
+/datum/mind/proc/RemoveSpell(obj/effect/proc_holder/spell/spell)
+	spell_list -= spell
+	if(isliving(current))
+		var/mob/living/L = current
+		if(spell.action)
+			spell.action.Remove(L)
+	qdel(spell)
+
 /datum/mind/proc/transfer_actions(mob/living/new_character)
 	if(current && isliving(current))
 		var/mob/living/M = current
