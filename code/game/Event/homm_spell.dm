@@ -28,6 +28,8 @@
 	var/mob/living/L = usr
 	if(!L.MyBody)
 		playsound(usr, 'sound/Event/wraith_leave.ogg', VOL_EFFECTS_MASTER)
+		L.SetCrawling(!L.crawling)
+		L.update_canmove()
 		var/mob/living/simple_animal/wraith/W = new /mob/living/simple_animal/wraith(get_turf(usr))
 		W.MyBody = L
 		L.mind.transfer_to(W)
