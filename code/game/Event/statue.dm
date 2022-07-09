@@ -18,6 +18,7 @@
 /obj/structure/statue/doctor
 	name = "Врачеватель"
 	icon_state = "doctor"
+
 /obj/structure/statue/knight
 	name = "Рыцарь"
 	icon_state = "knight"
@@ -37,7 +38,33 @@
 	name = "Герой"
 	icon_state = "hero"
 
+/obj/structure/statue/angel
+	name = "Ангел"
+	icon_state = "angel"
+
 // НЕЙТРАЛЫ
 /obj/structure/statue/lepr
 	name = "Лепрекон"
 	icon_state = "lepr"
+
+// НЕКРОПОЛИС
+
+/obj/structure/statue/skeleton
+	name = "Скелет"
+	icon_state = "skeleton"
+
+/obj/structure/statue/skeleton_war
+	name = "Скелет-воин"
+	icon_state = "skeleton_war"
+
+/obj/structure/statue/lich
+	name = "Лич"
+	icon_state = "lich"
+
+/obj/structure/statue/d_knight
+	name = "Рыцарь Смерти"
+	icon_state = "d_knight"
+
+/obj/structure/statue/a_lich
+	name = "Архилич"
+	icon_state = "ar_lich"

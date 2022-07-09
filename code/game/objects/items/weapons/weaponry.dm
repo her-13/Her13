@@ -44,7 +44,7 @@
 	can_embed = 0
 
 /obj/item/weapon/claymore/attack(mob/living/carbon/M, mob/living/carbon/user)
-	playsound(src, 'sound/weapons/bladeslice.ogg', VOL_EFFECTS_MASTER)
+	playsound(src, pick('sound/Event/sword.ogg','sound/Event/sword1.ogg','sound/Event/sword2.ogg'), VOL_EFFECTS_MASTER)
 	return ..()
 
 /obj/item/weapon/katana

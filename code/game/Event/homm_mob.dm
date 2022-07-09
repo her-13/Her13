@@ -174,3 +174,32 @@
 	..()
 	var/mob/living/L = target
 	L.reagents.add_reagent("stoxin", 5)
+
+/mob/living/simple_animal/wraith
+	name = "Привидение"
+	desc = "Неупокоенная душа"
+	icon = 'icons/Events/mob/wraith.dmi'
+	icon_state = "wraith_opaque"
+	speed = 1
+	maxHealth = 35
+	health = 35
+	melee_damage = 7
+	attacktext = "бьет"
+	attack_sound = list('sound/Event/wraith.ogg')
+	universal_speak = 1
+	universal_understand = 1
+
+/mob/living/simple_animal/wraith/atom_init()
+	..()
+	update_icon()
+
+/mob/living/simple_animal/wraith/update_icon()
+	var/image/eye = image(icon, icon_state = "eye")
+	eye.plane = ABOVE_LIGHTING_PLANE
+	add_overlay(eye)
+	..()
+
+/mob/living/simple_animal/wraith/death()
+	..()
+	qdel(src)
+

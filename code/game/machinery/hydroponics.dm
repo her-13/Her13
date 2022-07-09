@@ -92,6 +92,7 @@
 			adjustSYield(1 * rating)
 
 /obj/machinery/hydroponics/CanPass(atom/movable/mover, turf/target, height = 0, air_group = 0)
+	/*<her13-del>
 	if(air_group || (height == 0))
 		return TRUE
 
@@ -99,6 +100,8 @@
 		return TRUE
 	else
 		return FALSE
+	</her13-del>*/
+	return TRUE
 
 /obj/machinery/hydroponics/process()
 

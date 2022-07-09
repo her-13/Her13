@@ -774,7 +774,9 @@ Please contact me on #coderbus IRC. ~Carn x
 				tail_state = random_tail_holder
 
 			var/image/tail_s = image("icon" = 'icons/mob/species/tail.dmi', "icon_state" = tail_state)
-
+			if(species.name == ANGEL)
+				tail_s = image("icon" = 'icons/Events/race/a_wings.dmi',"icon_state" = tail_state)
+				tail_s.pixel_x = -6
 			var/obj/item/organ/external/chest/BP = bodyparts_by_name[BP_CHEST]
 			if(BP.status & ORGAN_DEAD)
 				tail_s.color = NECROSIS_COLOR_MOD

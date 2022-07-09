@@ -18,8 +18,11 @@
 
 /area/custom/neutral
 	name = "Нейтралы"
-	icon_state = "cult-heaven"
 	icon_state = "green"
+
+/area/custom/necropolis_hub
+	name = "Некрополис"
+	icon_state = "cult-heaven"
 
 // ЭРАФИЯ ЗОНЫ ХАБОРВ
 
@@ -100,6 +103,9 @@
 /area/custom/start_homm/human_hero
 	name = "HumanHeroStart"
 
+/area/custom/start_homm/angel
+	name = "angel"
+
 //НЕЙТРАЛЫ ЗОНЫ ХАБОВ
 
 /area/custom/lepr
@@ -124,3 +130,41 @@
 /area/custom/lepr_exit
 	name = "Выход на повехность."
 	icon_state = "green"
+
+//НЕКРОПОЛИС ЗОНЫ ХАБОВ
+
+/area/custom/lich
+	name = "LichHub"
+
+/area/custom/zombie_knight
+	name = "ZombieKnightHub"
+
+/area/custom/necro_hero
+	name = "NecroHeroHub"
+
+//НЕКРОПОЛИС СТАРТОВЫЕ ЗОНЫ
+
+/area/custom/start_homm/lich
+	name = "LichStart"
+
+/area/custom/start_homm/skeleton
+	name = "SkeletonStart"
+
+/area/custom/start_homm/zombie_knight
+	name = "ZombieKnightStart"
+
+/area/custom/start_homm/necro_hero
+	name = "NecroHeroStart"
+
+/area/custom/necropolis
+	name = "Necropolis"
+	ambience = list(
+		'sound/ambience/necropolis.ogg',)
+	is_force_ambience = TRUE
+
+/area/custom/mavzol
+	name = "Mavzol"
+	ambience = list(
+		'sound/ambience/mavzoley.ogg',)
+	is_force_ambience = TRUE
+

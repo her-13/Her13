@@ -1437,6 +1437,11 @@
 		var/mob/living/carbon/human/deadman = new /mob/living/carbon/human/skeleton/valhalla(target)
 		mind.transfer_to(deadman)
 		deadman.equipOutfit(/datum/outfit/job/deadman)
+		for(var/spell in deadman.spell_list)
+			RemoveSpell(spell)
+		for(var/datum/action/A in deadman.actions)
+			A.Remove(deadman)
+
 //<her13-addition>
 	beauty.AddModifier("stat", additive=beauty_dead)
 	return ..()

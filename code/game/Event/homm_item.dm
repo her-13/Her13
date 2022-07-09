@@ -3,31 +3,84 @@
 	name = "Одежда Селюка"
 	desc = "Дырка на жопе. И не только на жопе. И не только дырка"
 	icon_custom = 'icons/Events/clothes/peasant.dmi'
+	icon = 'icons/Events/clothes/peasant.dmi'
 	icon_state = "peasant"
 
 /obj/item/clothing/under/peasant_fem
 	name = "Одежда Селюка"
 	desc = "Дырка на жопе. И не только на жопе. И не только дырка"
 	icon_custom = 'icons/Events/clothes/peasant_fem.dmi'
+	icon = 'icons/Events/clothes/peasant_fem.dmi'
 	icon_state = "peasant_fem"
 
 /obj/item/clothing/under/smith
 	name = "Одежда Кузнеца"
 	desc = "Жестко воняет потом"
 	icon_custom = 'icons/Events/clothes/smith.dmi'
+	icon = 'icons/Events/clothes/smith.dmi'
 	icon_state = "smith"
 
 /obj/item/clothing/under/innkeeper
 	name = "Одежда Трактирщика"
 	desc = "Веет уютом"
 	icon_custom = 'icons/Events/clothes/inn.dmi'
+	icon = 'icons/Events/clothes/inn.dmi'
 	icon_state = "inn"
+
+/obj/item/clothing/under/knight
+	name = "Одежда Рыцаря"
+	desc = ""
+	icon_custom = 'icons/Events/clothes/knight.dmi'
+	icon = 'icons/Events/clothes/knight.dmi'
+	icon_state = "knightunder"
 
 /obj/item/clothing/under/lepr
 	name = "Форма Жадности"
 	desc = "2/3 бюджета всей Эрафии , в этом костюме"
 	icon_custom = 'icons/Events/clothes/lepr.dmi'
+	icon = 'icons/Events/clothes/lepr.dmi'
 	icon_state = "lepr"
+
+/obj/item/clothing/under/lich
+	name = "Одеяние Лича"
+	desc = "Изящно висит на голых костях"
+	icon_custom = 'icons/Events/clothes/lich.dmi'
+	icon = 'icons/Events/clothes/lich.dmi'
+	icon_state = "lich"
+	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
+	armor = list(melee = 40, bullet = 40, laser = 40,energy = 40, bomb = 40, bio = 40, rad = 40)
+
+/obj/item/clothing/under/arch_lich
+	name = "Одеяние Архилича"
+	desc = "Только матерые мертвецы отказываются от роскоши и богатсв. Нужно время чтобы понять бесполезность этих вещей в своей новой нежизни"
+	icon_custom = 'icons/Events/clothes/arc_lich.dmi'
+	icon = 'icons/Events/clothes/arc_lich.dmi'
+	icon_state = "necromancerrobe"
+	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS|HEAD
+	armor = list(melee = 50, bullet = 50, laser = 50,energy = 50, bomb = 50, bio = 50, rad = 50)
+	flags = BLOCKHAIR
+
+/obj/item/clothing/under/lich/vladimir
+	name = "Одеяние Валдимира Лича"
+	desc = "Легенды гласят о Личе , который пытался уравнять живых и мертвых."
+	icon_custom = 'icons/Events/clothes/vladimir.dmi'
+	icon = 'icons/Events/clothes/vladimir.dmi'
+
+/obj/item/clothing/under/zombie_pants
+	name = "Штаны"
+	desc = "Живые крестьяне думают, что ничего дырявее их портков не существуют. Мертвые крестьяне понимают что они ошибались."
+	icon_custom = 'icons/Events/clothes/zombie_pants.dmi'
+	icon = 'icons/Events/clothes/zombie_pants.dmi'
+	icon_state = "pants"
+
+/obj/item/clothing/under/toga
+	name = "Тога"
+	desc = "Простая и скромная"
+	icon_custom = 'icons/Events/clothes/toga.dmi'
+	icon = 'icons/Events/clothes/toga.dmi'
+	icon_state = "angeltoga"
+	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS|HEAD
+	armor = list(melee = 50, bullet = 50, laser = 50,energy = 50, bomb = 50, bio = 50, rad = 50)
 
 // СУИТЫ
 
@@ -35,12 +88,14 @@
 	name = "Роба"
 	desc = "Роба помощника монаха"
 	icon_custom = 'icons/Events/clothes/suit/helper.dmi'
+	icon = 'icons/Events/clothes/suit/helper.dmi'
 	icon_state = "monk_helper"
 
 /obj/item/clothing/suit/headman
 	name = "Пальто Старосты"
 	desc = "Самая приличная одежда на несколько десятков километров"
 	icon_custom = 'icons/Events/clothes/suit/headman.dmi'
+	icon = 'icons/Events/clothes/suit/headman.dmi'
 	icon_state = "headman_coat"
 	body_parts_covered = UPPER_TORSO|LOWER_TORSO|LEGS|ARMS
 	flags_inv = HIDESHOES|HIDEJUMPSUIT
@@ -66,12 +121,34 @@
 	armor = list(melee = 30, bullet = 10, laser = 25, energy = 20, bomb = 35, bio = 0, rad = 0)
 	flags_inv = HIDEJUMPSUIT
 
+/obj/item/clothing/suit/armor/skeleton_war
+	name = "Старые доспехи"
+	desc = ""
+	icon_custom = 'icons/Events/clothes/suit/skeleton_war.dmi'
+	icon = 'icons/Events/clothes/suit/skeleton_war.dmi'
+	icon_state = "cuirass"
+	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
+	pierce_protection = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
+	armor = list(melee = 30, bullet = 10, laser = 25, energy = 20, bomb = 35, bio = 0, rad = 0)
+	flags_inv = HIDEJUMPSUIT
+
 /obj/item/clothing/suit/armor/knight
 	name = "Рыцарские доспехи"
 	desc = "Сине-белые. Цвета надела,к которому вы приставлены"
 	icon_custom = 'icons/Events/clothes/suit/knight.dmi'
 	icon = 'icons/Events/clothes/suit/knight.dmi'
 	icon_state = "crusader"
+	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
+	pierce_protection = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
+	armor = list(melee = 50, bullet = 30, laser = 20, energy = 20, bomb = 25, bio = 0, rad = 10)
+	siemens_coefficient = 1.2
+
+/obj/item/clothing/suit/armor/death_knight
+	name = "Черные доспехи"
+	desc = "Совсем не отражает свет"
+	icon_custom = 'icons/Events/clothes/suit/death_knight.dmi'
+	icon = 'icons/Events/clothes/suit/death_knight.dmi'
+	icon_state = "armor"
 	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
 	pierce_protection = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS
 	armor = list(melee = 50, bullet = 30, laser = 20, energy = 20, bomb = 25, bio = 0, rad = 10)
@@ -84,25 +161,44 @@
 	desc = "Отстегивающийся капюшон в средневековье! Очень прогрессивно"
 	flags = HEADCOVERSEYES | BLOCKHAIR
 	icon_custom = 'icons/Events/clothes/hats/helper.dmi'
+	icon = 'icons/Events/clothes/hats/helper.dmi'
 	icon_state = "monk_helper"
 
 /obj/item/clothing/head/lepr
 	name = "Шляпа Жадности"
 	desc = "+2 к Удаче"
 	icon_custom = 'icons/Events/clothes/hats/lepr.dmi'
+	icon = 'icons/Events/clothes/hats/lepr.dmi'
 	icon_state = "lepr"
 
 /obj/item/clothing/head/headman
 	name = "Шапка Старосты"
 	desc = "Вау, вот это шляпа"
 	icon_custom = 'icons/Events/clothes/hats/headman.dmi'
+	icon = 'icons/Events/clothes/hats/headman.dmi'
 	icon_state = "headman_hat"
 
 /obj/item/clothing/head/inn
 	name = "Бандана Трактирщика"
 	desc = "На случай если вам не нравится лысина"
 	icon_custom = 'icons/Events/clothes/hats/inn.dmi'
+	icon = 'icons/Events/clothes/hats/inn.dmi'
 	icon_state = "inn_hat"
+
+/obj/item/clothing/head/lich
+	name = "Корона Лича"
+	desc = "Тяга к роскоши остается даже после смерти"
+	icon_custom = 'icons/Events/clothes/hats/lich.dmi'
+	icon = 'icons/Events/clothes/hats/lich.dmi'
+	icon_state = "lich"
+	armor = list(melee = 40, bullet = 40, laser = 40,energy = 40, bomb = 40, bio = 40, rad = 40)
+
+/obj/item/clothing/head/lich/vladimir
+	name = "Кепарик Владимира Лича"
+	desc = "И учение об этом равенстве он называл - Коммунизм"
+	icon_custom = 'icons/Events/clothes/hats/vladimir.dmi'
+	icon = 'icons/Events/clothes/hats/vladimir.dmi'
+	icon_state = "lich"
 
 /obj/item/clothing/head/wizard/monk
 	name = "Пси-Роба"
@@ -127,6 +223,19 @@
 	flags_inv = HIDEEARS
 	siemens_coefficient = 0.3
 
+/obj/item/clothing/head/helmet/skeleton_war
+	name = "Ржавый шлем"
+	desc = ""
+	icon_custom = 'icons/Events/clothes/hats/skeleton_war.dmi'
+	icon = 'icons/Events/clothes/hats/skeleton_war.dmi'
+	icon_state = "helmet"
+	item_state = "milita"
+	flags = HEADCOVERSEYES
+	armor = list(melee = 30, bullet = 15, laser = 5,energy = 5, bomb = 5, bio = 2, rad = 0)
+	flags_inv = HIDEEARS
+	siemens_coefficient = 0.3
+
+
 /obj/item/clothing/head/helmet/lord
 	name = "Корона"
 	desc = "Кто тут главный?"
@@ -139,27 +248,109 @@
 	flags_inv = HIDEEARS
 	siemens_coefficient = 0.3
 
+/obj/item/clothing/head/helmet/death_knight
+	name = "Черный Шлем"
+	desc = "Стильные рога"
+	icon_custom = 'icons/Events/clothes/hats/death_knight.dmi'
+	icon = 'icons/Events/clothes/hats/death_knight.dmi'
+	icon_state = "helmet"
+	item_state = "helmet"
+	armor = list(melee = 50, bullet = 30, laser = 20, energy = 20, bomb = 20, bio = 0, rad = 10)
+	siemens_coefficient = 1.2
+	flags = HEADCOVERSEYES|HEADCOVERSMOUTH|BLOCKHAIR
+	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES
+
 //БОТИНКИ
 /obj/item/clothing/shoes/lepr
 	name = "Ботинки Жадности"
 	desc = "С потайными местами для заначек"
 	icon_custom = 'icons/Events/clothes/shoes/lepr.dmi'
+	icon = 'icons/Events/clothes/shoes/lepr.dmi'
 	icon_state = "lepr"
+
+/obj/item/clothing/shoes/skeleton_war
+	name = "Ботинки"
+	desc = "Cтарые и вонючие"
+	icon_custom = 'icons/Events/clothes/shoes/skeleton_war.dmi'
+	icon = 'icons/Events/clothes/shoes/skeleton_war.dmi'
+	icon_state = "boots"
+
 
 //МАСКИ
 /obj/item/clothing/mask/milita
 	name = "Горжет"
 	desc = "Сразу видно - ополченец."
 	icon_custom = 'icons/Events/clothes/mask/milita.dmi'
+	icon = 'icons/Events/clothes/mask/milita.dmi'
 	icon_state = "milita"
 
 /obj/item/clothing/mask/lord
 	name = "Плащ Лорда"
 	desc = "Символ вашего статуса"
 	icon_custom = 'icons/Events/clothes/mask/lord.dmi'
+	icon = 'icons/Events/clothes/mask/lord.dmi'
 	icon_state = "lord"
 
 //Инструмены и все похожее
+
+/obj/item/lich_staff
+	name = "Посох Лича"
+	desc = "Дает власть над смертью"
+	icon_custom = 'icons/Events/item/lich_staff.dmi'
+	icon = 'icons/Events/item/lich_staff.dmi'
+	righthand_file = 'icons/Events/item/lich_staff.dmi'
+	lefthand_file  = 'icons/Events/item/lich_staff.dmi'
+	icon_state = "lich_staff"
+	item_state = "lich_staff"
+	force = 15
+	var/datum/mind/owner
+
+/obj/item/lich_staff/attack_self(mob/user)
+	if(!owner)
+		to_chat(user, "<span class='notice'>Вы привязали посох к себе.</span>")
+		owner = user.mind
+		return
+	if(user.mind != owner)
+		to_chat(user, "<span class='warning'>[name] не будет подчиняться вам</span>")
+		return
+
+/obj/item/lich_staff/attack(mob/living/carbon/human/H, mob/user)
+	if(owner == null)
+		to_chat(user, "<span class='warning'><b>Сначала привяжите посох к себе.</b></span>")
+		return
+	if(user.mind != owner)
+		to_chat(user, "<span class='warning'>[name] не будет подчиняться вам</span>")
+		return
+	if(!ishuman(H))//If target is not a human.
+		return ..()
+	if(H.species.name == HOMM_SKELETON || H.species.name == LICH ||H.species.name == HOMM_ZOMBIE || H.species.name == ZOMBIE_KNIGHT)
+		to_chat(H, "<span class='warning'>Это существо уже живой мертвец</span>")
+		return
+	if(H.stat == CONSCIOUS)
+		to_chat(user, "<span class='warning'><b>Зомбирование не удалось!</b></span> Сначала доведите состояние жертвы до критической отметки.")
+		return
+	if(H.client == null)
+		to_chat(user, "<span class='warning'><b>Зомбирование не удалось!</b></span> В этой оболочке нет души.")
+		return
+	H.set_species(HOMM_ZOMBIE)
+	to_chat(H, "<span class='warning'>Теперь ты живой мертвец.[user] твой мастер. Служи и выполняй все приказы мастера.</span>")
+
+/obj/item/lich_staff/vladimir
+	name = "Посох Владимира Лича"
+	desc = "Уравнивает живых и мертвых в правах"
+	icon_custom = 'icons/Events/item/vladimir_staff.dmi'
+	icon = 'icons/Events/item/vladimir_staff.dmi'
+	righthand_file = 'icons/Events/item/vladimir_staff.dmi'
+	lefthand_file  = 'icons/Events/item/vladimir_staff.dmi'
+	icon_state = "lich_staff"
+	item_state = "lich_staff"
+
+/obj/item/lich_staff/vladimir/attack_self(mob/living/carbon/human/user)
+	if(!owner)
+		user.set_species(LICH)
+	..()
+
+
 /obj/item/pillory_tablet
 	name = "Преступление"
 	icon = 'icons/obj/structures/scrap/bonfire.dmi'
@@ -187,11 +378,54 @@
 		to_chat(user, "<span class='notice'> Здесь написано: <span class='emojify'>[targName]</span>.</span>")
 		return
 
+/obj/item/angel_sword
+	name = "Ангельский меч"
+	icon_custom = 'icons/Events/item/angel_sword.dmi'
+	icon = 'icons/Events/item/angel_sword.dmi'
+	righthand_file = 'icons/Events/item/angel_sword.dmi'
+	lefthand_file  = 'icons/Events/item/angel_sword.dmi'
+	icon_state = "sword"
+	slot_flags = SLOT_FLAGS_BELT
+	force = 30
+
+/obj/item/angel_sword/attack(mob/living/carbon/M, mob/living/carbon/user)
+	playsound(src, pick('sound/Event/sword.ogg','sound/Event/sword1.ogg','sound/Event/sword2.ogg'), VOL_EFFECTS_MASTER)
+
+	return ..()
+
+/obj/item/skeleton_sword
+	name = "Старый меч"
+	icon_custom = 'icons/Events/item/skeleton_sword.dmi'
+	icon = 'icons/Events/item/skeleton_sword.dmi'
+	righthand_file = 'icons/Events/item/skeleton_sword.dmi'
+	lefthand_file  = 'icons/Events/item/skeleton_sword.dmi'
+	icon_state = "sword"
+	slot_flags = SLOT_FLAGS_BELT
+	force = 15
+
+/obj/item/skeleton_sword/attack(mob/living/carbon/M, mob/living/carbon/user)
+	playsound(src, pick('sound/Event/sword.ogg','sound/Event/sword1.ogg','sound/Event/sword2.ogg'), VOL_EFFECTS_MASTER)
+
+	return ..()
+
+/obj/item/skeleton_sword/tesak
+	name = "Ржавый тесак"
+	icon_custom = 'icons/Events/item/tesak.dmi'
+	icon = 'icons/Events/item/tesak.dmi'
+	righthand_file = 'icons/Events/item/tesak.dmi'
+	lefthand_file  = 'icons/Events/item/tesak.dmi'
+	icon_state = "sword"
+	slot_flags = SLOT_FLAGS_BELT
+	force = 10
+
 /obj/item/weapon/melee/whip
 	name = "Плетка"
 	desc = "Для серьезных преступлений"
-	icon_state = "chain"
-	item_state = "chain"
+	icon_custom = 'icons/Events/item/whip.dmi'
+	icon = 'icons/Events/item/whip.dmi'
+	righthand_file = 'icons/Events/item/whip.dmi'
+	lefthand_file  = 'icons/Events/item/whip.dmi'
+	icon_state = "whip"
 	flags = CONDUCT
 	slot_flags = SLOT_FLAGS_BELT
 	force = 1
@@ -201,6 +435,29 @@
 	origin_tech = "combat=4"
 	attack_verb = list("выпорол")
 
+/obj/item/weapon/pen/feather
+	name = "Письменное перо"
+	desc = "Вырвано у чернильного гуся, совсем не нужно заправлять."
+	icon_custom = 'icons/Events/item/pen.dmi'
+	icon = 'icons/Events/item/pen.dmi'
+	righthand_file = 'icons/Events/item/pen.dmi'
+	lefthand_file  = 'icons/Events/item/pen.dmi'
+	icon_state = "pen"
+	colour = "black"
+
+/obj/item/weapon/paper/scroll
+	name = "Бумага"
+	icon_custom = 'icons/Events/item/paper.dmi'
+	icon = 'icons/Events/item/paper.dmi'
+	righthand_file = 'icons/Events/item/paper.dmi'
+	lefthand_file  = 'icons/Events/item/paper.dmi'
+	icon_state = "paper"
+
+/obj/item/weapon/paper/scroll/update_icon()
+	if(info)
+		icon_state = "paper_f"
+		return
+	icon_state = "paper"
 
 // КЛЮЧИ
 /obj/item/weapon/card/id/key

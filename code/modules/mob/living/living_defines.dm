@@ -77,3 +77,4 @@
 	var/mob/living/MyTrueNotChikenBody
 
 	var/list/spawner_args = null
+	var/mob/living/MyBody = null
