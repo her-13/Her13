@@ -525,3 +525,13 @@
 	else
 		registered_name = "Ключик"
 	name = "[name] [registered_name]"
+
+//Еда и все что можно сьесть
+
+/obj/item/weapon/reagent_containers/food/snacks/magic
+	name = "Магическая эссенция"
+	desc = "У-ууу"
+	icon_state = "baguette"
+	filling_color = "#e3d796"
+	bitesize = 10
+	list_reagents = list("magic" = 20)

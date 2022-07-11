@@ -988,6 +988,7 @@
 					+ reagents.get_reagent_amount("plantmatter") \
 					+ reagents.get_reagent_amount("protein") \
 					+ reagents.get_reagent_amount("dairy") \
+					+ reagents.get_reagent_amount("magic") \
 				) * 8 // We multiply by this "magic" number, because all of these are equal to 8 nutrition.
 
 /mob/living/carbon/get_metabolism_factor()

@@ -10,3 +10,6 @@
 
 //ЕВЕНТ
 #define EVENT_LEVEL_HOMM 5
+
+//Диета
+#define DIET_MAGIC		8 // Для всякой магической шалупони

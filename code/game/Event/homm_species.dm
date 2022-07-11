@@ -1,3 +1,9 @@
+//Списки
+var/global/list/live_species = list(HUMAN, LEPR) //Расы максимально похожие на стандартных людей. Т.e выдавать этому списку стандартный список причесок / голоса и т.д
+var/global/list/undead_species = list() // Мертвые.
+
+//Списки
+
 /datum/species/human/hub
 	name = HUBMAN
 	brute_mod = 0
@@ -51,6 +57,10 @@
 	icobase = 'icons/Events/race/skeleton.dmi'
 	deform = 'icons/Events/race/skeleton.dmi'
 	var/escape_spell = new /obj/effect/proc_holder/spell/aoe_turf/undead_escape
+	dietflags = DIET_MAGIC
+
+/datum/species/skeleton/undead/call_digest_proc(mob/living/M, datum/reagent/R)
+	return R.on_undead_digest(M)
 
 /datum/species/skeleton/undead/on_gain(mob/living/carbon/human/H)
 	..()
@@ -76,7 +86,7 @@
 	H.RemoveSpell(lich_spell)
 
 
-/datum/species/skeleton/undead/homm_zombie // Почему от скелета? Чтобы не обьяснять снова про отрубание-присоединение конечностей.
+/datum/species/skeleton/undead/homm_zombie
 	name = HOMM_ZOMBIE
 	icobase = 'icons/Events/race/zombie.dmi'
 	deform = 'icons/Events/race/zombie.dmi'
