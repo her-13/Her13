@@ -246,6 +246,15 @@ var/global/chicken_count = 0
 			//world << eggsleft
 		else
 			to_chat(user, "<span class='notice'>[name] doesn't seem hungry!</span>")
+	//<her13-add>
+	if(istype(O, /obj/item/weapon/reagent_containers/food/snacks/magic))
+		if(prob(10))
+			new /mob/living/simple_animal/efir_chicken(src.loc)
+			qdel(src)
+			qdel(O)
+		else
+			qdel(O)
+	//</her13-add>
 	else
 		..()
 

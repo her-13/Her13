@@ -530,8 +530,9 @@
 
 /obj/item/weapon/reagent_containers/food/snacks/magic
 	name = "Магическая эссенция"
-	desc = "У-ууу"
-	icon_state = "baguette"
+	desc = "Не лизать"
+	icon = 'icons/Events/item/orb.dmi'
+	icon_state = "orb-corrupted"
 	filling_color = "#e3d796"
-	bitesize = 10
-	list_reagents = list("magic" = 20)
+	bitesize = 5
+	list_reagents = list("magic" = 10)
