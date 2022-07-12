@@ -1,6 +1,6 @@
 //Списки
 var/global/list/live_species = list(HUMAN, LEPR) //Расы максимально похожие на стандартных людей. Т.e выдавать этому списку стандартный список причесок / голоса и т.д
-var/global/list/undead_species = list() // Мертвые.
+var/global/list/undead_species = list(HOMM_SKELETON,LICH,HOMM_ZOMBIE,ZOMBIE_KNIGHT) // Мертвые.
 
 //Списки
 
@@ -93,7 +93,7 @@ var/global/list/undead_species = list() // Мертвые.
 	deform = 'icons/Events/race/zombie.dmi'
 	brute_mod = 1
 	burn_mod = 1.5
-	speed_mod = 0.7
+	speed_mod = 3
 	flesh_color = "#ffc896"
 	blood_datum_path = /datum/dirt_cover/red_blood
 	damage_mask = TRUE
