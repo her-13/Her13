@@ -242,17 +242,13 @@
 /mob/living/simple_animal/efir_chicken/attackby(obj/item/O, mob/user)
 	if(istype(O, /obj/item/weapon/reagent_containers/food/snacks/magic))
 		user.SetNextMove(CLICK_CD_INTERACT)
-		if(!stat && magicIn < 8)
+		if(stat!= DEAD && magicIn < 8)
 			user.visible_message("<span class='notice'>[name] впитывает эссенцию</span>")
 			playsound(src, 'sound/Event/efir_multi.ogg', VOL_EFFECTS_MASTER)
 			qdel(O)
 			magicIn += rand(1, 4)
 		else
-			to_chat(user, "<span class='notice'>[name] Перенасытилась магией")
-			var/target = src.loc
-			var/datum/effect/effect/system/reagents_explosion/e = new()
-			e.set_up(2 , 2 , target)
-			gib()
+			death(1)
 			qdel(O)
 	else
 		..()
@@ -267,3 +263,9 @@
 		var/obj/item/weapon/reagent_containers/food/snacks/magic/M = new(get_turf(src))
 		M.pixel_x = rand(-6,6)
 		M.pixel_y = rand(-6,6)
+
+/mob/living/simple_animal/efir_chicken/death()
+	..()
+	playsound(src, 'sound/Event/efir_multi.ogg', VOL_EFFECTS_MASTER)
+	explosion(src, 2, 2, 2, 2)
+

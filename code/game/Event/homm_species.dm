@@ -54,6 +54,7 @@ var/global/list/undead_species = list() // Мертвые.
 
 /datum/species/skeleton/undead
 	name = HOMM_SKELETON
+	brute_mod = 1.5
 	icobase = 'icons/Events/race/skeleton.dmi'
 	deform = 'icons/Events/race/skeleton.dmi'
 	var/escape_spell = new /obj/effect/proc_holder/spell/aoe_turf/undead_escape
@@ -92,7 +93,7 @@ var/global/list/undead_species = list() // Мертвые.
 	deform = 'icons/Events/race/zombie.dmi'
 	brute_mod = 1
 	burn_mod = 1.5
-	speed_mod = -0.2
+	speed_mod = 0.7
 	flesh_color = "#ffc896"
 	blood_datum_path = /datum/dirt_cover/red_blood
 	damage_mask = TRUE
