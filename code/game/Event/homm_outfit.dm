@@ -170,7 +170,7 @@
 /datum/outfit/job/hub/forest_knight
 	name = OUTFIT_JOB_NAME("Лесной Страж")
 	uniform =/obj/item/clothing/under/telnajka
-	shoes = /obj/item/clothing/shoes/boots
+	shoes = /obj/item/clothing/shoes/boots/work
 	suit = /obj/item/clothing/suit/armor/knight/wooden_knight
 	head = /obj/item/clothing/head/helmet/wooden_knight
 	l_hand = /obj/item/weapon/spear
