@@ -118,7 +118,7 @@
 	icon_state = "robhood"
 
 /obj/item/clothing/under/telnajka
-	name = "Одежда Бродяги"
+	name = "тельняшка"
 	desc = ""
 	icon_custom = 'icons/Events/clothes/telnyajka.dmi'
 	icon = 'icons/Events/clothes/telnyajka.dmi'

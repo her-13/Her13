@@ -155,6 +155,41 @@
 	name = "Лепрекон"
 	desc = ""
 
+/obj/effect/portal/hub/job_room/farseer
+	A = /area/custom/farseer
+	name = "Видящий(ая)"
+	desc = ""
+
+/obj/effect/portal/hub/job_room/bard
+	A = /area/custom/bard
+	name = "Бард"
+	desc = ""
+
+/obj/effect/portal/hub/job_room/kazak
+	A = /area/custom/kazak
+	name = "Казак"
+	desc = ""
+
+/obj/effect/portal/hub/job_room/kazak_elder
+	A = /area/custom/kazak_elder
+	name = "Старший Казак"
+	desc = ""
+
+/obj/effect/portal/hub/job_room/whitelist_room/w_archer
+	A = /area/custom/w_knight
+	name = "Стража Табора"
+	desc = ""
+	room_to_check =/obj/effect/portal/hub/job_room/kazak
+	threshold = 3
+
+/obj/effect/portal/hub/job_room/whitelist_room/w_knight
+	A = /area/custom/w_archer
+	name = "Стража Табора"
+	desc = ""
+	room_to_check =/obj/effect/portal/hub/job_room/whitelist_room/w_archer
+	threshold = 1
+
+
 //НЕКРОПОЛИС
 
 /obj/effect/portal/hub/job_room/lich

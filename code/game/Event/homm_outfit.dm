@@ -147,6 +147,53 @@
 	head = /obj/item/clothing/head/lepr
 	l_hand = /obj/item/weapon/cane
 
+/datum/outfit/job/hub/kazak
+	name = OUTFIT_JOB_NAME("Казак")
+	uniform =/obj/item/clothing/under/gigachad
+	shoes = /obj/item/clothing/shoes/gigachad
+
+/datum/outfit/job/hub/kazak_elder
+	name = OUTFIT_JOB_NAME("Старший Казак")
+	uniform =/obj/item/clothing/under/gigachad
+	shoes = /obj/item/clothing/shoes/gigachad
+	suit = /obj/item/clothing/suit/gigachad
+	head = /obj/item/clothing/head/papaha
+
+/datum/outfit/job/hub/forest_archer
+	name = OUTFIT_JOB_NAME("Лесничий")
+	uniform =/obj/item/clothing/under/forest_archer
+	shoes = /obj/item/clothing/shoes/boots/work
+	head = /obj/item/clothing/head/pilotka
+	r_hand = /obj/item/weapon/crossbow
+	l_hand = /obj/item/weapon/arrow/harpoon
+
+/datum/outfit/job/hub/forest_knight
+	name = OUTFIT_JOB_NAME("Лесной Страж")
+	uniform =/obj/item/clothing/under/telnajka
+	shoes = /obj/item/clothing/shoes/boots
+	suit = /obj/item/clothing/suit/armor/knight/wooden_knight
+	head = /obj/item/clothing/head/helmet/wooden_knight
+	l_hand = /obj/item/weapon/spear
+
+/datum/outfit/job/hub/bard
+	name = OUTFIT_JOB_NAME("Бард")
+	uniform =/obj/item/clothing/under/bard
+	shoes = /obj/item/clothing/shoes/bard
+	head = /obj/item/clothing/head/bard
+	l_hand = /obj/item/device/guitar
+
+/datum/outfit/job/hub/farseer
+	name = OUTFIT_JOB_NAME("Farseer")
+	uniform =/obj/item/clothing/under/farseer
+	uniform_f = /obj/item/clothing/under/farseer_fem
+	shoes = /obj/item/clothing/shoes/golden_sandal
+	head = /obj/item/clothing/head/turban
+	l_hand = /obj/item/clothing/head/tiara
+	r_hand = /obj/item/toy/cards
+
+
+
+
 //НЕКРОПОЛИС
 
 /datum/outfit/job/hub/lich

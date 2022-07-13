@@ -112,6 +112,30 @@
 	name = "Leprecon_Hub"
 	icon_state = "green"
 
+/area/custom/farseer
+	name = "Farseer_Hub"
+	icon_state = "green"
+
+/area/custom/bard
+	name = "Bard_Hub"
+	icon_state = "green"
+
+/area/custom/kazak
+	name = "Kazak_Hub"
+	icon_state = "green"
+
+/area/custom/kazak_elder
+	name = "Kazak_elder_Hub"
+	icon_state = "green"
+
+/area/custom/w_knight
+	name = "Wooden_Knight_Hub"
+	icon_state = "green"
+
+/area/custom/w_archer
+	name = "Wooden_Archer_Hub"
+	icon_state = "green"
+
 //НЕЙТРАЛЫ СТАРТОВЫЕ ЗОНЫ
 
 /area/custom/start_homm/lepr
