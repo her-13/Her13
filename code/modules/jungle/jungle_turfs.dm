@@ -92,7 +92,7 @@
 	plants_spawn = 0
 	density = TRUE
 	name = "rock wall"
-	icon = 'icons/turf/walls.dmi'
+	icon = 'icons/turf/asteroid.dmi'
 	icon_state = "rock"
 	icon_spawn_state = "rock"
 
