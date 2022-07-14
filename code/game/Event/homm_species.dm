@@ -162,6 +162,7 @@ var/global/list/undead_species = list(HOMM_SKELETON,LICH,HOMM_ZOMBIE,ZOMBIE_KNIG
 	,NO_EMOTION = TRUE
 	,NO_PAIN = TRUE
 	,NO_FINGERPRINT = TRUE
+	,NO_FAT = TRUE
 	)
 	var/flying = new /obj/effect/proc_holder/spell/targeted/flying
 
