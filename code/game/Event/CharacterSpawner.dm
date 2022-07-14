@@ -30,6 +30,7 @@
 	target = pick(possible_tile)
 	user.loc = target
 	user.set_species(homm_species)
+	user.revive() // На всякий случай
 	selecting_job = FALSE
 	if(arrive_sound)
 		playsound(user,arrive_sound, VOL_EFFECTS_MASTER)
@@ -64,6 +65,7 @@
 	user.equipOutfit(outfit)
 	user.loc = target
 	user.set_species(homm_species)
+	user.revive() // навсякий случай
 	selecting_job = FALSE
 	qdel(src) //одноразовые
 	if(arrive_sound)
