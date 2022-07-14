@@ -904,7 +904,6 @@ Please contact me on #coderbus IRC. ~Carn x
 #undef SURGERY_LAYER
 #undef BANDAGE_LAYER
 #undef UNIFORM_LAYER
-#undef TAIL_LAYER
 #undef ID_LAYER
 #undef SHOES_LAYER
 #undef TAIL_LAYER
