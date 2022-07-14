@@ -660,6 +660,7 @@
 	desc = "Не лизать"
 	icon = 'icons/Events/item/orb.dmi'
 	icon_state = "orb-corrupted"
+	w_class = SIZE_SMALL
 	filling_color = "#e3d796"
 	bitesize = 5
 	list_reagents = list("magic" = 10)
