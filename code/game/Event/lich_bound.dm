@@ -1,7 +1,7 @@
 #define BOUNDED_TIP "Is bounded."
 #define BOUNDS_TIP(B) "Is bounding [B.parent]."
 
-// Все тоже самое ,но с заменой AM.move на пожирание нутриентов
+// Р’СЃРµ С‚РѕР¶Рµ СЃР°РјРѕРµ ,РЅРѕ СЃ Р·Р°РјРµРЅРѕР№ AM.move РЅР° РїРѕР¶РёСЂР°РЅРёРµ РЅСѓС‚СЂРёРµРЅС‚РѕРІ
 // A component you put on things you want to be bounded to other things.
 // Warning! Can only be bounded to one thing at once.
 /datum/component/bounded_lich
@@ -64,7 +64,7 @@
 	if(resolve_callback && resolve_callback.Invoke(src))
 		return
 	var/mob/living/carbon/human/H = parent
-	to_chat(H, "<span class='warning'><b>Я не могу далеко отходить от посоха хозяина. Это истощает меня</b></span>")
+	to_chat(H, "<span class='warning'><b>РЇ РЅРµ РјРѕРіСѓ РґР°Р»РµРєРѕ РѕС‚С…РѕРґРёС‚СЊ РѕС‚ РїРѕСЃРѕС…Р° С…РѕР·СЏРёРЅР°. Р­С‚Рѕ РёСЃС‚РѕС‰Р°РµС‚ РјРµРЅСЏ</b></span>")
 	H.nutrition  -=25
 	if(H.nutrition  <0)
 		H.nutrition  = 0
@@ -85,7 +85,7 @@
 	if(dist < min_dist || dist > max_dist)
 		var/mob/living/carbon/human/H = parent
 		var/area/current = get_turf(H)
-		if(current.loc.name != "Necropolis")// На своей территории можно гулять спокойно
+		if(current.loc.name != "Necropolis")// РќР° СЃРІРѕРµР№ С‚РµСЂСЂРёС‚РѕСЂРёРё РјРѕР¶РЅРѕ РіСѓР»СЏС‚СЊ СЃРїРѕРєРѕР№РЅРѕ
 			resolve_stranded()
 
 // This proc is called when bound thing tries to move.
