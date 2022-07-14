@@ -337,12 +337,13 @@
 	density = TRUE
 	var/isSingleUse = 0
 	var/obj/structure/hell_spawner/coffin/typeOfCorpse = /obj/structure/hell_spawner/coffin
+	var/obj/item/lich_staff/L
 	var/tar
 	var/icon/open_state = "coffin_open"
 
 /obj/structure/coffin/attackby(obj/item/I, mob/user)
 	if(istype(I, /obj/item/lich_staff)&&!isSingleUse)
-		var/obj/item/lich_staff/L = I
+		L = I
 		if(L.owner == null)
 			to_chat(user, "<span class='warning'><b>Сначала привяжите посох к себе.</b></span>")
 			return
@@ -389,6 +390,7 @@
 				to_chat(user, "<span class='warning'>Это существо уже живой мертвец</span>")
 				return
 			H.set_species(HOMM_SKELETON)
+			H.AddComponent(/datum/component/bounded_lich, L, 0, 5)
 			for(var/obj/item/organ/external/BP in H.bodyparts) // Makes them stronger than common skeletons
 				BP.min_broken_damage += 15
 				BP.max_damage += 20

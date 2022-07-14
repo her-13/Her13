@@ -41,7 +41,7 @@
 	anchored = TRUE
 	icon = 'icons/turf/areas.dmi'
 	icon_state = "start"
-	layer = 12
+	layer = 13
 	var/outfit = null
 	var/ready = null
 	var/target
@@ -208,14 +208,15 @@
 	var/mob/myMaster
 
 /obj/structure/hell_spawner/coffin/attack_hand(mob/living/carbon/human/user)
-	arrive_sound = pick("sound/Event/undead_arrive.ogg","sound/Event/undead_arrive-1.ogg","sound/Event/undead_arrive-2.ogg")
 	..()
 	if(ready == "Нет")
 		selecting_job = FALSE
 		return
+	arrive_sound = pick("sound/Event/undead_arrive.ogg","sound/Event/undead_arrive-1.ogg","sound/Event/undead_arrive-2.ogg")
 	myCoffin.icon_state = myCoffin.open_state
 	to_chat(user, "<span class='warning'>Теперь ты живой мертвец.[myMaster.name] твой мастер. Служи и выполняй все приказы мастера.</span>")
-
+	user.nutrition = 100 // Голодный , нужно бахнуть магии
+	user.AddComponent(/datum/component/bounded_lich, myCoffin.L, 0, 5)
 	var/new_name = sanitize(input(user, "Выберите имя.", "Создание персонажа") as null|text)
 	if(new_name)
 		user.real_name = new_name

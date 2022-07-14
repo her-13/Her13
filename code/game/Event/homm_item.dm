@@ -459,6 +459,7 @@
 		to_chat(user, "<span class='warning'><b>Зомбирование не удалось!</b></span> В этой оболочке нет души.")
 		return
 	H.set_species(HOMM_ZOMBIE)
+	H.AddComponent(/datum/component/bounded_lich, src, 0, 5)
 	to_chat(H, "<span class='warning'>Теперь ты живой мертвец.[user] твой мастер. Служи и выполняй все приказы мастера.</span>")
 
 /obj/item/lich_staff/vladimir
