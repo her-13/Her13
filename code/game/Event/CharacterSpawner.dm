@@ -318,6 +318,10 @@
 /obj/structure/character_spawner/death_knight/attack_hand(mob/living/carbon/human/user)
 	arrive_sound = pick("sound/Event/dk.ogg","sound/Event/dk-1.ogg","sound/Event/dk-2.ogg")
 	..()
+	if(ready == "Нет")
+		selecting_job = FALSE
+		return
+	new/obj/vehicle/space/spacebike/horse/undead(user.loc)
 
 /obj/structure/character_spawner/NecroHeroSpawner
 	outfit = /datum/outfit/job/hub/arc_lich
