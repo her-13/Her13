@@ -214,6 +214,8 @@
 	if(user.h_style)
 		user.h_style = "Bald"
 	user.height = HUMANHEIGHT_MEDIUM
+	user.real_name = "Валера"
+	user.name = "Валера"
 	user.update_hair()
 	user.update_body()
 	user.regenerate_icons()
