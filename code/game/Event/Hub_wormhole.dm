@@ -175,6 +175,11 @@
 	name = "Старший Казак"
 	desc = ""
 
+/obj/effect/portal/hub/job_room/valera
+	A = /area/custom/valera
+	name = "Валера"
+	desc = ""
+
 /obj/effect/portal/hub/job_room/whitelist_room/w_archer
 	A = /area/custom/w_knight
 	name = "Стража Табора"

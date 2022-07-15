@@ -741,6 +741,9 @@
 			take_overall_damage(2,0)
 			traumatic_shock++
 
+	if(species.name == VALERA)
+		species.regen(src)
+
 	AdjustConfused(-1)
 	AdjustDrunkenness(-1)
 	// decrement dizziness counter, clamped to 0

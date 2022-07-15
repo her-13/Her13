@@ -124,6 +124,15 @@
 	icon = 'icons/Events/clothes/telnyajka.dmi'
 	icon_state = "woodunder"
 
+/obj/item/clothing/under/valera
+	name = "Штаны Чудища"
+	desc = ""
+	icon_custom = 'icons/Events/clothes/valera.dmi'
+	icon = 'icons/Events/clothes/valera.dmi'
+	icon_state = "trollpants"
+	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS|HEAD
+	armor = list(melee = 20, bullet = 20, laser = 20,energy = 20, bomb = 20, bio = 20, rad = 20)
+
 
 // СУИТЫ
 
@@ -407,6 +416,13 @@
 	icon_custom = 'icons/Events/clothes/shoes/bard.dmi'
 	icon = 'icons/Events/clothes/shoes/bard.dmi'
 	icon_state = "bardboots"
+
+/obj/item/clothing/shoes/valera
+	name = "Башмаки Чудища"
+	desc = ""
+	icon_custom = 'icons/Events/clothes/shoes/valera.dmi'
+	icon = 'icons/Events/clothes/shoes/valera.dmi'
+	icon_state = "trollmakasin"
 
 
 //МАСКИ

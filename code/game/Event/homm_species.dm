@@ -173,3 +173,55 @@ var/global/list/undead_species = list(HOMM_SKELETON,LICH,HOMM_ZOMBIE,ZOMBIE_KNIG
 /datum/species/human/angel/on_loose(mob/living/carbon/human/H)
 	..()
 	H.RemoveSpell(flying)
+
+/datum/species/human/valera
+	name = VALERA
+	icobase = 'icons/Events/race/valera.dmi'
+	deform = 'icons/Events/race/valera.dmi'
+	total_health = 200
+	brute_mod = 0.8
+	burn_mod = 0.8
+	tox_mod = 0.8
+	blood_datum_path = /datum/dirt_cover/red_blood
+	restricted_inventory_slots = list(SLOT_HEAD, SLOT_WEAR_SUIT)
+	flags = list(
+	,HAS_LIPS = TRUE
+	,HAS_UNDERWEAR = FALSE
+	,HAS_TAIL = FALSE
+	,HAS_SKIN_COLOR = TRUE
+	,HAS_HAIR = FALSE
+	,HAS_HAIR_COLOR = FALSE
+	,NO_MINORCUTS = FALSE
+	,FACEHUGGABLE = TRUE
+	,IS_SOCIAL = TRUE
+	,NO_VOMIT = FALSE
+	,BIOHAZZARD_IMMUNE = FALSE
+	,NO_BREATHE = FALSE
+	,NO_SCAN = TRUE
+	,NO_EMOTION = FALSE
+	,NO_PAIN = FALSE
+	,NO_FINGERPRINT = TRUE
+	,NO_FAT = TRUE
+	)
+	var/regen_mod = 1
+	var/regen_limbs = TRUE
+
+/datum/species/human/valera/regen(mob/living/carbon/human/H)
+	for(var/obj/item/organ/internal/O in H.organs)
+		if(O.damage)
+			O.damage -= 5
+			H.nutrition -= 1
+			return
+
+	if(H.nutrition > 150 && regen_limbs)
+		if(!H.regenerating_bodypart)
+			H.regenerating_bodypart = H.find_damaged_bodypart()
+		if(H.regenerating_bodypart)
+			H.nutrition -= 1
+			H.regen_bodyparts(0, TRUE)
+			return
+	if(H.nutrition > 150)
+		H.adjustBruteLoss(-(5 * regen_mod))
+		H.adjustToxLoss(-(5 * regen_mod))
+		H.adjustOxyLoss(-(5 * regen_mod))
+		H.nutrition -= 5

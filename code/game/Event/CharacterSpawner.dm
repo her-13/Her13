@@ -175,6 +175,48 @@
 	cameranet.addCamera(user)
 	cameranet.updateVisibility(user, 0)
 
+/obj/structure/character_spawner/kazak
+	outfit = /datum/outfit/job/hub/kazak
+	A =/area/custom/start_homm/kazak
+
+/obj/structure/character_spawner/kazak_elder
+	outfit = /datum/outfit/job/hub/kazak_elder
+	A =/area/custom/start_homm/kazak_elder
+
+/obj/structure/character_spawner/forest_archer
+	outfit = /datum/outfit/job/hub/forest_archer
+	A =/area/custom/start_homm/w_archer
+
+/obj/structure/character_spawner/forest_knight
+	outfit = /datum/outfit/job/hub/forest_knight
+	A =/area/custom/start_homm/w_knight
+
+/obj/structure/character_spawner/bard
+	outfit = /datum/outfit/job/hub/bard
+	A =/area/custom/start_homm/bard
+
+/obj/structure/character_spawner/farseer
+	outfit = /datum/outfit/job/hub/farseer
+	A =/area/custom/start_homm/farseer
+
+/obj/structure/character_spawner/valera
+	outfit = /datum/outfit/job/hub/valera
+	A =/area/custom/start_homm/valera
+	homm_species = VALERA
+
+/obj/structure/character_spawner/valera/attack_hand(mob/living/carbon/human/user)
+	..()
+	if(ready == "Нет")
+		selecting_job = FALSE
+		return
+	if(user.f_style)
+		user.f_style = "Shaved"
+	if(user.h_style)
+		user.h_style = "Bald"
+	user.height = HUMANHEIGHT_MEDIUM
+	user.update_hair()
+	user.update_body()
+	user.regenerate_icons()
 
 
 /obj/structure/character_spawner/tree_of_greed

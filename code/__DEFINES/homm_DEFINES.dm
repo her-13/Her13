@@ -7,6 +7,7 @@
 #define LICH           "Lich"
 #define ZOMBIE_KNIGHT  "Zombie Knight"
 #define ANGEL          "Angel"
+#define VALERA          "Valera"
 
 //ЕВЕНТ
 #define EVENT_LEVEL_HOMM 5

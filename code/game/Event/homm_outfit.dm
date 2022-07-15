@@ -191,8 +191,10 @@
 	l_hand = /obj/item/clothing/head/tiara
 	r_hand = /obj/item/toy/cards
 
-
-
+/datum/outfit/job/hub/valera
+	name = OUTFIT_JOB_NAME("Валера")
+	uniform =/obj/item/clothing/under/valera
+	shoes = /obj/item/clothing/shoes/valera
 
 //НЕКРОПОЛИС
 

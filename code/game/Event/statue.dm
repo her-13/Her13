@@ -83,6 +83,12 @@
 	name = "Бард"
 	icon_state = "bard"
 
+/obj/structure/statue/valera
+	name = "Валера"
+	icon = 'icons/Events/structure/statue_valera.dmi'
+	icon_state = "iaminsideyourwalls"
+
+
 
 // НЕКРОПОЛИС
 
