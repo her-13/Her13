@@ -10,10 +10,30 @@
 	on = 1
 	pixel_x = -5
 	pixel_y = -5
+	var/list/alllowed_species
 
 /obj/vehicle/space/spacebike/horse/atom_init()
 	. = ..()
 	turn_on()
+	alllowed_species = live_species
+
+/obj/vehicle/space/spacebike/horse/proc/check_species(mob/M)
+	if(!ishuman(M))
+		return FALSE
+	var/mob/living/carbon/human/H = M
+	if(!(H.species.name in alllowed_species))
+		to_chat(H, "<span class='danger'>Лошадь укусила вас!</span>")
+		var/obj/item/organ/external/BP = H.get_bodypart(BP_ACTIVE_ARM)
+		BP.take_damage(15, 0, 0, "horse")
+		H.playsound_local(H, 'sound/weapons/bite.ogg', VOL_EFFECTS_MASTER)
+		return FALSE
+	to_chat(H, "<span class='notice'>Вы лихо вскакиваете на лошадь!</span>")
+	return TRUE
+
+/obj/vehicle/space/spacebike/horse/load(mob/living/M)
+	if(!check_species(M))
+		return FALSE
+	. = ..()
 
 /obj/vehicle/space/spacebike/update_icon()
 	cut_overlays()
@@ -28,4 +48,6 @@
 	desc = "Это треть бюджета всего селения"
 	icon = 'icons/Events//structure/undead_horse.dmi'
 
-
+/obj/vehicle/space/spacebike/horse/undead/atom_init()
+	. = ..()
+	alllowed_species = undead_species

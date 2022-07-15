@@ -1,5 +1,5 @@
 //Списки
-var/global/list/live_species = list(HUMAN, LEPR ,ANGEL) //Расы максимально похожие на стандартных людей. Т.e выдавать этому списку стандартный список причесок / голоса и т.д
+var/global/list/live_species = list(HUMAN, LEPR ,ANGEL, HUBMAN) //Расы максимально похожие на стандартных людей. Т.e выдавать этому списку стандартный список причесок / голоса и т.д
 var/global/list/undead_species = list(HOMM_SKELETON,LICH,HOMM_ZOMBIE,ZOMBIE_KNIGHT) // Мертвые.
 
 //Списки
