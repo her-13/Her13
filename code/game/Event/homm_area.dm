@@ -217,3 +217,9 @@
 		'sound/ambience/mavzoley.ogg',)
 	is_force_ambience = TRUE
 
+/area/custom/tabor
+	name = "Tabor"
+	ambience = list(
+		'sound/ambience/tabor.ogg',)
+	is_force_ambience = TRUE
+
