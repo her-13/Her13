@@ -468,6 +468,12 @@
 	if(H.species.name == HOMM_SKELETON || H.species.name == LICH ||H.species.name == HOMM_ZOMBIE || H.species.name == ZOMBIE_KNIGHT)
 		to_chat(H, "<span class='warning'>Это существо уже живой мертвец</span>")
 		return
+	if(H.species.name == VALERA)
+		to_chat(H, "<span class='warning'>Вы без понятия что это за существо и как с ним работать</span>")
+		return
+	if(H.species.name == LEPR)
+		to_chat(H, "<span class='warning'>ЧТОБЫ ОБРАТИТЬ ЛЕПРЕКОНА, ПОЖАЛУЙСТА ВНЕСИТЕ ЗАЛОГ В РАЗМЕРЕ 100 ЗОЛОТЫХ. МОНЕТЫ ПРИНИМАЮТСЯ У БЛИЖАЙШЕГО ДРЕВА МУДРОСТИ</span>")
+		return
 	if(H.stat == CONSCIOUS)
 		to_chat(user, "<span class='warning'><b>Зомбирование не удалось!</b></span> Сначала доведите состояние жертвы до критической отметки.")
 		return
@@ -477,6 +483,7 @@
 	H.set_species(HOMM_ZOMBIE)
 	H.AddComponent(/datum/component/bounded_lich, src, 0, 5)
 	to_chat(H, "<span class='warning'>Теперь ты живой мертвец.[user] твой мастер. Служи и выполняй все приказы мастера.</span>")
+	to_chat(H, "<span class='warning'>Помни, что ты теряешь свой запас сил, когда путешествуешь по не-мертвым землям , без сопровождения своего лича.</span>")
 
 /obj/item/lich_staff/vladimir
 	name = "Посох Владимира Лича"

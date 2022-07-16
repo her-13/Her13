@@ -261,6 +261,7 @@
 	arrive_sound = pick("sound/Event/undead_arrive.ogg","sound/Event/undead_arrive-1.ogg","sound/Event/undead_arrive-2.ogg")
 	myCoffin.icon_state = myCoffin.open_state
 	to_chat(user, "<span class='warning'>Теперь ты живой мертвец.[myMaster.name] твой мастер. Служи и выполняй все приказы мастера.</span>")
+	to_chat(user, "<span class='warning'>Помни, что ты теряешь свой запас сил, когда путешествуешь по не-мертвым землям , без сопровождения своего лича.</span>")
 	user.nutrition = 100 // Голодный , нужно бахнуть магии
 	user.AddComponent(/datum/component/bounded_lich, myCoffin.L, 0, 5)
 	var/new_name = sanitize(input(user, "Выберите имя.", "Создание персонажа") as null|text)
