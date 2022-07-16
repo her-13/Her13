@@ -498,3 +498,11 @@
 	desc = "Факел с зелёным пламенем."
 	icon_state = "necrtorch-holder1"
 	light_color = "#66ff61"
+
+/obj/structure/ahtung_chicken
+	name = "АХТУНГ! ЭФИРНЫЕ КУРЫ"
+	desc = "Не перекармилвайте их эссенцей, это взрывоопасно"
+	icon = 'icons/Events/structure/ahtung.dmi'
+	icon_state = "tablet"
+	anchored = TRUE
+	layer = 11
