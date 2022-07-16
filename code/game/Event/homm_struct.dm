@@ -374,6 +374,7 @@
 	icon = 'icons/obj/cult.dmi'
 	icon_state = "table2-idle"
 	can_buckle = TRUE
+	anchored = TRUE
 	buckle_lying = TRUE
 
 
