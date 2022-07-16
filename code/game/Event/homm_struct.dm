@@ -542,7 +542,7 @@ ADD_TO_GLOBAL_LIST(/obj/effect/portal/brougham, brougham_list)
 	if(dir == 8)
 		DoorDir = 4
 
-/obj/effect/portal/brougham/proc/getAlterDir(var/dir)
+/obj/effect/portal/brougham/proc/getAlterDir(dir)
 	if(dir == 1)
 		return 2
 	if(dir == 2)
