@@ -31,6 +31,7 @@
 		L.SetCrawling(!L.crawling)
 		L.update_canmove()
 		var/mob/living/simple_animal/wraith/W = new /mob/living/simple_animal/wraith(get_turf(usr))
+		W.AddSpell(/obj/effect/proc_holder/spell/aoe_turf/undead_escape)
 		W.MyBody = L
 		L.mind.transfer_to(W)
 
