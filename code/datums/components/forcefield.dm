@@ -41,6 +41,7 @@
 
 /obj/effect/effect/forcefield/eva
 	name = "AT field"
+	density = 1
 
 	icon_state = "at_shield2"
 

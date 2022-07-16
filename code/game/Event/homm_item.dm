@@ -612,6 +612,29 @@
 	item_state = "flag"
 	w_class = SIZE_NORMAL
 
+/obj/item/weapon/shield/knight
+	name = "Рыцарский Щит"
+	desc = "Комбинируйте с мечом и будет вам приличный шанс блока"
+	icon_custom = 'icons/Events/item/knight_shield.dmi'
+	icon = 'icons/Events/item/knight_shield.dmi'
+	righthand_file = 'icons/Events/item/knight_shield.dmi'
+	lefthand_file  = 'icons/Events/item/knight_shield.dmi'
+	icon_state = "erathiashield"
+	item_state = "erathiashield"
+	flags = CONDUCT
+	force = 10
+	throwforce = 5.0
+	throw_speed = 1
+	throw_range = 4
+	w_class = SIZE_NORMAL
+	slot_flags = SLOT_FLAGS_BACK
+	block_chance = 65
+	attack_verb = list("shoved", "bashed")
+
+/obj/item/weapon/shield/knight/Get_shield_chance()
+	return block_chance
+
+
 // КЛЮЧИ
 /obj/item/weapon/card/id/key
 	desc = "Ключик"

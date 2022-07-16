@@ -174,21 +174,23 @@
 	A = /area/custom/kazak_elder
 	name = "Старший Казак"
 	desc = ""
+	solo = TRUE
 
 /obj/effect/portal/hub/job_room/valera
 	A = /area/custom/valera
 	name = "Валера"
 	desc = ""
+	solo = TRUE
 
 /obj/effect/portal/hub/job_room/whitelist_room/w_archer
-	A = /area/custom/w_knight
+	A = /area/custom/w_archer
 	name = "Стража Табора"
 	desc = ""
 	room_to_check =/obj/effect/portal/hub/job_room/kazak
 	threshold = 3
 
 /obj/effect/portal/hub/job_room/whitelist_room/w_knight
-	A = /area/custom/w_archer
+	A = /area/custom/w_knight
 	name = "Стража Табора"
 	desc = ""
 	room_to_check =/obj/effect/portal/hub/job_room/whitelist_room/w_archer

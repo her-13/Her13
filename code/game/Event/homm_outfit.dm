@@ -99,6 +99,7 @@
 	gloves = /obj/item/clothing/gloves/combat
 	head = /obj/item/clothing/head/helmet/crusader
 	l_hand = /obj/item/weapon/claymore/religion
+	r_hand = /obj/item/weapon/shield/knight
 	l_pocket_back = /obj/item/weapon/paper/scroll/village_law
 	back = null
 	id = /obj/item/weapon/card/id/key/knight

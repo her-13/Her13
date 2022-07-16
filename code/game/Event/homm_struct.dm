@@ -489,7 +489,7 @@
 	possible_transfer_amounts = list(25,60,100)
 	amount_per_transfer_from_this = 25
 
-/obj/structure/reagent_dispensers/beer/atom_init()
+/obj/structure/reagent_dispensers/ale/atom_init()
 	. = ..()
 	reagents.add_reagent("ale",1000)
 
