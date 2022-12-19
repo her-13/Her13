@@ -49,6 +49,8 @@
 		/obj/item/weapon/kitchen/utensil/fork = 1000,
 		/obj/item/weapon/kitchen/utensil/spoon = 1000,
 		/obj/item/weapon/kitchenknife/butch = 1000,
+		/obj/item/weapon/storage/box/matches = 1000,
+		/obj/item/device/flashlight/flare/torch = 1000,
 		/obj/item/weapon/reagent_containers/food/condiment/peppermill = 1000,
 		/obj/item/weapon/reagent_containers/food/condiment/soysauce = 1000,
 		/obj/item/weapon/reagent_containers/food/condiment/sugar = 1000,
@@ -65,6 +67,8 @@
 	/obj/item/weapon/kitchen/utensil/fork = 5,
 	/obj/item/weapon/kitchen/utensil/spoon =  5,
 	/obj/item/weapon/kitchenknife/butch = 15,
+			/obj/item/weapon/storage/box/matches = 10,
+		/obj/item/device/flashlight/flare/torch = 10,
 	/obj/item/weapon/reagent_containers/food/condiment/peppermill = 5,
 	/obj/item/weapon/reagent_containers/food/condiment/soysauce = 5,
 	/obj/item/weapon/reagent_containers/food/condiment/sugar = 5,
@@ -337,12 +341,13 @@
 	density = TRUE
 	var/isSingleUse = 0
 	var/obj/structure/hell_spawner/coffin/typeOfCorpse = /obj/structure/hell_spawner/coffin
+	var/obj/item/lich_staff/L
 	var/tar
 	var/icon/open_state = "coffin_open"
 
 /obj/structure/coffin/attackby(obj/item/I, mob/user)
 	if(istype(I, /obj/item/lich_staff)&&!isSingleUse)
-		var/obj/item/lich_staff/L = I
+		L = I
 		if(L.owner == null)
 			to_chat(user, "<span class='warning'><b>Сначала привяжите посох к себе.</b></span>")
 			return
@@ -369,6 +374,7 @@
 	icon = 'icons/obj/cult.dmi'
 	icon_state = "table2-idle"
 	can_buckle = TRUE
+	anchored = TRUE
 	buckle_lying = TRUE
 
 
@@ -389,6 +395,7 @@
 				to_chat(user, "<span class='warning'>Это существо уже живой мертвец</span>")
 				return
 			H.set_species(HOMM_SKELETON)
+			H.AddComponent(/datum/component/bounded_lich, L, 0, 5)
 			for(var/obj/item/organ/external/BP in H.bodyparts) // Makes them stronger than common skeletons
 				BP.min_broken_damage += 15
 				BP.max_damage += 20
@@ -483,7 +490,7 @@
 	possible_transfer_amounts = list(25,60,100)
 	amount_per_transfer_from_this = 25
 
-/obj/structure/reagent_dispensers/beer/atom_init()
+/obj/structure/reagent_dispensers/ale/atom_init()
 	. = ..()
 	reagents.add_reagent("ale",1000)
 
@@ -492,3 +499,89 @@
 	desc = "Факел с зелёным пламенем."
 	icon_state = "necrtorch-holder1"
 	light_color = "#66ff61"
+
+/obj/structure/ahtung_chicken
+	name = "АХТУНГ! ЭФИРНЫЕ КУРЫ"
+	desc = "Не перекармилвайте их эссенцей, это взрывоопасно"
+	icon = 'icons/Events/structure/ahtung.dmi'
+	icon_state = "tablet"
+	anchored = TRUE
+	layer = 11
+
+var/global/list/brougham_list = list()
+
+ADD_TO_GLOBAL_LIST(/obj/effect/portal/brougham, brougham_list)
+
+/obj/effect/portal/brougham
+	name = "Карета"
+	desc = "Внутри нее целый мир"
+	icon = 'icons/Events/structure/carette.dmi'
+	icon_state = "carette"
+	opacity = FALSE
+	anchored = FALSE
+	density = 1
+	layer = 13
+	failchance = 0
+	var/DoorDir = 2 // изначально все стоит лицом вверх. Значит дверка сзади
+
+
+/obj/effect/portal/brougham/atom_init(mapload, turf/target, creator = null, lifespan = 0)
+	. = ..()
+
+/obj/effect/portal/brougham/Move(NewLoc, Dir = 0, step_x = 0, step_y = 0)
+	. = ..()
+
+	if(moving_diagonally)
+		return .
+
+	if(dir == 1)
+		DoorDir = 2
+	if(dir == 2)
+		DoorDir = 1
+	if(dir == 4)
+		DoorDir = 8
+	if(dir == 8)
+		DoorDir = 4
+
+/obj/effect/portal/brougham/proc/getAlterDir(dir)
+	if(dir == 1)
+		return 2
+	if(dir == 2)
+		return 1
+	if(dir == 4)
+		return 8
+	if(dir == 8)
+		return 4
+
+/obj/effect/portal/brougham/Bumped(mob/M)
+	for(var/obj/effect/portal/tabor/T in tabor_portal)
+		target = T
+
+	if(M.dir == getAlterDir(dir))
+		..()
+	else
+		return
+
+// 1 North
+// 2 South
+// 4 East
+// 8 West
+
+var/global/list/tabor_portal = list()
+
+ADD_TO_GLOBAL_LIST(/obj/effect/portal/tabor, tabor_portal)
+
+/obj/effect/portal/tabor
+	name = "На повехность"
+	icon = 'icons/obj/objects.dmi'
+	icon_state = "bluespace_wormhole_enter"
+	failchance = 0
+
+
+/obj/effect/portal/tabor/atom_init(mapload, turf/target, creator = null, lifespan = 0)
+	. = ..()
+
+/obj/effect/portal/tabor/Bumped()
+	for(var/obj/effect/portal/brougham/B in brougham_list)
+		target = B
+	..()

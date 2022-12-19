@@ -82,6 +82,58 @@
 	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS|HEAD
 	armor = list(melee = 50, bullet = 50, laser = 50,energy = 50, bomb = 50, bio = 50, rad = 50)
 
+/obj/item/clothing/under/farseer
+	name = "Одеяние Провидца"
+	desc = "Далеко видит"
+	icon_custom = 'icons/Events/clothes/farseer.dmi'
+	icon = 'icons/Events/clothes/farseer.dmi'
+	icon_state = "fortune"
+
+/obj/item/clothing/under/farseer_fem
+	name = "Одеяние Провидца"
+	desc = "Далеко видит"
+	icon_custom = 'icons/Events/clothes/farseer-fem.dmi'
+	icon = 'icons/Events/clothes/farseer.dmi'
+	icon_state = "fortune"
+
+/obj/item/clothing/under/bard
+	name = "Одеяние Барда"
+	desc = "Лютик ,блядь"
+	icon_custom = 'icons/Events/clothes/bard.dmi'
+	icon = 'icons/Events/clothes/bard.dmi'
+	icon_state = "bard"
+
+/obj/item/clothing/under/gigachad
+	name = "Одеяние Казака"
+	desc = "Так должен одеваться настоящий мужчина"
+	icon_custom = 'icons/Events/clothes/gigachad.dmi'
+	icon = 'icons/Events/clothes/gigachad.dmi'
+	icon_state = "cossac"
+
+/obj/item/clothing/under/forest_archer
+	name = "Одеяние Лесника"
+	desc = "В этой одежде появляется острое желание грабить богатых."
+	icon_custom = 'icons/Events/clothes/forest-archer.dmi'
+	icon = 'icons/Events/clothes/forest-archer.dmi'
+	icon_state = "robhood"
+
+/obj/item/clothing/under/telnajka
+	name = "тельняшка"
+	desc = ""
+	icon_custom = 'icons/Events/clothes/telnyajka.dmi'
+	icon = 'icons/Events/clothes/telnyajka.dmi'
+	icon_state = "woodunder"
+
+/obj/item/clothing/under/valera
+	name = "Штаны Чудища"
+	desc = ""
+	icon_custom = 'icons/Events/clothes/valera.dmi'
+	icon = 'icons/Events/clothes/valera.dmi'
+	icon_state = "trollpants"
+	body_parts_covered = UPPER_TORSO|LOWER_TORSO|ARMS|LEGS|HEAD
+	armor = list(melee = 20, bullet = 20, laser = 20,energy = 20, bomb = 20, bio = 20, rad = 20)
+
+
 // СУИТЫ
 
 /obj/item/clothing/suit/monk_helper
@@ -90,6 +142,13 @@
 	icon_custom = 'icons/Events/clothes/suit/helper.dmi'
 	icon = 'icons/Events/clothes/suit/helper.dmi'
 	icon_state = "monk_helper"
+
+/obj/item/clothing/suit/gigachad
+	name = "Красная куртка"
+	desc = "Где купил?"
+	icon_custom = 'icons/Events/clothes/suit/gigachad.dmi'
+	icon = 'icons/Events/clothes/suit/gigachad.dmi'
+	icon_state = "cossac"
 
 /obj/item/clothing/suit/headman
 	name = "Пальто Старосты"
@@ -143,6 +202,21 @@
 	armor = list(melee = 50, bullet = 30, laser = 20, energy = 20, bomb = 25, bio = 0, rad = 10)
 	siemens_coefficient = 1.2
 
+/obj/item/clothing/suit/armor/knight/lord
+	name = "Доспехи Лорда"
+	desc = ""
+	icon_custom = 'icons/Events/clothes/suit/lord.dmi'
+	icon = 'icons/Events/clothes/suit/lord.dmi'
+	icon_state = "lordarmor"
+	armor = list(melee = 60, bullet = 30, laser = 30, energy = 20, bomb = 25, bio = 0, rad = 10)
+
+/obj/item/clothing/suit/armor/knight/wooden_knight
+	name = "Лесные Доспехи"
+	desc = ""
+	icon_custom = 'icons/Events/clothes/suit/wooden_knight.dmi'
+	icon = 'icons/Events/clothes/suit/wooden_knight.dmi'
+	icon_state = "woodarmor"
+
 /obj/item/clothing/suit/armor/death_knight
 	name = "Черные доспехи"
 	desc = "Совсем не отражает свет"
@@ -184,6 +258,42 @@
 	icon_custom = 'icons/Events/clothes/hats/inn.dmi'
 	icon = 'icons/Events/clothes/hats/inn.dmi'
 	icon_state = "inn_hat"
+
+/obj/item/clothing/head/tiara
+	name = "Венец"
+	desc = "На самом деле он не золотой. Просто покрашен"
+	icon_custom = 'icons/Events/clothes/hats/tiara.dmi'
+	icon = 'icons/Events/clothes/hats/tiara.dmi'
+	icon_state = "tiara"
+
+/obj/item/clothing/head/turban
+	name = "Тюрбан"
+	desc = "Выглядит экзотично. Так проще наебывать"
+	icon_custom = 'icons/Events/clothes/hats/turban.dmi'
+	icon = 'icons/Events/clothes/hats/turban.dmi'
+	icon_state = "turban"
+	flags = HEADCOVERSEYES | BLOCKHAIR
+
+/obj/item/clothing/head/bard
+	name = "Шляпа Барда"
+	desc = "С модным пером"
+	icon_custom = 'icons/Events/clothes/hats/bard.dmi'
+	icon = 'icons/Events/clothes/hats/bard.dmi'
+	icon_state = "bardberet"
+
+/obj/item/clothing/head/papaha
+	name = "Папаха"
+	desc = "В ней нихуя не видно"
+	icon_custom = 'icons/Events/clothes/hats/papaha.dmi'
+	icon = 'icons/Events/clothes/hats/papaha.dmi'
+	icon_state = "papaha"
+
+/obj/item/clothing/head/pilotka
+	name = "Пилотка"
+	desc = "Не забывайте ее регулярно мыть"
+	icon_custom = 'icons/Events/clothes/hats/pilotka.dmi'
+	icon = 'icons/Events/clothes/hats/pilotka.dmi'
+	icon_state = "pilotka"
 
 /obj/item/clothing/head/lich
 	name = "Корона Лича"
@@ -235,15 +345,26 @@
 	flags_inv = HIDEEARS
 	siemens_coefficient = 0.3
 
+/obj/item/clothing/head/helmet/wooden_knight
+	name = "Лесной шлем"
+	desc = ""
+	icon_custom = 'icons/Events/clothes/hats/wooden_knight.dmi'
+	icon = 'icons/Events/clothes/hats/wooden_knight.dmi'
+	icon_state = "woodhelm"
+	item_state = "woodhelm"
+	flags = HEADCOVERSEYES | BLOCKHAIR
+	armor = list(melee = 50, bullet = 30, laser = 20, energy = 20, bomb = 20, bio = 0, rad = 10)
+	flags_inv = HIDEEARS
+	siemens_coefficient = 0.3
 
 /obj/item/clothing/head/helmet/lord
-	name = "Корона"
+	name = "Шлем Лорда"
 	desc = "Кто тут главный?"
-	icon_custom = 'icons/Events/clothes/hats/lord.dmi'
-	icon = 'icons/Events/clothes/hats/lord.dmi'
-	icon_state = "lord_hat"
-	item_state = "lord_hat"
-	flags = HEADCOVERSEYES
+	icon_custom = 'icons/Events/clothes/hats/lord-helmet.dmi'
+	icon = 'icons/Events/clothes/hats/lord-helmet.dmi'
+	icon_state = "lordhelm"
+	item_state = "lordhelm"
+	flags = HEADCOVERSEYES | BLOCKHAIR
 	armor = list(melee = 50, bullet = 50, laser = 50,energy = 50, bomb = 50, bio = 50, rad = 50)
 	flags_inv = HIDEEARS
 	siemens_coefficient = 0.3
@@ -275,6 +396,34 @@
 	icon = 'icons/Events/clothes/shoes/skeleton_war.dmi'
 	icon_state = "boots"
 
+/obj/item/clothing/shoes/golden_sandal
+	name = "Золотые сандали"
+	desc = "Нужно больше золота"
+	icon_custom = 'icons/Events/clothes/shoes/golden_sandal.dmi'
+	icon = 'icons/Events/clothes/shoes/golden_sandal.dmi'
+	icon_state = "goldsandals"
+
+/obj/item/clothing/shoes/gigachad
+	name = "Ботинки Казака"
+	desc = "But the kazachok he danced really wunderbar"
+	icon_custom = 'icons/Events/clothes/shoes/gigachad.dmi'
+	icon = 'icons/Events/clothes/shoes/gigachad.dmi'
+	icon_state = "fortuneboots"
+
+/obj/item/clothing/shoes/bard
+	name = "Ботинки Барда"
+	desc = ""
+	icon_custom = 'icons/Events/clothes/shoes/bard.dmi'
+	icon = 'icons/Events/clothes/shoes/bard.dmi'
+	icon_state = "bardboots"
+
+/obj/item/clothing/shoes/valera
+	name = "Башмаки Чудища"
+	desc = ""
+	icon_custom = 'icons/Events/clothes/shoes/valera.dmi'
+	icon = 'icons/Events/clothes/shoes/valera.dmi'
+	icon_state = "trollmakasin"
+
 
 //МАСКИ
 /obj/item/clothing/mask/milita
@@ -283,13 +432,6 @@
 	icon_custom = 'icons/Events/clothes/mask/milita.dmi'
 	icon = 'icons/Events/clothes/mask/milita.dmi'
 	icon_state = "milita"
-
-/obj/item/clothing/mask/lord
-	name = "Плащ Лорда"
-	desc = "Символ вашего статуса"
-	icon_custom = 'icons/Events/clothes/mask/lord.dmi'
-	icon = 'icons/Events/clothes/mask/lord.dmi'
-	icon_state = "lord"
 
 //Инструмены и все похожее
 
@@ -326,6 +468,12 @@
 	if(H.species.name == HOMM_SKELETON || H.species.name == LICH ||H.species.name == HOMM_ZOMBIE || H.species.name == ZOMBIE_KNIGHT)
 		to_chat(H, "<span class='warning'>Это существо уже живой мертвец</span>")
 		return
+	if(H.species.name == VALERA)
+		to_chat(H, "<span class='warning'>Вы без понятия что это за существо и как с ним работать</span>")
+		return
+	if(H.species.name == LEPR)
+		to_chat(H, "<span class='warning'>ЧТОБЫ ОБРАТИТЬ ЛЕПРЕКОНА, ПОЖАЛУЙСТА ВНЕСИТЕ ЗАЛОГ В РАЗМЕРЕ 100 ЗОЛОТЫХ. МОНЕТЫ ПРИНИМАЮТСЯ У БЛИЖАЙШЕГО ДРЕВА МУДРОСТИ</span>")
+		return
 	if(H.stat == CONSCIOUS)
 		to_chat(user, "<span class='warning'><b>Зомбирование не удалось!</b></span> Сначала доведите состояние жертвы до критической отметки.")
 		return
@@ -333,7 +481,9 @@
 		to_chat(user, "<span class='warning'><b>Зомбирование не удалось!</b></span> В этой оболочке нет души.")
 		return
 	H.set_species(HOMM_ZOMBIE)
+	H.AddComponent(/datum/component/bounded_lich, src, 0, 5)
 	to_chat(H, "<span class='warning'>Теперь ты живой мертвец.[user] твой мастер. Служи и выполняй все приказы мастера.</span>")
+	to_chat(H, "<span class='warning'>Помни, что ты теряешь свой запас сил, когда путешествуешь по не-мертвым землям , без сопровождения своего лича.</span>")
 
 /obj/item/lich_staff/vladimir
 	name = "Посох Владимира Лича"
@@ -459,6 +609,39 @@
 		return
 	icon_state = "paper"
 
+
+/obj/item/flag
+	name = "Флаг"
+	desc = "Флаг цвета вашей фракции"
+	force = 40
+	icon = 'icons/obj/weapons.dmi'
+	icon_state = "flag"
+	item_state = "flag"
+	w_class = SIZE_NORMAL
+
+/obj/item/weapon/shield/knight
+	name = "Рыцарский Щит"
+	desc = "Комбинируйте с мечом и будет вам приличный шанс блока"
+	icon_custom = 'icons/Events/item/knight_shield.dmi'
+	icon = 'icons/Events/item/knight_shield.dmi'
+	righthand_file = 'icons/Events/item/knight_shield.dmi'
+	lefthand_file  = 'icons/Events/item/knight_shield.dmi'
+	icon_state = "erathiashield"
+	item_state = "erathiashield"
+	flags = CONDUCT
+	force = 10
+	throwforce = 5.0
+	throw_speed = 1
+	throw_range = 4
+	w_class = SIZE_NORMAL
+	slot_flags = SLOT_FLAGS_BACK
+	block_chance = 65
+	attack_verb = list("shoved", "bashed")
+
+/obj/item/weapon/shield/knight/Get_shield_chance()
+	return block_chance
+
+
 // КЛЮЧИ
 /obj/item/weapon/card/id/key
 	desc = "Ключик"
@@ -515,3 +698,15 @@
 	else
 		registered_name = "Ключик"
 	name = "[name] [registered_name]"
+
+//Еда и все что можно сьесть
+
+/obj/item/weapon/reagent_containers/food/snacks/magic
+	name = "Магическая эссенция"
+	desc = "Не лизать"
+	icon = 'icons/Events/item/orb.dmi'
+	icon_state = "orb-corrupted"
+	w_class = SIZE_SMALL
+	filling_color = "#e3d796"
+	bitesize = 5
+	list_reagents = list("magic" = 10)

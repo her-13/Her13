@@ -30,6 +30,7 @@
 	target = pick(possible_tile)
 	user.loc = target
 	user.set_species(homm_species)
+	user.revive() // На всякий случай
 	selecting_job = FALSE
 	if(arrive_sound)
 		playsound(user,arrive_sound, VOL_EFFECTS_MASTER)
@@ -41,7 +42,7 @@
 	anchored = TRUE
 	icon = 'icons/turf/areas.dmi'
 	icon_state = "start"
-	layer = 12
+	layer = 13
 	var/outfit = null
 	var/ready = null
 	var/target
@@ -64,6 +65,7 @@
 	user.equipOutfit(outfit)
 	user.loc = target
 	user.set_species(homm_species)
+	user.revive() // навсякий случай
 	selecting_job = FALSE
 	qdel(src) //одноразовые
 	if(arrive_sound)
@@ -167,14 +169,56 @@
 		return
 	user.mutations.Add(SMALLSIZE)
 	user.regenerate_icons()
-	user.AddSpell(new /obj/effect/proc_holder/spell/aoe_turf/lepr_escape)
-	user.AddSpell(new /obj/effect/proc_holder/spell/targeted/lepr_hivemind)
 	user.see_invisible = 34 // so he can see the tree of greed
 	user.homm_species = "lepr"
 	cameranet.cameras += user
 	cameranet.addCamera(user)
 	cameranet.updateVisibility(user, 0)
 
+/obj/structure/character_spawner/kazak
+	outfit = /datum/outfit/job/hub/kazak
+	A =/area/custom/start_homm/kazak
+
+/obj/structure/character_spawner/kazak_elder
+	outfit = /datum/outfit/job/hub/kazak_elder
+	A =/area/custom/start_homm/kazak_elder
+
+/obj/structure/character_spawner/forest_archer
+	outfit = /datum/outfit/job/hub/forest_archer
+	A =/area/custom/start_homm/w_archer
+
+/obj/structure/character_spawner/forest_knight
+	outfit = /datum/outfit/job/hub/forest_knight
+	A =/area/custom/start_homm/w_knight
+
+/obj/structure/character_spawner/bard
+	outfit = /datum/outfit/job/hub/bard
+	A =/area/custom/start_homm/bard
+
+/obj/structure/character_spawner/farseer
+	outfit = /datum/outfit/job/hub/farseer
+	A =/area/custom/start_homm/farseer
+
+/obj/structure/character_spawner/valera
+	outfit = /datum/outfit/job/hub/valera
+	A =/area/custom/start_homm/valera
+	homm_species = VALERA
+
+/obj/structure/character_spawner/valera/attack_hand(mob/living/carbon/human/user)
+	..()
+	if(ready == "Нет")
+		selecting_job = FALSE
+		return
+	if(user.f_style)
+		user.f_style = "Shaved"
+	if(user.h_style)
+		user.h_style = "Bald"
+	user.height = HUMANHEIGHT_MEDIUM
+	user.real_name = "Валера"
+	user.name = "Валера"
+	user.update_hair()
+	user.update_body()
+	user.regenerate_icons()
 
 
 /obj/structure/character_spawner/tree_of_greed
@@ -210,14 +254,16 @@
 	var/mob/myMaster
 
 /obj/structure/hell_spawner/coffin/attack_hand(mob/living/carbon/human/user)
-	arrive_sound = pick("sound/Event/undead_arrive.ogg","sound/Event/undead_arrive-1.ogg","sound/Event/undead_arrive-2.ogg")
 	..()
 	if(ready == "Нет")
 		selecting_job = FALSE
 		return
+	arrive_sound = pick("sound/Event/undead_arrive.ogg","sound/Event/undead_arrive-1.ogg","sound/Event/undead_arrive-2.ogg")
 	myCoffin.icon_state = myCoffin.open_state
 	to_chat(user, "<span class='warning'>Теперь ты живой мертвец.[myMaster.name] твой мастер. Служи и выполняй все приказы мастера.</span>")
-
+	to_chat(user, "<span class='warning'>Помни, что ты теряешь свой запас сил, когда путешествуешь по не-мертвым землям , без сопровождения своего лича.</span>")
+	user.nutrition = 100 // Голодный , нужно бахнуть магии
+	user.AddComponent(/datum/component/bounded_lich, myCoffin.L, 0, 5)
 	var/new_name = sanitize(input(user, "Выберите имя.", "Создание персонажа") as null|text)
 	if(new_name)
 		user.real_name = new_name
@@ -273,6 +319,10 @@
 /obj/structure/character_spawner/death_knight/attack_hand(mob/living/carbon/human/user)
 	arrive_sound = pick("sound/Event/dk.ogg","sound/Event/dk-1.ogg","sound/Event/dk-2.ogg")
 	..()
+	if(ready == "Нет")
+		selecting_job = FALSE
+		return
+	new/obj/vehicle/space/spacebike/horse/undead(user.loc)
 
 /obj/structure/character_spawner/NecroHeroSpawner
 	outfit = /datum/outfit/job/hub/arc_lich

@@ -203,3 +203,69 @@
 	..()
 	qdel(src)
 
+/mob/living/simple_animal/efir_chicken
+	name = "Эфирная курица"
+	desc = "Эта курица находится в суперпозиции. И мертва и жива."
+	icon = 'icons/Events/mob/efir_chicken.dmi'
+	icon_state = "chicken"
+	icon_living = "chicken"
+	icon_dead = "chicken_dead"
+	icon_move = "chicken_move"
+	speak = list("Ко?")
+	speak_emote = list("clucks","croons")
+	light_color = "#53f58e"
+	light_power = 2
+	light_range = 2
+	speak_chance = 2
+	turns_per_move = 3
+	butcher_results = list(/obj/item/weapon/reagent_containers/food/snacks/magic = 3)
+	health = 20
+	var/body_color
+	var/magicIn = 0
+	pass_flags = PASSTABLE
+	w_class = SIZE_MINUSCULE
+
+	has_head = TRUE
+	has_leg = TRUE
+
+/mob/living/simple_animal/efir_chicken/atom_init()
+	. = ..()
+	if(!body_color)
+		body_color = pick(list("brown", "black", "white"))
+	icon_state = "chicken_[body_color]"
+	icon_living = "chicken_[body_color]"
+	icon_dead = "chicken_[body_color]_dead"
+	icon_move = "chicken_[body_color]_move"
+	pixel_x = rand(-6, 6)
+	pixel_y = rand(0, 10)
+
+/mob/living/simple_animal/efir_chicken/attackby(obj/item/O, mob/user)
+	if(istype(O, /obj/item/weapon/reagent_containers/food/snacks/magic))
+		user.SetNextMove(CLICK_CD_INTERACT)
+		if(stat!= DEAD && magicIn < 8)
+			user.visible_message("<span class='notice'>[name] впитывает эссенцию</span>")
+			playsound(src, 'sound/Event/efir_multi.ogg', VOL_EFFECTS_MASTER)
+			qdel(O)
+			magicIn += rand(1, 4)
+		else
+			death(1)
+			qdel(O)
+	else
+		..()
+
+/mob/living/simple_animal/efir_chicken/Life()
+	. =..()
+	if(!.)
+		return
+	if(!stat && prob(3) && magicIn > 0)
+		visible_message("[src] [pick("lays an egg.","squats down and croons.","begins making a huge racket.","begins clucking raucously.")]")
+		magicIn--
+		var/obj/item/weapon/reagent_containers/food/snacks/magic/M = new(get_turf(src))
+		M.pixel_x = rand(-6,6)
+		M.pixel_y = rand(-6,6)
+
+/mob/living/simple_animal/efir_chicken/death()
+	..()
+	playsound(src, 'sound/Event/efir_multi.ogg', VOL_EFFECTS_MASTER)
+	explosion(src, 2, 2, 2, 2)
+

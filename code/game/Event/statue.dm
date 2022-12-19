@@ -47,6 +47,49 @@
 	name = "Лепрекон"
 	icon_state = "lepr"
 
+/obj/structure/statue/w_knight
+	name = "Страж Табора"
+	icon_state = "w_knight"
+
+/obj/structure/statue/w_archer
+	name = "Лесничий Табора"
+	icon_state = "w_archer"
+
+/obj/structure/statue/kazak_elder
+	name = "Старшина Казаков"
+	icon_state = "kazak_elder"
+
+/obj/structure/statue/kazak_1
+	name = "Казак"
+	icon_state = "kazak-1"
+
+/obj/structure/statue/kazak_2
+	name = "Казак"
+	icon_state = "kazak-2"
+
+/obj/structure/statue/kazak_3
+	name = "Казак"
+	icon_state = "kazak-3"
+
+/obj/structure/statue/farseer_m
+	name = "Видящий"
+	icon_state = "farseer-m"
+
+/obj/structure/statue/farseer_f
+	name = "Видящая"
+	icon_state = "farseer-f"
+
+/obj/structure/statue/bard
+	name = "Бард"
+	icon_state = "bard"
+
+/obj/structure/statue/valera
+	name = "Валера"
+	icon = 'icons/Events/structure/statue_valera.dmi'
+	icon_state = "iaminsideyourwalls"
+
+
+
 // НЕКРОПОЛИС
 
 /obj/structure/statue/skeleton

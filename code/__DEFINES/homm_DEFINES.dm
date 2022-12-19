@@ -7,6 +7,10 @@
 #define LICH           "Lich"
 #define ZOMBIE_KNIGHT  "Zombie Knight"
 #define ANGEL          "Angel"
+#define VALERA          "Valera"
 
 //ЕВЕНТ
 #define EVENT_LEVEL_HOMM 5
+
+//Диета
+#define DIET_MAGIC		8 // Для всякой магической шалупони

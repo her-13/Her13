@@ -25,6 +25,8 @@
 			M.reagents.add_reagent("plantmatter", to_add)
 		else if(diet_flags & DIET_DAIRY)
 			M.reagents.add_reagent("dairy", to_add)
+		else if(diet_flags & DIET_MAGIC)
+			M.reagents.add_reagent("magic", to_add)
 		last_volume = volume
 	return TRUE
 
@@ -77,6 +79,49 @@
 	diet_flags = DIET_DAIRY
 	taste_message = "dairy"
 
+
+//<her13-add>
+/datum/reagent/nutriment/magic
+	name = "Магическая Эссенция"
+	id = "magic"
+	description = "Магическая заправка"
+	reagent_state = LIQUID
+	nutriment_factor = 8
+	color = "#0088ad"
+	taste_message = "??"
+	diet_flags = DIET_MAGIC
+
+/datum/reagent/nutriment/magic/on_general_digest(mob/living/M)
+	var/mob/living/carbon/human/H
+	if(ishuman(M))
+		H = M
+	else
+		return ..()
+	if(H.species.name in live_species)
+		to_chat(H, "<span class='notice bold'>Ты зачем это сожрал?</span>")
+		//Придумать больше проклятий от пожирания магии людьми
+		var/type_of_cursed = rand(0,2)
+		switch(type_of_cursed)
+			if(0)
+				if(isliving(H))
+					H.MyTrueNotChikenBody = H
+					var/mob/living/simple_animal/chicken/C = new/mob/living/simple_animal/chicken(H.loc)
+					if(H.mind)
+						H.mind.transfer_to(C)
+						C.MyTrueNotChikenBody = H.MyTrueNotChikenBody
+						playsound(H, 'sound/Event/cursed.ogg', VOL_EFFECTS_MASTER)
+						H.loc = null
+			if(1)
+				playsound(H, 'sound/Event/lepr_escape.ogg', VOL_EFFECTS_MASTER)
+				var/datum/effect/effect/system/smoke_spread/smoke = new /datum/effect/effect/system/smoke_spread()
+				smoke.set_up(5, 0, H.loc)
+				smoke.attach(H.loc)
+				smoke.start()
+			if(2)
+				H.reagents.add_reagent("thermopsis", 30)
+	..()
+
+//</her13-add>
 /datum/reagent/consumable/sprinkles
 	name = "Sprinkles"
 	id = "sprinkles"

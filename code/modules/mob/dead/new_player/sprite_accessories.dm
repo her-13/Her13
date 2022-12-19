@@ -30,7 +30,7 @@
 	//</her13-del>
 	// Restrict some styles to specific species
 	//<her13-addition>
-	var/list/species_allowed = list(HUMAN,PODMAN,HUBMAN)
+	var/list/species_allowed = list(HUMAN,HUBMAN,ANGEL)
 	//<her13-addition>
 
 	// Whether or not the accessory can be affected by colouration
@@ -52,7 +52,7 @@
 /datum/sprite_accessory/hair/bald
 	name = "Bald"
 	icon_state = "bald"
-	species_allowed = list(HUMAN, UNATHI, DIONA, PODMAN, HUBMAN)
+	species_allowed = list(HUMAN, UNATHI, DIONA, HUBMAN,ANGEL)
 
 /datum/sprite_accessory/hair/short
 	name = "Short Hair"	  // try to capatilize the names please~
@@ -868,7 +868,7 @@
 	name = "Shaved"
 	icon_state = "bald"
 	gender = NEUTER
-	species_allowed = list(HUMAN, UNATHI, TAJARAN, SKRELL, VOX, IPC, DIONA, PODMAN, HUBMAN)
+	species_allowed = list(HUMAN, UNATHI, TAJARAN, SKRELL, VOX, IPC, DIONA, HUBMAN,ANGEL)
 
 /datum/sprite_accessory/facial_hair/watson
 	name = "Watson Mustache"

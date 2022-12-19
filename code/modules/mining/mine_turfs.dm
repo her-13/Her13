@@ -511,6 +511,9 @@
 	can_deconstruct = FALSE
 	name = "Глина"
 	airless = FALSE
+	light_color = "#ffd350"
+	light_power = 2
+	light_range = 2
 
 /turf/simulated/floor/plating/airless/asteroid/cave
 	var/length = 20

@@ -187,6 +187,11 @@
 /datum/reagent/proc/on_skeleton_digest(mob/living/M)
 	return FALSE
 
+//<her13-add>
+/datum/reagent/proc/on_undead_digest(mob/living/M)
+	return TRUE
+//</her13-add>
+
 /datum/reagent/proc/on_shadowling_digest(mob/living/M)
 	return TRUE
 

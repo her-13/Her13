@@ -292,7 +292,7 @@
 		speech_sound = sound('sound/voice/shriek1.ogg')
 		sound_vol = 50
 	//<her13-add>
-	else if(species.name == HUMAN || species.name == HUBMAN ||species.name == LEPR)
+	else if(species.name == HUMAN || species.name == HUBMAN ||species.name == LEPR || species.name == ANGEL)
 		if(gender == FEMALE)
 			speech_sound = sound('sound/Event/fem.ogg')
 		else

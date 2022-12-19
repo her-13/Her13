@@ -112,10 +112,59 @@
 	name = "Leprecon_Hub"
 	icon_state = "green"
 
+/area/custom/farseer
+	name = "Farseer_Hub"
+	icon_state = "green"
+
+/area/custom/bard
+	name = "Bard_Hub"
+	icon_state = "green"
+
+/area/custom/kazak
+	name = "Kazak_Hub"
+	icon_state = "green"
+
+/area/custom/kazak_elder
+	name = "Kazak_elder_Hub"
+	icon_state = "green"
+
+/area/custom/w_knight
+	name = "Wooden_Knight_Hub"
+	icon_state = "green"
+
+/area/custom/w_archer
+	name = "Wooden_Archer_Hub"
+	icon_state = "green"
+
+/area/custom/valera
+	name = "Valera_Hub"
+	icon_state = "green"
+
 //НЕЙТРАЛЫ СТАРТОВЫЕ ЗОНЫ
 
 /area/custom/start_homm/lepr
 	name = "LepreconStart"
+
+/area/custom/start_homm/farseer
+	name = "FarseerStart"
+
+/area/custom/start_homm/bard
+	name = "BardStart"
+
+/area/custom/start_homm/kazak
+	name = "KazakStart"
+
+/area/custom/start_homm/kazak_elder
+	name = "Kazak_elderStart"
+
+/area/custom/start_homm/w_knight
+	name = "Wooden_KnightStart"
+
+/area/custom/start_homm/w_archer
+	name = "Wooden_ArcherStart"
+
+/area/custom/start_homm/valera
+	name = "ValeraStart"
 
 // Я незнаю куда это еще пихнуть
 
@@ -166,5 +215,11 @@
 	name = "Mavzol"
 	ambience = list(
 		'sound/ambience/mavzoley.ogg',)
+	is_force_ambience = TRUE
+
+/area/custom/tabor
+	name = "Tabor"
+	ambience = list(
+		'sound/ambience/tabor.ogg',)
 	is_force_ambience = TRUE
 

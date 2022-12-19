@@ -77,6 +77,7 @@
 		var/list/turf/possible_tile = get_area_turfs(/area/custom/valhalla)
 		var/target = pick(possible_tile)
 		var/mob/living/carbon/human/deadman = new /mob/living/carbon/human/skeleton/valhalla(target)
+		ClearSpells()
 		mind.transfer_to(deadman)
 		deadman.equipOutfit(/datum/outfit/job/deadman)
 //<her13-addition>

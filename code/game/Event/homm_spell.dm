@@ -25,18 +25,21 @@
 	action_icon_state = "spell_default"
 
 /obj/effect/proc_holder/spell/aoe_turf/undead_escape/cast(mob/user = usr)
-	var/mob/living/H = usr
-	if(!H.MyBody)
+	var/mob/living/L = usr
+	if(!L.MyBody)
 		playsound(usr, 'sound/Event/wraith_leave.ogg', VOL_EFFECTS_MASTER)
+		L.SetCrawling(!L.crawling)
+		L.update_canmove()
 		var/mob/living/simple_animal/wraith/W = new /mob/living/simple_animal/wraith(get_turf(usr))
-		W.MyBody = H
-		H.mind.transfer_to(W)
+		W.AddSpell(/obj/effect/proc_holder/spell/aoe_turf/undead_escape)
+		W.MyBody = L
+		L.mind.transfer_to(W)
 
-	if(H.MyBody)
+	if(L.MyBody)
 		var/turf/T = get_turf(usr)
-		if(H.MyBody in T.contents)
-			H.mind.transfer_to(H.MyBody)
-			H.MyBody = null
+		if(L.MyBody in T.contents)
+			L.mind.transfer_to(L.MyBody)
+			L.MyBody = null
 			qdel(usr)
 
 		else
