@@ -211,6 +211,8 @@
 	clawfootstep = FOOTSTEP_WATER_DEEP
 	heavyfootstep = FOOTSTEP_WATER_DEEP
 	slowdown = 6
+	dynamic_lighting = DYNAMIC_LIGHTING_FORCED
+	force_lighting_update = TRUE
 
 
 
@@ -296,11 +298,12 @@
 	floor_type = /obj/item/stack/tile/grass
 	can_deconstruct = FALSE
 	explosion_resistance = 111
-
 	footstep = FOOTSTEP_GRASS
 	barefootstep = FOOTSTEP_GRASS
 	clawfootstep = FOOTSTEP_GRASS
 	can_deconstruct = FALSE
+	dynamic_lighting = DYNAMIC_LIGHTING_FORCED
+	force_lighting_update = TRUE
 
 /turf/simulated/floor/grass/atom_init()
 	icon_state = "grass[pick("1","2","3","4")]"
@@ -323,6 +326,9 @@
 	light_color = "#ffd350"
 	light_power = 2
 	light_range = 2
+	dynamic_lighting = DYNAMIC_LIGHTING_FORCED
+	force_lighting_update = TRUE
+
 
 /turf/simulated/floor/stone
 	name = "Плитка"
@@ -333,6 +339,8 @@
 	light_color = "#ffbf00"
 	light_power = 2
 	light_range = 2
+	dynamic_lighting = DYNAMIC_LIGHTING_FORCED
+	force_lighting_update = TRUE
 
 /turf/simulated/floor/necrgrass
 	name = "Трава"
@@ -348,6 +356,8 @@
 	barefootstep = FOOTSTEP_GRASS
 	clawfootstep = FOOTSTEP_GRASS
 	can_deconstruct = FALSE
+	dynamic_lighting = DYNAMIC_LIGHTING_FORCED
+	force_lighting_update = TRUE
 
 /turf/simulated/floor/necrgrass/atom_init()
 	icon_state = "necrgrass[pick("1","2","3","4")]"

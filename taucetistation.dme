@@ -442,6 +442,7 @@
 #include "code\game\Event\battle_area.dm"
 #include "code\game\Event\CharacterSpawner.dm"
 #include "code\game\Event\chickenCurseLifring.dm"
+#include "code\game\Event\day_night_subsystem.dm"
 #include "code\game\Event\dragon.dm"
 #include "code\game\Event\homm_area.dm"
 #include "code\game\Event\homm_bodyparts.dm"
